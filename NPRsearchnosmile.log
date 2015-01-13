@@ -1,0 +1,810 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nprml version="0.94">
+  <list>
+    <title><![CDATA[NPR: Stories from NPR]]></title>
+    <teaser><![CDATA[Assorted stories from NPR]]></teaser>
+    <miniTeaser><![CDATA[Custom NPR News Feed API.  Visit http://www.npr.org/templates/apidoc/index.php for more information.]]></miniTeaser>
+    <link type="api">http://api.npr.org/query?searchTerm=%22no%20smile%22&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+    <story id="125093455">
+      <link type="html">http://www.npr.org/templates/story/story.php?storyId=125093455&amp;ft=3&amp;f=</link>
+      <link type="api">http://api.npr.org/query?id=125093455&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+      <title><![CDATA['Greenberg:' A One-Note Sonata That Doesn't Connect]]></title>
+      <transcript>
+        <link type="api">http://api.npr.org/transcript?id=125093455&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+      </transcript>
+      <audio id="125218201" type="primary">
+        <title/>
+        <duration>336</duration>
+        <description/>
+        <format>
+          <mp3 type="m3u">http://api.npr.org/m3u/1125218201-0fa16a.m3u?orgId=1&amp;topicId=1045&amp;aggIds=4467349&amp;ft=3&amp;f=</mp3>
+          <wm>http://www.npr.org/templates/dmg/dmg_wmref_em.php?id=125218201&amp;type=1&amp;mtype=WM&amp;orgId=1&amp;topicId=1045&amp;aggIds=4467349&amp;ft=3&amp;f=</wm>
+          <rm>http://www.npr.org/templates/dmg/dmg_rpm.rpm?id=125218201&amp;type=1&amp;mtype=RM&amp;orgId=1&amp;topicId=1045&amp;aggIds=4467349&amp;ft=3&amp;f=</rm>
+        </format>
+        <rightsHolder/>
+        <permissions>
+          <download allow="true"/>
+          <stream allow="true"/>
+          <embed allow="true"/>
+        </permissions>
+      </audio>
+      <text>
+        <paragraph num="1"><![CDATA[Noah Baumbach has gotten rave reviews for making the title character of Greenberg, played by Ben Stiller, largely unsympathetic. It's true it takes guts for Baumbach and Stiller to flout the Hollywood laws of likability so baldly, to make Roger Greenberg — a 40-ish unemployed New York carpenter in L.A. to housesit for his wealthy brother — not a charming jerk but a mopey, jerky jerk. But I wonder if there's a limit to how self-centered, how small you can make a character before you're punishing the audience. ]]></paragraph>
+        <paragraph num="2"><![CDATA[It's a line that has gotten more vague now that audiences are turned on by the aesthetic of squirm. You watch Larry David in Curb Your Enthusiasm, turning simple encounters into protracted psychodramas, and think, "Is this funny or painful?" Ideally, it's both — and when the approach works, as in Albert Brooks' Lost in America, you laugh at how these people can be so unaware of how ridiculous they look. It's their lack of embarrassment that makes them embarrassing.  ]]></paragraph>
+        <paragraph num="3"><![CDATA[But Greenberg  is meant to be dark and uncomfortably real, part of the indie genre dubbed mumblecore, in which characters grope through life without knowing what they want or even how they feel. The question is not what's eating Greenberg, but what isn't? He's prickly, he's paranoid; he's an injustice collector who writes long letters to companies to avenge small slights. He has been hospitalized for depression, and it's possible to sympathize with his annoyance when a noisy family that's been given permission to use his brother's pool invades his blessed silence.  ]]></paragraph>
+        <paragraph num="4"><![CDATA[But then comes the scene with his brother's personal assistant, Florence (Greta Gerwig), a bright young woman barely holding her life together. Greenberg gets drunk, as he often does, and paws her with no preamble, no banter, no smile — just a caveman sense of entitlement. And she doesn't slug him. She has so little self-worth, she thinks Roger is relationship material.  ]]></paragraph>
+        <paragraph num="5"><![CDATA[Baumbach, in his way, thinks so too. On one hand, he seizes every opportunity to score points off the character, building scenes to expose Roger's pretentiousness — so there's nothing to do but sit and wait for him to appall you again. On the other hand, Baumbach paces the movie as if this stunted child-man is some kind of fascinating case study, and you're invited to consider how he might be saved. Greenberg has the vague outline of a romance in which a prig learns to loosen up and care for someone else, but even Roger's breakthroughs reek of childish egotism. ]]></paragraph>
+        <paragraph num="6"><![CDATA[On their own terms, parts of Greenberg are perversely entertaining. Rhys Ifans plays the ex-bandmate Roger once let down by walking away from a recording contract. Their scenes are droopy and awkward, amusing for the ways in which Roger doesn't register his friend's everlasting hurt. And in Gerwig, Baumbach has an attractively flighty heroine: Early on, when Florence is running errands for Roger's brother's family, Gerwig fairly sings her lines, the melody keeping her buoyed up through the indignities of servitude. Later, as she endures Roger's passive-aggressive abuse, she clings to her spaciness as if to keep his craziness at bay. Greenberg might be a heckuva movie if we could just get Greenberg out of there. ]]></paragraph>
+        <paragraph num="7"><![CDATA[Baumbach and cinematographer Harris Savides create layers and levels of space to suggest a world with so much stuff — furniture, swimming pools, drugs — that people can go through life without connecting. But Roger doesn't connect with us. Even damaged, unpleasant characters need dramatic stature — something that transcends individual foolishness and strikes a larger chord. Greenberg is a one-note sonata.  [Copyright 2011 National Public Radio]]]></paragraph>
+      </text>
+    </story>
+    <story id="16145480">
+      <link type="html">http://www.npr.org/templates/story/story.php?storyId=16145480&amp;ft=3&amp;f=</link>
+      <link type="api">http://api.npr.org/query?id=16145480&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+      <title><![CDATA[Newly Released Photos Reveal Lennon's Final Days]]></title>
+      <transcript>
+        <link type="api">http://api.npr.org/transcript?id=16145480&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+      </transcript>
+      <audio id="16159017" type="primary">
+        <title/>
+        <duration>0</duration>
+        <description/>
+        <format>
+          <mp3 type="m3u">http://api.npr.org/m3u/116159017-3496bd.m3u?orgId=1&amp;topicId=1008&amp;aggIds=16470276&amp;ft=3&amp;f=</mp3>
+          <wm>http://www.npr.org/templates/dmg/dmg_wmref_em.php?id=16159017&amp;type=1&amp;mtype=WM&amp;orgId=1&amp;topicId=1008&amp;aggIds=16470276&amp;ft=3&amp;f=</wm>
+          <rm>http://www.npr.org/templates/dmg/dmg_rpm.rpm?id=16159017&amp;type=1&amp;mtype=RM&amp;orgId=1&amp;topicId=1008&amp;aggIds=16470276&amp;ft=3&amp;f=</rm>
+        </format>
+        <rightsHolder/>
+        <permissions>
+          <download allow="true"/>
+          <stream allow="true"/>
+          <embed allow="true"/>
+        </permissions>
+      </audio>
+      <text>
+        <paragraph num="1"><![CDATA["These are your photos but just be careful how you use them," photographer Allan Tannenbaum recalls that Yoko Ono advised on a series of intimate portraits he took of her and her husband John Lennon in November 1980. At the time of the conversation, neither had any idea that 10 days later the former Beatle would be dead. ]]></paragraph>
+        <paragraph num="2"><![CDATA[Despite many opportunities in the months that followed to publish the images, Tannenbaum opted to guard most of the pictures until now — 27 year years later. They appear in his new book, Yoko and John: A New York Love Story, a sort of peephole into the couple's final days together.]]></paragraph>
+        <paragraph num="3"><![CDATA[Initially Tannenbaum, then an employee of the SoHo Weekly News, only planned to photograph the artistic duo in New York's Central Park. While snapping them, however, he overheard something about a shoot for a video promoting their new album, Double Fantasy.]]></paragraph>
+        <paragraph num="4"><![CDATA["I kind of invited myself," recalls Tannenbaum, who suggested he attend as a stills photographer. ]]></paragraph>
+        <paragraph num="5"><![CDATA[At first Ono was hesitant. After five years out of the public eye, the couple was just beginning to warm up to the media. Following coffee, however, Ono told him, "John feels comfortable with you so you'll come with us to the studio." ]]></paragraph>
+        <paragraph num="6"><![CDATA[It seemed Lennon was ready to return to the spotlight. "I remember him telling me that when he picked up the guitar for the first time in many years it felt very heavy," Tannenbaum tells Alex Chadwick. "So when he came out and was ready to meet the world it was just very exciting." ]]></paragraph>
+        <paragraph num="7"><![CDATA[Upon arriving in a studio in SoHo where they would be filmed, Lennon and Ono changed from street clothes to colorful kimonos. Eventually, they removed these as well, hopping naked onto a bed and gliding through imitation lovemaking positions. ]]></paragraph>
+        <paragraph num="8"><![CDATA["I was thinking, I can't believe I am taking these photos," says Tannenbaum. ]]></paragraph>
+        <paragraph num="9"><![CDATA[Nudity was something Lennon and Ono appeared comfortable with: in 1968, they had flaunted their birthday suits on the cover of their Two Virgins album. ]]></paragraph>
+        <paragraph num="10"><![CDATA["Nudity was just another form of expression for them," Tannenbaum says. "They seemed very at ease and it was more of a tenderness that was being shown than a highly charged erotic situation."]]></paragraph>
+        <paragraph num="11"><![CDATA[As Tannenbaum prepared to deliver the photos to Lennon 10 days later, he was hit with devastating news: Lennon had been killed by a crazed fan. ]]></paragraph>
+        <paragraph num="12"><![CDATA["I was making prints that I was going to bring up to Dakota that evening," he says, referring to Ono and Lennon's home-office bordering Central Park. "The editor said John Lennon's been shot. I was just in shock."]]></paragraph>
+        <paragraph num="13"><![CDATA[One month later, Tannenbaum met up with the mourning widow Ono. Once again, his photos show her walking through Central Park. This time, however, there is no smile or husband — just a grimace and cold, white snow.  [Copyright 2011 National Public Radio]]]></paragraph>
+      </text>
+    </story>
+  </list>
+</nprml>
+<?xml version="1.0" encoding="UTF-8"?>
+<nprml version="0.94">
+  <list>
+    <title><![CDATA[NPR: Stories from NPR]]></title>
+    <teaser><![CDATA[Assorted stories from NPR]]></teaser>
+    <miniTeaser><![CDATA[Custom NPR News Feed API.  Visit http://www.npr.org/templates/apidoc/index.php for more information.]]></miniTeaser>
+    <link type="api">http://api.npr.org/query?searchTerm=%22no%20smile%22&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+    <story id="125093455">
+      <link type="html">http://www.npr.org/templates/story/story.php?storyId=125093455&amp;ft=3&amp;f=</link>
+      <link type="api">http://api.npr.org/query?id=125093455&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+      <title><![CDATA['Greenberg:' A One-Note Sonata That Doesn't Connect]]></title>
+      <transcript>
+        <link type="api">http://api.npr.org/transcript?id=125093455&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+      </transcript>
+      <audio id="125218201" type="primary">
+        <title/>
+        <duration>336</duration>
+        <description/>
+        <format>
+          <mp3 type="m3u">http://api.npr.org/m3u/1125218201-0fa16a.m3u?orgId=1&amp;topicId=1045&amp;aggIds=4467349&amp;ft=3&amp;f=</mp3>
+          <wm>http://www.npr.org/templates/dmg/dmg_wmref_em.php?id=125218201&amp;type=1&amp;mtype=WM&amp;orgId=1&amp;topicId=1045&amp;aggIds=4467349&amp;ft=3&amp;f=</wm>
+          <rm>http://www.npr.org/templates/dmg/dmg_rpm.rpm?id=125218201&amp;type=1&amp;mtype=RM&amp;orgId=1&amp;topicId=1045&amp;aggIds=4467349&amp;ft=3&amp;f=</rm>
+        </format>
+        <rightsHolder/>
+        <permissions>
+          <download allow="true"/>
+          <stream allow="true"/>
+          <embed allow="true"/>
+        </permissions>
+      </audio>
+      <text>
+        <paragraph num="1"><![CDATA[Noah Baumbach has gotten rave reviews for making the title character of Greenberg, played by Ben Stiller, largely unsympathetic. It's true it takes guts for Baumbach and Stiller to flout the Hollywood laws of likability so baldly, to make Roger Greenberg — a 40-ish unemployed New York carpenter in L.A. to housesit for his wealthy brother — not a charming jerk but a mopey, jerky jerk. But I wonder if there's a limit to how self-centered, how small you can make a character before you're punishing the audience. ]]></paragraph>
+        <paragraph num="2"><![CDATA[It's a line that has gotten more vague now that audiences are turned on by the aesthetic of squirm. You watch Larry David in Curb Your Enthusiasm, turning simple encounters into protracted psychodramas, and think, "Is this funny or painful?" Ideally, it's both — and when the approach works, as in Albert Brooks' Lost in America, you laugh at how these people can be so unaware of how ridiculous they look. It's their lack of embarrassment that makes them embarrassing.  ]]></paragraph>
+        <paragraph num="3"><![CDATA[But Greenberg  is meant to be dark and uncomfortably real, part of the indie genre dubbed mumblecore, in which characters grope through life without knowing what they want or even how they feel. The question is not what's eating Greenberg, but what isn't? He's prickly, he's paranoid; he's an injustice collector who writes long letters to companies to avenge small slights. He has been hospitalized for depression, and it's possible to sympathize with his annoyance when a noisy family that's been given permission to use his brother's pool invades his blessed silence.  ]]></paragraph>
+        <paragraph num="4"><![CDATA[But then comes the scene with his brother's personal assistant, Florence (Greta Gerwig), a bright young woman barely holding her life together. Greenberg gets drunk, as he often does, and paws her with no preamble, no banter, no smile — just a caveman sense of entitlement. And she doesn't slug him. She has so little self-worth, she thinks Roger is relationship material.  ]]></paragraph>
+        <paragraph num="5"><![CDATA[Baumbach, in his way, thinks so too. On one hand, he seizes every opportunity to score points off the character, building scenes to expose Roger's pretentiousness — so there's nothing to do but sit and wait for him to appall you again. On the other hand, Baumbach paces the movie as if this stunted child-man is some kind of fascinating case study, and you're invited to consider how he might be saved. Greenberg has the vague outline of a romance in which a prig learns to loosen up and care for someone else, but even Roger's breakthroughs reek of childish egotism. ]]></paragraph>
+        <paragraph num="6"><![CDATA[On their own terms, parts of Greenberg are perversely entertaining. Rhys Ifans plays the ex-bandmate Roger once let down by walking away from a recording contract. Their scenes are droopy and awkward, amusing for the ways in which Roger doesn't register his friend's everlasting hurt. And in Gerwig, Baumbach has an attractively flighty heroine: Early on, when Florence is running errands for Roger's brother's family, Gerwig fairly sings her lines, the melody keeping her buoyed up through the indignities of servitude. Later, as she endures Roger's passive-aggressive abuse, she clings to her spaciness as if to keep his craziness at bay. Greenberg might be a heckuva movie if we could just get Greenberg out of there. ]]></paragraph>
+        <paragraph num="7"><![CDATA[Baumbach and cinematographer Harris Savides create layers and levels of space to suggest a world with so much stuff — furniture, swimming pools, drugs — that people can go through life without connecting. But Roger doesn't connect with us. Even damaged, unpleasant characters need dramatic stature — something that transcends individual foolishness and strikes a larger chord. Greenberg is a one-note sonata.  [Copyright 2011 National Public Radio]]]></paragraph>
+      </text>
+    </story>
+    <story id="16145480">
+      <link type="html">http://www.npr.org/templates/story/story.php?storyId=16145480&amp;ft=3&amp;f=</link>
+      <link type="api">http://api.npr.org/query?id=16145480&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+      <title><![CDATA[Newly Released Photos Reveal Lennon's Final Days]]></title>
+      <transcript>
+        <link type="api">http://api.npr.org/transcript?id=16145480&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+      </transcript>
+      <audio id="16159017" type="primary">
+        <title/>
+        <duration>0</duration>
+        <description/>
+        <format>
+          <mp3 type="m3u">http://api.npr.org/m3u/116159017-3496bd.m3u?orgId=1&amp;topicId=1008&amp;aggIds=16470276&amp;ft=3&amp;f=</mp3>
+          <wm>http://www.npr.org/templates/dmg/dmg_wmref_em.php?id=16159017&amp;type=1&amp;mtype=WM&amp;orgId=1&amp;topicId=1008&amp;aggIds=16470276&amp;ft=3&amp;f=</wm>
+          <rm>http://www.npr.org/templates/dmg/dmg_rpm.rpm?id=16159017&amp;type=1&amp;mtype=RM&amp;orgId=1&amp;topicId=1008&amp;aggIds=16470276&amp;ft=3&amp;f=</rm>
+        </format>
+        <rightsHolder/>
+        <permissions>
+          <download allow="true"/>
+          <stream allow="true"/>
+          <embed allow="true"/>
+        </permissions>
+      </audio>
+      <text>
+        <paragraph num="1"><![CDATA["These are your photos but just be careful how you use them," photographer Allan Tannenbaum recalls that Yoko Ono advised on a series of intimate portraits he took of her and her husband John Lennon in November 1980. At the time of the conversation, neither had any idea that 10 days later the former Beatle would be dead. ]]></paragraph>
+        <paragraph num="2"><![CDATA[Despite many opportunities in the months that followed to publish the images, Tannenbaum opted to guard most of the pictures until now — 27 year years later. They appear in his new book, Yoko and John: A New York Love Story, a sort of peephole into the couple's final days together.]]></paragraph>
+        <paragraph num="3"><![CDATA[Initially Tannenbaum, then an employee of the SoHo Weekly News, only planned to photograph the artistic duo in New York's Central Park. While snapping them, however, he overheard something about a shoot for a video promoting their new album, Double Fantasy.]]></paragraph>
+        <paragraph num="4"><![CDATA["I kind of invited myself," recalls Tannenbaum, who suggested he attend as a stills photographer. ]]></paragraph>
+        <paragraph num="5"><![CDATA[At first Ono was hesitant. After five years out of the public eye, the couple was just beginning to warm up to the media. Following coffee, however, Ono told him, "John feels comfortable with you so you'll come with us to the studio." ]]></paragraph>
+        <paragraph num="6"><![CDATA[It seemed Lennon was ready to return to the spotlight. "I remember him telling me that when he picked up the guitar for the first time in many years it felt very heavy," Tannenbaum tells Alex Chadwick. "So when he came out and was ready to meet the world it was just very exciting." ]]></paragraph>
+        <paragraph num="7"><![CDATA[Upon arriving in a studio in SoHo where they would be filmed, Lennon and Ono changed from street clothes to colorful kimonos. Eventually, they removed these as well, hopping naked onto a bed and gliding through imitation lovemaking positions. ]]></paragraph>
+        <paragraph num="8"><![CDATA["I was thinking, I can't believe I am taking these photos," says Tannenbaum. ]]></paragraph>
+        <paragraph num="9"><![CDATA[Nudity was something Lennon and Ono appeared comfortable with: in 1968, they had flaunted their birthday suits on the cover of their Two Virgins album. ]]></paragraph>
+        <paragraph num="10"><![CDATA["Nudity was just another form of expression for them," Tannenbaum says. "They seemed very at ease and it was more of a tenderness that was being shown than a highly charged erotic situation."]]></paragraph>
+        <paragraph num="11"><![CDATA[As Tannenbaum prepared to deliver the photos to Lennon 10 days later, he was hit with devastating news: Lennon had been killed by a crazed fan. ]]></paragraph>
+        <paragraph num="12"><![CDATA["I was making prints that I was going to bring up to Dakota that evening," he says, referring to Ono and Lennon's home-office bordering Central Park. "The editor said John Lennon's been shot. I was just in shock."]]></paragraph>
+        <paragraph num="13"><![CDATA[One month later, Tannenbaum met up with the mourning widow Ono. Once again, his photos show her walking through Central Park. This time, however, there is no smile or husband — just a grimace and cold, white snow.  [Copyright 2011 National Public Radio]]]></paragraph>
+      </text>
+    </story>
+  </list>
+</nprml>
+<?xml version="1.0" encoding="UTF-8"?>
+<nprml version="0.94">
+  <list>
+    <title><![CDATA[NPR: Stories from NPR]]></title>
+    <teaser><![CDATA[Assorted stories from NPR]]></teaser>
+    <miniTeaser><![CDATA[Custom NPR News Feed API.  Visit http://www.npr.org/templates/apidoc/index.php for more information.]]></miniTeaser>
+    <link type="api">http://api.npr.org/query?searchTerm=%22no%20smile%22&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+    <story id="125093455">
+      <link type="html">http://www.npr.org/templates/story/story.php?storyId=125093455&amp;ft=3&amp;f=</link>
+      <link type="api">http://api.npr.org/query?id=125093455&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+      <title><![CDATA['Greenberg:' A One-Note Sonata That Doesn't Connect]]></title>
+      <transcript>
+        <link type="api">http://api.npr.org/transcript?id=125093455&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+      </transcript>
+      <audio id="125218201" type="primary">
+        <title/>
+        <duration>336</duration>
+        <description/>
+        <format>
+          <mp3 type="m3u">http://api.npr.org/m3u/1125218201-0fa16a.m3u?orgId=1&amp;topicId=1045&amp;aggIds=4467349&amp;ft=3&amp;f=</mp3>
+          <wm>http://www.npr.org/templates/dmg/dmg_wmref_em.php?id=125218201&amp;type=1&amp;mtype=WM&amp;orgId=1&amp;topicId=1045&amp;aggIds=4467349&amp;ft=3&amp;f=</wm>
+          <rm>http://www.npr.org/templates/dmg/dmg_rpm.rpm?id=125218201&amp;type=1&amp;mtype=RM&amp;orgId=1&amp;topicId=1045&amp;aggIds=4467349&amp;ft=3&amp;f=</rm>
+        </format>
+        <rightsHolder/>
+        <permissions>
+          <download allow="true"/>
+          <stream allow="true"/>
+          <embed allow="true"/>
+        </permissions>
+      </audio>
+      <text>
+        <paragraph num="1"><![CDATA[Noah Baumbach has gotten rave reviews for making the title character of Greenberg, played by Ben Stiller, largely unsympathetic. It's true it takes guts for Baumbach and Stiller to flout the Hollywood laws of likability so baldly, to make Roger Greenberg — a 40-ish unemployed New York carpenter in L.A. to housesit for his wealthy brother — not a charming jerk but a mopey, jerky jerk. But I wonder if there's a limit to how self-centered, how small you can make a character before you're punishing the audience. ]]></paragraph>
+        <paragraph num="2"><![CDATA[It's a line that has gotten more vague now that audiences are turned on by the aesthetic of squirm. You watch Larry David in Curb Your Enthusiasm, turning simple encounters into protracted psychodramas, and think, "Is this funny or painful?" Ideally, it's both — and when the approach works, as in Albert Brooks' Lost in America, you laugh at how these people can be so unaware of how ridiculous they look. It's their lack of embarrassment that makes them embarrassing.  ]]></paragraph>
+        <paragraph num="3"><![CDATA[But Greenberg  is meant to be dark and uncomfortably real, part of the indie genre dubbed mumblecore, in which characters grope through life without knowing what they want or even how they feel. The question is not what's eating Greenberg, but what isn't? He's prickly, he's paranoid; he's an injustice collector who writes long letters to companies to avenge small slights. He has been hospitalized for depression, and it's possible to sympathize with his annoyance when a noisy family that's been given permission to use his brother's pool invades his blessed silence.  ]]></paragraph>
+        <paragraph num="4"><![CDATA[But then comes the scene with his brother's personal assistant, Florence (Greta Gerwig), a bright young woman barely holding her life together. Greenberg gets drunk, as he often does, and paws her with no preamble, no banter, no smile — just a caveman sense of entitlement. And she doesn't slug him. She has so little self-worth, she thinks Roger is relationship material.  ]]></paragraph>
+        <paragraph num="5"><![CDATA[Baumbach, in his way, thinks so too. On one hand, he seizes every opportunity to score points off the character, building scenes to expose Roger's pretentiousness — so there's nothing to do but sit and wait for him to appall you again. On the other hand, Baumbach paces the movie as if this stunted child-man is some kind of fascinating case study, and you're invited to consider how he might be saved. Greenberg has the vague outline of a romance in which a prig learns to loosen up and care for someone else, but even Roger's breakthroughs reek of childish egotism. ]]></paragraph>
+        <paragraph num="6"><![CDATA[On their own terms, parts of Greenberg are perversely entertaining. Rhys Ifans plays the ex-bandmate Roger once let down by walking away from a recording contract. Their scenes are droopy and awkward, amusing for the ways in which Roger doesn't register his friend's everlasting hurt. And in Gerwig, Baumbach has an attractively flighty heroine: Early on, when Florence is running errands for Roger's brother's family, Gerwig fairly sings her lines, the melody keeping her buoyed up through the indignities of servitude. Later, as she endures Roger's passive-aggressive abuse, she clings to her spaciness as if to keep his craziness at bay. Greenberg might be a heckuva movie if we could just get Greenberg out of there. ]]></paragraph>
+        <paragraph num="7"><![CDATA[Baumbach and cinematographer Harris Savides create layers and levels of space to suggest a world with so much stuff — furniture, swimming pools, drugs — that people can go through life without connecting. But Roger doesn't connect with us. Even damaged, unpleasant characters need dramatic stature — something that transcends individual foolishness and strikes a larger chord. Greenberg is a one-note sonata.  [Copyright 2011 National Public Radio]]]></paragraph>
+      </text>
+    </story>
+    <story id="16145480">
+      <link type="html">http://www.npr.org/templates/story/story.php?storyId=16145480&amp;ft=3&amp;f=</link>
+      <link type="api">http://api.npr.org/query?id=16145480&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+      <title><![CDATA[Newly Released Photos Reveal Lennon's Final Days]]></title>
+      <transcript>
+        <link type="api">http://api.npr.org/transcript?id=16145480&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+      </transcript>
+      <audio id="16159017" type="primary">
+        <title/>
+        <duration>0</duration>
+        <description/>
+        <format>
+          <mp3 type="m3u">http://api.npr.org/m3u/116159017-3496bd.m3u?orgId=1&amp;topicId=1008&amp;aggIds=16470276&amp;ft=3&amp;f=</mp3>
+          <wm>http://www.npr.org/templates/dmg/dmg_wmref_em.php?id=16159017&amp;type=1&amp;mtype=WM&amp;orgId=1&amp;topicId=1008&amp;aggIds=16470276&amp;ft=3&amp;f=</wm>
+          <rm>http://www.npr.org/templates/dmg/dmg_rpm.rpm?id=16159017&amp;type=1&amp;mtype=RM&amp;orgId=1&amp;topicId=1008&amp;aggIds=16470276&amp;ft=3&amp;f=</rm>
+        </format>
+        <rightsHolder/>
+        <permissions>
+          <download allow="true"/>
+          <stream allow="true"/>
+          <embed allow="true"/>
+        </permissions>
+      </audio>
+      <text>
+        <paragraph num="1"><![CDATA["These are your photos but just be careful how you use them," photographer Allan Tannenbaum recalls that Yoko Ono advised on a series of intimate portraits he took of her and her husband John Lennon in November 1980. At the time of the conversation, neither had any idea that 10 days later the former Beatle would be dead. ]]></paragraph>
+        <paragraph num="2"><![CDATA[Despite many opportunities in the months that followed to publish the images, Tannenbaum opted to guard most of the pictures until now — 27 year years later. They appear in his new book, Yoko and John: A New York Love Story, a sort of peephole into the couple's final days together.]]></paragraph>
+        <paragraph num="3"><![CDATA[Initially Tannenbaum, then an employee of the SoHo Weekly News, only planned to photograph the artistic duo in New York's Central Park. While snapping them, however, he overheard something about a shoot for a video promoting their new album, Double Fantasy.]]></paragraph>
+        <paragraph num="4"><![CDATA["I kind of invited myself," recalls Tannenbaum, who suggested he attend as a stills photographer. ]]></paragraph>
+        <paragraph num="5"><![CDATA[At first Ono was hesitant. After five years out of the public eye, the couple was just beginning to warm up to the media. Following coffee, however, Ono told him, "John feels comfortable with you so you'll come with us to the studio." ]]></paragraph>
+        <paragraph num="6"><![CDATA[It seemed Lennon was ready to return to the spotlight. "I remember him telling me that when he picked up the guitar for the first time in many years it felt very heavy," Tannenbaum tells Alex Chadwick. "So when he came out and was ready to meet the world it was just very exciting." ]]></paragraph>
+        <paragraph num="7"><![CDATA[Upon arriving in a studio in SoHo where they would be filmed, Lennon and Ono changed from street clothes to colorful kimonos. Eventually, they removed these as well, hopping naked onto a bed and gliding through imitation lovemaking positions. ]]></paragraph>
+        <paragraph num="8"><![CDATA["I was thinking, I can't believe I am taking these photos," says Tannenbaum. ]]></paragraph>
+        <paragraph num="9"><![CDATA[Nudity was something Lennon and Ono appeared comfortable with: in 1968, they had flaunted their birthday suits on the cover of their Two Virgins album. ]]></paragraph>
+        <paragraph num="10"><![CDATA["Nudity was just another form of expression for them," Tannenbaum says. "They seemed very at ease and it was more of a tenderness that was being shown than a highly charged erotic situation."]]></paragraph>
+        <paragraph num="11"><![CDATA[As Tannenbaum prepared to deliver the photos to Lennon 10 days later, he was hit with devastating news: Lennon had been killed by a crazed fan. ]]></paragraph>
+        <paragraph num="12"><![CDATA["I was making prints that I was going to bring up to Dakota that evening," he says, referring to Ono and Lennon's home-office bordering Central Park. "The editor said John Lennon's been shot. I was just in shock."]]></paragraph>
+        <paragraph num="13"><![CDATA[One month later, Tannenbaum met up with the mourning widow Ono. Once again, his photos show her walking through Central Park. This time, however, there is no smile or husband — just a grimace and cold, white snow.  [Copyright 2011 National Public Radio]]]></paragraph>
+      </text>
+    </story>
+  </list>
+</nprml>
+<?xml version="1.0" encoding="UTF-8"?>
+<nprml version="0.94">
+  <list>
+    <title><![CDATA[NPR: Stories from NPR]]></title>
+    <teaser><![CDATA[Assorted stories from NPR]]></teaser>
+    <miniTeaser><![CDATA[Custom NPR News Feed API.  Visit http://www.npr.org/templates/apidoc/index.php for more information.]]></miniTeaser>
+    <link type="api">http://api.npr.org/query?searchTerm=%22no%20smile%22&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+    <story id="125093455">
+      <link type="html">http://www.npr.org/templates/story/story.php?storyId=125093455&amp;ft=3&amp;f=</link>
+      <link type="api">http://api.npr.org/query?id=125093455&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+      <title><![CDATA['Greenberg:' A One-Note Sonata That Doesn't Connect]]></title>
+      <transcript>
+        <link type="api">http://api.npr.org/transcript?id=125093455&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+      </transcript>
+      <audio id="125218201" type="primary">
+        <title/>
+        <duration>336</duration>
+        <description/>
+        <format>
+          <mp3 type="m3u">http://api.npr.org/m3u/1125218201-0fa16a.m3u?orgId=1&amp;topicId=1045&amp;aggIds=4467349&amp;ft=3&amp;f=</mp3>
+          <wm>http://www.npr.org/templates/dmg/dmg_wmref_em.php?id=125218201&amp;type=1&amp;mtype=WM&amp;orgId=1&amp;topicId=1045&amp;aggIds=4467349&amp;ft=3&amp;f=</wm>
+          <rm>http://www.npr.org/templates/dmg/dmg_rpm.rpm?id=125218201&amp;type=1&amp;mtype=RM&amp;orgId=1&amp;topicId=1045&amp;aggIds=4467349&amp;ft=3&amp;f=</rm>
+        </format>
+        <rightsHolder/>
+        <permissions>
+          <download allow="true"/>
+          <stream allow="true"/>
+          <embed allow="true"/>
+        </permissions>
+      </audio>
+      <text>
+        <paragraph num="1"><![CDATA[Noah Baumbach has gotten rave reviews for making the title character of Greenberg, played by Ben Stiller, largely unsympathetic. It's true it takes guts for Baumbach and Stiller to flout the Hollywood laws of likability so baldly, to make Roger Greenberg — a 40-ish unemployed New York carpenter in L.A. to housesit for his wealthy brother — not a charming jerk but a mopey, jerky jerk. But I wonder if there's a limit to how self-centered, how small you can make a character before you're punishing the audience. ]]></paragraph>
+        <paragraph num="2"><![CDATA[It's a line that has gotten more vague now that audiences are turned on by the aesthetic of squirm. You watch Larry David in Curb Your Enthusiasm, turning simple encounters into protracted psychodramas, and think, "Is this funny or painful?" Ideally, it's both — and when the approach works, as in Albert Brooks' Lost in America, you laugh at how these people can be so unaware of how ridiculous they look. It's their lack of embarrassment that makes them embarrassing.  ]]></paragraph>
+        <paragraph num="3"><![CDATA[But Greenberg  is meant to be dark and uncomfortably real, part of the indie genre dubbed mumblecore, in which characters grope through life without knowing what they want or even how they feel. The question is not what's eating Greenberg, but what isn't? He's prickly, he's paranoid; he's an injustice collector who writes long letters to companies to avenge small slights. He has been hospitalized for depression, and it's possible to sympathize with his annoyance when a noisy family that's been given permission to use his brother's pool invades his blessed silence.  ]]></paragraph>
+        <paragraph num="4"><![CDATA[But then comes the scene with his brother's personal assistant, Florence (Greta Gerwig), a bright young woman barely holding her life together. Greenberg gets drunk, as he often does, and paws her with no preamble, no banter, no smile — just a caveman sense of entitlement. And she doesn't slug him. She has so little self-worth, she thinks Roger is relationship material.  ]]></paragraph>
+        <paragraph num="5"><![CDATA[Baumbach, in his way, thinks so too. On one hand, he seizes every opportunity to score points off the character, building scenes to expose Roger's pretentiousness — so there's nothing to do but sit and wait for him to appall you again. On the other hand, Baumbach paces the movie as if this stunted child-man is some kind of fascinating case study, and you're invited to consider how he might be saved. Greenberg has the vague outline of a romance in which a prig learns to loosen up and care for someone else, but even Roger's breakthroughs reek of childish egotism. ]]></paragraph>
+        <paragraph num="6"><![CDATA[On their own terms, parts of Greenberg are perversely entertaining. Rhys Ifans plays the ex-bandmate Roger once let down by walking away from a recording contract. Their scenes are droopy and awkward, amusing for the ways in which Roger doesn't register his friend's everlasting hurt. And in Gerwig, Baumbach has an attractively flighty heroine: Early on, when Florence is running errands for Roger's brother's family, Gerwig fairly sings her lines, the melody keeping her buoyed up through the indignities of servitude. Later, as she endures Roger's passive-aggressive abuse, she clings to her spaciness as if to keep his craziness at bay. Greenberg might be a heckuva movie if we could just get Greenberg out of there. ]]></paragraph>
+        <paragraph num="7"><![CDATA[Baumbach and cinematographer Harris Savides create layers and levels of space to suggest a world with so much stuff — furniture, swimming pools, drugs — that people can go through life without connecting. But Roger doesn't connect with us. Even damaged, unpleasant characters need dramatic stature — something that transcends individual foolishness and strikes a larger chord. Greenberg is a one-note sonata.  [Copyright 2011 National Public Radio]]]></paragraph>
+      </text>
+    </story>
+    <story id="16145480">
+      <link type="html">http://www.npr.org/templates/story/story.php?storyId=16145480&amp;ft=3&amp;f=</link>
+      <link type="api">http://api.npr.org/query?id=16145480&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+      <title><![CDATA[Newly Released Photos Reveal Lennon's Final Days]]></title>
+      <transcript>
+        <link type="api">http://api.npr.org/transcript?id=16145480&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+      </transcript>
+      <audio id="16159017" type="primary">
+        <title/>
+        <duration>0</duration>
+        <description/>
+        <format>
+          <mp3 type="m3u">http://api.npr.org/m3u/116159017-3496bd.m3u?orgId=1&amp;topicId=1008&amp;aggIds=16470276&amp;ft=3&amp;f=</mp3>
+          <wm>http://www.npr.org/templates/dmg/dmg_wmref_em.php?id=16159017&amp;type=1&amp;mtype=WM&amp;orgId=1&amp;topicId=1008&amp;aggIds=16470276&amp;ft=3&amp;f=</wm>
+          <rm>http://www.npr.org/templates/dmg/dmg_rpm.rpm?id=16159017&amp;type=1&amp;mtype=RM&amp;orgId=1&amp;topicId=1008&amp;aggIds=16470276&amp;ft=3&amp;f=</rm>
+        </format>
+        <rightsHolder/>
+        <permissions>
+          <download allow="true"/>
+          <stream allow="true"/>
+          <embed allow="true"/>
+        </permissions>
+      </audio>
+      <text>
+        <paragraph num="1"><![CDATA["These are your photos but just be careful how you use them," photographer Allan Tannenbaum recalls that Yoko Ono advised on a series of intimate portraits he took of her and her husband John Lennon in November 1980. At the time of the conversation, neither had any idea that 10 days later the former Beatle would be dead. ]]></paragraph>
+        <paragraph num="2"><![CDATA[Despite many opportunities in the months that followed to publish the images, Tannenbaum opted to guard most of the pictures until now — 27 year years later. They appear in his new book, Yoko and John: A New York Love Story, a sort of peephole into the couple's final days together.]]></paragraph>
+        <paragraph num="3"><![CDATA[Initially Tannenbaum, then an employee of the SoHo Weekly News, only planned to photograph the artistic duo in New York's Central Park. While snapping them, however, he overheard something about a shoot for a video promoting their new album, Double Fantasy.]]></paragraph>
+        <paragraph num="4"><![CDATA["I kind of invited myself," recalls Tannenbaum, who suggested he attend as a stills photographer. ]]></paragraph>
+        <paragraph num="5"><![CDATA[At first Ono was hesitant. After five years out of the public eye, the couple was just beginning to warm up to the media. Following coffee, however, Ono told him, "John feels comfortable with you so you'll come with us to the studio." ]]></paragraph>
+        <paragraph num="6"><![CDATA[It seemed Lennon was ready to return to the spotlight. "I remember him telling me that when he picked up the guitar for the first time in many years it felt very heavy," Tannenbaum tells Alex Chadwick. "So when he came out and was ready to meet the world it was just very exciting." ]]></paragraph>
+        <paragraph num="7"><![CDATA[Upon arriving in a studio in SoHo where they would be filmed, Lennon and Ono changed from street clothes to colorful kimonos. Eventually, they removed these as well, hopping naked onto a bed and gliding through imitation lovemaking positions. ]]></paragraph>
+        <paragraph num="8"><![CDATA["I was thinking, I can't believe I am taking these photos," says Tannenbaum. ]]></paragraph>
+        <paragraph num="9"><![CDATA[Nudity was something Lennon and Ono appeared comfortable with: in 1968, they had flaunted their birthday suits on the cover of their Two Virgins album. ]]></paragraph>
+        <paragraph num="10"><![CDATA["Nudity was just another form of expression for them," Tannenbaum says. "They seemed very at ease and it was more of a tenderness that was being shown than a highly charged erotic situation."]]></paragraph>
+        <paragraph num="11"><![CDATA[As Tannenbaum prepared to deliver the photos to Lennon 10 days later, he was hit with devastating news: Lennon had been killed by a crazed fan. ]]></paragraph>
+        <paragraph num="12"><![CDATA["I was making prints that I was going to bring up to Dakota that evening," he says, referring to Ono and Lennon's home-office bordering Central Park. "The editor said John Lennon's been shot. I was just in shock."]]></paragraph>
+        <paragraph num="13"><![CDATA[One month later, Tannenbaum met up with the mourning widow Ono. Once again, his photos show her walking through Central Park. This time, however, there is no smile or husband — just a grimace and cold, white snow.  [Copyright 2011 National Public Radio]]]></paragraph>
+      </text>
+    </story>
+  </list>
+</nprml>
+<?xml version="1.0" encoding="UTF-8"?>
+<nprml version="0.94">
+  <list>
+    <title><![CDATA[NPR: Stories from NPR]]></title>
+    <teaser><![CDATA[Assorted stories from NPR]]></teaser>
+    <miniTeaser><![CDATA[Custom NPR News Feed API.  Visit http://www.npr.org/templates/apidoc/index.php for more information.]]></miniTeaser>
+    <link type="api">http://api.npr.org/query?searchTerm=%22no%20smile%22&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+    <story id="125093455">
+      <link type="html">http://www.npr.org/templates/story/story.php?storyId=125093455&amp;ft=3&amp;f=</link>
+      <link type="api">http://api.npr.org/query?id=125093455&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+      <title><![CDATA['Greenberg:' A One-Note Sonata That Doesn't Connect]]></title>
+      <transcript>
+        <link type="api">http://api.npr.org/transcript?id=125093455&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+      </transcript>
+      <audio id="125218201" type="primary">
+        <title/>
+        <duration>336</duration>
+        <description/>
+        <format>
+          <mp3 type="m3u">http://api.npr.org/m3u/1125218201-0fa16a.m3u?orgId=1&amp;topicId=1045&amp;aggIds=4467349&amp;ft=3&amp;f=</mp3>
+          <wm>http://www.npr.org/templates/dmg/dmg_wmref_em.php?id=125218201&amp;type=1&amp;mtype=WM&amp;orgId=1&amp;topicId=1045&amp;aggIds=4467349&amp;ft=3&amp;f=</wm>
+          <rm>http://www.npr.org/templates/dmg/dmg_rpm.rpm?id=125218201&amp;type=1&amp;mtype=RM&amp;orgId=1&amp;topicId=1045&amp;aggIds=4467349&amp;ft=3&amp;f=</rm>
+        </format>
+        <rightsHolder/>
+        <permissions>
+          <download allow="true"/>
+          <stream allow="true"/>
+          <embed allow="true"/>
+        </permissions>
+      </audio>
+      <text>
+        <paragraph num="1"><![CDATA[Noah Baumbach has gotten rave reviews for making the title character of Greenberg, played by Ben Stiller, largely unsympathetic. It's true it takes guts for Baumbach and Stiller to flout the Hollywood laws of likability so baldly, to make Roger Greenberg — a 40-ish unemployed New York carpenter in L.A. to housesit for his wealthy brother — not a charming jerk but a mopey, jerky jerk. But I wonder if there's a limit to how self-centered, how small you can make a character before you're punishing the audience. ]]></paragraph>
+        <paragraph num="2"><![CDATA[It's a line that has gotten more vague now that audiences are turned on by the aesthetic of squirm. You watch Larry David in Curb Your Enthusiasm, turning simple encounters into protracted psychodramas, and think, "Is this funny or painful?" Ideally, it's both — and when the approach works, as in Albert Brooks' Lost in America, you laugh at how these people can be so unaware of how ridiculous they look. It's their lack of embarrassment that makes them embarrassing.  ]]></paragraph>
+        <paragraph num="3"><![CDATA[But Greenberg  is meant to be dark and uncomfortably real, part of the indie genre dubbed mumblecore, in which characters grope through life without knowing what they want or even how they feel. The question is not what's eating Greenberg, but what isn't? He's prickly, he's paranoid; he's an injustice collector who writes long letters to companies to avenge small slights. He has been hospitalized for depression, and it's possible to sympathize with his annoyance when a noisy family that's been given permission to use his brother's pool invades his blessed silence.  ]]></paragraph>
+        <paragraph num="4"><![CDATA[But then comes the scene with his brother's personal assistant, Florence (Greta Gerwig), a bright young woman barely holding her life together. Greenberg gets drunk, as he often does, and paws her with no preamble, no banter, no smile — just a caveman sense of entitlement. And she doesn't slug him. She has so little self-worth, she thinks Roger is relationship material.  ]]></paragraph>
+        <paragraph num="5"><![CDATA[Baumbach, in his way, thinks so too. On one hand, he seizes every opportunity to score points off the character, building scenes to expose Roger's pretentiousness — so there's nothing to do but sit and wait for him to appall you again. On the other hand, Baumbach paces the movie as if this stunted child-man is some kind of fascinating case study, and you're invited to consider how he might be saved. Greenberg has the vague outline of a romance in which a prig learns to loosen up and care for someone else, but even Roger's breakthroughs reek of childish egotism. ]]></paragraph>
+        <paragraph num="6"><![CDATA[On their own terms, parts of Greenberg are perversely entertaining. Rhys Ifans plays the ex-bandmate Roger once let down by walking away from a recording contract. Their scenes are droopy and awkward, amusing for the ways in which Roger doesn't register his friend's everlasting hurt. And in Gerwig, Baumbach has an attractively flighty heroine: Early on, when Florence is running errands for Roger's brother's family, Gerwig fairly sings her lines, the melody keeping her buoyed up through the indignities of servitude. Later, as she endures Roger's passive-aggressive abuse, she clings to her spaciness as if to keep his craziness at bay. Greenberg might be a heckuva movie if we could just get Greenberg out of there. ]]></paragraph>
+        <paragraph num="7"><![CDATA[Baumbach and cinematographer Harris Savides create layers and levels of space to suggest a world with so much stuff — furniture, swimming pools, drugs — that people can go through life without connecting. But Roger doesn't connect with us. Even damaged, unpleasant characters need dramatic stature — something that transcends individual foolishness and strikes a larger chord. Greenberg is a one-note sonata.  [Copyright 2011 National Public Radio]]]></paragraph>
+      </text>
+    </story>
+    <story id="16145480">
+      <link type="html">http://www.npr.org/templates/story/story.php?storyId=16145480&amp;ft=3&amp;f=</link>
+      <link type="api">http://api.npr.org/query?id=16145480&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+      <title><![CDATA[Newly Released Photos Reveal Lennon's Final Days]]></title>
+      <transcript>
+        <link type="api">http://api.npr.org/transcript?id=16145480&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+      </transcript>
+      <audio id="16159017" type="primary">
+        <title/>
+        <duration>0</duration>
+        <description/>
+        <format>
+          <mp3 type="m3u">http://api.npr.org/m3u/116159017-3496bd.m3u?orgId=1&amp;topicId=1008&amp;aggIds=16470276&amp;ft=3&amp;f=</mp3>
+          <wm>http://www.npr.org/templates/dmg/dmg_wmref_em.php?id=16159017&amp;type=1&amp;mtype=WM&amp;orgId=1&amp;topicId=1008&amp;aggIds=16470276&amp;ft=3&amp;f=</wm>
+          <rm>http://www.npr.org/templates/dmg/dmg_rpm.rpm?id=16159017&amp;type=1&amp;mtype=RM&amp;orgId=1&amp;topicId=1008&amp;aggIds=16470276&amp;ft=3&amp;f=</rm>
+        </format>
+        <rightsHolder/>
+        <permissions>
+          <download allow="true"/>
+          <stream allow="true"/>
+          <embed allow="true"/>
+        </permissions>
+      </audio>
+      <text>
+        <paragraph num="1"><![CDATA["These are your photos but just be careful how you use them," photographer Allan Tannenbaum recalls that Yoko Ono advised on a series of intimate portraits he took of her and her husband John Lennon in November 1980. At the time of the conversation, neither had any idea that 10 days later the former Beatle would be dead. ]]></paragraph>
+        <paragraph num="2"><![CDATA[Despite many opportunities in the months that followed to publish the images, Tannenbaum opted to guard most of the pictures until now — 27 year years later. They appear in his new book, Yoko and John: A New York Love Story, a sort of peephole into the couple's final days together.]]></paragraph>
+        <paragraph num="3"><![CDATA[Initially Tannenbaum, then an employee of the SoHo Weekly News, only planned to photograph the artistic duo in New York's Central Park. While snapping them, however, he overheard something about a shoot for a video promoting their new album, Double Fantasy.]]></paragraph>
+        <paragraph num="4"><![CDATA["I kind of invited myself," recalls Tannenbaum, who suggested he attend as a stills photographer. ]]></paragraph>
+        <paragraph num="5"><![CDATA[At first Ono was hesitant. After five years out of the public eye, the couple was just beginning to warm up to the media. Following coffee, however, Ono told him, "John feels comfortable with you so you'll come with us to the studio." ]]></paragraph>
+        <paragraph num="6"><![CDATA[It seemed Lennon was ready to return to the spotlight. "I remember him telling me that when he picked up the guitar for the first time in many years it felt very heavy," Tannenbaum tells Alex Chadwick. "So when he came out and was ready to meet the world it was just very exciting." ]]></paragraph>
+        <paragraph num="7"><![CDATA[Upon arriving in a studio in SoHo where they would be filmed, Lennon and Ono changed from street clothes to colorful kimonos. Eventually, they removed these as well, hopping naked onto a bed and gliding through imitation lovemaking positions. ]]></paragraph>
+        <paragraph num="8"><![CDATA["I was thinking, I can't believe I am taking these photos," says Tannenbaum. ]]></paragraph>
+        <paragraph num="9"><![CDATA[Nudity was something Lennon and Ono appeared comfortable with: in 1968, they had flaunted their birthday suits on the cover of their Two Virgins album. ]]></paragraph>
+        <paragraph num="10"><![CDATA["Nudity was just another form of expression for them," Tannenbaum says. "They seemed very at ease and it was more of a tenderness that was being shown than a highly charged erotic situation."]]></paragraph>
+        <paragraph num="11"><![CDATA[As Tannenbaum prepared to deliver the photos to Lennon 10 days later, he was hit with devastating news: Lennon had been killed by a crazed fan. ]]></paragraph>
+        <paragraph num="12"><![CDATA["I was making prints that I was going to bring up to Dakota that evening," he says, referring to Ono and Lennon's home-office bordering Central Park. "The editor said John Lennon's been shot. I was just in shock."]]></paragraph>
+        <paragraph num="13"><![CDATA[One month later, Tannenbaum met up with the mourning widow Ono. Once again, his photos show her walking through Central Park. This time, however, there is no smile or husband — just a grimace and cold, white snow.  [Copyright 2011 National Public Radio]]]></paragraph>
+      </text>
+    </story>
+  </list>
+</nprml>
+<?xml version="1.0" encoding="UTF-8"?>
+<nprml version="0.94">
+  <list>
+    <title><![CDATA[NPR: Stories from NPR]]></title>
+    <teaser><![CDATA[Assorted stories from NPR]]></teaser>
+    <miniTeaser><![CDATA[Custom NPR News Feed API.  Visit http://www.npr.org/templates/apidoc/index.php for more information.]]></miniTeaser>
+    <link type="api">http://api.npr.org/query?searchTerm=%22no%20smile%22&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+    <story id="125093455">
+      <link type="html">http://www.npr.org/templates/story/story.php?storyId=125093455&amp;ft=3&amp;f=</link>
+      <link type="api">http://api.npr.org/query?id=125093455&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+      <title><![CDATA['Greenberg:' A One-Note Sonata That Doesn't Connect]]></title>
+      <transcript>
+        <link type="api">http://api.npr.org/transcript?id=125093455&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+      </transcript>
+      <audio id="125218201" type="primary">
+        <title/>
+        <duration>336</duration>
+        <description/>
+        <format>
+          <mp3 type="m3u">http://api.npr.org/m3u/1125218201-0fa16a.m3u?orgId=1&amp;topicId=1045&amp;aggIds=4467349&amp;ft=3&amp;f=</mp3>
+          <wm>http://www.npr.org/templates/dmg/dmg_wmref_em.php?id=125218201&amp;type=1&amp;mtype=WM&amp;orgId=1&amp;topicId=1045&amp;aggIds=4467349&amp;ft=3&amp;f=</wm>
+          <rm>http://www.npr.org/templates/dmg/dmg_rpm.rpm?id=125218201&amp;type=1&amp;mtype=RM&amp;orgId=1&amp;topicId=1045&amp;aggIds=4467349&amp;ft=3&amp;f=</rm>
+        </format>
+        <rightsHolder/>
+        <permissions>
+          <download allow="true"/>
+          <stream allow="true"/>
+          <embed allow="true"/>
+        </permissions>
+      </audio>
+      <text>
+        <paragraph num="1"><![CDATA[Noah Baumbach has gotten rave reviews for making the title character of Greenberg, played by Ben Stiller, largely unsympathetic. It's true it takes guts for Baumbach and Stiller to flout the Hollywood laws of likability so baldly, to make Roger Greenberg — a 40-ish unemployed New York carpenter in L.A. to housesit for his wealthy brother — not a charming jerk but a mopey, jerky jerk. But I wonder if there's a limit to how self-centered, how small you can make a character before you're punishing the audience. ]]></paragraph>
+        <paragraph num="2"><![CDATA[It's a line that has gotten more vague now that audiences are turned on by the aesthetic of squirm. You watch Larry David in Curb Your Enthusiasm, turning simple encounters into protracted psychodramas, and think, "Is this funny or painful?" Ideally, it's both — and when the approach works, as in Albert Brooks' Lost in America, you laugh at how these people can be so unaware of how ridiculous they look. It's their lack of embarrassment that makes them embarrassing.  ]]></paragraph>
+        <paragraph num="3"><![CDATA[But Greenberg  is meant to be dark and uncomfortably real, part of the indie genre dubbed mumblecore, in which characters grope through life without knowing what they want or even how they feel. The question is not what's eating Greenberg, but what isn't? He's prickly, he's paranoid; he's an injustice collector who writes long letters to companies to avenge small slights. He has been hospitalized for depression, and it's possible to sympathize with his annoyance when a noisy family that's been given permission to use his brother's pool invades his blessed silence.  ]]></paragraph>
+        <paragraph num="4"><![CDATA[But then comes the scene with his brother's personal assistant, Florence (Greta Gerwig), a bright young woman barely holding her life together. Greenberg gets drunk, as he often does, and paws her with no preamble, no banter, no smile — just a caveman sense of entitlement. And she doesn't slug him. She has so little self-worth, she thinks Roger is relationship material.  ]]></paragraph>
+        <paragraph num="5"><![CDATA[Baumbach, in his way, thinks so too. On one hand, he seizes every opportunity to score points off the character, building scenes to expose Roger's pretentiousness — so there's nothing to do but sit and wait for him to appall you again. On the other hand, Baumbach paces the movie as if this stunted child-man is some kind of fascinating case study, and you're invited to consider how he might be saved. Greenberg has the vague outline of a romance in which a prig learns to loosen up and care for someone else, but even Roger's breakthroughs reek of childish egotism. ]]></paragraph>
+        <paragraph num="6"><![CDATA[On their own terms, parts of Greenberg are perversely entertaining. Rhys Ifans plays the ex-bandmate Roger once let down by walking away from a recording contract. Their scenes are droopy and awkward, amusing for the ways in which Roger doesn't register his friend's everlasting hurt. And in Gerwig, Baumbach has an attractively flighty heroine: Early on, when Florence is running errands for Roger's brother's family, Gerwig fairly sings her lines, the melody keeping her buoyed up through the indignities of servitude. Later, as she endures Roger's passive-aggressive abuse, she clings to her spaciness as if to keep his craziness at bay. Greenberg might be a heckuva movie if we could just get Greenberg out of there. ]]></paragraph>
+        <paragraph num="7"><![CDATA[Baumbach and cinematographer Harris Savides create layers and levels of space to suggest a world with so much stuff — furniture, swimming pools, drugs — that people can go through life without connecting. But Roger doesn't connect with us. Even damaged, unpleasant characters need dramatic stature — something that transcends individual foolishness and strikes a larger chord. Greenberg is a one-note sonata.  [Copyright 2011 National Public Radio]]]></paragraph>
+      </text>
+    </story>
+    <story id="16145480">
+      <link type="html">http://www.npr.org/templates/story/story.php?storyId=16145480&amp;ft=3&amp;f=</link>
+      <link type="api">http://api.npr.org/query?id=16145480&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+      <title><![CDATA[Newly Released Photos Reveal Lennon's Final Days]]></title>
+      <transcript>
+        <link type="api">http://api.npr.org/transcript?id=16145480&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+      </transcript>
+      <audio id="16159017" type="primary">
+        <title/>
+        <duration>0</duration>
+        <description/>
+        <format>
+          <mp3 type="m3u">http://api.npr.org/m3u/116159017-3496bd.m3u?orgId=1&amp;topicId=1008&amp;aggIds=16470276&amp;ft=3&amp;f=</mp3>
+          <wm>http://www.npr.org/templates/dmg/dmg_wmref_em.php?id=16159017&amp;type=1&amp;mtype=WM&amp;orgId=1&amp;topicId=1008&amp;aggIds=16470276&amp;ft=3&amp;f=</wm>
+          <rm>http://www.npr.org/templates/dmg/dmg_rpm.rpm?id=16159017&amp;type=1&amp;mtype=RM&amp;orgId=1&amp;topicId=1008&amp;aggIds=16470276&amp;ft=3&amp;f=</rm>
+        </format>
+        <rightsHolder/>
+        <permissions>
+          <download allow="true"/>
+          <stream allow="true"/>
+          <embed allow="true"/>
+        </permissions>
+      </audio>
+      <text>
+        <paragraph num="1"><![CDATA["These are your photos but just be careful how you use them," photographer Allan Tannenbaum recalls that Yoko Ono advised on a series of intimate portraits he took of her and her husband John Lennon in November 1980. At the time of the conversation, neither had any idea that 10 days later the former Beatle would be dead. ]]></paragraph>
+        <paragraph num="2"><![CDATA[Despite many opportunities in the months that followed to publish the images, Tannenbaum opted to guard most of the pictures until now — 27 year years later. They appear in his new book, Yoko and John: A New York Love Story, a sort of peephole into the couple's final days together.]]></paragraph>
+        <paragraph num="3"><![CDATA[Initially Tannenbaum, then an employee of the SoHo Weekly News, only planned to photograph the artistic duo in New York's Central Park. While snapping them, however, he overheard something about a shoot for a video promoting their new album, Double Fantasy.]]></paragraph>
+        <paragraph num="4"><![CDATA["I kind of invited myself," recalls Tannenbaum, who suggested he attend as a stills photographer. ]]></paragraph>
+        <paragraph num="5"><![CDATA[At first Ono was hesitant. After five years out of the public eye, the couple was just beginning to warm up to the media. Following coffee, however, Ono told him, "John feels comfortable with you so you'll come with us to the studio." ]]></paragraph>
+        <paragraph num="6"><![CDATA[It seemed Lennon was ready to return to the spotlight. "I remember him telling me that when he picked up the guitar for the first time in many years it felt very heavy," Tannenbaum tells Alex Chadwick. "So when he came out and was ready to meet the world it was just very exciting." ]]></paragraph>
+        <paragraph num="7"><![CDATA[Upon arriving in a studio in SoHo where they would be filmed, Lennon and Ono changed from street clothes to colorful kimonos. Eventually, they removed these as well, hopping naked onto a bed and gliding through imitation lovemaking positions. ]]></paragraph>
+        <paragraph num="8"><![CDATA["I was thinking, I can't believe I am taking these photos," says Tannenbaum. ]]></paragraph>
+        <paragraph num="9"><![CDATA[Nudity was something Lennon and Ono appeared comfortable with: in 1968, they had flaunted their birthday suits on the cover of their Two Virgins album. ]]></paragraph>
+        <paragraph num="10"><![CDATA["Nudity was just another form of expression for them," Tannenbaum says. "They seemed very at ease and it was more of a tenderness that was being shown than a highly charged erotic situation."]]></paragraph>
+        <paragraph num="11"><![CDATA[As Tannenbaum prepared to deliver the photos to Lennon 10 days later, he was hit with devastating news: Lennon had been killed by a crazed fan. ]]></paragraph>
+        <paragraph num="12"><![CDATA["I was making prints that I was going to bring up to Dakota that evening," he says, referring to Ono and Lennon's home-office bordering Central Park. "The editor said John Lennon's been shot. I was just in shock."]]></paragraph>
+        <paragraph num="13"><![CDATA[One month later, Tannenbaum met up with the mourning widow Ono. Once again, his photos show her walking through Central Park. This time, however, there is no smile or husband — just a grimace and cold, white snow.  [Copyright 2011 National Public Radio]]]></paragraph>
+      </text>
+    </story>
+  </list>
+</nprml>
+<?xml version="1.0" encoding="UTF-8"?>
+<nprml version="0.94">
+  <list>
+    <title><![CDATA[NPR: Stories from NPR]]></title>
+    <teaser><![CDATA[Assorted stories from NPR]]></teaser>
+    <miniTeaser><![CDATA[Custom NPR News Feed API.  Visit http://www.npr.org/templates/apidoc/index.php for more information.]]></miniTeaser>
+    <link type="api">http://api.npr.org/query?searchTerm=%22no%20smile%22&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+    <story id="125093455">
+      <link type="html">http://www.npr.org/templates/story/story.php?storyId=125093455&amp;ft=3&amp;f=</link>
+      <link type="api">http://api.npr.org/query?id=125093455&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+      <title><![CDATA['Greenberg:' A One-Note Sonata That Doesn't Connect]]></title>
+      <transcript>
+        <link type="api">http://api.npr.org/transcript?id=125093455&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+      </transcript>
+      <audio id="125218201" type="primary">
+        <title/>
+        <duration>336</duration>
+        <description/>
+        <format>
+          <mp3 type="m3u">http://api.npr.org/m3u/1125218201-0fa16a.m3u?orgId=1&amp;topicId=1045&amp;aggIds=4467349&amp;ft=3&amp;f=</mp3>
+          <wm>http://www.npr.org/templates/dmg/dmg_wmref_em.php?id=125218201&amp;type=1&amp;mtype=WM&amp;orgId=1&amp;topicId=1045&amp;aggIds=4467349&amp;ft=3&amp;f=</wm>
+          <rm>http://www.npr.org/templates/dmg/dmg_rpm.rpm?id=125218201&amp;type=1&amp;mtype=RM&amp;orgId=1&amp;topicId=1045&amp;aggIds=4467349&amp;ft=3&amp;f=</rm>
+        </format>
+        <rightsHolder/>
+        <permissions>
+          <download allow="true"/>
+          <stream allow="true"/>
+          <embed allow="true"/>
+        </permissions>
+      </audio>
+      <text>
+        <paragraph num="1"><![CDATA[Noah Baumbach has gotten rave reviews for making the title character of Greenberg, played by Ben Stiller, largely unsympathetic. It's true it takes guts for Baumbach and Stiller to flout the Hollywood laws of likability so baldly, to make Roger Greenberg — a 40-ish unemployed New York carpenter in L.A. to housesit for his wealthy brother — not a charming jerk but a mopey, jerky jerk. But I wonder if there's a limit to how self-centered, how small you can make a character before you're punishing the audience. ]]></paragraph>
+        <paragraph num="2"><![CDATA[It's a line that has gotten more vague now that audiences are turned on by the aesthetic of squirm. You watch Larry David in Curb Your Enthusiasm, turning simple encounters into protracted psychodramas, and think, "Is this funny or painful?" Ideally, it's both — and when the approach works, as in Albert Brooks' Lost in America, you laugh at how these people can be so unaware of how ridiculous they look. It's their lack of embarrassment that makes them embarrassing.  ]]></paragraph>
+        <paragraph num="3"><![CDATA[But Greenberg  is meant to be dark and uncomfortably real, part of the indie genre dubbed mumblecore, in which characters grope through life without knowing what they want or even how they feel. The question is not what's eating Greenberg, but what isn't? He's prickly, he's paranoid; he's an injustice collector who writes long letters to companies to avenge small slights. He has been hospitalized for depression, and it's possible to sympathize with his annoyance when a noisy family that's been given permission to use his brother's pool invades his blessed silence.  ]]></paragraph>
+        <paragraph num="4"><![CDATA[But then comes the scene with his brother's personal assistant, Florence (Greta Gerwig), a bright young woman barely holding her life together. Greenberg gets drunk, as he often does, and paws her with no preamble, no banter, no smile — just a caveman sense of entitlement. And she doesn't slug him. She has so little self-worth, she thinks Roger is relationship material.  ]]></paragraph>
+        <paragraph num="5"><![CDATA[Baumbach, in his way, thinks so too. On one hand, he seizes every opportunity to score points off the character, building scenes to expose Roger's pretentiousness — so there's nothing to do but sit and wait for him to appall you again. On the other hand, Baumbach paces the movie as if this stunted child-man is some kind of fascinating case study, and you're invited to consider how he might be saved. Greenberg has the vague outline of a romance in which a prig learns to loosen up and care for someone else, but even Roger's breakthroughs reek of childish egotism. ]]></paragraph>
+        <paragraph num="6"><![CDATA[On their own terms, parts of Greenberg are perversely entertaining. Rhys Ifans plays the ex-bandmate Roger once let down by walking away from a recording contract. Their scenes are droopy and awkward, amusing for the ways in which Roger doesn't register his friend's everlasting hurt. And in Gerwig, Baumbach has an attractively flighty heroine: Early on, when Florence is running errands for Roger's brother's family, Gerwig fairly sings her lines, the melody keeping her buoyed up through the indignities of servitude. Later, as she endures Roger's passive-aggressive abuse, she clings to her spaciness as if to keep his craziness at bay. Greenberg might be a heckuva movie if we could just get Greenberg out of there. ]]></paragraph>
+        <paragraph num="7"><![CDATA[Baumbach and cinematographer Harris Savides create layers and levels of space to suggest a world with so much stuff — furniture, swimming pools, drugs — that people can go through life without connecting. But Roger doesn't connect with us. Even damaged, unpleasant characters need dramatic stature — something that transcends individual foolishness and strikes a larger chord. Greenberg is a one-note sonata.  [Copyright 2011 National Public Radio]]]></paragraph>
+      </text>
+    </story>
+    <story id="16145480">
+      <link type="html">http://www.npr.org/templates/story/story.php?storyId=16145480&amp;ft=3&amp;f=</link>
+      <link type="api">http://api.npr.org/query?id=16145480&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+      <title><![CDATA[Newly Released Photos Reveal Lennon's Final Days]]></title>
+      <transcript>
+        <link type="api">http://api.npr.org/transcript?id=16145480&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+      </transcript>
+      <audio id="16159017" type="primary">
+        <title/>
+        <duration>0</duration>
+        <description/>
+        <format>
+          <mp3 type="m3u">http://api.npr.org/m3u/116159017-3496bd.m3u?orgId=1&amp;topicId=1008&amp;aggIds=16470276&amp;ft=3&amp;f=</mp3>
+          <wm>http://www.npr.org/templates/dmg/dmg_wmref_em.php?id=16159017&amp;type=1&amp;mtype=WM&amp;orgId=1&amp;topicId=1008&amp;aggIds=16470276&amp;ft=3&amp;f=</wm>
+          <rm>http://www.npr.org/templates/dmg/dmg_rpm.rpm?id=16159017&amp;type=1&amp;mtype=RM&amp;orgId=1&amp;topicId=1008&amp;aggIds=16470276&amp;ft=3&amp;f=</rm>
+        </format>
+        <rightsHolder/>
+        <permissions>
+          <download allow="true"/>
+          <stream allow="true"/>
+          <embed allow="true"/>
+        </permissions>
+      </audio>
+      <text>
+        <paragraph num="1"><![CDATA["These are your photos but just be careful how you use them," photographer Allan Tannenbaum recalls that Yoko Ono advised on a series of intimate portraits he took of her and her husband John Lennon in November 1980. At the time of the conversation, neither had any idea that 10 days later the former Beatle would be dead. ]]></paragraph>
+        <paragraph num="2"><![CDATA[Despite many opportunities in the months that followed to publish the images, Tannenbaum opted to guard most of the pictures until now — 27 year years later. They appear in his new book, Yoko and John: A New York Love Story, a sort of peephole into the couple's final days together.]]></paragraph>
+        <paragraph num="3"><![CDATA[Initially Tannenbaum, then an employee of the SoHo Weekly News, only planned to photograph the artistic duo in New York's Central Park. While snapping them, however, he overheard something about a shoot for a video promoting their new album, Double Fantasy.]]></paragraph>
+        <paragraph num="4"><![CDATA["I kind of invited myself," recalls Tannenbaum, who suggested he attend as a stills photographer. ]]></paragraph>
+        <paragraph num="5"><![CDATA[At first Ono was hesitant. After five years out of the public eye, the couple was just beginning to warm up to the media. Following coffee, however, Ono told him, "John feels comfortable with you so you'll come with us to the studio." ]]></paragraph>
+        <paragraph num="6"><![CDATA[It seemed Lennon was ready to return to the spotlight. "I remember him telling me that when he picked up the guitar for the first time in many years it felt very heavy," Tannenbaum tells Alex Chadwick. "So when he came out and was ready to meet the world it was just very exciting." ]]></paragraph>
+        <paragraph num="7"><![CDATA[Upon arriving in a studio in SoHo where they would be filmed, Lennon and Ono changed from street clothes to colorful kimonos. Eventually, they removed these as well, hopping naked onto a bed and gliding through imitation lovemaking positions. ]]></paragraph>
+        <paragraph num="8"><![CDATA["I was thinking, I can't believe I am taking these photos," says Tannenbaum. ]]></paragraph>
+        <paragraph num="9"><![CDATA[Nudity was something Lennon and Ono appeared comfortable with: in 1968, they had flaunted their birthday suits on the cover of their Two Virgins album. ]]></paragraph>
+        <paragraph num="10"><![CDATA["Nudity was just another form of expression for them," Tannenbaum says. "They seemed very at ease and it was more of a tenderness that was being shown than a highly charged erotic situation."]]></paragraph>
+        <paragraph num="11"><![CDATA[As Tannenbaum prepared to deliver the photos to Lennon 10 days later, he was hit with devastating news: Lennon had been killed by a crazed fan. ]]></paragraph>
+        <paragraph num="12"><![CDATA["I was making prints that I was going to bring up to Dakota that evening," he says, referring to Ono and Lennon's home-office bordering Central Park. "The editor said John Lennon's been shot. I was just in shock."]]></paragraph>
+        <paragraph num="13"><![CDATA[One month later, Tannenbaum met up with the mourning widow Ono. Once again, his photos show her walking through Central Park. This time, however, there is no smile or husband — just a grimace and cold, white snow.  [Copyright 2011 National Public Radio]]]></paragraph>
+      </text>
+    </story>
+  </list>
+</nprml>
+<?xml version="1.0" encoding="UTF-8"?>
+<nprml version="0.94">
+  <list>
+    <title><![CDATA[NPR: Stories from NPR]]></title>
+    <teaser><![CDATA[Assorted stories from NPR]]></teaser>
+    <miniTeaser><![CDATA[Custom NPR News Feed API.  Visit http://www.npr.org/templates/apidoc/index.php for more information.]]></miniTeaser>
+    <link type="api">http://api.npr.org/query?searchTerm=%22no%20smile%22&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+    <story id="125093455">
+      <link type="html">http://www.npr.org/templates/story/story.php?storyId=125093455&amp;ft=3&amp;f=</link>
+      <link type="api">http://api.npr.org/query?id=125093455&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+      <title><![CDATA['Greenberg:' A One-Note Sonata That Doesn't Connect]]></title>
+      <transcript>
+        <link type="api">http://api.npr.org/transcript?id=125093455&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+      </transcript>
+      <audio id="125218201" type="primary">
+        <title/>
+        <duration>336</duration>
+        <description/>
+        <format>
+          <mp3 type="m3u">http://api.npr.org/m3u/1125218201-0fa16a.m3u?orgId=1&amp;topicId=1045&amp;aggIds=4467349&amp;ft=3&amp;f=</mp3>
+          <wm>http://www.npr.org/templates/dmg/dmg_wmref_em.php?id=125218201&amp;type=1&amp;mtype=WM&amp;orgId=1&amp;topicId=1045&amp;aggIds=4467349&amp;ft=3&amp;f=</wm>
+          <rm>http://www.npr.org/templates/dmg/dmg_rpm.rpm?id=125218201&amp;type=1&amp;mtype=RM&amp;orgId=1&amp;topicId=1045&amp;aggIds=4467349&amp;ft=3&amp;f=</rm>
+        </format>
+        <rightsHolder/>
+        <permissions>
+          <download allow="true"/>
+          <stream allow="true"/>
+          <embed allow="true"/>
+        </permissions>
+      </audio>
+      <text>
+        <paragraph num="1"><![CDATA[Noah Baumbach has gotten rave reviews for making the title character of Greenberg, played by Ben Stiller, largely unsympathetic. It's true it takes guts for Baumbach and Stiller to flout the Hollywood laws of likability so baldly, to make Roger Greenberg — a 40-ish unemployed New York carpenter in L.A. to housesit for his wealthy brother — not a charming jerk but a mopey, jerky jerk. But I wonder if there's a limit to how self-centered, how small you can make a character before you're punishing the audience. ]]></paragraph>
+        <paragraph num="2"><![CDATA[It's a line that has gotten more vague now that audiences are turned on by the aesthetic of squirm. You watch Larry David in Curb Your Enthusiasm, turning simple encounters into protracted psychodramas, and think, "Is this funny or painful?" Ideally, it's both — and when the approach works, as in Albert Brooks' Lost in America, you laugh at how these people can be so unaware of how ridiculous they look. It's their lack of embarrassment that makes them embarrassing.  ]]></paragraph>
+        <paragraph num="3"><![CDATA[But Greenberg  is meant to be dark and uncomfortably real, part of the indie genre dubbed mumblecore, in which characters grope through life without knowing what they want or even how they feel. The question is not what's eating Greenberg, but what isn't? He's prickly, he's paranoid; he's an injustice collector who writes long letters to companies to avenge small slights. He has been hospitalized for depression, and it's possible to sympathize with his annoyance when a noisy family that's been given permission to use his brother's pool invades his blessed silence.  ]]></paragraph>
+        <paragraph num="4"><![CDATA[But then comes the scene with his brother's personal assistant, Florence (Greta Gerwig), a bright young woman barely holding her life together. Greenberg gets drunk, as he often does, and paws her with no preamble, no banter, no smile — just a caveman sense of entitlement. And she doesn't slug him. She has so little self-worth, she thinks Roger is relationship material.  ]]></paragraph>
+        <paragraph num="5"><![CDATA[Baumbach, in his way, thinks so too. On one hand, he seizes every opportunity to score points off the character, building scenes to expose Roger's pretentiousness — so there's nothing to do but sit and wait for him to appall you again. On the other hand, Baumbach paces the movie as if this stunted child-man is some kind of fascinating case study, and you're invited to consider how he might be saved. Greenberg has the vague outline of a romance in which a prig learns to loosen up and care for someone else, but even Roger's breakthroughs reek of childish egotism. ]]></paragraph>
+        <paragraph num="6"><![CDATA[On their own terms, parts of Greenberg are perversely entertaining. Rhys Ifans plays the ex-bandmate Roger once let down by walking away from a recording contract. Their scenes are droopy and awkward, amusing for the ways in which Roger doesn't register his friend's everlasting hurt. And in Gerwig, Baumbach has an attractively flighty heroine: Early on, when Florence is running errands for Roger's brother's family, Gerwig fairly sings her lines, the melody keeping her buoyed up through the indignities of servitude. Later, as she endures Roger's passive-aggressive abuse, she clings to her spaciness as if to keep his craziness at bay. Greenberg might be a heckuva movie if we could just get Greenberg out of there. ]]></paragraph>
+        <paragraph num="7"><![CDATA[Baumbach and cinematographer Harris Savides create layers and levels of space to suggest a world with so much stuff — furniture, swimming pools, drugs — that people can go through life without connecting. But Roger doesn't connect with us. Even damaged, unpleasant characters need dramatic stature — something that transcends individual foolishness and strikes a larger chord. Greenberg is a one-note sonata.  [Copyright 2011 National Public Radio]]]></paragraph>
+      </text>
+    </story>
+    <story id="16145480">
+      <link type="html">http://www.npr.org/templates/story/story.php?storyId=16145480&amp;ft=3&amp;f=</link>
+      <link type="api">http://api.npr.org/query?id=16145480&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+      <title><![CDATA[Newly Released Photos Reveal Lennon's Final Days]]></title>
+      <transcript>
+        <link type="api">http://api.npr.org/transcript?id=16145480&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+      </transcript>
+      <audio id="16159017" type="primary">
+        <title/>
+        <duration>0</duration>
+        <description/>
+        <format>
+          <mp3 type="m3u">http://api.npr.org/m3u/116159017-3496bd.m3u?orgId=1&amp;topicId=1008&amp;aggIds=16470276&amp;ft=3&amp;f=</mp3>
+          <wm>http://www.npr.org/templates/dmg/dmg_wmref_em.php?id=16159017&amp;type=1&amp;mtype=WM&amp;orgId=1&amp;topicId=1008&amp;aggIds=16470276&amp;ft=3&amp;f=</wm>
+          <rm>http://www.npr.org/templates/dmg/dmg_rpm.rpm?id=16159017&amp;type=1&amp;mtype=RM&amp;orgId=1&amp;topicId=1008&amp;aggIds=16470276&amp;ft=3&amp;f=</rm>
+        </format>
+        <rightsHolder/>
+        <permissions>
+          <download allow="true"/>
+          <stream allow="true"/>
+          <embed allow="true"/>
+        </permissions>
+      </audio>
+      <text>
+        <paragraph num="1"><![CDATA["These are your photos but just be careful how you use them," photographer Allan Tannenbaum recalls that Yoko Ono advised on a series of intimate portraits he took of her and her husband John Lennon in November 1980. At the time of the conversation, neither had any idea that 10 days later the former Beatle would be dead. ]]></paragraph>
+        <paragraph num="2"><![CDATA[Despite many opportunities in the months that followed to publish the images, Tannenbaum opted to guard most of the pictures until now — 27 year years later. They appear in his new book, Yoko and John: A New York Love Story, a sort of peephole into the couple's final days together.]]></paragraph>
+        <paragraph num="3"><![CDATA[Initially Tannenbaum, then an employee of the SoHo Weekly News, only planned to photograph the artistic duo in New York's Central Park. While snapping them, however, he overheard something about a shoot for a video promoting their new album, Double Fantasy.]]></paragraph>
+        <paragraph num="4"><![CDATA["I kind of invited myself," recalls Tannenbaum, who suggested he attend as a stills photographer. ]]></paragraph>
+        <paragraph num="5"><![CDATA[At first Ono was hesitant. After five years out of the public eye, the couple was just beginning to warm up to the media. Following coffee, however, Ono told him, "John feels comfortable with you so you'll come with us to the studio." ]]></paragraph>
+        <paragraph num="6"><![CDATA[It seemed Lennon was ready to return to the spotlight. "I remember him telling me that when he picked up the guitar for the first time in many years it felt very heavy," Tannenbaum tells Alex Chadwick. "So when he came out and was ready to meet the world it was just very exciting." ]]></paragraph>
+        <paragraph num="7"><![CDATA[Upon arriving in a studio in SoHo where they would be filmed, Lennon and Ono changed from street clothes to colorful kimonos. Eventually, they removed these as well, hopping naked onto a bed and gliding through imitation lovemaking positions. ]]></paragraph>
+        <paragraph num="8"><![CDATA["I was thinking, I can't believe I am taking these photos," says Tannenbaum. ]]></paragraph>
+        <paragraph num="9"><![CDATA[Nudity was something Lennon and Ono appeared comfortable with: in 1968, they had flaunted their birthday suits on the cover of their Two Virgins album. ]]></paragraph>
+        <paragraph num="10"><![CDATA["Nudity was just another form of expression for them," Tannenbaum says. "They seemed very at ease and it was more of a tenderness that was being shown than a highly charged erotic situation."]]></paragraph>
+        <paragraph num="11"><![CDATA[As Tannenbaum prepared to deliver the photos to Lennon 10 days later, he was hit with devastating news: Lennon had been killed by a crazed fan. ]]></paragraph>
+        <paragraph num="12"><![CDATA["I was making prints that I was going to bring up to Dakota that evening," he says, referring to Ono and Lennon's home-office bordering Central Park. "The editor said John Lennon's been shot. I was just in shock."]]></paragraph>
+        <paragraph num="13"><![CDATA[One month later, Tannenbaum met up with the mourning widow Ono. Once again, his photos show her walking through Central Park. This time, however, there is no smile or husband — just a grimace and cold, white snow.  [Copyright 2011 National Public Radio]]]></paragraph>
+      </text>
+    </story>
+  </list>
+</nprml>
+<?xml version="1.0" encoding="UTF-8"?>
+<nprml version="0.94">
+  <list>
+    <title><![CDATA[NPR: Stories from NPR]]></title>
+    <teaser><![CDATA[Assorted stories from NPR]]></teaser>
+    <miniTeaser><![CDATA[Custom NPR News Feed API.  Visit http://www.npr.org/templates/apidoc/index.php for more information.]]></miniTeaser>
+    <link type="api">http://api.npr.org/query?searchTerm=%22no%20smile%22&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+    <story id="125093455">
+      <link type="html">http://www.npr.org/templates/story/story.php?storyId=125093455&amp;ft=3&amp;f=</link>
+      <link type="api">http://api.npr.org/query?id=125093455&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+      <title><![CDATA['Greenberg:' A One-Note Sonata That Doesn't Connect]]></title>
+      <transcript>
+        <link type="api">http://api.npr.org/transcript?id=125093455&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+      </transcript>
+      <audio id="125218201" type="primary">
+        <title/>
+        <duration>336</duration>
+        <description/>
+        <format>
+          <mp3 type="m3u">http://api.npr.org/m3u/1125218201-0fa16a.m3u?orgId=1&amp;topicId=1045&amp;aggIds=4467349&amp;ft=3&amp;f=</mp3>
+          <wm>http://www.npr.org/templates/dmg/dmg_wmref_em.php?id=125218201&amp;type=1&amp;mtype=WM&amp;orgId=1&amp;topicId=1045&amp;aggIds=4467349&amp;ft=3&amp;f=</wm>
+          <rm>http://www.npr.org/templates/dmg/dmg_rpm.rpm?id=125218201&amp;type=1&amp;mtype=RM&amp;orgId=1&amp;topicId=1045&amp;aggIds=4467349&amp;ft=3&amp;f=</rm>
+        </format>
+        <rightsHolder/>
+        <permissions>
+          <download allow="true"/>
+          <stream allow="true"/>
+          <embed allow="true"/>
+        </permissions>
+      </audio>
+      <text>
+        <paragraph num="1"><![CDATA[Noah Baumbach has gotten rave reviews for making the title character of Greenberg, played by Ben Stiller, largely unsympathetic. It's true it takes guts for Baumbach and Stiller to flout the Hollywood laws of likability so baldly, to make Roger Greenberg — a 40-ish unemployed New York carpenter in L.A. to housesit for his wealthy brother — not a charming jerk but a mopey, jerky jerk. But I wonder if there's a limit to how self-centered, how small you can make a character before you're punishing the audience. ]]></paragraph>
+        <paragraph num="2"><![CDATA[It's a line that has gotten more vague now that audiences are turned on by the aesthetic of squirm. You watch Larry David in Curb Your Enthusiasm, turning simple encounters into protracted psychodramas, and think, "Is this funny or painful?" Ideally, it's both — and when the approach works, as in Albert Brooks' Lost in America, you laugh at how these people can be so unaware of how ridiculous they look. It's their lack of embarrassment that makes them embarrassing.  ]]></paragraph>
+        <paragraph num="3"><![CDATA[But Greenberg  is meant to be dark and uncomfortably real, part of the indie genre dubbed mumblecore, in which characters grope through life without knowing what they want or even how they feel. The question is not what's eating Greenberg, but what isn't? He's prickly, he's paranoid; he's an injustice collector who writes long letters to companies to avenge small slights. He has been hospitalized for depression, and it's possible to sympathize with his annoyance when a noisy family that's been given permission to use his brother's pool invades his blessed silence.  ]]></paragraph>
+        <paragraph num="4"><![CDATA[But then comes the scene with his brother's personal assistant, Florence (Greta Gerwig), a bright young woman barely holding her life together. Greenberg gets drunk, as he often does, and paws her with no preamble, no banter, no smile — just a caveman sense of entitlement. And she doesn't slug him. She has so little self-worth, she thinks Roger is relationship material.  ]]></paragraph>
+        <paragraph num="5"><![CDATA[Baumbach, in his way, thinks so too. On one hand, he seizes every opportunity to score points off the character, building scenes to expose Roger's pretentiousness — so there's nothing to do but sit and wait for him to appall you again. On the other hand, Baumbach paces the movie as if this stunted child-man is some kind of fascinating case study, and you're invited to consider how he might be saved. Greenberg has the vague outline of a romance in which a prig learns to loosen up and care for someone else, but even Roger's breakthroughs reek of childish egotism. ]]></paragraph>
+        <paragraph num="6"><![CDATA[On their own terms, parts of Greenberg are perversely entertaining. Rhys Ifans plays the ex-bandmate Roger once let down by walking away from a recording contract. Their scenes are droopy and awkward, amusing for the ways in which Roger doesn't register his friend's everlasting hurt. And in Gerwig, Baumbach has an attractively flighty heroine: Early on, when Florence is running errands for Roger's brother's family, Gerwig fairly sings her lines, the melody keeping her buoyed up through the indignities of servitude. Later, as she endures Roger's passive-aggressive abuse, she clings to her spaciness as if to keep his craziness at bay. Greenberg might be a heckuva movie if we could just get Greenberg out of there. ]]></paragraph>
+        <paragraph num="7"><![CDATA[Baumbach and cinematographer Harris Savides create layers and levels of space to suggest a world with so much stuff — furniture, swimming pools, drugs — that people can go through life without connecting. But Roger doesn't connect with us. Even damaged, unpleasant characters need dramatic stature — something that transcends individual foolishness and strikes a larger chord. Greenberg is a one-note sonata.  [Copyright 2011 National Public Radio]]]></paragraph>
+      </text>
+    </story>
+    <story id="16145480">
+      <link type="html">http://www.npr.org/templates/story/story.php?storyId=16145480&amp;ft=3&amp;f=</link>
+      <link type="api">http://api.npr.org/query?id=16145480&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+      <title><![CDATA[Newly Released Photos Reveal Lennon's Final Days]]></title>
+      <transcript>
+        <link type="api">http://api.npr.org/transcript?id=16145480&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+      </transcript>
+      <audio id="16159017" type="primary">
+        <title/>
+        <duration>0</duration>
+        <description/>
+        <format>
+          <mp3 type="m3u">http://api.npr.org/m3u/116159017-3496bd.m3u?orgId=1&amp;topicId=1008&amp;aggIds=16470276&amp;ft=3&amp;f=</mp3>
+          <wm>http://www.npr.org/templates/dmg/dmg_wmref_em.php?id=16159017&amp;type=1&amp;mtype=WM&amp;orgId=1&amp;topicId=1008&amp;aggIds=16470276&amp;ft=3&amp;f=</wm>
+          <rm>http://www.npr.org/templates/dmg/dmg_rpm.rpm?id=16159017&amp;type=1&amp;mtype=RM&amp;orgId=1&amp;topicId=1008&amp;aggIds=16470276&amp;ft=3&amp;f=</rm>
+        </format>
+        <rightsHolder/>
+        <permissions>
+          <download allow="true"/>
+          <stream allow="true"/>
+          <embed allow="true"/>
+        </permissions>
+      </audio>
+      <text>
+        <paragraph num="1"><![CDATA["These are your photos but just be careful how you use them," photographer Allan Tannenbaum recalls that Yoko Ono advised on a series of intimate portraits he took of her and her husband John Lennon in November 1980. At the time of the conversation, neither had any idea that 10 days later the former Beatle would be dead. ]]></paragraph>
+        <paragraph num="2"><![CDATA[Despite many opportunities in the months that followed to publish the images, Tannenbaum opted to guard most of the pictures until now — 27 year years later. They appear in his new book, Yoko and John: A New York Love Story, a sort of peephole into the couple's final days together.]]></paragraph>
+        <paragraph num="3"><![CDATA[Initially Tannenbaum, then an employee of the SoHo Weekly News, only planned to photograph the artistic duo in New York's Central Park. While snapping them, however, he overheard something about a shoot for a video promoting their new album, Double Fantasy.]]></paragraph>
+        <paragraph num="4"><![CDATA["I kind of invited myself," recalls Tannenbaum, who suggested he attend as a stills photographer. ]]></paragraph>
+        <paragraph num="5"><![CDATA[At first Ono was hesitant. After five years out of the public eye, the couple was just beginning to warm up to the media. Following coffee, however, Ono told him, "John feels comfortable with you so you'll come with us to the studio." ]]></paragraph>
+        <paragraph num="6"><![CDATA[It seemed Lennon was ready to return to the spotlight. "I remember him telling me that when he picked up the guitar for the first time in many years it felt very heavy," Tannenbaum tells Alex Chadwick. "So when he came out and was ready to meet the world it was just very exciting." ]]></paragraph>
+        <paragraph num="7"><![CDATA[Upon arriving in a studio in SoHo where they would be filmed, Lennon and Ono changed from street clothes to colorful kimonos. Eventually, they removed these as well, hopping naked onto a bed and gliding through imitation lovemaking positions. ]]></paragraph>
+        <paragraph num="8"><![CDATA["I was thinking, I can't believe I am taking these photos," says Tannenbaum. ]]></paragraph>
+        <paragraph num="9"><![CDATA[Nudity was something Lennon and Ono appeared comfortable with: in 1968, they had flaunted their birthday suits on the cover of their Two Virgins album. ]]></paragraph>
+        <paragraph num="10"><![CDATA["Nudity was just another form of expression for them," Tannenbaum says. "They seemed very at ease and it was more of a tenderness that was being shown than a highly charged erotic situation."]]></paragraph>
+        <paragraph num="11"><![CDATA[As Tannenbaum prepared to deliver the photos to Lennon 10 days later, he was hit with devastating news: Lennon had been killed by a crazed fan. ]]></paragraph>
+        <paragraph num="12"><![CDATA["I was making prints that I was going to bring up to Dakota that evening," he says, referring to Ono and Lennon's home-office bordering Central Park. "The editor said John Lennon's been shot. I was just in shock."]]></paragraph>
+        <paragraph num="13"><![CDATA[One month later, Tannenbaum met up with the mourning widow Ono. Once again, his photos show her walking through Central Park. This time, however, there is no smile or husband — just a grimace and cold, white snow.  [Copyright 2011 National Public Radio]]]></paragraph>
+      </text>
+    </story>
+  </list>
+</nprml>
+<?xml version="1.0" encoding="UTF-8"?>
+<nprml version="0.94">
+  <list>
+    <title><![CDATA[NPR: Stories from NPR]]></title>
+    <teaser><![CDATA[Assorted stories from NPR]]></teaser>
+    <miniTeaser><![CDATA[Custom NPR News Feed API.  Visit http://www.npr.org/templates/apidoc/index.php for more information.]]></miniTeaser>
+    <link type="api">http://api.npr.org/query?searchTerm=%22no%20smile%22&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+    <story id="125093455">
+      <link type="html">http://www.npr.org/templates/story/story.php?storyId=125093455&amp;ft=3&amp;f=</link>
+      <link type="api">http://api.npr.org/query?id=125093455&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+      <title><![CDATA['Greenberg:' A One-Note Sonata That Doesn't Connect]]></title>
+      <transcript>
+        <link type="api">http://api.npr.org/transcript?id=125093455&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+      </transcript>
+      <audio id="125218201" type="primary">
+        <title/>
+        <duration>336</duration>
+        <description/>
+        <format>
+          <mp3 type="m3u">http://api.npr.org/m3u/1125218201-0fa16a.m3u?orgId=1&amp;topicId=1045&amp;aggIds=4467349&amp;ft=3&amp;f=</mp3>
+          <wm>http://www.npr.org/templates/dmg/dmg_wmref_em.php?id=125218201&amp;type=1&amp;mtype=WM&amp;orgId=1&amp;topicId=1045&amp;aggIds=4467349&amp;ft=3&amp;f=</wm>
+          <rm>http://www.npr.org/templates/dmg/dmg_rpm.rpm?id=125218201&amp;type=1&amp;mtype=RM&amp;orgId=1&amp;topicId=1045&amp;aggIds=4467349&amp;ft=3&amp;f=</rm>
+        </format>
+        <rightsHolder/>
+        <permissions>
+          <download allow="true"/>
+          <stream allow="true"/>
+          <embed allow="true"/>
+        </permissions>
+      </audio>
+      <text>
+        <paragraph num="1"><![CDATA[Noah Baumbach has gotten rave reviews for making the title character of Greenberg, played by Ben Stiller, largely unsympathetic. It's true it takes guts for Baumbach and Stiller to flout the Hollywood laws of likability so baldly, to make Roger Greenberg — a 40-ish unemployed New York carpenter in L.A. to housesit for his wealthy brother — not a charming jerk but a mopey, jerky jerk. But I wonder if there's a limit to how self-centered, how small you can make a character before you're punishing the audience. ]]></paragraph>
+        <paragraph num="2"><![CDATA[It's a line that has gotten more vague now that audiences are turned on by the aesthetic of squirm. You watch Larry David in Curb Your Enthusiasm, turning simple encounters into protracted psychodramas, and think, "Is this funny or painful?" Ideally, it's both — and when the approach works, as in Albert Brooks' Lost in America, you laugh at how these people can be so unaware of how ridiculous they look. It's their lack of embarrassment that makes them embarrassing.  ]]></paragraph>
+        <paragraph num="3"><![CDATA[But Greenberg  is meant to be dark and uncomfortably real, part of the indie genre dubbed mumblecore, in which characters grope through life without knowing what they want or even how they feel. The question is not what's eating Greenberg, but what isn't? He's prickly, he's paranoid; he's an injustice collector who writes long letters to companies to avenge small slights. He has been hospitalized for depression, and it's possible to sympathize with his annoyance when a noisy family that's been given permission to use his brother's pool invades his blessed silence.  ]]></paragraph>
+        <paragraph num="4"><![CDATA[But then comes the scene with his brother's personal assistant, Florence (Greta Gerwig), a bright young woman barely holding her life together. Greenberg gets drunk, as he often does, and paws her with no preamble, no banter, no smile — just a caveman sense of entitlement. And she doesn't slug him. She has so little self-worth, she thinks Roger is relationship material.  ]]></paragraph>
+        <paragraph num="5"><![CDATA[Baumbach, in his way, thinks so too. On one hand, he seizes every opportunity to score points off the character, building scenes to expose Roger's pretentiousness — so there's nothing to do but sit and wait for him to appall you again. On the other hand, Baumbach paces the movie as if this stunted child-man is some kind of fascinating case study, and you're invited to consider how he might be saved. Greenberg has the vague outline of a romance in which a prig learns to loosen up and care for someone else, but even Roger's breakthroughs reek of childish egotism. ]]></paragraph>
+        <paragraph num="6"><![CDATA[On their own terms, parts of Greenberg are perversely entertaining. Rhys Ifans plays the ex-bandmate Roger once let down by walking away from a recording contract. Their scenes are droopy and awkward, amusing for the ways in which Roger doesn't register his friend's everlasting hurt. And in Gerwig, Baumbach has an attractively flighty heroine: Early on, when Florence is running errands for Roger's brother's family, Gerwig fairly sings her lines, the melody keeping her buoyed up through the indignities of servitude. Later, as she endures Roger's passive-aggressive abuse, she clings to her spaciness as if to keep his craziness at bay. Greenberg might be a heckuva movie if we could just get Greenberg out of there. ]]></paragraph>
+        <paragraph num="7"><![CDATA[Baumbach and cinematographer Harris Savides create layers and levels of space to suggest a world with so much stuff — furniture, swimming pools, drugs — that people can go through life without connecting. But Roger doesn't connect with us. Even damaged, unpleasant characters need dramatic stature — something that transcends individual foolishness and strikes a larger chord. Greenberg is a one-note sonata.  [Copyright 2011 National Public Radio]]]></paragraph>
+      </text>
+    </story>
+    <story id="16145480">
+      <link type="html">http://www.npr.org/templates/story/story.php?storyId=16145480&amp;ft=3&amp;f=</link>
+      <link type="api">http://api.npr.org/query?id=16145480&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+      <title><![CDATA[Newly Released Photos Reveal Lennon's Final Days]]></title>
+      <transcript>
+        <link type="api">http://api.npr.org/transcript?id=16145480&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+      </transcript>
+      <audio id="16159017" type="primary">
+        <title/>
+        <duration>0</duration>
+        <description/>
+        <format>
+          <mp3 type="m3u">http://api.npr.org/m3u/116159017-3496bd.m3u?orgId=1&amp;topicId=1008&amp;aggIds=16470276&amp;ft=3&amp;f=</mp3>
+          <wm>http://www.npr.org/templates/dmg/dmg_wmref_em.php?id=16159017&amp;type=1&amp;mtype=WM&amp;orgId=1&amp;topicId=1008&amp;aggIds=16470276&amp;ft=3&amp;f=</wm>
+          <rm>http://www.npr.org/templates/dmg/dmg_rpm.rpm?id=16159017&amp;type=1&amp;mtype=RM&amp;orgId=1&amp;topicId=1008&amp;aggIds=16470276&amp;ft=3&amp;f=</rm>
+        </format>
+        <rightsHolder/>
+        <permissions>
+          <download allow="true"/>
+          <stream allow="true"/>
+          <embed allow="true"/>
+        </permissions>
+      </audio>
+      <text>
+        <paragraph num="1"><![CDATA["These are your photos but just be careful how you use them," photographer Allan Tannenbaum recalls that Yoko Ono advised on a series of intimate portraits he took of her and her husband John Lennon in November 1980. At the time of the conversation, neither had any idea that 10 days later the former Beatle would be dead. ]]></paragraph>
+        <paragraph num="2"><![CDATA[Despite many opportunities in the months that followed to publish the images, Tannenbaum opted to guard most of the pictures until now — 27 year years later. They appear in his new book, Yoko and John: A New York Love Story, a sort of peephole into the couple's final days together.]]></paragraph>
+        <paragraph num="3"><![CDATA[Initially Tannenbaum, then an employee of the SoHo Weekly News, only planned to photograph the artistic duo in New York's Central Park. While snapping them, however, he overheard something about a shoot for a video promoting their new album, Double Fantasy.]]></paragraph>
+        <paragraph num="4"><![CDATA["I kind of invited myself," recalls Tannenbaum, who suggested he attend as a stills photographer. ]]></paragraph>
+        <paragraph num="5"><![CDATA[At first Ono was hesitant. After five years out of the public eye, the couple was just beginning to warm up to the media. Following coffee, however, Ono told him, "John feels comfortable with you so you'll come with us to the studio." ]]></paragraph>
+        <paragraph num="6"><![CDATA[It seemed Lennon was ready to return to the spotlight. "I remember him telling me that when he picked up the guitar for the first time in many years it felt very heavy," Tannenbaum tells Alex Chadwick. "So when he came out and was ready to meet the world it was just very exciting." ]]></paragraph>
+        <paragraph num="7"><![CDATA[Upon arriving in a studio in SoHo where they would be filmed, Lennon and Ono changed from street clothes to colorful kimonos. Eventually, they removed these as well, hopping naked onto a bed and gliding through imitation lovemaking positions. ]]></paragraph>
+        <paragraph num="8"><![CDATA["I was thinking, I can't believe I am taking these photos," says Tannenbaum. ]]></paragraph>
+        <paragraph num="9"><![CDATA[Nudity was something Lennon and Ono appeared comfortable with: in 1968, they had flaunted their birthday suits on the cover of their Two Virgins album. ]]></paragraph>
+        <paragraph num="10"><![CDATA["Nudity was just another form of expression for them," Tannenbaum says. "They seemed very at ease and it was more of a tenderness that was being shown than a highly charged erotic situation."]]></paragraph>
+        <paragraph num="11"><![CDATA[As Tannenbaum prepared to deliver the photos to Lennon 10 days later, he was hit with devastating news: Lennon had been killed by a crazed fan. ]]></paragraph>
+        <paragraph num="12"><![CDATA["I was making prints that I was going to bring up to Dakota that evening," he says, referring to Ono and Lennon's home-office bordering Central Park. "The editor said John Lennon's been shot. I was just in shock."]]></paragraph>
+        <paragraph num="13"><![CDATA[One month later, Tannenbaum met up with the mourning widow Ono. Once again, his photos show her walking through Central Park. This time, however, there is no smile or husband — just a grimace and cold, white snow.  [Copyright 2011 National Public Radio]]]></paragraph>
+      </text>
+    </story>
+  </list>
+</nprml>

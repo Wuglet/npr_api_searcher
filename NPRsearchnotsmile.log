@@ -1,0 +1,990 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nprml version="0.94">
+  <list>
+    <title><![CDATA[NPR: Stories from NPR]]></title>
+    <teaser><![CDATA[Assorted stories from NPR]]></teaser>
+    <miniTeaser><![CDATA[Custom NPR News Feed API.  Visit http://www.npr.org/templates/apidoc/index.php for more information.]]></miniTeaser>
+    <link type="api">http://api.npr.org/query?searchTerm=%22not%20smile%22&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+    <story id="89489934">
+      <link type="html">http://www.npr.org/templates/story/story.php?storyId=89489934&amp;ft=3&amp;f=</link>
+      <link type="api">http://api.npr.org/query?id=89489934&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+      <title><![CDATA[Preparing African Warriors to Meet the British]]></title>
+      <transcript>
+        <link type="api">http://api.npr.org/transcript?id=89489934&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+      </transcript>
+      <audio id="89489873" type="primary">
+        <title/>
+        <duration>0</duration>
+        <description/>
+        <format>
+          <mp3 type="m3u">http://api.npr.org/m3u/189489873-f48dc3.m3u?orgId=1&amp;topicId=1004&amp;ft=3&amp;f=</mp3>
+          <wm>http://www.npr.org/templates/dmg/dmg_wmref_em.php?id=89489873&amp;type=1&amp;mtype=WM&amp;orgId=1&amp;topicId=1004&amp;ft=3&amp;f=</wm>
+          <rm>http://www.npr.org/templates/dmg/dmg_rpm.rpm?id=89489873&amp;type=1&amp;mtype=RM&amp;orgId=1&amp;topicId=1004&amp;ft=3&amp;f=</rm>
+        </format>
+        <rightsHolder/>
+        <permissions>
+          <download allow="true"/>
+          <stream allow="true"/>
+          <embed allow="false"/>
+        </permissions>
+      </audio>
+      <text>
+        <paragraph num="1"><![CDATA[Six Maasai warriors have left their village in Tanzania for the first time in their lives. On Sunday, they will be among 30,000 people running the London Marathon. The Maasai aren't running for glory, but to raise money to build a drinking water well for their village. ]]></paragraph>
+        <paragraph num="2"><![CDATA[In anticipation of their trip, the conservation charity Greenforce prepared a pamphlet to help the Maasai meet the strange residents of London.  Below are two selections typical of the cultural translation:]]></paragraph>
+        <paragraph num="3"><![CDATA[Even though some may look like they have a frown on their face, they are very friendly people — many of them just work in offices in jobs they don't enjoy and so they do not smile as much as they should do!!]]></paragraph>
+        <paragraph num="4"><![CDATA[Although English people share a lot, they do not do so to the same extent that the Maasai do. If you see something that someone else has (like a bracelet) and you like it, then the person will find it very unusual if you were to take it and wear it! ]]></paragraph>
+        <paragraph num="5"><![CDATA[Greenforce managing director Marcus Watts says of all the eventualities his group anticipated, London's weather is one that defied careful planning. When a blanket of fresh snow fell overnight in greater London, the Maasai were in for a sight. "Suddenly all the grass was white, a phenomenon they'd never seen before," Watts says.]]></paragraph>
+        <paragraph num="6"><![CDATA[Whatever other superlatives await during the 10-day trip, Watts says, it's unlikely the warriors will post low times at the marathon. "They'll run with swords and shields," he says, adding that back home, they sometimes run for 14 to 15 hours while rounding up cattle. It's all about stamina. ]]></paragraph>
+        <paragraph num="7"><![CDATA[Watts says their trip will live on for a long time. "They can't write," he says, explaining that instead, the six have been gathering each night, staying up for hours, sharing reports about what they've seen in England. It's preparation, he says, for all of the storytelling they'll do when they return. ]]></paragraph>
+        <paragraph num="8"><![CDATA["I know these stories from their visit to London for 10 days will probably be told for generation after generation."  [Copyright 2011 National Public Radio]]]></paragraph>
+      </text>
+    </story>
+    <story id="18164366">
+      <link type="html">http://www.npr.org/templates/story/story.php?storyId=18164366&amp;ft=3&amp;f=</link>
+      <link type="api">http://api.npr.org/query?id=18164366&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+      <title><![CDATA[Iraqi Refugees Suffer Long-Term Effects of Torture]]></title>
+      <transcript>
+        <link type="api">http://api.npr.org/transcript?id=18164366&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+      </transcript>
+      <audio id="18195309" type="primary">
+        <title/>
+        <duration>0</duration>
+        <description/>
+        <format>
+          <mp3 type="m3u">http://api.npr.org/m3u/118195309-115296.m3u?orgId=1&amp;topicId=1010&amp;ft=3&amp;f=</mp3>
+          <wm>http://www.npr.org/templates/dmg/dmg_wmref_em.php?id=18195309&amp;type=1&amp;mtype=WM&amp;orgId=1&amp;topicId=1010&amp;ft=3&amp;f=</wm>
+          <rm>http://www.npr.org/templates/dmg/dmg_rpm.rpm?id=18195309&amp;type=1&amp;mtype=RM&amp;orgId=1&amp;topicId=1010&amp;ft=3&amp;f=</rm>
+        </format>
+        <rightsHolder/>
+        <permissions>
+          <download allow="true"/>
+          <stream allow="true"/>
+          <embed allow="true"/>
+        </permissions>
+      </audio>
+      <text>
+        <paragraph num="1"><![CDATA[One of the grim legacies of the war in Iraq is the vast number of torture victims. One in five Iraqi refugees has been tortured or has suffered from other violence, according to data collected by United Nations in Syria.]]></paragraph>
+        <paragraph num="2"><![CDATA[Allegations of torture have surfaced since the war began — reportedly committed by Iraqi security forces, militia groups, insurgents and U.S. guards at the Iraqi prison Abu Ghraib. ]]></paragraph>
+        <paragraph num="3"><![CDATA[Victims can heal from the physical wounds, but the long-term psychological damage can be profound.]]></paragraph>
+        <paragraph num="4"><![CDATA[Naseer's Story]]></paragraph>
+        <paragraph num="5"><![CDATA[Nibras Naseer is a rail-thin 18-year-old. He fled Iraq more than a year ago, he says, after spending 10 days in a hospital for injuries that resulted from severe beatings.]]></paragraph>
+        <paragraph num="6"><![CDATA[He now lives in a fifth-floor walk-up in Damascus, a spare space he shares with his uncle's family. The only decoration is a picture of Jesus on the wall. The apartment building fills up with the laughter of children when school lets out, but even when his nephew bounds into the apartment, Naseer does not smile. ]]></paragraph>
+        <paragraph num="7"><![CDATA[What happened to Naseer has happened to many Iraqis, but very few are willing to talk about it.]]></paragraph>
+        <paragraph num="8"><![CDATA["I am just trying to forget what happened to me," Naseer says. "I can't say that I can sleep. Sometimes I can, sometimes I can't. I am trying my best to forget what happened to me."]]></paragraph>
+        <paragraph num="9"><![CDATA[In 2006, Naseer was kidnapped from his Baghdad neighborhood, shoved into the trunk of a car and subjected, he says, to weeks of so-called investigation, along with six other Iraqi men and an 11-year-old boy. ]]></paragraph>
+        <paragraph num="10"><![CDATA[His kidnappers identified themselves as members of al-Qaida in Iraq, Naseer says; they made it clear that for any of the captives who worked for the U.S. military or the Iraqi government, the punishment would be beheading. ]]></paragraph>
+        <paragraph num="11"><![CDATA[Constant Fear of Execution]]></paragraph>
+        <paragraph num="12"><![CDATA[After more than a week of repeated interrogations and beatings, three of the Iraqis were executed, Naseer says. ]]></paragraph>
+        <paragraph num="13"><![CDATA["I told you we were together when they took the three guys away from us. They forced us to watch the whole procedure," Naseer says. "For me, I couldn't watch the whole thing. I started to cry; maybe I prefer to die at that moment." ]]></paragraph>
+        <paragraph num="14"><![CDATA[Naseer spent the nights talking to his fellow prisoners, Iraqis who shared their life stories and their terror. A few days later, the jailers condemned three more prisoners — men he had come to know — to the same gruesome death.]]></paragraph>
+        <paragraph num="15"><![CDATA["I remember the names: Hammed, Ali, Omar," Naseer says. "When I watched the second time, I was thinking, 'I'm the next,' and I didn't have any hope in life — like even less than 1 percent."]]></paragraph>
+        <paragraph num="16"><![CDATA[Few Were Spared]]></paragraph>
+        <paragraph num="17"><![CDATA[U.S. soldiers have dismantled a number of torture houses in Iraq. In places like these, few were spared, Naseer says, including the 11-year-old boy. The kidnappers accused the boy of spotting for U.S. soldiers — pointing out explosive devices hidden in his neighborhood — and they forced him to admit that he had helped the Americans. ]]></paragraph>
+        <paragraph num="18"><![CDATA["They took him out, and they killed him the same way, and I went crazy. I lost my mind," Naseer says. ]]></paragraph>
+        <paragraph num="19"><![CDATA[As Naseer tells his story, his shoulders hunch slightly. The only outward flicker of emotion comes when he recounts his unexpected release after his family paid a $30,000 ransom. He has no idea why he is alive, or if he will ever get over what happened to him. ]]></paragraph>
+        <paragraph num="20"><![CDATA[Counseling for Refugees]]></paragraph>
+        <paragraph num="21"><![CDATA[Naseer's case is far from unique. U.N. officials say more than 20,000 Iraqis have defined themselves as torture victims when signing up for refugee status. A more recent study of the refugee community in Syria reveals that the overall number of torture victims is likely to include many thousands more. That means Iraqi refugees will need more than the basics of food and housing, U.N. officials say. ]]></paragraph>
+        <paragraph num="22"><![CDATA[Suzanne Jabbour is the chief psychologist at a clinic in Lebanon that opened in December. The U.N. pays for the mental health professionals from a nonprofit organization called Re-Start. Jabbour says more than 50 patients are already in the new program; the majority are Iraqi refugees.]]></paragraph>
+        <paragraph num="23"><![CDATA[But only refugees in Lebanon are treated, Jabbour says. Because of tight border restrictions, she cannot take on cases from Syria, where the need is much greater. ]]></paragraph>
+        <paragraph num="24"><![CDATA["There is no way that a person who has been through whatever these people have been through can survive, unless they have treatment. And even after that, they need people to help them to make a life and establish themselves. Unless that person can find that amount of help, he will reach a stage where his life will become meaningless, and he might become suicidal," Jabbour says. ]]></paragraph>
+        <paragraph num="25"><![CDATA['The Worst Is Yet to Come']]></paragraph>
+        <paragraph num="26"><![CDATA[Jabbour says the people being treated in Lebanon have a chance of recovery. But she is not optimistic about the refugees in Syria, who have little or no access to mental health services now. ]]></paragraph>
+        <paragraph num="27"><![CDATA["The worst is yet to come for these people in Damascus," Jabbour says. ]]></paragraph>
+        <paragraph num="28"><![CDATA[And that may be the fate of Nibras Naseer. In the small apartment in Damascus, Naseer ignores his cell phone when it rings. He struggles alone with his nightmares.]]></paragraph>
+        <paragraph num="29"><![CDATA[There are thousands more like him — refugees who often cut themselves off from the rest of the community. ]]></paragraph>
+        <paragraph num="30"><![CDATA["All the time I am sitting at home," Naseer says. "I don't work, I don't do anything. Well, I can't trust anybody ... and I don't know what will happen."  [Copyright 2011 National Public Radio]]]></paragraph>
+      </text>
+    </story>
+  </list>
+</nprml>
+<?xml version="1.0" encoding="UTF-8"?>
+<nprml version="0.94">
+  <list>
+    <title><![CDATA[NPR: Stories from NPR]]></title>
+    <teaser><![CDATA[Assorted stories from NPR]]></teaser>
+    <miniTeaser><![CDATA[Custom NPR News Feed API.  Visit http://www.npr.org/templates/apidoc/index.php for more information.]]></miniTeaser>
+    <link type="api">http://api.npr.org/query?searchTerm=%22not%20smile%22&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+    <story id="89489934">
+      <link type="html">http://www.npr.org/templates/story/story.php?storyId=89489934&amp;ft=3&amp;f=</link>
+      <link type="api">http://api.npr.org/query?id=89489934&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+      <title><![CDATA[Preparing African Warriors to Meet the British]]></title>
+      <transcript>
+        <link type="api">http://api.npr.org/transcript?id=89489934&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+      </transcript>
+      <audio id="89489873" type="primary">
+        <title/>
+        <duration>0</duration>
+        <description/>
+        <format>
+          <mp3 type="m3u">http://api.npr.org/m3u/189489873-f48dc3.m3u?orgId=1&amp;topicId=1004&amp;ft=3&amp;f=</mp3>
+          <wm>http://www.npr.org/templates/dmg/dmg_wmref_em.php?id=89489873&amp;type=1&amp;mtype=WM&amp;orgId=1&amp;topicId=1004&amp;ft=3&amp;f=</wm>
+          <rm>http://www.npr.org/templates/dmg/dmg_rpm.rpm?id=89489873&amp;type=1&amp;mtype=RM&amp;orgId=1&amp;topicId=1004&amp;ft=3&amp;f=</rm>
+        </format>
+        <rightsHolder/>
+        <permissions>
+          <download allow="true"/>
+          <stream allow="true"/>
+          <embed allow="false"/>
+        </permissions>
+      </audio>
+      <text>
+        <paragraph num="1"><![CDATA[Six Maasai warriors have left their village in Tanzania for the first time in their lives. On Sunday, they will be among 30,000 people running the London Marathon. The Maasai aren't running for glory, but to raise money to build a drinking water well for their village. ]]></paragraph>
+        <paragraph num="2"><![CDATA[In anticipation of their trip, the conservation charity Greenforce prepared a pamphlet to help the Maasai meet the strange residents of London.  Below are two selections typical of the cultural translation:]]></paragraph>
+        <paragraph num="3"><![CDATA[Even though some may look like they have a frown on their face, they are very friendly people — many of them just work in offices in jobs they don't enjoy and so they do not smile as much as they should do!!]]></paragraph>
+        <paragraph num="4"><![CDATA[Although English people share a lot, they do not do so to the same extent that the Maasai do. If you see something that someone else has (like a bracelet) and you like it, then the person will find it very unusual if you were to take it and wear it! ]]></paragraph>
+        <paragraph num="5"><![CDATA[Greenforce managing director Marcus Watts says of all the eventualities his group anticipated, London's weather is one that defied careful planning. When a blanket of fresh snow fell overnight in greater London, the Maasai were in for a sight. "Suddenly all the grass was white, a phenomenon they'd never seen before," Watts says.]]></paragraph>
+        <paragraph num="6"><![CDATA[Whatever other superlatives await during the 10-day trip, Watts says, it's unlikely the warriors will post low times at the marathon. "They'll run with swords and shields," he says, adding that back home, they sometimes run for 14 to 15 hours while rounding up cattle. It's all about stamina. ]]></paragraph>
+        <paragraph num="7"><![CDATA[Watts says their trip will live on for a long time. "They can't write," he says, explaining that instead, the six have been gathering each night, staying up for hours, sharing reports about what they've seen in England. It's preparation, he says, for all of the storytelling they'll do when they return. ]]></paragraph>
+        <paragraph num="8"><![CDATA["I know these stories from their visit to London for 10 days will probably be told for generation after generation."  [Copyright 2011 National Public Radio]]]></paragraph>
+      </text>
+    </story>
+    <story id="18164366">
+      <link type="html">http://www.npr.org/templates/story/story.php?storyId=18164366&amp;ft=3&amp;f=</link>
+      <link type="api">http://api.npr.org/query?id=18164366&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+      <title><![CDATA[Iraqi Refugees Suffer Long-Term Effects of Torture]]></title>
+      <transcript>
+        <link type="api">http://api.npr.org/transcript?id=18164366&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+      </transcript>
+      <audio id="18195309" type="primary">
+        <title/>
+        <duration>0</duration>
+        <description/>
+        <format>
+          <mp3 type="m3u">http://api.npr.org/m3u/118195309-115296.m3u?orgId=1&amp;topicId=1010&amp;ft=3&amp;f=</mp3>
+          <wm>http://www.npr.org/templates/dmg/dmg_wmref_em.php?id=18195309&amp;type=1&amp;mtype=WM&amp;orgId=1&amp;topicId=1010&amp;ft=3&amp;f=</wm>
+          <rm>http://www.npr.org/templates/dmg/dmg_rpm.rpm?id=18195309&amp;type=1&amp;mtype=RM&amp;orgId=1&amp;topicId=1010&amp;ft=3&amp;f=</rm>
+        </format>
+        <rightsHolder/>
+        <permissions>
+          <download allow="true"/>
+          <stream allow="true"/>
+          <embed allow="true"/>
+        </permissions>
+      </audio>
+      <text>
+        <paragraph num="1"><![CDATA[One of the grim legacies of the war in Iraq is the vast number of torture victims. One in five Iraqi refugees has been tortured or has suffered from other violence, according to data collected by United Nations in Syria.]]></paragraph>
+        <paragraph num="2"><![CDATA[Allegations of torture have surfaced since the war began — reportedly committed by Iraqi security forces, militia groups, insurgents and U.S. guards at the Iraqi prison Abu Ghraib. ]]></paragraph>
+        <paragraph num="3"><![CDATA[Victims can heal from the physical wounds, but the long-term psychological damage can be profound.]]></paragraph>
+        <paragraph num="4"><![CDATA[Naseer's Story]]></paragraph>
+        <paragraph num="5"><![CDATA[Nibras Naseer is a rail-thin 18-year-old. He fled Iraq more than a year ago, he says, after spending 10 days in a hospital for injuries that resulted from severe beatings.]]></paragraph>
+        <paragraph num="6"><![CDATA[He now lives in a fifth-floor walk-up in Damascus, a spare space he shares with his uncle's family. The only decoration is a picture of Jesus on the wall. The apartment building fills up with the laughter of children when school lets out, but even when his nephew bounds into the apartment, Naseer does not smile. ]]></paragraph>
+        <paragraph num="7"><![CDATA[What happened to Naseer has happened to many Iraqis, but very few are willing to talk about it.]]></paragraph>
+        <paragraph num="8"><![CDATA["I am just trying to forget what happened to me," Naseer says. "I can't say that I can sleep. Sometimes I can, sometimes I can't. I am trying my best to forget what happened to me."]]></paragraph>
+        <paragraph num="9"><![CDATA[In 2006, Naseer was kidnapped from his Baghdad neighborhood, shoved into the trunk of a car and subjected, he says, to weeks of so-called investigation, along with six other Iraqi men and an 11-year-old boy. ]]></paragraph>
+        <paragraph num="10"><![CDATA[His kidnappers identified themselves as members of al-Qaida in Iraq, Naseer says; they made it clear that for any of the captives who worked for the U.S. military or the Iraqi government, the punishment would be beheading. ]]></paragraph>
+        <paragraph num="11"><![CDATA[Constant Fear of Execution]]></paragraph>
+        <paragraph num="12"><![CDATA[After more than a week of repeated interrogations and beatings, three of the Iraqis were executed, Naseer says. ]]></paragraph>
+        <paragraph num="13"><![CDATA["I told you we were together when they took the three guys away from us. They forced us to watch the whole procedure," Naseer says. "For me, I couldn't watch the whole thing. I started to cry; maybe I prefer to die at that moment." ]]></paragraph>
+        <paragraph num="14"><![CDATA[Naseer spent the nights talking to his fellow prisoners, Iraqis who shared their life stories and their terror. A few days later, the jailers condemned three more prisoners — men he had come to know — to the same gruesome death.]]></paragraph>
+        <paragraph num="15"><![CDATA["I remember the names: Hammed, Ali, Omar," Naseer says. "When I watched the second time, I was thinking, 'I'm the next,' and I didn't have any hope in life — like even less than 1 percent."]]></paragraph>
+        <paragraph num="16"><![CDATA[Few Were Spared]]></paragraph>
+        <paragraph num="17"><![CDATA[U.S. soldiers have dismantled a number of torture houses in Iraq. In places like these, few were spared, Naseer says, including the 11-year-old boy. The kidnappers accused the boy of spotting for U.S. soldiers — pointing out explosive devices hidden in his neighborhood — and they forced him to admit that he had helped the Americans. ]]></paragraph>
+        <paragraph num="18"><![CDATA["They took him out, and they killed him the same way, and I went crazy. I lost my mind," Naseer says. ]]></paragraph>
+        <paragraph num="19"><![CDATA[As Naseer tells his story, his shoulders hunch slightly. The only outward flicker of emotion comes when he recounts his unexpected release after his family paid a $30,000 ransom. He has no idea why he is alive, or if he will ever get over what happened to him. ]]></paragraph>
+        <paragraph num="20"><![CDATA[Counseling for Refugees]]></paragraph>
+        <paragraph num="21"><![CDATA[Naseer's case is far from unique. U.N. officials say more than 20,000 Iraqis have defined themselves as torture victims when signing up for refugee status. A more recent study of the refugee community in Syria reveals that the overall number of torture victims is likely to include many thousands more. That means Iraqi refugees will need more than the basics of food and housing, U.N. officials say. ]]></paragraph>
+        <paragraph num="22"><![CDATA[Suzanne Jabbour is the chief psychologist at a clinic in Lebanon that opened in December. The U.N. pays for the mental health professionals from a nonprofit organization called Re-Start. Jabbour says more than 50 patients are already in the new program; the majority are Iraqi refugees.]]></paragraph>
+        <paragraph num="23"><![CDATA[But only refugees in Lebanon are treated, Jabbour says. Because of tight border restrictions, she cannot take on cases from Syria, where the need is much greater. ]]></paragraph>
+        <paragraph num="24"><![CDATA["There is no way that a person who has been through whatever these people have been through can survive, unless they have treatment. And even after that, they need people to help them to make a life and establish themselves. Unless that person can find that amount of help, he will reach a stage where his life will become meaningless, and he might become suicidal," Jabbour says. ]]></paragraph>
+        <paragraph num="25"><![CDATA['The Worst Is Yet to Come']]></paragraph>
+        <paragraph num="26"><![CDATA[Jabbour says the people being treated in Lebanon have a chance of recovery. But she is not optimistic about the refugees in Syria, who have little or no access to mental health services now. ]]></paragraph>
+        <paragraph num="27"><![CDATA["The worst is yet to come for these people in Damascus," Jabbour says. ]]></paragraph>
+        <paragraph num="28"><![CDATA[And that may be the fate of Nibras Naseer. In the small apartment in Damascus, Naseer ignores his cell phone when it rings. He struggles alone with his nightmares.]]></paragraph>
+        <paragraph num="29"><![CDATA[There are thousands more like him — refugees who often cut themselves off from the rest of the community. ]]></paragraph>
+        <paragraph num="30"><![CDATA["All the time I am sitting at home," Naseer says. "I don't work, I don't do anything. Well, I can't trust anybody ... and I don't know what will happen."  [Copyright 2011 National Public Radio]]]></paragraph>
+      </text>
+    </story>
+  </list>
+</nprml>
+<?xml version="1.0" encoding="UTF-8"?>
+<nprml version="0.94">
+  <list>
+    <title><![CDATA[NPR: Stories from NPR]]></title>
+    <teaser><![CDATA[Assorted stories from NPR]]></teaser>
+    <miniTeaser><![CDATA[Custom NPR News Feed API.  Visit http://www.npr.org/templates/apidoc/index.php for more information.]]></miniTeaser>
+    <link type="api">http://api.npr.org/query?searchTerm=%22not%20smile%22&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+    <story id="89489934">
+      <link type="html">http://www.npr.org/templates/story/story.php?storyId=89489934&amp;ft=3&amp;f=</link>
+      <link type="api">http://api.npr.org/query?id=89489934&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+      <title><![CDATA[Preparing African Warriors to Meet the British]]></title>
+      <transcript>
+        <link type="api">http://api.npr.org/transcript?id=89489934&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+      </transcript>
+      <audio id="89489873" type="primary">
+        <title/>
+        <duration>0</duration>
+        <description/>
+        <format>
+          <mp3 type="m3u">http://api.npr.org/m3u/189489873-f48dc3.m3u?orgId=1&amp;topicId=1004&amp;ft=3&amp;f=</mp3>
+          <wm>http://www.npr.org/templates/dmg/dmg_wmref_em.php?id=89489873&amp;type=1&amp;mtype=WM&amp;orgId=1&amp;topicId=1004&amp;ft=3&amp;f=</wm>
+          <rm>http://www.npr.org/templates/dmg/dmg_rpm.rpm?id=89489873&amp;type=1&amp;mtype=RM&amp;orgId=1&amp;topicId=1004&amp;ft=3&amp;f=</rm>
+        </format>
+        <rightsHolder/>
+        <permissions>
+          <download allow="true"/>
+          <stream allow="true"/>
+          <embed allow="false"/>
+        </permissions>
+      </audio>
+      <text>
+        <paragraph num="1"><![CDATA[Six Maasai warriors have left their village in Tanzania for the first time in their lives. On Sunday, they will be among 30,000 people running the London Marathon. The Maasai aren't running for glory, but to raise money to build a drinking water well for their village. ]]></paragraph>
+        <paragraph num="2"><![CDATA[In anticipation of their trip, the conservation charity Greenforce prepared a pamphlet to help the Maasai meet the strange residents of London.  Below are two selections typical of the cultural translation:]]></paragraph>
+        <paragraph num="3"><![CDATA[Even though some may look like they have a frown on their face, they are very friendly people — many of them just work in offices in jobs they don't enjoy and so they do not smile as much as they should do!!]]></paragraph>
+        <paragraph num="4"><![CDATA[Although English people share a lot, they do not do so to the same extent that the Maasai do. If you see something that someone else has (like a bracelet) and you like it, then the person will find it very unusual if you were to take it and wear it! ]]></paragraph>
+        <paragraph num="5"><![CDATA[Greenforce managing director Marcus Watts says of all the eventualities his group anticipated, London's weather is one that defied careful planning. When a blanket of fresh snow fell overnight in greater London, the Maasai were in for a sight. "Suddenly all the grass was white, a phenomenon they'd never seen before," Watts says.]]></paragraph>
+        <paragraph num="6"><![CDATA[Whatever other superlatives await during the 10-day trip, Watts says, it's unlikely the warriors will post low times at the marathon. "They'll run with swords and shields," he says, adding that back home, they sometimes run for 14 to 15 hours while rounding up cattle. It's all about stamina. ]]></paragraph>
+        <paragraph num="7"><![CDATA[Watts says their trip will live on for a long time. "They can't write," he says, explaining that instead, the six have been gathering each night, staying up for hours, sharing reports about what they've seen in England. It's preparation, he says, for all of the storytelling they'll do when they return. ]]></paragraph>
+        <paragraph num="8"><![CDATA["I know these stories from their visit to London for 10 days will probably be told for generation after generation."  [Copyright 2011 National Public Radio]]]></paragraph>
+      </text>
+    </story>
+    <story id="18164366">
+      <link type="html">http://www.npr.org/templates/story/story.php?storyId=18164366&amp;ft=3&amp;f=</link>
+      <link type="api">http://api.npr.org/query?id=18164366&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+      <title><![CDATA[Iraqi Refugees Suffer Long-Term Effects of Torture]]></title>
+      <transcript>
+        <link type="api">http://api.npr.org/transcript?id=18164366&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+      </transcript>
+      <audio id="18195309" type="primary">
+        <title/>
+        <duration>0</duration>
+        <description/>
+        <format>
+          <mp3 type="m3u">http://api.npr.org/m3u/118195309-115296.m3u?orgId=1&amp;topicId=1010&amp;ft=3&amp;f=</mp3>
+          <wm>http://www.npr.org/templates/dmg/dmg_wmref_em.php?id=18195309&amp;type=1&amp;mtype=WM&amp;orgId=1&amp;topicId=1010&amp;ft=3&amp;f=</wm>
+          <rm>http://www.npr.org/templates/dmg/dmg_rpm.rpm?id=18195309&amp;type=1&amp;mtype=RM&amp;orgId=1&amp;topicId=1010&amp;ft=3&amp;f=</rm>
+        </format>
+        <rightsHolder/>
+        <permissions>
+          <download allow="true"/>
+          <stream allow="true"/>
+          <embed allow="true"/>
+        </permissions>
+      </audio>
+      <text>
+        <paragraph num="1"><![CDATA[One of the grim legacies of the war in Iraq is the vast number of torture victims. One in five Iraqi refugees has been tortured or has suffered from other violence, according to data collected by United Nations in Syria.]]></paragraph>
+        <paragraph num="2"><![CDATA[Allegations of torture have surfaced since the war began — reportedly committed by Iraqi security forces, militia groups, insurgents and U.S. guards at the Iraqi prison Abu Ghraib. ]]></paragraph>
+        <paragraph num="3"><![CDATA[Victims can heal from the physical wounds, but the long-term psychological damage can be profound.]]></paragraph>
+        <paragraph num="4"><![CDATA[Naseer's Story]]></paragraph>
+        <paragraph num="5"><![CDATA[Nibras Naseer is a rail-thin 18-year-old. He fled Iraq more than a year ago, he says, after spending 10 days in a hospital for injuries that resulted from severe beatings.]]></paragraph>
+        <paragraph num="6"><![CDATA[He now lives in a fifth-floor walk-up in Damascus, a spare space he shares with his uncle's family. The only decoration is a picture of Jesus on the wall. The apartment building fills up with the laughter of children when school lets out, but even when his nephew bounds into the apartment, Naseer does not smile. ]]></paragraph>
+        <paragraph num="7"><![CDATA[What happened to Naseer has happened to many Iraqis, but very few are willing to talk about it.]]></paragraph>
+        <paragraph num="8"><![CDATA["I am just trying to forget what happened to me," Naseer says. "I can't say that I can sleep. Sometimes I can, sometimes I can't. I am trying my best to forget what happened to me."]]></paragraph>
+        <paragraph num="9"><![CDATA[In 2006, Naseer was kidnapped from his Baghdad neighborhood, shoved into the trunk of a car and subjected, he says, to weeks of so-called investigation, along with six other Iraqi men and an 11-year-old boy. ]]></paragraph>
+        <paragraph num="10"><![CDATA[His kidnappers identified themselves as members of al-Qaida in Iraq, Naseer says; they made it clear that for any of the captives who worked for the U.S. military or the Iraqi government, the punishment would be beheading. ]]></paragraph>
+        <paragraph num="11"><![CDATA[Constant Fear of Execution]]></paragraph>
+        <paragraph num="12"><![CDATA[After more than a week of repeated interrogations and beatings, three of the Iraqis were executed, Naseer says. ]]></paragraph>
+        <paragraph num="13"><![CDATA["I told you we were together when they took the three guys away from us. They forced us to watch the whole procedure," Naseer says. "For me, I couldn't watch the whole thing. I started to cry; maybe I prefer to die at that moment." ]]></paragraph>
+        <paragraph num="14"><![CDATA[Naseer spent the nights talking to his fellow prisoners, Iraqis who shared their life stories and their terror. A few days later, the jailers condemned three more prisoners — men he had come to know — to the same gruesome death.]]></paragraph>
+        <paragraph num="15"><![CDATA["I remember the names: Hammed, Ali, Omar," Naseer says. "When I watched the second time, I was thinking, 'I'm the next,' and I didn't have any hope in life — like even less than 1 percent."]]></paragraph>
+        <paragraph num="16"><![CDATA[Few Were Spared]]></paragraph>
+        <paragraph num="17"><![CDATA[U.S. soldiers have dismantled a number of torture houses in Iraq. In places like these, few were spared, Naseer says, including the 11-year-old boy. The kidnappers accused the boy of spotting for U.S. soldiers — pointing out explosive devices hidden in his neighborhood — and they forced him to admit that he had helped the Americans. ]]></paragraph>
+        <paragraph num="18"><![CDATA["They took him out, and they killed him the same way, and I went crazy. I lost my mind," Naseer says. ]]></paragraph>
+        <paragraph num="19"><![CDATA[As Naseer tells his story, his shoulders hunch slightly. The only outward flicker of emotion comes when he recounts his unexpected release after his family paid a $30,000 ransom. He has no idea why he is alive, or if he will ever get over what happened to him. ]]></paragraph>
+        <paragraph num="20"><![CDATA[Counseling for Refugees]]></paragraph>
+        <paragraph num="21"><![CDATA[Naseer's case is far from unique. U.N. officials say more than 20,000 Iraqis have defined themselves as torture victims when signing up for refugee status. A more recent study of the refugee community in Syria reveals that the overall number of torture victims is likely to include many thousands more. That means Iraqi refugees will need more than the basics of food and housing, U.N. officials say. ]]></paragraph>
+        <paragraph num="22"><![CDATA[Suzanne Jabbour is the chief psychologist at a clinic in Lebanon that opened in December. The U.N. pays for the mental health professionals from a nonprofit organization called Re-Start. Jabbour says more than 50 patients are already in the new program; the majority are Iraqi refugees.]]></paragraph>
+        <paragraph num="23"><![CDATA[But only refugees in Lebanon are treated, Jabbour says. Because of tight border restrictions, she cannot take on cases from Syria, where the need is much greater. ]]></paragraph>
+        <paragraph num="24"><![CDATA["There is no way that a person who has been through whatever these people have been through can survive, unless they have treatment. And even after that, they need people to help them to make a life and establish themselves. Unless that person can find that amount of help, he will reach a stage where his life will become meaningless, and he might become suicidal," Jabbour says. ]]></paragraph>
+        <paragraph num="25"><![CDATA['The Worst Is Yet to Come']]></paragraph>
+        <paragraph num="26"><![CDATA[Jabbour says the people being treated in Lebanon have a chance of recovery. But she is not optimistic about the refugees in Syria, who have little or no access to mental health services now. ]]></paragraph>
+        <paragraph num="27"><![CDATA["The worst is yet to come for these people in Damascus," Jabbour says. ]]></paragraph>
+        <paragraph num="28"><![CDATA[And that may be the fate of Nibras Naseer. In the small apartment in Damascus, Naseer ignores his cell phone when it rings. He struggles alone with his nightmares.]]></paragraph>
+        <paragraph num="29"><![CDATA[There are thousands more like him — refugees who often cut themselves off from the rest of the community. ]]></paragraph>
+        <paragraph num="30"><![CDATA["All the time I am sitting at home," Naseer says. "I don't work, I don't do anything. Well, I can't trust anybody ... and I don't know what will happen."  [Copyright 2011 National Public Radio]]]></paragraph>
+      </text>
+    </story>
+  </list>
+</nprml>
+<?xml version="1.0" encoding="UTF-8"?>
+<nprml version="0.94">
+  <list>
+    <title><![CDATA[NPR: Stories from NPR]]></title>
+    <teaser><![CDATA[Assorted stories from NPR]]></teaser>
+    <miniTeaser><![CDATA[Custom NPR News Feed API.  Visit http://www.npr.org/templates/apidoc/index.php for more information.]]></miniTeaser>
+    <link type="api">http://api.npr.org/query?searchTerm=%22not%20smile%22&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+    <story id="89489934">
+      <link type="html">http://www.npr.org/templates/story/story.php?storyId=89489934&amp;ft=3&amp;f=</link>
+      <link type="api">http://api.npr.org/query?id=89489934&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+      <title><![CDATA[Preparing African Warriors to Meet the British]]></title>
+      <transcript>
+        <link type="api">http://api.npr.org/transcript?id=89489934&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+      </transcript>
+      <audio id="89489873" type="primary">
+        <title/>
+        <duration>0</duration>
+        <description/>
+        <format>
+          <mp3 type="m3u">http://api.npr.org/m3u/189489873-f48dc3.m3u?orgId=1&amp;topicId=1004&amp;ft=3&amp;f=</mp3>
+          <wm>http://www.npr.org/templates/dmg/dmg_wmref_em.php?id=89489873&amp;type=1&amp;mtype=WM&amp;orgId=1&amp;topicId=1004&amp;ft=3&amp;f=</wm>
+          <rm>http://www.npr.org/templates/dmg/dmg_rpm.rpm?id=89489873&amp;type=1&amp;mtype=RM&amp;orgId=1&amp;topicId=1004&amp;ft=3&amp;f=</rm>
+        </format>
+        <rightsHolder/>
+        <permissions>
+          <download allow="true"/>
+          <stream allow="true"/>
+          <embed allow="false"/>
+        </permissions>
+      </audio>
+      <text>
+        <paragraph num="1"><![CDATA[Six Maasai warriors have left their village in Tanzania for the first time in their lives. On Sunday, they will be among 30,000 people running the London Marathon. The Maasai aren't running for glory, but to raise money to build a drinking water well for their village. ]]></paragraph>
+        <paragraph num="2"><![CDATA[In anticipation of their trip, the conservation charity Greenforce prepared a pamphlet to help the Maasai meet the strange residents of London.  Below are two selections typical of the cultural translation:]]></paragraph>
+        <paragraph num="3"><![CDATA[Even though some may look like they have a frown on their face, they are very friendly people — many of them just work in offices in jobs they don't enjoy and so they do not smile as much as they should do!!]]></paragraph>
+        <paragraph num="4"><![CDATA[Although English people share a lot, they do not do so to the same extent that the Maasai do. If you see something that someone else has (like a bracelet) and you like it, then the person will find it very unusual if you were to take it and wear it! ]]></paragraph>
+        <paragraph num="5"><![CDATA[Greenforce managing director Marcus Watts says of all the eventualities his group anticipated, London's weather is one that defied careful planning. When a blanket of fresh snow fell overnight in greater London, the Maasai were in for a sight. "Suddenly all the grass was white, a phenomenon they'd never seen before," Watts says.]]></paragraph>
+        <paragraph num="6"><![CDATA[Whatever other superlatives await during the 10-day trip, Watts says, it's unlikely the warriors will post low times at the marathon. "They'll run with swords and shields," he says, adding that back home, they sometimes run for 14 to 15 hours while rounding up cattle. It's all about stamina. ]]></paragraph>
+        <paragraph num="7"><![CDATA[Watts says their trip will live on for a long time. "They can't write," he says, explaining that instead, the six have been gathering each night, staying up for hours, sharing reports about what they've seen in England. It's preparation, he says, for all of the storytelling they'll do when they return. ]]></paragraph>
+        <paragraph num="8"><![CDATA["I know these stories from their visit to London for 10 days will probably be told for generation after generation."  [Copyright 2011 National Public Radio]]]></paragraph>
+      </text>
+    </story>
+    <story id="18164366">
+      <link type="html">http://www.npr.org/templates/story/story.php?storyId=18164366&amp;ft=3&amp;f=</link>
+      <link type="api">http://api.npr.org/query?id=18164366&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+      <title><![CDATA[Iraqi Refugees Suffer Long-Term Effects of Torture]]></title>
+      <transcript>
+        <link type="api">http://api.npr.org/transcript?id=18164366&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+      </transcript>
+      <audio id="18195309" type="primary">
+        <title/>
+        <duration>0</duration>
+        <description/>
+        <format>
+          <mp3 type="m3u">http://api.npr.org/m3u/118195309-115296.m3u?orgId=1&amp;topicId=1010&amp;ft=3&amp;f=</mp3>
+          <wm>http://www.npr.org/templates/dmg/dmg_wmref_em.php?id=18195309&amp;type=1&amp;mtype=WM&amp;orgId=1&amp;topicId=1010&amp;ft=3&amp;f=</wm>
+          <rm>http://www.npr.org/templates/dmg/dmg_rpm.rpm?id=18195309&amp;type=1&amp;mtype=RM&amp;orgId=1&amp;topicId=1010&amp;ft=3&amp;f=</rm>
+        </format>
+        <rightsHolder/>
+        <permissions>
+          <download allow="true"/>
+          <stream allow="true"/>
+          <embed allow="true"/>
+        </permissions>
+      </audio>
+      <text>
+        <paragraph num="1"><![CDATA[One of the grim legacies of the war in Iraq is the vast number of torture victims. One in five Iraqi refugees has been tortured or has suffered from other violence, according to data collected by United Nations in Syria.]]></paragraph>
+        <paragraph num="2"><![CDATA[Allegations of torture have surfaced since the war began — reportedly committed by Iraqi security forces, militia groups, insurgents and U.S. guards at the Iraqi prison Abu Ghraib. ]]></paragraph>
+        <paragraph num="3"><![CDATA[Victims can heal from the physical wounds, but the long-term psychological damage can be profound.]]></paragraph>
+        <paragraph num="4"><![CDATA[Naseer's Story]]></paragraph>
+        <paragraph num="5"><![CDATA[Nibras Naseer is a rail-thin 18-year-old. He fled Iraq more than a year ago, he says, after spending 10 days in a hospital for injuries that resulted from severe beatings.]]></paragraph>
+        <paragraph num="6"><![CDATA[He now lives in a fifth-floor walk-up in Damascus, a spare space he shares with his uncle's family. The only decoration is a picture of Jesus on the wall. The apartment building fills up with the laughter of children when school lets out, but even when his nephew bounds into the apartment, Naseer does not smile. ]]></paragraph>
+        <paragraph num="7"><![CDATA[What happened to Naseer has happened to many Iraqis, but very few are willing to talk about it.]]></paragraph>
+        <paragraph num="8"><![CDATA["I am just trying to forget what happened to me," Naseer says. "I can't say that I can sleep. Sometimes I can, sometimes I can't. I am trying my best to forget what happened to me."]]></paragraph>
+        <paragraph num="9"><![CDATA[In 2006, Naseer was kidnapped from his Baghdad neighborhood, shoved into the trunk of a car and subjected, he says, to weeks of so-called investigation, along with six other Iraqi men and an 11-year-old boy. ]]></paragraph>
+        <paragraph num="10"><![CDATA[His kidnappers identified themselves as members of al-Qaida in Iraq, Naseer says; they made it clear that for any of the captives who worked for the U.S. military or the Iraqi government, the punishment would be beheading. ]]></paragraph>
+        <paragraph num="11"><![CDATA[Constant Fear of Execution]]></paragraph>
+        <paragraph num="12"><![CDATA[After more than a week of repeated interrogations and beatings, three of the Iraqis were executed, Naseer says. ]]></paragraph>
+        <paragraph num="13"><![CDATA["I told you we were together when they took the three guys away from us. They forced us to watch the whole procedure," Naseer says. "For me, I couldn't watch the whole thing. I started to cry; maybe I prefer to die at that moment." ]]></paragraph>
+        <paragraph num="14"><![CDATA[Naseer spent the nights talking to his fellow prisoners, Iraqis who shared their life stories and their terror. A few days later, the jailers condemned three more prisoners — men he had come to know — to the same gruesome death.]]></paragraph>
+        <paragraph num="15"><![CDATA["I remember the names: Hammed, Ali, Omar," Naseer says. "When I watched the second time, I was thinking, 'I'm the next,' and I didn't have any hope in life — like even less than 1 percent."]]></paragraph>
+        <paragraph num="16"><![CDATA[Few Were Spared]]></paragraph>
+        <paragraph num="17"><![CDATA[U.S. soldiers have dismantled a number of torture houses in Iraq. In places like these, few were spared, Naseer says, including the 11-year-old boy. The kidnappers accused the boy of spotting for U.S. soldiers — pointing out explosive devices hidden in his neighborhood — and they forced him to admit that he had helped the Americans. ]]></paragraph>
+        <paragraph num="18"><![CDATA["They took him out, and they killed him the same way, and I went crazy. I lost my mind," Naseer says. ]]></paragraph>
+        <paragraph num="19"><![CDATA[As Naseer tells his story, his shoulders hunch slightly. The only outward flicker of emotion comes when he recounts his unexpected release after his family paid a $30,000 ransom. He has no idea why he is alive, or if he will ever get over what happened to him. ]]></paragraph>
+        <paragraph num="20"><![CDATA[Counseling for Refugees]]></paragraph>
+        <paragraph num="21"><![CDATA[Naseer's case is far from unique. U.N. officials say more than 20,000 Iraqis have defined themselves as torture victims when signing up for refugee status. A more recent study of the refugee community in Syria reveals that the overall number of torture victims is likely to include many thousands more. That means Iraqi refugees will need more than the basics of food and housing, U.N. officials say. ]]></paragraph>
+        <paragraph num="22"><![CDATA[Suzanne Jabbour is the chief psychologist at a clinic in Lebanon that opened in December. The U.N. pays for the mental health professionals from a nonprofit organization called Re-Start. Jabbour says more than 50 patients are already in the new program; the majority are Iraqi refugees.]]></paragraph>
+        <paragraph num="23"><![CDATA[But only refugees in Lebanon are treated, Jabbour says. Because of tight border restrictions, she cannot take on cases from Syria, where the need is much greater. ]]></paragraph>
+        <paragraph num="24"><![CDATA["There is no way that a person who has been through whatever these people have been through can survive, unless they have treatment. And even after that, they need people to help them to make a life and establish themselves. Unless that person can find that amount of help, he will reach a stage where his life will become meaningless, and he might become suicidal," Jabbour says. ]]></paragraph>
+        <paragraph num="25"><![CDATA['The Worst Is Yet to Come']]></paragraph>
+        <paragraph num="26"><![CDATA[Jabbour says the people being treated in Lebanon have a chance of recovery. But she is not optimistic about the refugees in Syria, who have little or no access to mental health services now. ]]></paragraph>
+        <paragraph num="27"><![CDATA["The worst is yet to come for these people in Damascus," Jabbour says. ]]></paragraph>
+        <paragraph num="28"><![CDATA[And that may be the fate of Nibras Naseer. In the small apartment in Damascus, Naseer ignores his cell phone when it rings. He struggles alone with his nightmares.]]></paragraph>
+        <paragraph num="29"><![CDATA[There are thousands more like him — refugees who often cut themselves off from the rest of the community. ]]></paragraph>
+        <paragraph num="30"><![CDATA["All the time I am sitting at home," Naseer says. "I don't work, I don't do anything. Well, I can't trust anybody ... and I don't know what will happen."  [Copyright 2011 National Public Radio]]]></paragraph>
+      </text>
+    </story>
+  </list>
+</nprml>
+<?xml version="1.0" encoding="UTF-8"?>
+<nprml version="0.94">
+  <list>
+    <title><![CDATA[NPR: Stories from NPR]]></title>
+    <teaser><![CDATA[Assorted stories from NPR]]></teaser>
+    <miniTeaser><![CDATA[Custom NPR News Feed API.  Visit http://www.npr.org/templates/apidoc/index.php for more information.]]></miniTeaser>
+    <link type="api">http://api.npr.org/query?searchTerm=%22not%20smile%22&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+    <story id="89489934">
+      <link type="html">http://www.npr.org/templates/story/story.php?storyId=89489934&amp;ft=3&amp;f=</link>
+      <link type="api">http://api.npr.org/query?id=89489934&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+      <title><![CDATA[Preparing African Warriors to Meet the British]]></title>
+      <transcript>
+        <link type="api">http://api.npr.org/transcript?id=89489934&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+      </transcript>
+      <audio id="89489873" type="primary">
+        <title/>
+        <duration>0</duration>
+        <description/>
+        <format>
+          <mp3 type="m3u">http://api.npr.org/m3u/189489873-f48dc3.m3u?orgId=1&amp;topicId=1004&amp;ft=3&amp;f=</mp3>
+          <wm>http://www.npr.org/templates/dmg/dmg_wmref_em.php?id=89489873&amp;type=1&amp;mtype=WM&amp;orgId=1&amp;topicId=1004&amp;ft=3&amp;f=</wm>
+          <rm>http://www.npr.org/templates/dmg/dmg_rpm.rpm?id=89489873&amp;type=1&amp;mtype=RM&amp;orgId=1&amp;topicId=1004&amp;ft=3&amp;f=</rm>
+        </format>
+        <rightsHolder/>
+        <permissions>
+          <download allow="true"/>
+          <stream allow="true"/>
+          <embed allow="false"/>
+        </permissions>
+      </audio>
+      <text>
+        <paragraph num="1"><![CDATA[Six Maasai warriors have left their village in Tanzania for the first time in their lives. On Sunday, they will be among 30,000 people running the London Marathon. The Maasai aren't running for glory, but to raise money to build a drinking water well for their village. ]]></paragraph>
+        <paragraph num="2"><![CDATA[In anticipation of their trip, the conservation charity Greenforce prepared a pamphlet to help the Maasai meet the strange residents of London.  Below are two selections typical of the cultural translation:]]></paragraph>
+        <paragraph num="3"><![CDATA[Even though some may look like they have a frown on their face, they are very friendly people — many of them just work in offices in jobs they don't enjoy and so they do not smile as much as they should do!!]]></paragraph>
+        <paragraph num="4"><![CDATA[Although English people share a lot, they do not do so to the same extent that the Maasai do. If you see something that someone else has (like a bracelet) and you like it, then the person will find it very unusual if you were to take it and wear it! ]]></paragraph>
+        <paragraph num="5"><![CDATA[Greenforce managing director Marcus Watts says of all the eventualities his group anticipated, London's weather is one that defied careful planning. When a blanket of fresh snow fell overnight in greater London, the Maasai were in for a sight. "Suddenly all the grass was white, a phenomenon they'd never seen before," Watts says.]]></paragraph>
+        <paragraph num="6"><![CDATA[Whatever other superlatives await during the 10-day trip, Watts says, it's unlikely the warriors will post low times at the marathon. "They'll run with swords and shields," he says, adding that back home, they sometimes run for 14 to 15 hours while rounding up cattle. It's all about stamina. ]]></paragraph>
+        <paragraph num="7"><![CDATA[Watts says their trip will live on for a long time. "They can't write," he says, explaining that instead, the six have been gathering each night, staying up for hours, sharing reports about what they've seen in England. It's preparation, he says, for all of the storytelling they'll do when they return. ]]></paragraph>
+        <paragraph num="8"><![CDATA["I know these stories from their visit to London for 10 days will probably be told for generation after generation."  [Copyright 2011 National Public Radio]]]></paragraph>
+      </text>
+    </story>
+    <story id="18164366">
+      <link type="html">http://www.npr.org/templates/story/story.php?storyId=18164366&amp;ft=3&amp;f=</link>
+      <link type="api">http://api.npr.org/query?id=18164366&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+      <title><![CDATA[Iraqi Refugees Suffer Long-Term Effects of Torture]]></title>
+      <transcript>
+        <link type="api">http://api.npr.org/transcript?id=18164366&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+      </transcript>
+      <audio id="18195309" type="primary">
+        <title/>
+        <duration>0</duration>
+        <description/>
+        <format>
+          <mp3 type="m3u">http://api.npr.org/m3u/118195309-115296.m3u?orgId=1&amp;topicId=1010&amp;ft=3&amp;f=</mp3>
+          <wm>http://www.npr.org/templates/dmg/dmg_wmref_em.php?id=18195309&amp;type=1&amp;mtype=WM&amp;orgId=1&amp;topicId=1010&amp;ft=3&amp;f=</wm>
+          <rm>http://www.npr.org/templates/dmg/dmg_rpm.rpm?id=18195309&amp;type=1&amp;mtype=RM&amp;orgId=1&amp;topicId=1010&amp;ft=3&amp;f=</rm>
+        </format>
+        <rightsHolder/>
+        <permissions>
+          <download allow="true"/>
+          <stream allow="true"/>
+          <embed allow="true"/>
+        </permissions>
+      </audio>
+      <text>
+        <paragraph num="1"><![CDATA[One of the grim legacies of the war in Iraq is the vast number of torture victims. One in five Iraqi refugees has been tortured or has suffered from other violence, according to data collected by United Nations in Syria.]]></paragraph>
+        <paragraph num="2"><![CDATA[Allegations of torture have surfaced since the war began — reportedly committed by Iraqi security forces, militia groups, insurgents and U.S. guards at the Iraqi prison Abu Ghraib. ]]></paragraph>
+        <paragraph num="3"><![CDATA[Victims can heal from the physical wounds, but the long-term psychological damage can be profound.]]></paragraph>
+        <paragraph num="4"><![CDATA[Naseer's Story]]></paragraph>
+        <paragraph num="5"><![CDATA[Nibras Naseer is a rail-thin 18-year-old. He fled Iraq more than a year ago, he says, after spending 10 days in a hospital for injuries that resulted from severe beatings.]]></paragraph>
+        <paragraph num="6"><![CDATA[He now lives in a fifth-floor walk-up in Damascus, a spare space he shares with his uncle's family. The only decoration is a picture of Jesus on the wall. The apartment building fills up with the laughter of children when school lets out, but even when his nephew bounds into the apartment, Naseer does not smile. ]]></paragraph>
+        <paragraph num="7"><![CDATA[What happened to Naseer has happened to many Iraqis, but very few are willing to talk about it.]]></paragraph>
+        <paragraph num="8"><![CDATA["I am just trying to forget what happened to me," Naseer says. "I can't say that I can sleep. Sometimes I can, sometimes I can't. I am trying my best to forget what happened to me."]]></paragraph>
+        <paragraph num="9"><![CDATA[In 2006, Naseer was kidnapped from his Baghdad neighborhood, shoved into the trunk of a car and subjected, he says, to weeks of so-called investigation, along with six other Iraqi men and an 11-year-old boy. ]]></paragraph>
+        <paragraph num="10"><![CDATA[His kidnappers identified themselves as members of al-Qaida in Iraq, Naseer says; they made it clear that for any of the captives who worked for the U.S. military or the Iraqi government, the punishment would be beheading. ]]></paragraph>
+        <paragraph num="11"><![CDATA[Constant Fear of Execution]]></paragraph>
+        <paragraph num="12"><![CDATA[After more than a week of repeated interrogations and beatings, three of the Iraqis were executed, Naseer says. ]]></paragraph>
+        <paragraph num="13"><![CDATA["I told you we were together when they took the three guys away from us. They forced us to watch the whole procedure," Naseer says. "For me, I couldn't watch the whole thing. I started to cry; maybe I prefer to die at that moment." ]]></paragraph>
+        <paragraph num="14"><![CDATA[Naseer spent the nights talking to his fellow prisoners, Iraqis who shared their life stories and their terror. A few days later, the jailers condemned three more prisoners — men he had come to know — to the same gruesome death.]]></paragraph>
+        <paragraph num="15"><![CDATA["I remember the names: Hammed, Ali, Omar," Naseer says. "When I watched the second time, I was thinking, 'I'm the next,' and I didn't have any hope in life — like even less than 1 percent."]]></paragraph>
+        <paragraph num="16"><![CDATA[Few Were Spared]]></paragraph>
+        <paragraph num="17"><![CDATA[U.S. soldiers have dismantled a number of torture houses in Iraq. In places like these, few were spared, Naseer says, including the 11-year-old boy. The kidnappers accused the boy of spotting for U.S. soldiers — pointing out explosive devices hidden in his neighborhood — and they forced him to admit that he had helped the Americans. ]]></paragraph>
+        <paragraph num="18"><![CDATA["They took him out, and they killed him the same way, and I went crazy. I lost my mind," Naseer says. ]]></paragraph>
+        <paragraph num="19"><![CDATA[As Naseer tells his story, his shoulders hunch slightly. The only outward flicker of emotion comes when he recounts his unexpected release after his family paid a $30,000 ransom. He has no idea why he is alive, or if he will ever get over what happened to him. ]]></paragraph>
+        <paragraph num="20"><![CDATA[Counseling for Refugees]]></paragraph>
+        <paragraph num="21"><![CDATA[Naseer's case is far from unique. U.N. officials say more than 20,000 Iraqis have defined themselves as torture victims when signing up for refugee status. A more recent study of the refugee community in Syria reveals that the overall number of torture victims is likely to include many thousands more. That means Iraqi refugees will need more than the basics of food and housing, U.N. officials say. ]]></paragraph>
+        <paragraph num="22"><![CDATA[Suzanne Jabbour is the chief psychologist at a clinic in Lebanon that opened in December. The U.N. pays for the mental health professionals from a nonprofit organization called Re-Start. Jabbour says more than 50 patients are already in the new program; the majority are Iraqi refugees.]]></paragraph>
+        <paragraph num="23"><![CDATA[But only refugees in Lebanon are treated, Jabbour says. Because of tight border restrictions, she cannot take on cases from Syria, where the need is much greater. ]]></paragraph>
+        <paragraph num="24"><![CDATA["There is no way that a person who has been through whatever these people have been through can survive, unless they have treatment. And even after that, they need people to help them to make a life and establish themselves. Unless that person can find that amount of help, he will reach a stage where his life will become meaningless, and he might become suicidal," Jabbour says. ]]></paragraph>
+        <paragraph num="25"><![CDATA['The Worst Is Yet to Come']]></paragraph>
+        <paragraph num="26"><![CDATA[Jabbour says the people being treated in Lebanon have a chance of recovery. But she is not optimistic about the refugees in Syria, who have little or no access to mental health services now. ]]></paragraph>
+        <paragraph num="27"><![CDATA["The worst is yet to come for these people in Damascus," Jabbour says. ]]></paragraph>
+        <paragraph num="28"><![CDATA[And that may be the fate of Nibras Naseer. In the small apartment in Damascus, Naseer ignores his cell phone when it rings. He struggles alone with his nightmares.]]></paragraph>
+        <paragraph num="29"><![CDATA[There are thousands more like him — refugees who often cut themselves off from the rest of the community. ]]></paragraph>
+        <paragraph num="30"><![CDATA["All the time I am sitting at home," Naseer says. "I don't work, I don't do anything. Well, I can't trust anybody ... and I don't know what will happen."  [Copyright 2011 National Public Radio]]]></paragraph>
+      </text>
+    </story>
+  </list>
+</nprml>
+<?xml version="1.0" encoding="UTF-8"?>
+<nprml version="0.94">
+  <list>
+    <title><![CDATA[NPR: Stories from NPR]]></title>
+    <teaser><![CDATA[Assorted stories from NPR]]></teaser>
+    <miniTeaser><![CDATA[Custom NPR News Feed API.  Visit http://www.npr.org/templates/apidoc/index.php for more information.]]></miniTeaser>
+    <link type="api">http://api.npr.org/query?searchTerm=%22not%20smile%22&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+    <story id="89489934">
+      <link type="html">http://www.npr.org/templates/story/story.php?storyId=89489934&amp;ft=3&amp;f=</link>
+      <link type="api">http://api.npr.org/query?id=89489934&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+      <title><![CDATA[Preparing African Warriors to Meet the British]]></title>
+      <transcript>
+        <link type="api">http://api.npr.org/transcript?id=89489934&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+      </transcript>
+      <audio id="89489873" type="primary">
+        <title/>
+        <duration>0</duration>
+        <description/>
+        <format>
+          <mp3 type="m3u">http://api.npr.org/m3u/189489873-f48dc3.m3u?orgId=1&amp;topicId=1004&amp;ft=3&amp;f=</mp3>
+          <wm>http://www.npr.org/templates/dmg/dmg_wmref_em.php?id=89489873&amp;type=1&amp;mtype=WM&amp;orgId=1&amp;topicId=1004&amp;ft=3&amp;f=</wm>
+          <rm>http://www.npr.org/templates/dmg/dmg_rpm.rpm?id=89489873&amp;type=1&amp;mtype=RM&amp;orgId=1&amp;topicId=1004&amp;ft=3&amp;f=</rm>
+        </format>
+        <rightsHolder/>
+        <permissions>
+          <download allow="true"/>
+          <stream allow="true"/>
+          <embed allow="false"/>
+        </permissions>
+      </audio>
+      <text>
+        <paragraph num="1"><![CDATA[Six Maasai warriors have left their village in Tanzania for the first time in their lives. On Sunday, they will be among 30,000 people running the London Marathon. The Maasai aren't running for glory, but to raise money to build a drinking water well for their village. ]]></paragraph>
+        <paragraph num="2"><![CDATA[In anticipation of their trip, the conservation charity Greenforce prepared a pamphlet to help the Maasai meet the strange residents of London.  Below are two selections typical of the cultural translation:]]></paragraph>
+        <paragraph num="3"><![CDATA[Even though some may look like they have a frown on their face, they are very friendly people — many of them just work in offices in jobs they don't enjoy and so they do not smile as much as they should do!!]]></paragraph>
+        <paragraph num="4"><![CDATA[Although English people share a lot, they do not do so to the same extent that the Maasai do. If you see something that someone else has (like a bracelet) and you like it, then the person will find it very unusual if you were to take it and wear it! ]]></paragraph>
+        <paragraph num="5"><![CDATA[Greenforce managing director Marcus Watts says of all the eventualities his group anticipated, London's weather is one that defied careful planning. When a blanket of fresh snow fell overnight in greater London, the Maasai were in for a sight. "Suddenly all the grass was white, a phenomenon they'd never seen before," Watts says.]]></paragraph>
+        <paragraph num="6"><![CDATA[Whatever other superlatives await during the 10-day trip, Watts says, it's unlikely the warriors will post low times at the marathon. "They'll run with swords and shields," he says, adding that back home, they sometimes run for 14 to 15 hours while rounding up cattle. It's all about stamina. ]]></paragraph>
+        <paragraph num="7"><![CDATA[Watts says their trip will live on for a long time. "They can't write," he says, explaining that instead, the six have been gathering each night, staying up for hours, sharing reports about what they've seen in England. It's preparation, he says, for all of the storytelling they'll do when they return. ]]></paragraph>
+        <paragraph num="8"><![CDATA["I know these stories from their visit to London for 10 days will probably be told for generation after generation."  [Copyright 2011 National Public Radio]]]></paragraph>
+      </text>
+    </story>
+    <story id="18164366">
+      <link type="html">http://www.npr.org/templates/story/story.php?storyId=18164366&amp;ft=3&amp;f=</link>
+      <link type="api">http://api.npr.org/query?id=18164366&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+      <title><![CDATA[Iraqi Refugees Suffer Long-Term Effects of Torture]]></title>
+      <transcript>
+        <link type="api">http://api.npr.org/transcript?id=18164366&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+      </transcript>
+      <audio id="18195309" type="primary">
+        <title/>
+        <duration>0</duration>
+        <description/>
+        <format>
+          <mp3 type="m3u">http://api.npr.org/m3u/118195309-115296.m3u?orgId=1&amp;topicId=1010&amp;ft=3&amp;f=</mp3>
+          <wm>http://www.npr.org/templates/dmg/dmg_wmref_em.php?id=18195309&amp;type=1&amp;mtype=WM&amp;orgId=1&amp;topicId=1010&amp;ft=3&amp;f=</wm>
+          <rm>http://www.npr.org/templates/dmg/dmg_rpm.rpm?id=18195309&amp;type=1&amp;mtype=RM&amp;orgId=1&amp;topicId=1010&amp;ft=3&amp;f=</rm>
+        </format>
+        <rightsHolder/>
+        <permissions>
+          <download allow="true"/>
+          <stream allow="true"/>
+          <embed allow="true"/>
+        </permissions>
+      </audio>
+      <text>
+        <paragraph num="1"><![CDATA[One of the grim legacies of the war in Iraq is the vast number of torture victims. One in five Iraqi refugees has been tortured or has suffered from other violence, according to data collected by United Nations in Syria.]]></paragraph>
+        <paragraph num="2"><![CDATA[Allegations of torture have surfaced since the war began — reportedly committed by Iraqi security forces, militia groups, insurgents and U.S. guards at the Iraqi prison Abu Ghraib. ]]></paragraph>
+        <paragraph num="3"><![CDATA[Victims can heal from the physical wounds, but the long-term psychological damage can be profound.]]></paragraph>
+        <paragraph num="4"><![CDATA[Naseer's Story]]></paragraph>
+        <paragraph num="5"><![CDATA[Nibras Naseer is a rail-thin 18-year-old. He fled Iraq more than a year ago, he says, after spending 10 days in a hospital for injuries that resulted from severe beatings.]]></paragraph>
+        <paragraph num="6"><![CDATA[He now lives in a fifth-floor walk-up in Damascus, a spare space he shares with his uncle's family. The only decoration is a picture of Jesus on the wall. The apartment building fills up with the laughter of children when school lets out, but even when his nephew bounds into the apartment, Naseer does not smile. ]]></paragraph>
+        <paragraph num="7"><![CDATA[What happened to Naseer has happened to many Iraqis, but very few are willing to talk about it.]]></paragraph>
+        <paragraph num="8"><![CDATA["I am just trying to forget what happened to me," Naseer says. "I can't say that I can sleep. Sometimes I can, sometimes I can't. I am trying my best to forget what happened to me."]]></paragraph>
+        <paragraph num="9"><![CDATA[In 2006, Naseer was kidnapped from his Baghdad neighborhood, shoved into the trunk of a car and subjected, he says, to weeks of so-called investigation, along with six other Iraqi men and an 11-year-old boy. ]]></paragraph>
+        <paragraph num="10"><![CDATA[His kidnappers identified themselves as members of al-Qaida in Iraq, Naseer says; they made it clear that for any of the captives who worked for the U.S. military or the Iraqi government, the punishment would be beheading. ]]></paragraph>
+        <paragraph num="11"><![CDATA[Constant Fear of Execution]]></paragraph>
+        <paragraph num="12"><![CDATA[After more than a week of repeated interrogations and beatings, three of the Iraqis were executed, Naseer says. ]]></paragraph>
+        <paragraph num="13"><![CDATA["I told you we were together when they took the three guys away from us. They forced us to watch the whole procedure," Naseer says. "For me, I couldn't watch the whole thing. I started to cry; maybe I prefer to die at that moment." ]]></paragraph>
+        <paragraph num="14"><![CDATA[Naseer spent the nights talking to his fellow prisoners, Iraqis who shared their life stories and their terror. A few days later, the jailers condemned three more prisoners — men he had come to know — to the same gruesome death.]]></paragraph>
+        <paragraph num="15"><![CDATA["I remember the names: Hammed, Ali, Omar," Naseer says. "When I watched the second time, I was thinking, 'I'm the next,' and I didn't have any hope in life — like even less than 1 percent."]]></paragraph>
+        <paragraph num="16"><![CDATA[Few Were Spared]]></paragraph>
+        <paragraph num="17"><![CDATA[U.S. soldiers have dismantled a number of torture houses in Iraq. In places like these, few were spared, Naseer says, including the 11-year-old boy. The kidnappers accused the boy of spotting for U.S. soldiers — pointing out explosive devices hidden in his neighborhood — and they forced him to admit that he had helped the Americans. ]]></paragraph>
+        <paragraph num="18"><![CDATA["They took him out, and they killed him the same way, and I went crazy. I lost my mind," Naseer says. ]]></paragraph>
+        <paragraph num="19"><![CDATA[As Naseer tells his story, his shoulders hunch slightly. The only outward flicker of emotion comes when he recounts his unexpected release after his family paid a $30,000 ransom. He has no idea why he is alive, or if he will ever get over what happened to him. ]]></paragraph>
+        <paragraph num="20"><![CDATA[Counseling for Refugees]]></paragraph>
+        <paragraph num="21"><![CDATA[Naseer's case is far from unique. U.N. officials say more than 20,000 Iraqis have defined themselves as torture victims when signing up for refugee status. A more recent study of the refugee community in Syria reveals that the overall number of torture victims is likely to include many thousands more. That means Iraqi refugees will need more than the basics of food and housing, U.N. officials say. ]]></paragraph>
+        <paragraph num="22"><![CDATA[Suzanne Jabbour is the chief psychologist at a clinic in Lebanon that opened in December. The U.N. pays for the mental health professionals from a nonprofit organization called Re-Start. Jabbour says more than 50 patients are already in the new program; the majority are Iraqi refugees.]]></paragraph>
+        <paragraph num="23"><![CDATA[But only refugees in Lebanon are treated, Jabbour says. Because of tight border restrictions, she cannot take on cases from Syria, where the need is much greater. ]]></paragraph>
+        <paragraph num="24"><![CDATA["There is no way that a person who has been through whatever these people have been through can survive, unless they have treatment. And even after that, they need people to help them to make a life and establish themselves. Unless that person can find that amount of help, he will reach a stage where his life will become meaningless, and he might become suicidal," Jabbour says. ]]></paragraph>
+        <paragraph num="25"><![CDATA['The Worst Is Yet to Come']]></paragraph>
+        <paragraph num="26"><![CDATA[Jabbour says the people being treated in Lebanon have a chance of recovery. But she is not optimistic about the refugees in Syria, who have little or no access to mental health services now. ]]></paragraph>
+        <paragraph num="27"><![CDATA["The worst is yet to come for these people in Damascus," Jabbour says. ]]></paragraph>
+        <paragraph num="28"><![CDATA[And that may be the fate of Nibras Naseer. In the small apartment in Damascus, Naseer ignores his cell phone when it rings. He struggles alone with his nightmares.]]></paragraph>
+        <paragraph num="29"><![CDATA[There are thousands more like him — refugees who often cut themselves off from the rest of the community. ]]></paragraph>
+        <paragraph num="30"><![CDATA["All the time I am sitting at home," Naseer says. "I don't work, I don't do anything. Well, I can't trust anybody ... and I don't know what will happen."  [Copyright 2011 National Public Radio]]]></paragraph>
+      </text>
+    </story>
+  </list>
+</nprml>
+<?xml version="1.0" encoding="UTF-8"?>
+<nprml version="0.94">
+  <list>
+    <title><![CDATA[NPR: Stories from NPR]]></title>
+    <teaser><![CDATA[Assorted stories from NPR]]></teaser>
+    <miniTeaser><![CDATA[Custom NPR News Feed API.  Visit http://www.npr.org/templates/apidoc/index.php for more information.]]></miniTeaser>
+    <link type="api">http://api.npr.org/query?searchTerm=%22not%20smile%22&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+    <story id="89489934">
+      <link type="html">http://www.npr.org/templates/story/story.php?storyId=89489934&amp;ft=3&amp;f=</link>
+      <link type="api">http://api.npr.org/query?id=89489934&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+      <title><![CDATA[Preparing African Warriors to Meet the British]]></title>
+      <transcript>
+        <link type="api">http://api.npr.org/transcript?id=89489934&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+      </transcript>
+      <audio id="89489873" type="primary">
+        <title/>
+        <duration>0</duration>
+        <description/>
+        <format>
+          <mp3 type="m3u">http://api.npr.org/m3u/189489873-f48dc3.m3u?orgId=1&amp;topicId=1004&amp;ft=3&amp;f=</mp3>
+          <wm>http://www.npr.org/templates/dmg/dmg_wmref_em.php?id=89489873&amp;type=1&amp;mtype=WM&amp;orgId=1&amp;topicId=1004&amp;ft=3&amp;f=</wm>
+          <rm>http://www.npr.org/templates/dmg/dmg_rpm.rpm?id=89489873&amp;type=1&amp;mtype=RM&amp;orgId=1&amp;topicId=1004&amp;ft=3&amp;f=</rm>
+        </format>
+        <rightsHolder/>
+        <permissions>
+          <download allow="true"/>
+          <stream allow="true"/>
+          <embed allow="false"/>
+        </permissions>
+      </audio>
+      <text>
+        <paragraph num="1"><![CDATA[Six Maasai warriors have left their village in Tanzania for the first time in their lives. On Sunday, they will be among 30,000 people running the London Marathon. The Maasai aren't running for glory, but to raise money to build a drinking water well for their village. ]]></paragraph>
+        <paragraph num="2"><![CDATA[In anticipation of their trip, the conservation charity Greenforce prepared a pamphlet to help the Maasai meet the strange residents of London.  Below are two selections typical of the cultural translation:]]></paragraph>
+        <paragraph num="3"><![CDATA[Even though some may look like they have a frown on their face, they are very friendly people — many of them just work in offices in jobs they don't enjoy and so they do not smile as much as they should do!!]]></paragraph>
+        <paragraph num="4"><![CDATA[Although English people share a lot, they do not do so to the same extent that the Maasai do. If you see something that someone else has (like a bracelet) and you like it, then the person will find it very unusual if you were to take it and wear it! ]]></paragraph>
+        <paragraph num="5"><![CDATA[Greenforce managing director Marcus Watts says of all the eventualities his group anticipated, London's weather is one that defied careful planning. When a blanket of fresh snow fell overnight in greater London, the Maasai were in for a sight. "Suddenly all the grass was white, a phenomenon they'd never seen before," Watts says.]]></paragraph>
+        <paragraph num="6"><![CDATA[Whatever other superlatives await during the 10-day trip, Watts says, it's unlikely the warriors will post low times at the marathon. "They'll run with swords and shields," he says, adding that back home, they sometimes run for 14 to 15 hours while rounding up cattle. It's all about stamina. ]]></paragraph>
+        <paragraph num="7"><![CDATA[Watts says their trip will live on for a long time. "They can't write," he says, explaining that instead, the six have been gathering each night, staying up for hours, sharing reports about what they've seen in England. It's preparation, he says, for all of the storytelling they'll do when they return. ]]></paragraph>
+        <paragraph num="8"><![CDATA["I know these stories from their visit to London for 10 days will probably be told for generation after generation."  [Copyright 2011 National Public Radio]]]></paragraph>
+      </text>
+    </story>
+    <story id="18164366">
+      <link type="html">http://www.npr.org/templates/story/story.php?storyId=18164366&amp;ft=3&amp;f=</link>
+      <link type="api">http://api.npr.org/query?id=18164366&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+      <title><![CDATA[Iraqi Refugees Suffer Long-Term Effects of Torture]]></title>
+      <transcript>
+        <link type="api">http://api.npr.org/transcript?id=18164366&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+      </transcript>
+      <audio id="18195309" type="primary">
+        <title/>
+        <duration>0</duration>
+        <description/>
+        <format>
+          <mp3 type="m3u">http://api.npr.org/m3u/118195309-115296.m3u?orgId=1&amp;topicId=1010&amp;ft=3&amp;f=</mp3>
+          <wm>http://www.npr.org/templates/dmg/dmg_wmref_em.php?id=18195309&amp;type=1&amp;mtype=WM&amp;orgId=1&amp;topicId=1010&amp;ft=3&amp;f=</wm>
+          <rm>http://www.npr.org/templates/dmg/dmg_rpm.rpm?id=18195309&amp;type=1&amp;mtype=RM&amp;orgId=1&amp;topicId=1010&amp;ft=3&amp;f=</rm>
+        </format>
+        <rightsHolder/>
+        <permissions>
+          <download allow="true"/>
+          <stream allow="true"/>
+          <embed allow="true"/>
+        </permissions>
+      </audio>
+      <text>
+        <paragraph num="1"><![CDATA[One of the grim legacies of the war in Iraq is the vast number of torture victims. One in five Iraqi refugees has been tortured or has suffered from other violence, according to data collected by United Nations in Syria.]]></paragraph>
+        <paragraph num="2"><![CDATA[Allegations of torture have surfaced since the war began — reportedly committed by Iraqi security forces, militia groups, insurgents and U.S. guards at the Iraqi prison Abu Ghraib. ]]></paragraph>
+        <paragraph num="3"><![CDATA[Victims can heal from the physical wounds, but the long-term psychological damage can be profound.]]></paragraph>
+        <paragraph num="4"><![CDATA[Naseer's Story]]></paragraph>
+        <paragraph num="5"><![CDATA[Nibras Naseer is a rail-thin 18-year-old. He fled Iraq more than a year ago, he says, after spending 10 days in a hospital for injuries that resulted from severe beatings.]]></paragraph>
+        <paragraph num="6"><![CDATA[He now lives in a fifth-floor walk-up in Damascus, a spare space he shares with his uncle's family. The only decoration is a picture of Jesus on the wall. The apartment building fills up with the laughter of children when school lets out, but even when his nephew bounds into the apartment, Naseer does not smile. ]]></paragraph>
+        <paragraph num="7"><![CDATA[What happened to Naseer has happened to many Iraqis, but very few are willing to talk about it.]]></paragraph>
+        <paragraph num="8"><![CDATA["I am just trying to forget what happened to me," Naseer says. "I can't say that I can sleep. Sometimes I can, sometimes I can't. I am trying my best to forget what happened to me."]]></paragraph>
+        <paragraph num="9"><![CDATA[In 2006, Naseer was kidnapped from his Baghdad neighborhood, shoved into the trunk of a car and subjected, he says, to weeks of so-called investigation, along with six other Iraqi men and an 11-year-old boy. ]]></paragraph>
+        <paragraph num="10"><![CDATA[His kidnappers identified themselves as members of al-Qaida in Iraq, Naseer says; they made it clear that for any of the captives who worked for the U.S. military or the Iraqi government, the punishment would be beheading. ]]></paragraph>
+        <paragraph num="11"><![CDATA[Constant Fear of Execution]]></paragraph>
+        <paragraph num="12"><![CDATA[After more than a week of repeated interrogations and beatings, three of the Iraqis were executed, Naseer says. ]]></paragraph>
+        <paragraph num="13"><![CDATA["I told you we were together when they took the three guys away from us. They forced us to watch the whole procedure," Naseer says. "For me, I couldn't watch the whole thing. I started to cry; maybe I prefer to die at that moment." ]]></paragraph>
+        <paragraph num="14"><![CDATA[Naseer spent the nights talking to his fellow prisoners, Iraqis who shared their life stories and their terror. A few days later, the jailers condemned three more prisoners — men he had come to know — to the same gruesome death.]]></paragraph>
+        <paragraph num="15"><![CDATA["I remember the names: Hammed, Ali, Omar," Naseer says. "When I watched the second time, I was thinking, 'I'm the next,' and I didn't have any hope in life — like even less than 1 percent."]]></paragraph>
+        <paragraph num="16"><![CDATA[Few Were Spared]]></paragraph>
+        <paragraph num="17"><![CDATA[U.S. soldiers have dismantled a number of torture houses in Iraq. In places like these, few were spared, Naseer says, including the 11-year-old boy. The kidnappers accused the boy of spotting for U.S. soldiers — pointing out explosive devices hidden in his neighborhood — and they forced him to admit that he had helped the Americans. ]]></paragraph>
+        <paragraph num="18"><![CDATA["They took him out, and they killed him the same way, and I went crazy. I lost my mind," Naseer says. ]]></paragraph>
+        <paragraph num="19"><![CDATA[As Naseer tells his story, his shoulders hunch slightly. The only outward flicker of emotion comes when he recounts his unexpected release after his family paid a $30,000 ransom. He has no idea why he is alive, or if he will ever get over what happened to him. ]]></paragraph>
+        <paragraph num="20"><![CDATA[Counseling for Refugees]]></paragraph>
+        <paragraph num="21"><![CDATA[Naseer's case is far from unique. U.N. officials say more than 20,000 Iraqis have defined themselves as torture victims when signing up for refugee status. A more recent study of the refugee community in Syria reveals that the overall number of torture victims is likely to include many thousands more. That means Iraqi refugees will need more than the basics of food and housing, U.N. officials say. ]]></paragraph>
+        <paragraph num="22"><![CDATA[Suzanne Jabbour is the chief psychologist at a clinic in Lebanon that opened in December. The U.N. pays for the mental health professionals from a nonprofit organization called Re-Start. Jabbour says more than 50 patients are already in the new program; the majority are Iraqi refugees.]]></paragraph>
+        <paragraph num="23"><![CDATA[But only refugees in Lebanon are treated, Jabbour says. Because of tight border restrictions, she cannot take on cases from Syria, where the need is much greater. ]]></paragraph>
+        <paragraph num="24"><![CDATA["There is no way that a person who has been through whatever these people have been through can survive, unless they have treatment. And even after that, they need people to help them to make a life and establish themselves. Unless that person can find that amount of help, he will reach a stage where his life will become meaningless, and he might become suicidal," Jabbour says. ]]></paragraph>
+        <paragraph num="25"><![CDATA['The Worst Is Yet to Come']]></paragraph>
+        <paragraph num="26"><![CDATA[Jabbour says the people being treated in Lebanon have a chance of recovery. But she is not optimistic about the refugees in Syria, who have little or no access to mental health services now. ]]></paragraph>
+        <paragraph num="27"><![CDATA["The worst is yet to come for these people in Damascus," Jabbour says. ]]></paragraph>
+        <paragraph num="28"><![CDATA[And that may be the fate of Nibras Naseer. In the small apartment in Damascus, Naseer ignores his cell phone when it rings. He struggles alone with his nightmares.]]></paragraph>
+        <paragraph num="29"><![CDATA[There are thousands more like him — refugees who often cut themselves off from the rest of the community. ]]></paragraph>
+        <paragraph num="30"><![CDATA["All the time I am sitting at home," Naseer says. "I don't work, I don't do anything. Well, I can't trust anybody ... and I don't know what will happen."  [Copyright 2011 National Public Radio]]]></paragraph>
+      </text>
+    </story>
+  </list>
+</nprml>
+<?xml version="1.0" encoding="UTF-8"?>
+<nprml version="0.94">
+  <list>
+    <title><![CDATA[NPR: Stories from NPR]]></title>
+    <teaser><![CDATA[Assorted stories from NPR]]></teaser>
+    <miniTeaser><![CDATA[Custom NPR News Feed API.  Visit http://www.npr.org/templates/apidoc/index.php for more information.]]></miniTeaser>
+    <link type="api">http://api.npr.org/query?searchTerm=%22not%20smile%22&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+    <story id="89489934">
+      <link type="html">http://www.npr.org/templates/story/story.php?storyId=89489934&amp;ft=3&amp;f=</link>
+      <link type="api">http://api.npr.org/query?id=89489934&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+      <title><![CDATA[Preparing African Warriors to Meet the British]]></title>
+      <transcript>
+        <link type="api">http://api.npr.org/transcript?id=89489934&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+      </transcript>
+      <audio id="89489873" type="primary">
+        <title/>
+        <duration>0</duration>
+        <description/>
+        <format>
+          <mp3 type="m3u">http://api.npr.org/m3u/189489873-f48dc3.m3u?orgId=1&amp;topicId=1004&amp;ft=3&amp;f=</mp3>
+          <wm>http://www.npr.org/templates/dmg/dmg_wmref_em.php?id=89489873&amp;type=1&amp;mtype=WM&amp;orgId=1&amp;topicId=1004&amp;ft=3&amp;f=</wm>
+          <rm>http://www.npr.org/templates/dmg/dmg_rpm.rpm?id=89489873&amp;type=1&amp;mtype=RM&amp;orgId=1&amp;topicId=1004&amp;ft=3&amp;f=</rm>
+        </format>
+        <rightsHolder/>
+        <permissions>
+          <download allow="true"/>
+          <stream allow="true"/>
+          <embed allow="false"/>
+        </permissions>
+      </audio>
+      <text>
+        <paragraph num="1"><![CDATA[Six Maasai warriors have left their village in Tanzania for the first time in their lives. On Sunday, they will be among 30,000 people running the London Marathon. The Maasai aren't running for glory, but to raise money to build a drinking water well for their village. ]]></paragraph>
+        <paragraph num="2"><![CDATA[In anticipation of their trip, the conservation charity Greenforce prepared a pamphlet to help the Maasai meet the strange residents of London.  Below are two selections typical of the cultural translation:]]></paragraph>
+        <paragraph num="3"><![CDATA[Even though some may look like they have a frown on their face, they are very friendly people — many of them just work in offices in jobs they don't enjoy and so they do not smile as much as they should do!!]]></paragraph>
+        <paragraph num="4"><![CDATA[Although English people share a lot, they do not do so to the same extent that the Maasai do. If you see something that someone else has (like a bracelet) and you like it, then the person will find it very unusual if you were to take it and wear it! ]]></paragraph>
+        <paragraph num="5"><![CDATA[Greenforce managing director Marcus Watts says of all the eventualities his group anticipated, London's weather is one that defied careful planning. When a blanket of fresh snow fell overnight in greater London, the Maasai were in for a sight. "Suddenly all the grass was white, a phenomenon they'd never seen before," Watts says.]]></paragraph>
+        <paragraph num="6"><![CDATA[Whatever other superlatives await during the 10-day trip, Watts says, it's unlikely the warriors will post low times at the marathon. "They'll run with swords and shields," he says, adding that back home, they sometimes run for 14 to 15 hours while rounding up cattle. It's all about stamina. ]]></paragraph>
+        <paragraph num="7"><![CDATA[Watts says their trip will live on for a long time. "They can't write," he says, explaining that instead, the six have been gathering each night, staying up for hours, sharing reports about what they've seen in England. It's preparation, he says, for all of the storytelling they'll do when they return. ]]></paragraph>
+        <paragraph num="8"><![CDATA["I know these stories from their visit to London for 10 days will probably be told for generation after generation."  [Copyright 2011 National Public Radio]]]></paragraph>
+      </text>
+    </story>
+    <story id="18164366">
+      <link type="html">http://www.npr.org/templates/story/story.php?storyId=18164366&amp;ft=3&amp;f=</link>
+      <link type="api">http://api.npr.org/query?id=18164366&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+      <title><![CDATA[Iraqi Refugees Suffer Long-Term Effects of Torture]]></title>
+      <transcript>
+        <link type="api">http://api.npr.org/transcript?id=18164366&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+      </transcript>
+      <audio id="18195309" type="primary">
+        <title/>
+        <duration>0</duration>
+        <description/>
+        <format>
+          <mp3 type="m3u">http://api.npr.org/m3u/118195309-115296.m3u?orgId=1&amp;topicId=1010&amp;ft=3&amp;f=</mp3>
+          <wm>http://www.npr.org/templates/dmg/dmg_wmref_em.php?id=18195309&amp;type=1&amp;mtype=WM&amp;orgId=1&amp;topicId=1010&amp;ft=3&amp;f=</wm>
+          <rm>http://www.npr.org/templates/dmg/dmg_rpm.rpm?id=18195309&amp;type=1&amp;mtype=RM&amp;orgId=1&amp;topicId=1010&amp;ft=3&amp;f=</rm>
+        </format>
+        <rightsHolder/>
+        <permissions>
+          <download allow="true"/>
+          <stream allow="true"/>
+          <embed allow="true"/>
+        </permissions>
+      </audio>
+      <text>
+        <paragraph num="1"><![CDATA[One of the grim legacies of the war in Iraq is the vast number of torture victims. One in five Iraqi refugees has been tortured or has suffered from other violence, according to data collected by United Nations in Syria.]]></paragraph>
+        <paragraph num="2"><![CDATA[Allegations of torture have surfaced since the war began — reportedly committed by Iraqi security forces, militia groups, insurgents and U.S. guards at the Iraqi prison Abu Ghraib. ]]></paragraph>
+        <paragraph num="3"><![CDATA[Victims can heal from the physical wounds, but the long-term psychological damage can be profound.]]></paragraph>
+        <paragraph num="4"><![CDATA[Naseer's Story]]></paragraph>
+        <paragraph num="5"><![CDATA[Nibras Naseer is a rail-thin 18-year-old. He fled Iraq more than a year ago, he says, after spending 10 days in a hospital for injuries that resulted from severe beatings.]]></paragraph>
+        <paragraph num="6"><![CDATA[He now lives in a fifth-floor walk-up in Damascus, a spare space he shares with his uncle's family. The only decoration is a picture of Jesus on the wall. The apartment building fills up with the laughter of children when school lets out, but even when his nephew bounds into the apartment, Naseer does not smile. ]]></paragraph>
+        <paragraph num="7"><![CDATA[What happened to Naseer has happened to many Iraqis, but very few are willing to talk about it.]]></paragraph>
+        <paragraph num="8"><![CDATA["I am just trying to forget what happened to me," Naseer says. "I can't say that I can sleep. Sometimes I can, sometimes I can't. I am trying my best to forget what happened to me."]]></paragraph>
+        <paragraph num="9"><![CDATA[In 2006, Naseer was kidnapped from his Baghdad neighborhood, shoved into the trunk of a car and subjected, he says, to weeks of so-called investigation, along with six other Iraqi men and an 11-year-old boy. ]]></paragraph>
+        <paragraph num="10"><![CDATA[His kidnappers identified themselves as members of al-Qaida in Iraq, Naseer says; they made it clear that for any of the captives who worked for the U.S. military or the Iraqi government, the punishment would be beheading. ]]></paragraph>
+        <paragraph num="11"><![CDATA[Constant Fear of Execution]]></paragraph>
+        <paragraph num="12"><![CDATA[After more than a week of repeated interrogations and beatings, three of the Iraqis were executed, Naseer says. ]]></paragraph>
+        <paragraph num="13"><![CDATA["I told you we were together when they took the three guys away from us. They forced us to watch the whole procedure," Naseer says. "For me, I couldn't watch the whole thing. I started to cry; maybe I prefer to die at that moment." ]]></paragraph>
+        <paragraph num="14"><![CDATA[Naseer spent the nights talking to his fellow prisoners, Iraqis who shared their life stories and their terror. A few days later, the jailers condemned three more prisoners — men he had come to know — to the same gruesome death.]]></paragraph>
+        <paragraph num="15"><![CDATA["I remember the names: Hammed, Ali, Omar," Naseer says. "When I watched the second time, I was thinking, 'I'm the next,' and I didn't have any hope in life — like even less than 1 percent."]]></paragraph>
+        <paragraph num="16"><![CDATA[Few Were Spared]]></paragraph>
+        <paragraph num="17"><![CDATA[U.S. soldiers have dismantled a number of torture houses in Iraq. In places like these, few were spared, Naseer says, including the 11-year-old boy. The kidnappers accused the boy of spotting for U.S. soldiers — pointing out explosive devices hidden in his neighborhood — and they forced him to admit that he had helped the Americans. ]]></paragraph>
+        <paragraph num="18"><![CDATA["They took him out, and they killed him the same way, and I went crazy. I lost my mind," Naseer says. ]]></paragraph>
+        <paragraph num="19"><![CDATA[As Naseer tells his story, his shoulders hunch slightly. The only outward flicker of emotion comes when he recounts his unexpected release after his family paid a $30,000 ransom. He has no idea why he is alive, or if he will ever get over what happened to him. ]]></paragraph>
+        <paragraph num="20"><![CDATA[Counseling for Refugees]]></paragraph>
+        <paragraph num="21"><![CDATA[Naseer's case is far from unique. U.N. officials say more than 20,000 Iraqis have defined themselves as torture victims when signing up for refugee status. A more recent study of the refugee community in Syria reveals that the overall number of torture victims is likely to include many thousands more. That means Iraqi refugees will need more than the basics of food and housing, U.N. officials say. ]]></paragraph>
+        <paragraph num="22"><![CDATA[Suzanne Jabbour is the chief psychologist at a clinic in Lebanon that opened in December. The U.N. pays for the mental health professionals from a nonprofit organization called Re-Start. Jabbour says more than 50 patients are already in the new program; the majority are Iraqi refugees.]]></paragraph>
+        <paragraph num="23"><![CDATA[But only refugees in Lebanon are treated, Jabbour says. Because of tight border restrictions, she cannot take on cases from Syria, where the need is much greater. ]]></paragraph>
+        <paragraph num="24"><![CDATA["There is no way that a person who has been through whatever these people have been through can survive, unless they have treatment. And even after that, they need people to help them to make a life and establish themselves. Unless that person can find that amount of help, he will reach a stage where his life will become meaningless, and he might become suicidal," Jabbour says. ]]></paragraph>
+        <paragraph num="25"><![CDATA['The Worst Is Yet to Come']]></paragraph>
+        <paragraph num="26"><![CDATA[Jabbour says the people being treated in Lebanon have a chance of recovery. But she is not optimistic about the refugees in Syria, who have little or no access to mental health services now. ]]></paragraph>
+        <paragraph num="27"><![CDATA["The worst is yet to come for these people in Damascus," Jabbour says. ]]></paragraph>
+        <paragraph num="28"><![CDATA[And that may be the fate of Nibras Naseer. In the small apartment in Damascus, Naseer ignores his cell phone when it rings. He struggles alone with his nightmares.]]></paragraph>
+        <paragraph num="29"><![CDATA[There are thousands more like him — refugees who often cut themselves off from the rest of the community. ]]></paragraph>
+        <paragraph num="30"><![CDATA["All the time I am sitting at home," Naseer says. "I don't work, I don't do anything. Well, I can't trust anybody ... and I don't know what will happen."  [Copyright 2011 National Public Radio]]]></paragraph>
+      </text>
+    </story>
+  </list>
+</nprml>
+<?xml version="1.0" encoding="UTF-8"?>
+<nprml version="0.94">
+  <list>
+    <title><![CDATA[NPR: Stories from NPR]]></title>
+    <teaser><![CDATA[Assorted stories from NPR]]></teaser>
+    <miniTeaser><![CDATA[Custom NPR News Feed API.  Visit http://www.npr.org/templates/apidoc/index.php for more information.]]></miniTeaser>
+    <link type="api">http://api.npr.org/query?searchTerm=%22not%20smile%22&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+    <story id="89489934">
+      <link type="html">http://www.npr.org/templates/story/story.php?storyId=89489934&amp;ft=3&amp;f=</link>
+      <link type="api">http://api.npr.org/query?id=89489934&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+      <title><![CDATA[Preparing African Warriors to Meet the British]]></title>
+      <transcript>
+        <link type="api">http://api.npr.org/transcript?id=89489934&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+      </transcript>
+      <audio id="89489873" type="primary">
+        <title/>
+        <duration>0</duration>
+        <description/>
+        <format>
+          <mp3 type="m3u">http://api.npr.org/m3u/189489873-f48dc3.m3u?orgId=1&amp;topicId=1004&amp;ft=3&amp;f=</mp3>
+          <wm>http://www.npr.org/templates/dmg/dmg_wmref_em.php?id=89489873&amp;type=1&amp;mtype=WM&amp;orgId=1&amp;topicId=1004&amp;ft=3&amp;f=</wm>
+          <rm>http://www.npr.org/templates/dmg/dmg_rpm.rpm?id=89489873&amp;type=1&amp;mtype=RM&amp;orgId=1&amp;topicId=1004&amp;ft=3&amp;f=</rm>
+        </format>
+        <rightsHolder/>
+        <permissions>
+          <download allow="true"/>
+          <stream allow="true"/>
+          <embed allow="false"/>
+        </permissions>
+      </audio>
+      <text>
+        <paragraph num="1"><![CDATA[Six Maasai warriors have left their village in Tanzania for the first time in their lives. On Sunday, they will be among 30,000 people running the London Marathon. The Maasai aren't running for glory, but to raise money to build a drinking water well for their village. ]]></paragraph>
+        <paragraph num="2"><![CDATA[In anticipation of their trip, the conservation charity Greenforce prepared a pamphlet to help the Maasai meet the strange residents of London.  Below are two selections typical of the cultural translation:]]></paragraph>
+        <paragraph num="3"><![CDATA[Even though some may look like they have a frown on their face, they are very friendly people — many of them just work in offices in jobs they don't enjoy and so they do not smile as much as they should do!!]]></paragraph>
+        <paragraph num="4"><![CDATA[Although English people share a lot, they do not do so to the same extent that the Maasai do. If you see something that someone else has (like a bracelet) and you like it, then the person will find it very unusual if you were to take it and wear it! ]]></paragraph>
+        <paragraph num="5"><![CDATA[Greenforce managing director Marcus Watts says of all the eventualities his group anticipated, London's weather is one that defied careful planning. When a blanket of fresh snow fell overnight in greater London, the Maasai were in for a sight. "Suddenly all the grass was white, a phenomenon they'd never seen before," Watts says.]]></paragraph>
+        <paragraph num="6"><![CDATA[Whatever other superlatives await during the 10-day trip, Watts says, it's unlikely the warriors will post low times at the marathon. "They'll run with swords and shields," he says, adding that back home, they sometimes run for 14 to 15 hours while rounding up cattle. It's all about stamina. ]]></paragraph>
+        <paragraph num="7"><![CDATA[Watts says their trip will live on for a long time. "They can't write," he says, explaining that instead, the six have been gathering each night, staying up for hours, sharing reports about what they've seen in England. It's preparation, he says, for all of the storytelling they'll do when they return. ]]></paragraph>
+        <paragraph num="8"><![CDATA["I know these stories from their visit to London for 10 days will probably be told for generation after generation."  [Copyright 2011 National Public Radio]]]></paragraph>
+      </text>
+    </story>
+    <story id="18164366">
+      <link type="html">http://www.npr.org/templates/story/story.php?storyId=18164366&amp;ft=3&amp;f=</link>
+      <link type="api">http://api.npr.org/query?id=18164366&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+      <title><![CDATA[Iraqi Refugees Suffer Long-Term Effects of Torture]]></title>
+      <transcript>
+        <link type="api">http://api.npr.org/transcript?id=18164366&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+      </transcript>
+      <audio id="18195309" type="primary">
+        <title/>
+        <duration>0</duration>
+        <description/>
+        <format>
+          <mp3 type="m3u">http://api.npr.org/m3u/118195309-115296.m3u?orgId=1&amp;topicId=1010&amp;ft=3&amp;f=</mp3>
+          <wm>http://www.npr.org/templates/dmg/dmg_wmref_em.php?id=18195309&amp;type=1&amp;mtype=WM&amp;orgId=1&amp;topicId=1010&amp;ft=3&amp;f=</wm>
+          <rm>http://www.npr.org/templates/dmg/dmg_rpm.rpm?id=18195309&amp;type=1&amp;mtype=RM&amp;orgId=1&amp;topicId=1010&amp;ft=3&amp;f=</rm>
+        </format>
+        <rightsHolder/>
+        <permissions>
+          <download allow="true"/>
+          <stream allow="true"/>
+          <embed allow="true"/>
+        </permissions>
+      </audio>
+      <text>
+        <paragraph num="1"><![CDATA[One of the grim legacies of the war in Iraq is the vast number of torture victims. One in five Iraqi refugees has been tortured or has suffered from other violence, according to data collected by United Nations in Syria.]]></paragraph>
+        <paragraph num="2"><![CDATA[Allegations of torture have surfaced since the war began — reportedly committed by Iraqi security forces, militia groups, insurgents and U.S. guards at the Iraqi prison Abu Ghraib. ]]></paragraph>
+        <paragraph num="3"><![CDATA[Victims can heal from the physical wounds, but the long-term psychological damage can be profound.]]></paragraph>
+        <paragraph num="4"><![CDATA[Naseer's Story]]></paragraph>
+        <paragraph num="5"><![CDATA[Nibras Naseer is a rail-thin 18-year-old. He fled Iraq more than a year ago, he says, after spending 10 days in a hospital for injuries that resulted from severe beatings.]]></paragraph>
+        <paragraph num="6"><![CDATA[He now lives in a fifth-floor walk-up in Damascus, a spare space he shares with his uncle's family. The only decoration is a picture of Jesus on the wall. The apartment building fills up with the laughter of children when school lets out, but even when his nephew bounds into the apartment, Naseer does not smile. ]]></paragraph>
+        <paragraph num="7"><![CDATA[What happened to Naseer has happened to many Iraqis, but very few are willing to talk about it.]]></paragraph>
+        <paragraph num="8"><![CDATA["I am just trying to forget what happened to me," Naseer says. "I can't say that I can sleep. Sometimes I can, sometimes I can't. I am trying my best to forget what happened to me."]]></paragraph>
+        <paragraph num="9"><![CDATA[In 2006, Naseer was kidnapped from his Baghdad neighborhood, shoved into the trunk of a car and subjected, he says, to weeks of so-called investigation, along with six other Iraqi men and an 11-year-old boy. ]]></paragraph>
+        <paragraph num="10"><![CDATA[His kidnappers identified themselves as members of al-Qaida in Iraq, Naseer says; they made it clear that for any of the captives who worked for the U.S. military or the Iraqi government, the punishment would be beheading. ]]></paragraph>
+        <paragraph num="11"><![CDATA[Constant Fear of Execution]]></paragraph>
+        <paragraph num="12"><![CDATA[After more than a week of repeated interrogations and beatings, three of the Iraqis were executed, Naseer says. ]]></paragraph>
+        <paragraph num="13"><![CDATA["I told you we were together when they took the three guys away from us. They forced us to watch the whole procedure," Naseer says. "For me, I couldn't watch the whole thing. I started to cry; maybe I prefer to die at that moment." ]]></paragraph>
+        <paragraph num="14"><![CDATA[Naseer spent the nights talking to his fellow prisoners, Iraqis who shared their life stories and their terror. A few days later, the jailers condemned three more prisoners — men he had come to know — to the same gruesome death.]]></paragraph>
+        <paragraph num="15"><![CDATA["I remember the names: Hammed, Ali, Omar," Naseer says. "When I watched the second time, I was thinking, 'I'm the next,' and I didn't have any hope in life — like even less than 1 percent."]]></paragraph>
+        <paragraph num="16"><![CDATA[Few Were Spared]]></paragraph>
+        <paragraph num="17"><![CDATA[U.S. soldiers have dismantled a number of torture houses in Iraq. In places like these, few were spared, Naseer says, including the 11-year-old boy. The kidnappers accused the boy of spotting for U.S. soldiers — pointing out explosive devices hidden in his neighborhood — and they forced him to admit that he had helped the Americans. ]]></paragraph>
+        <paragraph num="18"><![CDATA["They took him out, and they killed him the same way, and I went crazy. I lost my mind," Naseer says. ]]></paragraph>
+        <paragraph num="19"><![CDATA[As Naseer tells his story, his shoulders hunch slightly. The only outward flicker of emotion comes when he recounts his unexpected release after his family paid a $30,000 ransom. He has no idea why he is alive, or if he will ever get over what happened to him. ]]></paragraph>
+        <paragraph num="20"><![CDATA[Counseling for Refugees]]></paragraph>
+        <paragraph num="21"><![CDATA[Naseer's case is far from unique. U.N. officials say more than 20,000 Iraqis have defined themselves as torture victims when signing up for refugee status. A more recent study of the refugee community in Syria reveals that the overall number of torture victims is likely to include many thousands more. That means Iraqi refugees will need more than the basics of food and housing, U.N. officials say. ]]></paragraph>
+        <paragraph num="22"><![CDATA[Suzanne Jabbour is the chief psychologist at a clinic in Lebanon that opened in December. The U.N. pays for the mental health professionals from a nonprofit organization called Re-Start. Jabbour says more than 50 patients are already in the new program; the majority are Iraqi refugees.]]></paragraph>
+        <paragraph num="23"><![CDATA[But only refugees in Lebanon are treated, Jabbour says. Because of tight border restrictions, she cannot take on cases from Syria, where the need is much greater. ]]></paragraph>
+        <paragraph num="24"><![CDATA["There is no way that a person who has been through whatever these people have been through can survive, unless they have treatment. And even after that, they need people to help them to make a life and establish themselves. Unless that person can find that amount of help, he will reach a stage where his life will become meaningless, and he might become suicidal," Jabbour says. ]]></paragraph>
+        <paragraph num="25"><![CDATA['The Worst Is Yet to Come']]></paragraph>
+        <paragraph num="26"><![CDATA[Jabbour says the people being treated in Lebanon have a chance of recovery. But she is not optimistic about the refugees in Syria, who have little or no access to mental health services now. ]]></paragraph>
+        <paragraph num="27"><![CDATA["The worst is yet to come for these people in Damascus," Jabbour says. ]]></paragraph>
+        <paragraph num="28"><![CDATA[And that may be the fate of Nibras Naseer. In the small apartment in Damascus, Naseer ignores his cell phone when it rings. He struggles alone with his nightmares.]]></paragraph>
+        <paragraph num="29"><![CDATA[There are thousands more like him — refugees who often cut themselves off from the rest of the community. ]]></paragraph>
+        <paragraph num="30"><![CDATA["All the time I am sitting at home," Naseer says. "I don't work, I don't do anything. Well, I can't trust anybody ... and I don't know what will happen."  [Copyright 2011 National Public Radio]]]></paragraph>
+      </text>
+    </story>
+  </list>
+</nprml>
+<?xml version="1.0" encoding="UTF-8"?>
+<nprml version="0.94">
+  <list>
+    <title><![CDATA[NPR: Stories from NPR]]></title>
+    <teaser><![CDATA[Assorted stories from NPR]]></teaser>
+    <miniTeaser><![CDATA[Custom NPR News Feed API.  Visit http://www.npr.org/templates/apidoc/index.php for more information.]]></miniTeaser>
+    <link type="api">http://api.npr.org/query?searchTerm=%22not%20smile%22&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+    <story id="89489934">
+      <link type="html">http://www.npr.org/templates/story/story.php?storyId=89489934&amp;ft=3&amp;f=</link>
+      <link type="api">http://api.npr.org/query?id=89489934&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+      <title><![CDATA[Preparing African Warriors to Meet the British]]></title>
+      <transcript>
+        <link type="api">http://api.npr.org/transcript?id=89489934&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+      </transcript>
+      <audio id="89489873" type="primary">
+        <title/>
+        <duration>0</duration>
+        <description/>
+        <format>
+          <mp3 type="m3u">http://api.npr.org/m3u/189489873-f48dc3.m3u?orgId=1&amp;topicId=1004&amp;ft=3&amp;f=</mp3>
+          <wm>http://www.npr.org/templates/dmg/dmg_wmref_em.php?id=89489873&amp;type=1&amp;mtype=WM&amp;orgId=1&amp;topicId=1004&amp;ft=3&amp;f=</wm>
+          <rm>http://www.npr.org/templates/dmg/dmg_rpm.rpm?id=89489873&amp;type=1&amp;mtype=RM&amp;orgId=1&amp;topicId=1004&amp;ft=3&amp;f=</rm>
+        </format>
+        <rightsHolder/>
+        <permissions>
+          <download allow="true"/>
+          <stream allow="true"/>
+          <embed allow="false"/>
+        </permissions>
+      </audio>
+      <text>
+        <paragraph num="1"><![CDATA[Six Maasai warriors have left their village in Tanzania for the first time in their lives. On Sunday, they will be among 30,000 people running the London Marathon. The Maasai aren't running for glory, but to raise money to build a drinking water well for their village. ]]></paragraph>
+        <paragraph num="2"><![CDATA[In anticipation of their trip, the conservation charity Greenforce prepared a pamphlet to help the Maasai meet the strange residents of London.  Below are two selections typical of the cultural translation:]]></paragraph>
+        <paragraph num="3"><![CDATA[Even though some may look like they have a frown on their face, they are very friendly people — many of them just work in offices in jobs they don't enjoy and so they do not smile as much as they should do!!]]></paragraph>
+        <paragraph num="4"><![CDATA[Although English people share a lot, they do not do so to the same extent that the Maasai do. If you see something that someone else has (like a bracelet) and you like it, then the person will find it very unusual if you were to take it and wear it! ]]></paragraph>
+        <paragraph num="5"><![CDATA[Greenforce managing director Marcus Watts says of all the eventualities his group anticipated, London's weather is one that defied careful planning. When a blanket of fresh snow fell overnight in greater London, the Maasai were in for a sight. "Suddenly all the grass was white, a phenomenon they'd never seen before," Watts says.]]></paragraph>
+        <paragraph num="6"><![CDATA[Whatever other superlatives await during the 10-day trip, Watts says, it's unlikely the warriors will post low times at the marathon. "They'll run with swords and shields," he says, adding that back home, they sometimes run for 14 to 15 hours while rounding up cattle. It's all about stamina. ]]></paragraph>
+        <paragraph num="7"><![CDATA[Watts says their trip will live on for a long time. "They can't write," he says, explaining that instead, the six have been gathering each night, staying up for hours, sharing reports about what they've seen in England. It's preparation, he says, for all of the storytelling they'll do when they return. ]]></paragraph>
+        <paragraph num="8"><![CDATA["I know these stories from their visit to London for 10 days will probably be told for generation after generation."  [Copyright 2011 National Public Radio]]]></paragraph>
+      </text>
+    </story>
+    <story id="18164366">
+      <link type="html">http://www.npr.org/templates/story/story.php?storyId=18164366&amp;ft=3&amp;f=</link>
+      <link type="api">http://api.npr.org/query?id=18164366&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+      <title><![CDATA[Iraqi Refugees Suffer Long-Term Effects of Torture]]></title>
+      <transcript>
+        <link type="api">http://api.npr.org/transcript?id=18164366&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+      </transcript>
+      <audio id="18195309" type="primary">
+        <title/>
+        <duration>0</duration>
+        <description/>
+        <format>
+          <mp3 type="m3u">http://api.npr.org/m3u/118195309-115296.m3u?orgId=1&amp;topicId=1010&amp;ft=3&amp;f=</mp3>
+          <wm>http://www.npr.org/templates/dmg/dmg_wmref_em.php?id=18195309&amp;type=1&amp;mtype=WM&amp;orgId=1&amp;topicId=1010&amp;ft=3&amp;f=</wm>
+          <rm>http://www.npr.org/templates/dmg/dmg_rpm.rpm?id=18195309&amp;type=1&amp;mtype=RM&amp;orgId=1&amp;topicId=1010&amp;ft=3&amp;f=</rm>
+        </format>
+        <rightsHolder/>
+        <permissions>
+          <download allow="true"/>
+          <stream allow="true"/>
+          <embed allow="true"/>
+        </permissions>
+      </audio>
+      <text>
+        <paragraph num="1"><![CDATA[One of the grim legacies of the war in Iraq is the vast number of torture victims. One in five Iraqi refugees has been tortured or has suffered from other violence, according to data collected by United Nations in Syria.]]></paragraph>
+        <paragraph num="2"><![CDATA[Allegations of torture have surfaced since the war began — reportedly committed by Iraqi security forces, militia groups, insurgents and U.S. guards at the Iraqi prison Abu Ghraib. ]]></paragraph>
+        <paragraph num="3"><![CDATA[Victims can heal from the physical wounds, but the long-term psychological damage can be profound.]]></paragraph>
+        <paragraph num="4"><![CDATA[Naseer's Story]]></paragraph>
+        <paragraph num="5"><![CDATA[Nibras Naseer is a rail-thin 18-year-old. He fled Iraq more than a year ago, he says, after spending 10 days in a hospital for injuries that resulted from severe beatings.]]></paragraph>
+        <paragraph num="6"><![CDATA[He now lives in a fifth-floor walk-up in Damascus, a spare space he shares with his uncle's family. The only decoration is a picture of Jesus on the wall. The apartment building fills up with the laughter of children when school lets out, but even when his nephew bounds into the apartment, Naseer does not smile. ]]></paragraph>
+        <paragraph num="7"><![CDATA[What happened to Naseer has happened to many Iraqis, but very few are willing to talk about it.]]></paragraph>
+        <paragraph num="8"><![CDATA["I am just trying to forget what happened to me," Naseer says. "I can't say that I can sleep. Sometimes I can, sometimes I can't. I am trying my best to forget what happened to me."]]></paragraph>
+        <paragraph num="9"><![CDATA[In 2006, Naseer was kidnapped from his Baghdad neighborhood, shoved into the trunk of a car and subjected, he says, to weeks of so-called investigation, along with six other Iraqi men and an 11-year-old boy. ]]></paragraph>
+        <paragraph num="10"><![CDATA[His kidnappers identified themselves as members of al-Qaida in Iraq, Naseer says; they made it clear that for any of the captives who worked for the U.S. military or the Iraqi government, the punishment would be beheading. ]]></paragraph>
+        <paragraph num="11"><![CDATA[Constant Fear of Execution]]></paragraph>
+        <paragraph num="12"><![CDATA[After more than a week of repeated interrogations and beatings, three of the Iraqis were executed, Naseer says. ]]></paragraph>
+        <paragraph num="13"><![CDATA["I told you we were together when they took the three guys away from us. They forced us to watch the whole procedure," Naseer says. "For me, I couldn't watch the whole thing. I started to cry; maybe I prefer to die at that moment." ]]></paragraph>
+        <paragraph num="14"><![CDATA[Naseer spent the nights talking to his fellow prisoners, Iraqis who shared their life stories and their terror. A few days later, the jailers condemned three more prisoners — men he had come to know — to the same gruesome death.]]></paragraph>
+        <paragraph num="15"><![CDATA["I remember the names: Hammed, Ali, Omar," Naseer says. "When I watched the second time, I was thinking, 'I'm the next,' and I didn't have any hope in life — like even less than 1 percent."]]></paragraph>
+        <paragraph num="16"><![CDATA[Few Were Spared]]></paragraph>
+        <paragraph num="17"><![CDATA[U.S. soldiers have dismantled a number of torture houses in Iraq. In places like these, few were spared, Naseer says, including the 11-year-old boy. The kidnappers accused the boy of spotting for U.S. soldiers — pointing out explosive devices hidden in his neighborhood — and they forced him to admit that he had helped the Americans. ]]></paragraph>
+        <paragraph num="18"><![CDATA["They took him out, and they killed him the same way, and I went crazy. I lost my mind," Naseer says. ]]></paragraph>
+        <paragraph num="19"><![CDATA[As Naseer tells his story, his shoulders hunch slightly. The only outward flicker of emotion comes when he recounts his unexpected release after his family paid a $30,000 ransom. He has no idea why he is alive, or if he will ever get over what happened to him. ]]></paragraph>
+        <paragraph num="20"><![CDATA[Counseling for Refugees]]></paragraph>
+        <paragraph num="21"><![CDATA[Naseer's case is far from unique. U.N. officials say more than 20,000 Iraqis have defined themselves as torture victims when signing up for refugee status. A more recent study of the refugee community in Syria reveals that the overall number of torture victims is likely to include many thousands more. That means Iraqi refugees will need more than the basics of food and housing, U.N. officials say. ]]></paragraph>
+        <paragraph num="22"><![CDATA[Suzanne Jabbour is the chief psychologist at a clinic in Lebanon that opened in December. The U.N. pays for the mental health professionals from a nonprofit organization called Re-Start. Jabbour says more than 50 patients are already in the new program; the majority are Iraqi refugees.]]></paragraph>
+        <paragraph num="23"><![CDATA[But only refugees in Lebanon are treated, Jabbour says. Because of tight border restrictions, she cannot take on cases from Syria, where the need is much greater. ]]></paragraph>
+        <paragraph num="24"><![CDATA["There is no way that a person who has been through whatever these people have been through can survive, unless they have treatment. And even after that, they need people to help them to make a life and establish themselves. Unless that person can find that amount of help, he will reach a stage where his life will become meaningless, and he might become suicidal," Jabbour says. ]]></paragraph>
+        <paragraph num="25"><![CDATA['The Worst Is Yet to Come']]></paragraph>
+        <paragraph num="26"><![CDATA[Jabbour says the people being treated in Lebanon have a chance of recovery. But she is not optimistic about the refugees in Syria, who have little or no access to mental health services now. ]]></paragraph>
+        <paragraph num="27"><![CDATA["The worst is yet to come for these people in Damascus," Jabbour says. ]]></paragraph>
+        <paragraph num="28"><![CDATA[And that may be the fate of Nibras Naseer. In the small apartment in Damascus, Naseer ignores his cell phone when it rings. He struggles alone with his nightmares.]]></paragraph>
+        <paragraph num="29"><![CDATA[There are thousands more like him — refugees who often cut themselves off from the rest of the community. ]]></paragraph>
+        <paragraph num="30"><![CDATA["All the time I am sitting at home," Naseer says. "I don't work, I don't do anything. Well, I can't trust anybody ... and I don't know what will happen."  [Copyright 2011 National Public Radio]]]></paragraph>
+      </text>
+    </story>
+  </list>
+</nprml>

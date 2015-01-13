@@ -1,0 +1,1044 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nprml version="0.94">
+  <list>
+    <title><![CDATA[NPR: Stories from NPR]]></title>
+    <teaser><![CDATA[Assorted stories from NPR]]></teaser>
+    <miniTeaser><![CDATA[Custom NPR News Feed API.  Visit http://www.npr.org/templates/apidoc/index.php for more information.]]></miniTeaser>
+    <link type="api">http://api.npr.org/query?searchTerm=%22didn%27t%20smile%22&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+    <story id="132260323">
+      <link type="html">http://www.npr.org/2010/12/24/132260323/one-students-christmas-lesson?ft=3&amp;f=</link>
+      <link type="api">http://api.npr.org/query?id=132260323&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+      <link type="short">http://n.pr/fa63Cy</link>
+      <title><![CDATA[One Student's Christmas Lesson]]></title>
+      <transcript>
+        <link type="api">http://api.npr.org/transcript?id=132260323&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+      </transcript>
+      <audio id="132304294" type="primary">
+        <title/>
+        <duration>118</duration>
+        <description/>
+        <format>
+          <mp3 type="m3u">http://api.npr.org/m3u/1132304294-edeb99.m3u?orgId=1&amp;topicId=1022&amp;aggIds=4516989&amp;ft=3&amp;f=</mp3>
+          <wm>http://www.npr.org/templates/dmg/dmg_wmref_em.php?id=132304294&amp;type=1&amp;mtype=WM&amp;orgId=1&amp;topicId=1022&amp;aggIds=4516989&amp;ft=3&amp;f=</wm>
+          <rm>http://www.npr.org/templates/dmg/dmg_rpm.rpm?id=132304294&amp;type=1&amp;mtype=RM&amp;orgId=1&amp;topicId=1022&amp;aggIds=4516989&amp;ft=3&amp;f=</rm>
+        </format>
+        <rightsHolder/>
+        <permissions>
+          <download allow="true"/>
+          <stream allow="true"/>
+          <embed allow="true"/>
+        </permissions>
+      </audio>
+      <text>
+        <paragraph num="1"><![CDATA[Don Michaels really didn't like school for a while when he was growing up.]]></paragraph>
+        <paragraph num="2"><![CDATA["I had terrible migraine headaches when I was in fifth grade," he explained to his daughter Jennifer recently. "Whether that was because of the pressure, or because of the reputation that the teacher at the time had, and my having gotten reports from my three brothers who had her, I just, I just don't know."]]></paragraph>
+        <paragraph num="3"><![CDATA[Michaels remembers his teacher, Miss Leister, having very sharp features.]]></paragraph>
+        <paragraph num="4"><![CDATA["The most prominent thing was her nose -- it was very hawkish," the 72-year-old said. "She didn't smile a great deal. And she was a taskmaster -- she expected you to perform."]]></paragraph>
+        <paragraph num="5"><![CDATA[Miss Leister wasn't very warm, he said.]]></paragraph>
+        <paragraph num="6"><![CDATA["But we had a Christmas party -- all the classes had Christmas parties -- and we all exchanged names for gifts. And the Christmas party started, the gifts were being handed out, names were being called, and one by one all my classmates went up to get their gift. When the gifts were all gone, I had not been called and did not receive a gift, for some reason or other."]]></paragraph>
+        <paragraph num="7"><![CDATA[The day before Christmas, Miss Leister showed up at Michaels' house, unannounced.]]></paragraph>
+        <paragraph num="8"><![CDATA["And she had a small gift that she gave to me," he said. "That gift was a key chain. I kept that for years and years. And as odd as it may seem, my headaches went away about two days after she came."]]></paragraph>
+        <paragraph num="9"><![CDATA[Michaels' relationship with Miss Leister changed from that day on.]]></paragraph>
+        <paragraph num="10"><![CDATA[Produced for Morning Edition by Jasmyn Belcher. The senior producer for StoryCorps is Michael Garofalo. Recorded in partnership with WPSU.    [Copyright 2011 National Public Radio]]]></paragraph>
+      </text>
+    </story>
+    <story id="4973590">
+      <link type="html">http://www.npr.org/templates/story/story.php?storyId=4973590&amp;ft=3&amp;f=</link>
+      <link type="api">http://api.npr.org/query?id=4973590&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+      <title><![CDATA[Jerry Lewis on Dean Martin: 'A Love Story']]></title>
+      <audio id="4973591" type="primary">
+        <title>Listen</title>
+        <duration>0</duration>
+        <description/>
+        <format>
+          <mp3 type="m3u">http://api.npr.org/m3u/14973591-9ed229.m3u?orgId=1&amp;topicId=1022&amp;ft=3&amp;f=</mp3>
+          <wm>http://www.npr.org/templates/dmg/dmg_wmref_em.php?id=4973591&amp;type=1&amp;mtype=WM&amp;orgId=1&amp;topicId=1022&amp;ft=3&amp;f=</wm>
+          <rm>http://www.npr.org/templates/dmg/dmg_rpm.rpm?id=4973591&amp;type=1&amp;mtype=RM&amp;orgId=1&amp;topicId=1022&amp;ft=3&amp;f=</rm>
+        </format>
+        <rightsHolder/>
+        <permissions>
+          <download allow="true"/>
+          <stream allow="true"/>
+          <embed allow="true"/>
+        </permissions>
+      </audio>
+      <text>
+        <paragraph num="1"><![CDATA[From 1950 to 1956, the team of Martin and Lewis were the No. 1 box-office earners and America's favorite entertainers. A new memoir from Jerry Lewis details how a beloved 10-year partnership was destroyed.]]></paragraph>
+        <paragraph num="2"><![CDATA[Dean and Me: A Love Story details life behind the scenes of the 16 films and numerous television and club shows featuring Dean Martin and Jerry Lewis. The book, which Lewis wrote with James Kaplan, chronicles the tumultuous relationship between two giants of American entertainment.]]></paragraph>
+        <paragraph num="3"><![CDATA[Their success brought money, fame -- and a host of new troubles, from clashes brought on by big egos and diverging priorities. By the end of their run together, Martin and Lewis weren't speaking to each other.]]></paragraph>
+        <paragraph num="4"><![CDATA[Several attempts to patch things up failed; it wasn't until the late 1980s that the men who entertained post-war America with movies like Living It Up and The Caddy spoke at length. Dean Martin died in 1995.]]></paragraph>
+        <paragraph num="5"><![CDATA[Read an Excerpt from 'Dean and Me':]]></paragraph>
+        <paragraph num="6"><![CDATA[Chapter One]]></paragraph>
+        <paragraph num="7"><![CDATA[In the age of Truman, Eisenhower, and Joe McCarthy, we freed America. For ten years after World War II, Dean and I were not only the most successful show-business act in history -- we were history. ]]></paragraph>
+        <paragraph num="8"><![CDATA[You have to remember: Postwar America was a very buttoned-up nation. Radio shows were run by censors, Presidents wore hats, ladies wore girdles. We came straight out of the blue–nobody was expecting anything like Martin and Lewis. A sexy guy and a monkey is how some people saw us, but what we really were, in an age of Freudian self-realization, was the explosion of the show-business id.]]></paragraph>
+        <paragraph num="9"><![CDATA[Like Burns and Allen, Abbott and Costello, and Hope and Crosby, we were vaudevillians, stage performers who worked with an audience. But the difference between us and all the others is significant. They worked with a script. We exploded without one, the same way wiseguy kids do on a playground, or jazz musicians do when they're let loose. And the minute we started out in nightclubs, audiences went nuts for us. As Alan King told an interviewer a few years ago: "I have been in the business for fifty-five years, and I have never to this day seen an act get more laughs than Martin and Lewis. They didn't get laughs–it was pandemonium. People knocked over tables." ]]></paragraph>
+        <paragraph num="10"><![CDATA[Like so many entertainment explosions, we happened almost by accident. ]]></paragraph>
+        <paragraph num="11"><![CDATA[----------]]></paragraph>
+        <paragraph num="12"><![CDATA[It was a crisp March day in midtown Manhattan, March of 1945. I had just turned nineteen, and I was going to live forever. I could feel the bounce in my legs, the air in my lungs. World War II was rapidly drawing to a close, and New York was alive with excitement. Broadway was full of city smells–bus and taxi exhaust; roast peanuts and dirty-water hot dogs; and, most thrilling of all, the perfumes of beautiful women. Midtown was swarming with gorgeous gals! Secretaries, career girls, society broads with little pooches–they all paraded past, tick-tock, tick-tock, setting my heart racing every ten paces. I was a very young newlywed, with a very pregnant wife back in Newark, but I had eyes, and I looked. And looked. And looked. ]]></paragraph>
+        <paragraph num="13"><![CDATA[I was strolling south with my pal Sonny King, heading toward an appointment with an agent in Times Square. Sonny was an ex-prize-fighter from Brooklyn trying to make it as a singer, a knock-around guy, street-smart and quick with a joke–kind of like an early Tony Danza. He prided himself on his nice tenor voice and on knowing everybody who was anybody in show business. Not that his pride always matched up with reality. But that was Sonny, a bit of an operator. And me? I was a Jersey kid trying to make it as a comic. My act–are you ready for this?– was as follows: I would get up on stage and make funny faces while I lip-synched along to phonograph records. The professional term for what I did was dumb act, a phrase I didn't want to think about too much. In those days, it felt a little too much like a bad review. ]]></paragraph>
+        <paragraph num="14"><![CDATA[You know good-bad? Good was that I was young and full of beans and ready to take on the world. Bad was that I had no idea on earth how I was going to accomplish this feat. And bad was also that I was just eking out a living, pulling down $110 a week in a good week, and there weren't that many good weeks. On this princely sum I had to pay my manager, Abner J. Greshler, plus the rent on the Newark apartment, plus feed two, about to be three. Plus wardrobe, candy bars, milk shakes, and phonograph records for the act. Plus my hotel bill. While I was working in New York, I stayed in the city, to be close to my jobs–when I had them–and to stick to where the action was. I'd been rooming at the Belmont Plaza, on Lexington and Forty-ninth, where I'd also been performing in the Glass Hat, a nightclub in the hotel. I got $135 a week and a room. ]]></paragraph>
+        <paragraph num="15"><![CDATA[Suddenly, at Broadway and Fifty-fourth, Sonny spotted someone across the street: a tall, dark, and incredibly handsome man in a camel's-hair coat. His name, Sonny said, was Dean Martin. Just looking at him intimidated me: How does anybody get that handsome? ]]></paragraph>
+        <paragraph num="16"><![CDATA[I smiled at the sight of him in that camel's-hair coat. Harry Horses***, I thought. That was what we used to call a guy who thought he was smooth with the ladies. Anybody who wore a camel's-hair overcoat, with a camel's-hair belt and fake diamond cuff links, was automatically Harry Horses***. ]]></paragraph>
+        <paragraph num="17"><![CDATA[But this guy, I knew, was the real deal. He was standing with a shorter, older fellow, and when he saw Sonny, he waved us over. We crossed the street. I was amazed all over again when I saw how good-looking he was–long, rugged face; great profile; thick, dark brows and eyelashes. And a suntan in March! How'd he manage that? I could see he had kind of a twinkle as he talked to the older guy. Charisma is a word I would learn later. All I knew then was that I couldn't take my eyes off Sonny's pal. ]]></paragraph>
+        <paragraph num="18"><![CDATA["Hey, Dino!" Sonny said as we came up to them. "How ya doin', Lou?" he said to the older man. ]]></paragraph>
+        <paragraph num="19"><![CDATA[Lou, it turned out, was Lou Perry, Dean's manager. He looked like a manager: short, thin-lipped, cool-eyed. Sonny introduced me, and Perry glanced at me without much interest. But Sonny looked excited. He turned to his camel-coated friend. "Dino," Sonny said, "I want you to meet a very funny kid, Jerry Lewis." ]]></paragraph>
+        <paragraph num="20"><![CDATA[Camel-Coat smiled warmly and put out his hand. I took it. It was a big hand, strong, but he didn't go overboard with the grip. I liked that. I liked him, instantly. And he looked genuinely glad to meet me. ]]></paragraph>
+        <paragraph num="21"><![CDATA["Kid," Sonny said–Sonny called me Kid the first time he ever met me, and he would still call me Kid in Vegas fifty years later–"this is Dean Martin. Sings even better than me." ]]></paragraph>
+        <paragraph num="22"><![CDATA[That was Sonny, fun and games. Of course, he had zero idea that he was introducing me to one of the great comic talents of our time. I certainly had no idea of that, either–nor, for that matter, did Dean. At that moment, at the end of World War II, we were just two guys struggling to make it in show business, shaking hands on a busy Broadway street corner. ]]></paragraph>
+        <paragraph num="23"><![CDATA[We made a little chitchat. "You workin'?" I asked. ]]></paragraph>
+        <paragraph num="24"><![CDATA[He smiled that million-dollar smile. Now that I looked at him close up, I could see the faint outline of a healing surgical cut on the bridge of his nose. Some plastic surgeon had done great work. "Oh, this 'n' that, you know," Dean said. "I'm on WMCA radio, sustaining. No bucks, just room." He had a mellow, lazy voice, with a slightly Southern lilt to it. He sounded like he didn't have a care in the world, like he was knockin' 'em dead wherever he went. I believed it. Little did I know that he was hip-deep in debt to Perry and several other managers besides. ]]></paragraph>
+        <paragraph num="25"><![CDATA["How 'bout you?" Dean asked me. ]]></paragraph>
+        <paragraph num="26"><![CDATA[I nodded, quickly. I suddenly wanted, very badly, to impress this man. "I'm just now finishing my eighth week at the Glass Hat," I said. "In the Belmont Plaza." ]]></paragraph>
+        <paragraph num="27"><![CDATA["Really? I live there," Dean said. ]]></paragraph>
+        <paragraph num="28"><![CDATA["At the Glass Hat?" ]]></paragraph>
+        <paragraph num="29"><![CDATA["No, at the Belmont. It's part of my radio deal." ]]></paragraph>
+        <paragraph num="30"><![CDATA[Just at that moment, a beautiful brunette walked by, in a coat with a fur-trimmed collar. Dean lowered his eyelids slightly and flashed her that grin–and damned if she didn't smile right back! How come I never got that reaction? She gave him a lingering gaze over her shoulder as she passed, a clear invitation, and Dean shook his head, smiling his regrets. ]]></paragraph>
+        <paragraph num="31"><![CDATA["Look at this guy," Sonny said in his hoarse Brooklyn accent. "He's got p**** radar!" ]]></paragraph>
+        <paragraph num="32"><![CDATA[One look at Sonny's eyes was enough to tell me that he idolized Dean–whose attention, all at once, I felt anxious to get back. "You ever go to Leon and Eddie's?" I asked, my voice sounding even higher and squeakier than its usual high and squeaky. Leon and Eddie's was a restaurant and nightclub a couple of blocks away, on fabulous Fifty-second Street–which, in those days, was lined with restaurants and former speakeasies, like "21," and music clubs like the Five Spot and Birdland. Live entertainment still ruled America in those pretelevision days, Manhattan was the world capital of nightclubs, and Leon and Eddie's was a mecca for nightclub comics. Sunday night was Celebrity Night: The fun would start after hours, when anybody in the business might show up and get on to do a piece of their act. You'd see the likes of Milton Berle, Henny Youngman, Danny Kaye. It was magical. I used to go and gawk, like a kid in a candy store. Someday, I thought. . . . But for now, no chance. They'd never use a dumb act–one needing props, yet. ]]></paragraph>
+        <paragraph num="33"><![CDATA["Yeah, sometimes I stop by Sunday nights," Dean said. ]]></paragraph>
+        <paragraph num="34"><![CDATA["Me too!" I cried. ]]></paragraph>
+        <paragraph num="35"><![CDATA[He gave me that smile again–warm but ever so slightly cool around the edges. It bathed you in its glow, yet didn't let you in. Men don't like to admit it, but there's something about a truly handsome guy who also happens to be truly masculine–what they call a man's man–that's as magnetic to us as it is to women. That's what I want to be like, you think. Maybe if I hang around with him, some of that'll rub off on me. ]]></paragraph>
+        <paragraph num="36"><![CDATA["So–maybe I'll see you there sometime," Dean told me. ]]></paragraph>
+        <paragraph num="37"><![CDATA["Yeah, sure," I said. ]]></paragraph>
+        <paragraph num="38"><![CDATA["Go get your tux out of hock," he said. ]]></paragraph>
+        <paragraph num="39"><![CDATA[I laughed. He was funny. ]]></paragraph>
+        <paragraph num="40"><![CDATA[----------]]></paragraph>
+        <paragraph num="41"><![CDATA[Sonny King was a pal, but not a friend. I badly needed a friend. I was a lonely kid, the only child of two vaudevillians who were rarely around. My dad, Danny, was a singer and all-around entertainer: He did it all– patter, impressions, stand-up comedy. My mom, Rachel (Rae), was Danny's pianist and conductor. So I grew up shuttled from household to household, relative to relative. I cherished the precious times Mom and Dad would take me on the road with them. And for them, the highest form of togetherness was to put me right in the act: My first onstage appearance was at age five, in 1931, at the President Hotel, a summer resort in Swan Lake, New York. I wore a tux (naturally) and sang that Depression classic "Brother, Can You Spare a Dime?" From that moment on, showbiz was in my blood. So was loneliness. ]]></paragraph>
+        <paragraph num="42"><![CDATA[By the time I was sixteen, I was a high-school dropout and a show-business wannabe. A desperately-wanting-to-be wannabe. I worked the Catskill resorts as a busboy (for pay) and (for free) a tummler–the guy who cuts up, makes faces, gets the guests in a good mood for the real entertainment. That's what I wanted to be, the real entertainment. But what was I going to do? I was tall, skinny, gawky; cute but funny-looking. With the voice God had given me, I certainly wasn't going to be a singer like my dad, with his Al Jolson baritone. I always saw the humor in things, the joke possibilities. At the same time, I didn't have the confidence to stand on a stage and talk. ]]></paragraph>
+        <paragraph num="43"><![CDATA[Then I hit on a genius solution–or what seemed at the time like a genius solution. One night, at a New Jersey resort where my parents were doing their act, a friend of mine, an aspiring performer, Lonnie Brown–the daughter of Charlie and Lillian Brown, resort hotelkeepers who were destined to become very important in my life–was listening to a record by an English singer named Cyril Smith, trying to learn those classy English intonations. I had a little crush on Lonnie, and, attempting to impress her, I started to clown around, mouthing along to the music, rolling my eyes and playing the diva. Well, Lonnie broke up, and that was music to my ears. An act was born. ]]></paragraph>
+        <paragraph num="44"><![CDATA[After a couple of hard years on the road, playing burlesque houses where the guys with newspapers on their laps would boo me off the stage so they could see the strippers, I became a showbiz veteran (still in my teens) with an act called "Jerry Lewis–Satirical Impressions in Pantomimicry." ]]></paragraph>
+        <paragraph num="45"><![CDATA[I had perfected the act, and to tell the absolute truth, it was pretty godd*** funny. I would put on a fright wig and a frock coat and lip-synch to the great baritone Igor Gorin's "Largo Al Factotum" from The Barber of Seville. I'd come out in a Carmen Miranda dress, with fruit on my hat, and do Miranda. Then into a pin-striped jacket, suck in my cheeks, and I'd do Sinatra singing "All or Nothing at All." I knew where every scratch and skip was on every record, and when they came up, I'd do shtick to them. I had gotten better and better at contorting my long, skinny body in ways that I knew worked comedically. I practiced making faces in front of a mirror till I cracked myself up. God hadn't made me handsome, but he'd given me something, I always felt: funny bones. ]]></paragraph>
+        <paragraph num="46"><![CDATA[And I never said a word on stage. ]]></paragraph>
+        <paragraph num="47"><![CDATA[The dumb act was a rapidly fading subspecialty in those rapidly fading days of baggy-pants comedy, and my own days doing it were numbered. There were a few of us lip-synchers out there, working the circuit, and while I liked (and still like) to think that I was the best of the bunch–nobody could move or pratfall or make faces like Jerry Lewis– I only had around three to eleven audience members per show who agreed with me. Those three or four or nine people would be wetting themselves while I performed, as the rest of the house (if anyone else was there) clapped slowly, or booed.... Bring on the strippers! ]]></paragraph>
+        <paragraph num="48"><![CDATA[And I never said a word. ]]></paragraph>
+        <paragraph num="49"><![CDATA[The truth is, funny sentences were always running through my brain: I thought funny. But I was ashamed of what would come out if I spoke–that nasal kid's voice. So I was funny on stage, but I was only part funny: I was still looking for the missing piece. ]]></paragraph>
+        <paragraph num="50"><![CDATA[Excerpted from Dean and Me by James Kaplan. Copyright 2005 by Jerry Lewis and James Kaplan. Excerpted by permission of Doubleday, a division of Random House, Inc. All rights reserved. No part of this excerpt may be reproduced or reprinted without permission in writing from the publisher.  [Copyright 2011 National Public Radio]]]></paragraph>
+      </text>
+    </story>
+  </list>
+</nprml>
+<?xml version="1.0" encoding="UTF-8"?>
+<nprml version="0.94">
+  <list>
+    <title><![CDATA[NPR: Stories from NPR]]></title>
+    <teaser><![CDATA[Assorted stories from NPR]]></teaser>
+    <miniTeaser><![CDATA[Custom NPR News Feed API.  Visit http://www.npr.org/templates/apidoc/index.php for more information.]]></miniTeaser>
+    <link type="api">http://api.npr.org/query?searchTerm=%22didn%27t%20smile%22&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+    <story id="132260323">
+      <link type="html">http://www.npr.org/2010/12/24/132260323/one-students-christmas-lesson?ft=3&amp;f=</link>
+      <link type="api">http://api.npr.org/query?id=132260323&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+      <link type="short">http://n.pr/fa63Cy</link>
+      <title><![CDATA[One Student's Christmas Lesson]]></title>
+      <transcript>
+        <link type="api">http://api.npr.org/transcript?id=132260323&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+      </transcript>
+      <audio id="132304294" type="primary">
+        <title/>
+        <duration>118</duration>
+        <description/>
+        <format>
+          <mp3 type="m3u">http://api.npr.org/m3u/1132304294-edeb99.m3u?orgId=1&amp;topicId=1022&amp;aggIds=4516989&amp;ft=3&amp;f=</mp3>
+          <wm>http://www.npr.org/templates/dmg/dmg_wmref_em.php?id=132304294&amp;type=1&amp;mtype=WM&amp;orgId=1&amp;topicId=1022&amp;aggIds=4516989&amp;ft=3&amp;f=</wm>
+          <rm>http://www.npr.org/templates/dmg/dmg_rpm.rpm?id=132304294&amp;type=1&amp;mtype=RM&amp;orgId=1&amp;topicId=1022&amp;aggIds=4516989&amp;ft=3&amp;f=</rm>
+        </format>
+        <rightsHolder/>
+        <permissions>
+          <download allow="true"/>
+          <stream allow="true"/>
+          <embed allow="true"/>
+        </permissions>
+      </audio>
+      <text>
+        <paragraph num="1"><![CDATA[Don Michaels really didn't like school for a while when he was growing up.]]></paragraph>
+        <paragraph num="2"><![CDATA["I had terrible migraine headaches when I was in fifth grade," he explained to his daughter Jennifer recently. "Whether that was because of the pressure, or because of the reputation that the teacher at the time had, and my having gotten reports from my three brothers who had her, I just, I just don't know."]]></paragraph>
+        <paragraph num="3"><![CDATA[Michaels remembers his teacher, Miss Leister, having very sharp features.]]></paragraph>
+        <paragraph num="4"><![CDATA["The most prominent thing was her nose -- it was very hawkish," the 72-year-old said. "She didn't smile a great deal. And she was a taskmaster -- she expected you to perform."]]></paragraph>
+        <paragraph num="5"><![CDATA[Miss Leister wasn't very warm, he said.]]></paragraph>
+        <paragraph num="6"><![CDATA["But we had a Christmas party -- all the classes had Christmas parties -- and we all exchanged names for gifts. And the Christmas party started, the gifts were being handed out, names were being called, and one by one all my classmates went up to get their gift. When the gifts were all gone, I had not been called and did not receive a gift, for some reason or other."]]></paragraph>
+        <paragraph num="7"><![CDATA[The day before Christmas, Miss Leister showed up at Michaels' house, unannounced.]]></paragraph>
+        <paragraph num="8"><![CDATA["And she had a small gift that she gave to me," he said. "That gift was a key chain. I kept that for years and years. And as odd as it may seem, my headaches went away about two days after she came."]]></paragraph>
+        <paragraph num="9"><![CDATA[Michaels' relationship with Miss Leister changed from that day on.]]></paragraph>
+        <paragraph num="10"><![CDATA[Produced for Morning Edition by Jasmyn Belcher. The senior producer for StoryCorps is Michael Garofalo. Recorded in partnership with WPSU.    [Copyright 2011 National Public Radio]]]></paragraph>
+      </text>
+    </story>
+  </list>
+</nprml>
+<?xml version="1.0" encoding="UTF-8"?>
+<nprml version="0.94">
+  <list>
+    <title><![CDATA[NPR: Stories from NPR]]></title>
+    <teaser><![CDATA[Assorted stories from NPR]]></teaser>
+    <miniTeaser><![CDATA[Custom NPR News Feed API.  Visit http://www.npr.org/templates/apidoc/index.php for more information.]]></miniTeaser>
+    <link type="api">http://api.npr.org/query?searchTerm=%22didn%27t%20smile%22&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+    <story id="132260323">
+      <link type="html">http://www.npr.org/2010/12/24/132260323/one-students-christmas-lesson?ft=3&amp;f=</link>
+      <link type="api">http://api.npr.org/query?id=132260323&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+      <link type="short">http://n.pr/fa63Cy</link>
+      <title><![CDATA[One Student's Christmas Lesson]]></title>
+      <transcript>
+        <link type="api">http://api.npr.org/transcript?id=132260323&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+      </transcript>
+      <audio id="132304294" type="primary">
+        <title/>
+        <duration>118</duration>
+        <description/>
+        <format>
+          <mp3 type="m3u">http://api.npr.org/m3u/1132304294-edeb99.m3u?orgId=1&amp;topicId=1022&amp;aggIds=4516989&amp;ft=3&amp;f=</mp3>
+          <wm>http://www.npr.org/templates/dmg/dmg_wmref_em.php?id=132304294&amp;type=1&amp;mtype=WM&amp;orgId=1&amp;topicId=1022&amp;aggIds=4516989&amp;ft=3&amp;f=</wm>
+          <rm>http://www.npr.org/templates/dmg/dmg_rpm.rpm?id=132304294&amp;type=1&amp;mtype=RM&amp;orgId=1&amp;topicId=1022&amp;aggIds=4516989&amp;ft=3&amp;f=</rm>
+        </format>
+        <rightsHolder/>
+        <permissions>
+          <download allow="true"/>
+          <stream allow="true"/>
+          <embed allow="true"/>
+        </permissions>
+      </audio>
+      <text>
+        <paragraph num="1"><![CDATA[Don Michaels really didn't like school for a while when he was growing up.]]></paragraph>
+        <paragraph num="2"><![CDATA["I had terrible migraine headaches when I was in fifth grade," he explained to his daughter Jennifer recently. "Whether that was because of the pressure, or because of the reputation that the teacher at the time had, and my having gotten reports from my three brothers who had her, I just, I just don't know."]]></paragraph>
+        <paragraph num="3"><![CDATA[Michaels remembers his teacher, Miss Leister, having very sharp features.]]></paragraph>
+        <paragraph num="4"><![CDATA["The most prominent thing was her nose -- it was very hawkish," the 72-year-old said. "She didn't smile a great deal. And she was a taskmaster -- she expected you to perform."]]></paragraph>
+        <paragraph num="5"><![CDATA[Miss Leister wasn't very warm, he said.]]></paragraph>
+        <paragraph num="6"><![CDATA["But we had a Christmas party -- all the classes had Christmas parties -- and we all exchanged names for gifts. And the Christmas party started, the gifts were being handed out, names were being called, and one by one all my classmates went up to get their gift. When the gifts were all gone, I had not been called and did not receive a gift, for some reason or other."]]></paragraph>
+        <paragraph num="7"><![CDATA[The day before Christmas, Miss Leister showed up at Michaels' house, unannounced.]]></paragraph>
+        <paragraph num="8"><![CDATA["And she had a small gift that she gave to me," he said. "That gift was a key chain. I kept that for years and years. And as odd as it may seem, my headaches went away about two days after she came."]]></paragraph>
+        <paragraph num="9"><![CDATA[Michaels' relationship with Miss Leister changed from that day on.]]></paragraph>
+        <paragraph num="10"><![CDATA[Produced for Morning Edition by Jasmyn Belcher. The senior producer for StoryCorps is Michael Garofalo. Recorded in partnership with WPSU.    [Copyright 2011 National Public Radio]]]></paragraph>
+      </text>
+    </story>
+    <story id="4973590">
+      <link type="html">http://www.npr.org/templates/story/story.php?storyId=4973590&amp;ft=3&amp;f=</link>
+      <link type="api">http://api.npr.org/query?id=4973590&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+      <title><![CDATA[Jerry Lewis on Dean Martin: 'A Love Story']]></title>
+      <audio id="4973591" type="primary">
+        <title>Listen</title>
+        <duration>0</duration>
+        <description/>
+        <format>
+          <mp3 type="m3u">http://api.npr.org/m3u/14973591-9ed229.m3u?orgId=1&amp;topicId=1022&amp;ft=3&amp;f=</mp3>
+          <wm>http://www.npr.org/templates/dmg/dmg_wmref_em.php?id=4973591&amp;type=1&amp;mtype=WM&amp;orgId=1&amp;topicId=1022&amp;ft=3&amp;f=</wm>
+          <rm>http://www.npr.org/templates/dmg/dmg_rpm.rpm?id=4973591&amp;type=1&amp;mtype=RM&amp;orgId=1&amp;topicId=1022&amp;ft=3&amp;f=</rm>
+        </format>
+        <rightsHolder/>
+        <permissions>
+          <download allow="true"/>
+          <stream allow="true"/>
+          <embed allow="true"/>
+        </permissions>
+      </audio>
+      <text>
+        <paragraph num="1"><![CDATA[From 1950 to 1956, the team of Martin and Lewis were the No. 1 box-office earners and America's favorite entertainers. A new memoir from Jerry Lewis details how a beloved 10-year partnership was destroyed.]]></paragraph>
+        <paragraph num="2"><![CDATA[Dean and Me: A Love Story details life behind the scenes of the 16 films and numerous television and club shows featuring Dean Martin and Jerry Lewis. The book, which Lewis wrote with James Kaplan, chronicles the tumultuous relationship between two giants of American entertainment.]]></paragraph>
+        <paragraph num="3"><![CDATA[Their success brought money, fame -- and a host of new troubles, from clashes brought on by big egos and diverging priorities. By the end of their run together, Martin and Lewis weren't speaking to each other.]]></paragraph>
+        <paragraph num="4"><![CDATA[Several attempts to patch things up failed; it wasn't until the late 1980s that the men who entertained post-war America with movies like Living It Up and The Caddy spoke at length. Dean Martin died in 1995.]]></paragraph>
+        <paragraph num="5"><![CDATA[Read an Excerpt from 'Dean and Me':]]></paragraph>
+        <paragraph num="6"><![CDATA[Chapter One]]></paragraph>
+        <paragraph num="7"><![CDATA[In the age of Truman, Eisenhower, and Joe McCarthy, we freed America. For ten years after World War II, Dean and I were not only the most successful show-business act in history -- we were history. ]]></paragraph>
+        <paragraph num="8"><![CDATA[You have to remember: Postwar America was a very buttoned-up nation. Radio shows were run by censors, Presidents wore hats, ladies wore girdles. We came straight out of the blue–nobody was expecting anything like Martin and Lewis. A sexy guy and a monkey is how some people saw us, but what we really were, in an age of Freudian self-realization, was the explosion of the show-business id.]]></paragraph>
+        <paragraph num="9"><![CDATA[Like Burns and Allen, Abbott and Costello, and Hope and Crosby, we were vaudevillians, stage performers who worked with an audience. But the difference between us and all the others is significant. They worked with a script. We exploded without one, the same way wiseguy kids do on a playground, or jazz musicians do when they're let loose. And the minute we started out in nightclubs, audiences went nuts for us. As Alan King told an interviewer a few years ago: "I have been in the business for fifty-five years, and I have never to this day seen an act get more laughs than Martin and Lewis. They didn't get laughs–it was pandemonium. People knocked over tables." ]]></paragraph>
+        <paragraph num="10"><![CDATA[Like so many entertainment explosions, we happened almost by accident. ]]></paragraph>
+        <paragraph num="11"><![CDATA[----------]]></paragraph>
+        <paragraph num="12"><![CDATA[It was a crisp March day in midtown Manhattan, March of 1945. I had just turned nineteen, and I was going to live forever. I could feel the bounce in my legs, the air in my lungs. World War II was rapidly drawing to a close, and New York was alive with excitement. Broadway was full of city smells–bus and taxi exhaust; roast peanuts and dirty-water hot dogs; and, most thrilling of all, the perfumes of beautiful women. Midtown was swarming with gorgeous gals! Secretaries, career girls, society broads with little pooches–they all paraded past, tick-tock, tick-tock, setting my heart racing every ten paces. I was a very young newlywed, with a very pregnant wife back in Newark, but I had eyes, and I looked. And looked. And looked. ]]></paragraph>
+        <paragraph num="13"><![CDATA[I was strolling south with my pal Sonny King, heading toward an appointment with an agent in Times Square. Sonny was an ex-prize-fighter from Brooklyn trying to make it as a singer, a knock-around guy, street-smart and quick with a joke–kind of like an early Tony Danza. He prided himself on his nice tenor voice and on knowing everybody who was anybody in show business. Not that his pride always matched up with reality. But that was Sonny, a bit of an operator. And me? I was a Jersey kid trying to make it as a comic. My act–are you ready for this?– was as follows: I would get up on stage and make funny faces while I lip-synched along to phonograph records. The professional term for what I did was dumb act, a phrase I didn't want to think about too much. In those days, it felt a little too much like a bad review. ]]></paragraph>
+        <paragraph num="14"><![CDATA[You know good-bad? Good was that I was young and full of beans and ready to take on the world. Bad was that I had no idea on earth how I was going to accomplish this feat. And bad was also that I was just eking out a living, pulling down $110 a week in a good week, and there weren't that many good weeks. On this princely sum I had to pay my manager, Abner J. Greshler, plus the rent on the Newark apartment, plus feed two, about to be three. Plus wardrobe, candy bars, milk shakes, and phonograph records for the act. Plus my hotel bill. While I was working in New York, I stayed in the city, to be close to my jobs–when I had them–and to stick to where the action was. I'd been rooming at the Belmont Plaza, on Lexington and Forty-ninth, where I'd also been performing in the Glass Hat, a nightclub in the hotel. I got $135 a week and a room. ]]></paragraph>
+        <paragraph num="15"><![CDATA[Suddenly, at Broadway and Fifty-fourth, Sonny spotted someone across the street: a tall, dark, and incredibly handsome man in a camel's-hair coat. His name, Sonny said, was Dean Martin. Just looking at him intimidated me: How does anybody get that handsome? ]]></paragraph>
+        <paragraph num="16"><![CDATA[I smiled at the sight of him in that camel's-hair coat. Harry Horses***, I thought. That was what we used to call a guy who thought he was smooth with the ladies. Anybody who wore a camel's-hair overcoat, with a camel's-hair belt and fake diamond cuff links, was automatically Harry Horses***. ]]></paragraph>
+        <paragraph num="17"><![CDATA[But this guy, I knew, was the real deal. He was standing with a shorter, older fellow, and when he saw Sonny, he waved us over. We crossed the street. I was amazed all over again when I saw how good-looking he was–long, rugged face; great profile; thick, dark brows and eyelashes. And a suntan in March! How'd he manage that? I could see he had kind of a twinkle as he talked to the older guy. Charisma is a word I would learn later. All I knew then was that I couldn't take my eyes off Sonny's pal. ]]></paragraph>
+        <paragraph num="18"><![CDATA["Hey, Dino!" Sonny said as we came up to them. "How ya doin', Lou?" he said to the older man. ]]></paragraph>
+        <paragraph num="19"><![CDATA[Lou, it turned out, was Lou Perry, Dean's manager. He looked like a manager: short, thin-lipped, cool-eyed. Sonny introduced me, and Perry glanced at me without much interest. But Sonny looked excited. He turned to his camel-coated friend. "Dino," Sonny said, "I want you to meet a very funny kid, Jerry Lewis." ]]></paragraph>
+        <paragraph num="20"><![CDATA[Camel-Coat smiled warmly and put out his hand. I took it. It was a big hand, strong, but he didn't go overboard with the grip. I liked that. I liked him, instantly. And he looked genuinely glad to meet me. ]]></paragraph>
+        <paragraph num="21"><![CDATA["Kid," Sonny said–Sonny called me Kid the first time he ever met me, and he would still call me Kid in Vegas fifty years later–"this is Dean Martin. Sings even better than me." ]]></paragraph>
+        <paragraph num="22"><![CDATA[That was Sonny, fun and games. Of course, he had zero idea that he was introducing me to one of the great comic talents of our time. I certainly had no idea of that, either–nor, for that matter, did Dean. At that moment, at the end of World War II, we were just two guys struggling to make it in show business, shaking hands on a busy Broadway street corner. ]]></paragraph>
+        <paragraph num="23"><![CDATA[We made a little chitchat. "You workin'?" I asked. ]]></paragraph>
+        <paragraph num="24"><![CDATA[He smiled that million-dollar smile. Now that I looked at him close up, I could see the faint outline of a healing surgical cut on the bridge of his nose. Some plastic surgeon had done great work. "Oh, this 'n' that, you know," Dean said. "I'm on WMCA radio, sustaining. No bucks, just room." He had a mellow, lazy voice, with a slightly Southern lilt to it. He sounded like he didn't have a care in the world, like he was knockin' 'em dead wherever he went. I believed it. Little did I know that he was hip-deep in debt to Perry and several other managers besides. ]]></paragraph>
+        <paragraph num="25"><![CDATA["How 'bout you?" Dean asked me. ]]></paragraph>
+        <paragraph num="26"><![CDATA[I nodded, quickly. I suddenly wanted, very badly, to impress this man. "I'm just now finishing my eighth week at the Glass Hat," I said. "In the Belmont Plaza." ]]></paragraph>
+        <paragraph num="27"><![CDATA["Really? I live there," Dean said. ]]></paragraph>
+        <paragraph num="28"><![CDATA["At the Glass Hat?" ]]></paragraph>
+        <paragraph num="29"><![CDATA["No, at the Belmont. It's part of my radio deal." ]]></paragraph>
+        <paragraph num="30"><![CDATA[Just at that moment, a beautiful brunette walked by, in a coat with a fur-trimmed collar. Dean lowered his eyelids slightly and flashed her that grin–and damned if she didn't smile right back! How come I never got that reaction? She gave him a lingering gaze over her shoulder as she passed, a clear invitation, and Dean shook his head, smiling his regrets. ]]></paragraph>
+        <paragraph num="31"><![CDATA["Look at this guy," Sonny said in his hoarse Brooklyn accent. "He's got p**** radar!" ]]></paragraph>
+        <paragraph num="32"><![CDATA[One look at Sonny's eyes was enough to tell me that he idolized Dean–whose attention, all at once, I felt anxious to get back. "You ever go to Leon and Eddie's?" I asked, my voice sounding even higher and squeakier than its usual high and squeaky. Leon and Eddie's was a restaurant and nightclub a couple of blocks away, on fabulous Fifty-second Street–which, in those days, was lined with restaurants and former speakeasies, like "21," and music clubs like the Five Spot and Birdland. Live entertainment still ruled America in those pretelevision days, Manhattan was the world capital of nightclubs, and Leon and Eddie's was a mecca for nightclub comics. Sunday night was Celebrity Night: The fun would start after hours, when anybody in the business might show up and get on to do a piece of their act. You'd see the likes of Milton Berle, Henny Youngman, Danny Kaye. It was magical. I used to go and gawk, like a kid in a candy store. Someday, I thought. . . . But for now, no chance. They'd never use a dumb act–one needing props, yet. ]]></paragraph>
+        <paragraph num="33"><![CDATA["Yeah, sometimes I stop by Sunday nights," Dean said. ]]></paragraph>
+        <paragraph num="34"><![CDATA["Me too!" I cried. ]]></paragraph>
+        <paragraph num="35"><![CDATA[He gave me that smile again–warm but ever so slightly cool around the edges. It bathed you in its glow, yet didn't let you in. Men don't like to admit it, but there's something about a truly handsome guy who also happens to be truly masculine–what they call a man's man–that's as magnetic to us as it is to women. That's what I want to be like, you think. Maybe if I hang around with him, some of that'll rub off on me. ]]></paragraph>
+        <paragraph num="36"><![CDATA["So–maybe I'll see you there sometime," Dean told me. ]]></paragraph>
+        <paragraph num="37"><![CDATA["Yeah, sure," I said. ]]></paragraph>
+        <paragraph num="38"><![CDATA["Go get your tux out of hock," he said. ]]></paragraph>
+        <paragraph num="39"><![CDATA[I laughed. He was funny. ]]></paragraph>
+        <paragraph num="40"><![CDATA[----------]]></paragraph>
+        <paragraph num="41"><![CDATA[Sonny King was a pal, but not a friend. I badly needed a friend. I was a lonely kid, the only child of two vaudevillians who were rarely around. My dad, Danny, was a singer and all-around entertainer: He did it all– patter, impressions, stand-up comedy. My mom, Rachel (Rae), was Danny's pianist and conductor. So I grew up shuttled from household to household, relative to relative. I cherished the precious times Mom and Dad would take me on the road with them. And for them, the highest form of togetherness was to put me right in the act: My first onstage appearance was at age five, in 1931, at the President Hotel, a summer resort in Swan Lake, New York. I wore a tux (naturally) and sang that Depression classic "Brother, Can You Spare a Dime?" From that moment on, showbiz was in my blood. So was loneliness. ]]></paragraph>
+        <paragraph num="42"><![CDATA[By the time I was sixteen, I was a high-school dropout and a show-business wannabe. A desperately-wanting-to-be wannabe. I worked the Catskill resorts as a busboy (for pay) and (for free) a tummler–the guy who cuts up, makes faces, gets the guests in a good mood for the real entertainment. That's what I wanted to be, the real entertainment. But what was I going to do? I was tall, skinny, gawky; cute but funny-looking. With the voice God had given me, I certainly wasn't going to be a singer like my dad, with his Al Jolson baritone. I always saw the humor in things, the joke possibilities. At the same time, I didn't have the confidence to stand on a stage and talk. ]]></paragraph>
+        <paragraph num="43"><![CDATA[Then I hit on a genius solution–or what seemed at the time like a genius solution. One night, at a New Jersey resort where my parents were doing their act, a friend of mine, an aspiring performer, Lonnie Brown–the daughter of Charlie and Lillian Brown, resort hotelkeepers who were destined to become very important in my life–was listening to a record by an English singer named Cyril Smith, trying to learn those classy English intonations. I had a little crush on Lonnie, and, attempting to impress her, I started to clown around, mouthing along to the music, rolling my eyes and playing the diva. Well, Lonnie broke up, and that was music to my ears. An act was born. ]]></paragraph>
+        <paragraph num="44"><![CDATA[After a couple of hard years on the road, playing burlesque houses where the guys with newspapers on their laps would boo me off the stage so they could see the strippers, I became a showbiz veteran (still in my teens) with an act called "Jerry Lewis–Satirical Impressions in Pantomimicry." ]]></paragraph>
+        <paragraph num="45"><![CDATA[I had perfected the act, and to tell the absolute truth, it was pretty godd*** funny. I would put on a fright wig and a frock coat and lip-synch to the great baritone Igor Gorin's "Largo Al Factotum" from The Barber of Seville. I'd come out in a Carmen Miranda dress, with fruit on my hat, and do Miranda. Then into a pin-striped jacket, suck in my cheeks, and I'd do Sinatra singing "All or Nothing at All." I knew where every scratch and skip was on every record, and when they came up, I'd do shtick to them. I had gotten better and better at contorting my long, skinny body in ways that I knew worked comedically. I practiced making faces in front of a mirror till I cracked myself up. God hadn't made me handsome, but he'd given me something, I always felt: funny bones. ]]></paragraph>
+        <paragraph num="46"><![CDATA[And I never said a word on stage. ]]></paragraph>
+        <paragraph num="47"><![CDATA[The dumb act was a rapidly fading subspecialty in those rapidly fading days of baggy-pants comedy, and my own days doing it were numbered. There were a few of us lip-synchers out there, working the circuit, and while I liked (and still like) to think that I was the best of the bunch–nobody could move or pratfall or make faces like Jerry Lewis– I only had around three to eleven audience members per show who agreed with me. Those three or four or nine people would be wetting themselves while I performed, as the rest of the house (if anyone else was there) clapped slowly, or booed.... Bring on the strippers! ]]></paragraph>
+        <paragraph num="48"><![CDATA[And I never said a word. ]]></paragraph>
+        <paragraph num="49"><![CDATA[The truth is, funny sentences were always running through my brain: I thought funny. But I was ashamed of what would come out if I spoke–that nasal kid's voice. So I was funny on stage, but I was only part funny: I was still looking for the missing piece. ]]></paragraph>
+        <paragraph num="50"><![CDATA[Excerpted from Dean and Me by James Kaplan. Copyright 2005 by Jerry Lewis and James Kaplan. Excerpted by permission of Doubleday, a division of Random House, Inc. All rights reserved. No part of this excerpt may be reproduced or reprinted without permission in writing from the publisher.  [Copyright 2011 National Public Radio]]]></paragraph>
+      </text>
+    </story>
+  </list>
+</nprml>
+<?xml version="1.0" encoding="UTF-8"?>
+<nprml version="0.94">
+  <list>
+    <title><![CDATA[NPR: Stories from NPR]]></title>
+    <teaser><![CDATA[Assorted stories from NPR]]></teaser>
+    <miniTeaser><![CDATA[Custom NPR News Feed API.  Visit http://www.npr.org/templates/apidoc/index.php for more information.]]></miniTeaser>
+    <link type="api">http://api.npr.org/query?searchTerm=%22didn%27t%20smile%22&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+    <story id="132260323">
+      <link type="html">http://www.npr.org/2010/12/24/132260323/one-students-christmas-lesson?ft=3&amp;f=</link>
+      <link type="api">http://api.npr.org/query?id=132260323&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+      <link type="short">http://n.pr/fa63Cy</link>
+      <title><![CDATA[One Student's Christmas Lesson]]></title>
+      <transcript>
+        <link type="api">http://api.npr.org/transcript?id=132260323&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+      </transcript>
+      <audio id="132304294" type="primary">
+        <title/>
+        <duration>118</duration>
+        <description/>
+        <format>
+          <mp3 type="m3u">http://api.npr.org/m3u/1132304294-edeb99.m3u?orgId=1&amp;topicId=1022&amp;aggIds=4516989&amp;ft=3&amp;f=</mp3>
+          <wm>http://www.npr.org/templates/dmg/dmg_wmref_em.php?id=132304294&amp;type=1&amp;mtype=WM&amp;orgId=1&amp;topicId=1022&amp;aggIds=4516989&amp;ft=3&amp;f=</wm>
+          <rm>http://www.npr.org/templates/dmg/dmg_rpm.rpm?id=132304294&amp;type=1&amp;mtype=RM&amp;orgId=1&amp;topicId=1022&amp;aggIds=4516989&amp;ft=3&amp;f=</rm>
+        </format>
+        <rightsHolder/>
+        <permissions>
+          <download allow="true"/>
+          <stream allow="true"/>
+          <embed allow="true"/>
+        </permissions>
+      </audio>
+      <text>
+        <paragraph num="1"><![CDATA[Don Michaels really didn't like school for a while when he was growing up.]]></paragraph>
+        <paragraph num="2"><![CDATA["I had terrible migraine headaches when I was in fifth grade," he explained to his daughter Jennifer recently. "Whether that was because of the pressure, or because of the reputation that the teacher at the time had, and my having gotten reports from my three brothers who had her, I just, I just don't know."]]></paragraph>
+        <paragraph num="3"><![CDATA[Michaels remembers his teacher, Miss Leister, having very sharp features.]]></paragraph>
+        <paragraph num="4"><![CDATA["The most prominent thing was her nose -- it was very hawkish," the 72-year-old said. "She didn't smile a great deal. And she was a taskmaster -- she expected you to perform."]]></paragraph>
+        <paragraph num="5"><![CDATA[Miss Leister wasn't very warm, he said.]]></paragraph>
+        <paragraph num="6"><![CDATA["But we had a Christmas party -- all the classes had Christmas parties -- and we all exchanged names for gifts. And the Christmas party started, the gifts were being handed out, names were being called, and one by one all my classmates went up to get their gift. When the gifts were all gone, I had not been called and did not receive a gift, for some reason or other."]]></paragraph>
+        <paragraph num="7"><![CDATA[The day before Christmas, Miss Leister showed up at Michaels' house, unannounced.]]></paragraph>
+        <paragraph num="8"><![CDATA["And she had a small gift that she gave to me," he said. "That gift was a key chain. I kept that for years and years. And as odd as it may seem, my headaches went away about two days after she came."]]></paragraph>
+        <paragraph num="9"><![CDATA[Michaels' relationship with Miss Leister changed from that day on.]]></paragraph>
+        <paragraph num="10"><![CDATA[Produced for Morning Edition by Jasmyn Belcher. The senior producer for StoryCorps is Michael Garofalo. Recorded in partnership with WPSU.    [Copyright 2011 National Public Radio]]]></paragraph>
+      </text>
+    </story>
+    <story id="4973590">
+      <link type="html">http://www.npr.org/templates/story/story.php?storyId=4973590&amp;ft=3&amp;f=</link>
+      <link type="api">http://api.npr.org/query?id=4973590&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+      <title><![CDATA[Jerry Lewis on Dean Martin: 'A Love Story']]></title>
+      <audio id="4973591" type="primary">
+        <title>Listen</title>
+        <duration>0</duration>
+        <description/>
+        <format>
+          <mp3 type="m3u">http://api.npr.org/m3u/14973591-9ed229.m3u?orgId=1&amp;topicId=1022&amp;ft=3&amp;f=</mp3>
+          <wm>http://www.npr.org/templates/dmg/dmg_wmref_em.php?id=4973591&amp;type=1&amp;mtype=WM&amp;orgId=1&amp;topicId=1022&amp;ft=3&amp;f=</wm>
+          <rm>http://www.npr.org/templates/dmg/dmg_rpm.rpm?id=4973591&amp;type=1&amp;mtype=RM&amp;orgId=1&amp;topicId=1022&amp;ft=3&amp;f=</rm>
+        </format>
+        <rightsHolder/>
+        <permissions>
+          <download allow="true"/>
+          <stream allow="true"/>
+          <embed allow="true"/>
+        </permissions>
+      </audio>
+      <text>
+        <paragraph num="1"><![CDATA[From 1950 to 1956, the team of Martin and Lewis were the No. 1 box-office earners and America's favorite entertainers. A new memoir from Jerry Lewis details how a beloved 10-year partnership was destroyed.]]></paragraph>
+        <paragraph num="2"><![CDATA[Dean and Me: A Love Story details life behind the scenes of the 16 films and numerous television and club shows featuring Dean Martin and Jerry Lewis. The book, which Lewis wrote with James Kaplan, chronicles the tumultuous relationship between two giants of American entertainment.]]></paragraph>
+        <paragraph num="3"><![CDATA[Their success brought money, fame -- and a host of new troubles, from clashes brought on by big egos and diverging priorities. By the end of their run together, Martin and Lewis weren't speaking to each other.]]></paragraph>
+        <paragraph num="4"><![CDATA[Several attempts to patch things up failed; it wasn't until the late 1980s that the men who entertained post-war America with movies like Living It Up and The Caddy spoke at length. Dean Martin died in 1995.]]></paragraph>
+        <paragraph num="5"><![CDATA[Read an Excerpt from 'Dean and Me':]]></paragraph>
+        <paragraph num="6"><![CDATA[Chapter One]]></paragraph>
+        <paragraph num="7"><![CDATA[In the age of Truman, Eisenhower, and Joe McCarthy, we freed America. For ten years after World War II, Dean and I were not only the most successful show-business act in history -- we were history. ]]></paragraph>
+        <paragraph num="8"><![CDATA[You have to remember: Postwar America was a very buttoned-up nation. Radio shows were run by censors, Presidents wore hats, ladies wore girdles. We came straight out of the blue–nobody was expecting anything like Martin and Lewis. A sexy guy and a monkey is how some people saw us, but what we really were, in an age of Freudian self-realization, was the explosion of the show-business id.]]></paragraph>
+        <paragraph num="9"><![CDATA[Like Burns and Allen, Abbott and Costello, and Hope and Crosby, we were vaudevillians, stage performers who worked with an audience. But the difference between us and all the others is significant. They worked with a script. We exploded without one, the same way wiseguy kids do on a playground, or jazz musicians do when they're let loose. And the minute we started out in nightclubs, audiences went nuts for us. As Alan King told an interviewer a few years ago: "I have been in the business for fifty-five years, and I have never to this day seen an act get more laughs than Martin and Lewis. They didn't get laughs–it was pandemonium. People knocked over tables." ]]></paragraph>
+        <paragraph num="10"><![CDATA[Like so many entertainment explosions, we happened almost by accident. ]]></paragraph>
+        <paragraph num="11"><![CDATA[----------]]></paragraph>
+        <paragraph num="12"><![CDATA[It was a crisp March day in midtown Manhattan, March of 1945. I had just turned nineteen, and I was going to live forever. I could feel the bounce in my legs, the air in my lungs. World War II was rapidly drawing to a close, and New York was alive with excitement. Broadway was full of city smells–bus and taxi exhaust; roast peanuts and dirty-water hot dogs; and, most thrilling of all, the perfumes of beautiful women. Midtown was swarming with gorgeous gals! Secretaries, career girls, society broads with little pooches–they all paraded past, tick-tock, tick-tock, setting my heart racing every ten paces. I was a very young newlywed, with a very pregnant wife back in Newark, but I had eyes, and I looked. And looked. And looked. ]]></paragraph>
+        <paragraph num="13"><![CDATA[I was strolling south with my pal Sonny King, heading toward an appointment with an agent in Times Square. Sonny was an ex-prize-fighter from Brooklyn trying to make it as a singer, a knock-around guy, street-smart and quick with a joke–kind of like an early Tony Danza. He prided himself on his nice tenor voice and on knowing everybody who was anybody in show business. Not that his pride always matched up with reality. But that was Sonny, a bit of an operator. And me? I was a Jersey kid trying to make it as a comic. My act–are you ready for this?– was as follows: I would get up on stage and make funny faces while I lip-synched along to phonograph records. The professional term for what I did was dumb act, a phrase I didn't want to think about too much. In those days, it felt a little too much like a bad review. ]]></paragraph>
+        <paragraph num="14"><![CDATA[You know good-bad? Good was that I was young and full of beans and ready to take on the world. Bad was that I had no idea on earth how I was going to accomplish this feat. And bad was also that I was just eking out a living, pulling down $110 a week in a good week, and there weren't that many good weeks. On this princely sum I had to pay my manager, Abner J. Greshler, plus the rent on the Newark apartment, plus feed two, about to be three. Plus wardrobe, candy bars, milk shakes, and phonograph records for the act. Plus my hotel bill. While I was working in New York, I stayed in the city, to be close to my jobs–when I had them–and to stick to where the action was. I'd been rooming at the Belmont Plaza, on Lexington and Forty-ninth, where I'd also been performing in the Glass Hat, a nightclub in the hotel. I got $135 a week and a room. ]]></paragraph>
+        <paragraph num="15"><![CDATA[Suddenly, at Broadway and Fifty-fourth, Sonny spotted someone across the street: a tall, dark, and incredibly handsome man in a camel's-hair coat. His name, Sonny said, was Dean Martin. Just looking at him intimidated me: How does anybody get that handsome? ]]></paragraph>
+        <paragraph num="16"><![CDATA[I smiled at the sight of him in that camel's-hair coat. Harry Horses***, I thought. That was what we used to call a guy who thought he was smooth with the ladies. Anybody who wore a camel's-hair overcoat, with a camel's-hair belt and fake diamond cuff links, was automatically Harry Horses***. ]]></paragraph>
+        <paragraph num="17"><![CDATA[But this guy, I knew, was the real deal. He was standing with a shorter, older fellow, and when he saw Sonny, he waved us over. We crossed the street. I was amazed all over again when I saw how good-looking he was–long, rugged face; great profile; thick, dark brows and eyelashes. And a suntan in March! How'd he manage that? I could see he had kind of a twinkle as he talked to the older guy. Charisma is a word I would learn later. All I knew then was that I couldn't take my eyes off Sonny's pal. ]]></paragraph>
+        <paragraph num="18"><![CDATA["Hey, Dino!" Sonny said as we came up to them. "How ya doin', Lou?" he said to the older man. ]]></paragraph>
+        <paragraph num="19"><![CDATA[Lou, it turned out, was Lou Perry, Dean's manager. He looked like a manager: short, thin-lipped, cool-eyed. Sonny introduced me, and Perry glanced at me without much interest. But Sonny looked excited. He turned to his camel-coated friend. "Dino," Sonny said, "I want you to meet a very funny kid, Jerry Lewis." ]]></paragraph>
+        <paragraph num="20"><![CDATA[Camel-Coat smiled warmly and put out his hand. I took it. It was a big hand, strong, but he didn't go overboard with the grip. I liked that. I liked him, instantly. And he looked genuinely glad to meet me. ]]></paragraph>
+        <paragraph num="21"><![CDATA["Kid," Sonny said–Sonny called me Kid the first time he ever met me, and he would still call me Kid in Vegas fifty years later–"this is Dean Martin. Sings even better than me." ]]></paragraph>
+        <paragraph num="22"><![CDATA[That was Sonny, fun and games. Of course, he had zero idea that he was introducing me to one of the great comic talents of our time. I certainly had no idea of that, either–nor, for that matter, did Dean. At that moment, at the end of World War II, we were just two guys struggling to make it in show business, shaking hands on a busy Broadway street corner. ]]></paragraph>
+        <paragraph num="23"><![CDATA[We made a little chitchat. "You workin'?" I asked. ]]></paragraph>
+        <paragraph num="24"><![CDATA[He smiled that million-dollar smile. Now that I looked at him close up, I could see the faint outline of a healing surgical cut on the bridge of his nose. Some plastic surgeon had done great work. "Oh, this 'n' that, you know," Dean said. "I'm on WMCA radio, sustaining. No bucks, just room." He had a mellow, lazy voice, with a slightly Southern lilt to it. He sounded like he didn't have a care in the world, like he was knockin' 'em dead wherever he went. I believed it. Little did I know that he was hip-deep in debt to Perry and several other managers besides. ]]></paragraph>
+        <paragraph num="25"><![CDATA["How 'bout you?" Dean asked me. ]]></paragraph>
+        <paragraph num="26"><![CDATA[I nodded, quickly. I suddenly wanted, very badly, to impress this man. "I'm just now finishing my eighth week at the Glass Hat," I said. "In the Belmont Plaza." ]]></paragraph>
+        <paragraph num="27"><![CDATA["Really? I live there," Dean said. ]]></paragraph>
+        <paragraph num="28"><![CDATA["At the Glass Hat?" ]]></paragraph>
+        <paragraph num="29"><![CDATA["No, at the Belmont. It's part of my radio deal." ]]></paragraph>
+        <paragraph num="30"><![CDATA[Just at that moment, a beautiful brunette walked by, in a coat with a fur-trimmed collar. Dean lowered his eyelids slightly and flashed her that grin–and damned if she didn't smile right back! How come I never got that reaction? She gave him a lingering gaze over her shoulder as she passed, a clear invitation, and Dean shook his head, smiling his regrets. ]]></paragraph>
+        <paragraph num="31"><![CDATA["Look at this guy," Sonny said in his hoarse Brooklyn accent. "He's got p**** radar!" ]]></paragraph>
+        <paragraph num="32"><![CDATA[One look at Sonny's eyes was enough to tell me that he idolized Dean–whose attention, all at once, I felt anxious to get back. "You ever go to Leon and Eddie's?" I asked, my voice sounding even higher and squeakier than its usual high and squeaky. Leon and Eddie's was a restaurant and nightclub a couple of blocks away, on fabulous Fifty-second Street–which, in those days, was lined with restaurants and former speakeasies, like "21," and music clubs like the Five Spot and Birdland. Live entertainment still ruled America in those pretelevision days, Manhattan was the world capital of nightclubs, and Leon and Eddie's was a mecca for nightclub comics. Sunday night was Celebrity Night: The fun would start after hours, when anybody in the business might show up and get on to do a piece of their act. You'd see the likes of Milton Berle, Henny Youngman, Danny Kaye. It was magical. I used to go and gawk, like a kid in a candy store. Someday, I thought. . . . But for now, no chance. They'd never use a dumb act–one needing props, yet. ]]></paragraph>
+        <paragraph num="33"><![CDATA["Yeah, sometimes I stop by Sunday nights," Dean said. ]]></paragraph>
+        <paragraph num="34"><![CDATA["Me too!" I cried. ]]></paragraph>
+        <paragraph num="35"><![CDATA[He gave me that smile again–warm but ever so slightly cool around the edges. It bathed you in its glow, yet didn't let you in. Men don't like to admit it, but there's something about a truly handsome guy who also happens to be truly masculine–what they call a man's man–that's as magnetic to us as it is to women. That's what I want to be like, you think. Maybe if I hang around with him, some of that'll rub off on me. ]]></paragraph>
+        <paragraph num="36"><![CDATA["So–maybe I'll see you there sometime," Dean told me. ]]></paragraph>
+        <paragraph num="37"><![CDATA["Yeah, sure," I said. ]]></paragraph>
+        <paragraph num="38"><![CDATA["Go get your tux out of hock," he said. ]]></paragraph>
+        <paragraph num="39"><![CDATA[I laughed. He was funny. ]]></paragraph>
+        <paragraph num="40"><![CDATA[----------]]></paragraph>
+        <paragraph num="41"><![CDATA[Sonny King was a pal, but not a friend. I badly needed a friend. I was a lonely kid, the only child of two vaudevillians who were rarely around. My dad, Danny, was a singer and all-around entertainer: He did it all– patter, impressions, stand-up comedy. My mom, Rachel (Rae), was Danny's pianist and conductor. So I grew up shuttled from household to household, relative to relative. I cherished the precious times Mom and Dad would take me on the road with them. And for them, the highest form of togetherness was to put me right in the act: My first onstage appearance was at age five, in 1931, at the President Hotel, a summer resort in Swan Lake, New York. I wore a tux (naturally) and sang that Depression classic "Brother, Can You Spare a Dime?" From that moment on, showbiz was in my blood. So was loneliness. ]]></paragraph>
+        <paragraph num="42"><![CDATA[By the time I was sixteen, I was a high-school dropout and a show-business wannabe. A desperately-wanting-to-be wannabe. I worked the Catskill resorts as a busboy (for pay) and (for free) a tummler–the guy who cuts up, makes faces, gets the guests in a good mood for the real entertainment. That's what I wanted to be, the real entertainment. But what was I going to do? I was tall, skinny, gawky; cute but funny-looking. With the voice God had given me, I certainly wasn't going to be a singer like my dad, with his Al Jolson baritone. I always saw the humor in things, the joke possibilities. At the same time, I didn't have the confidence to stand on a stage and talk. ]]></paragraph>
+        <paragraph num="43"><![CDATA[Then I hit on a genius solution–or what seemed at the time like a genius solution. One night, at a New Jersey resort where my parents were doing their act, a friend of mine, an aspiring performer, Lonnie Brown–the daughter of Charlie and Lillian Brown, resort hotelkeepers who were destined to become very important in my life–was listening to a record by an English singer named Cyril Smith, trying to learn those classy English intonations. I had a little crush on Lonnie, and, attempting to impress her, I started to clown around, mouthing along to the music, rolling my eyes and playing the diva. Well, Lonnie broke up, and that was music to my ears. An act was born. ]]></paragraph>
+        <paragraph num="44"><![CDATA[After a couple of hard years on the road, playing burlesque houses where the guys with newspapers on their laps would boo me off the stage so they could see the strippers, I became a showbiz veteran (still in my teens) with an act called "Jerry Lewis–Satirical Impressions in Pantomimicry." ]]></paragraph>
+        <paragraph num="45"><![CDATA[I had perfected the act, and to tell the absolute truth, it was pretty godd*** funny. I would put on a fright wig and a frock coat and lip-synch to the great baritone Igor Gorin's "Largo Al Factotum" from The Barber of Seville. I'd come out in a Carmen Miranda dress, with fruit on my hat, and do Miranda. Then into a pin-striped jacket, suck in my cheeks, and I'd do Sinatra singing "All or Nothing at All." I knew where every scratch and skip was on every record, and when they came up, I'd do shtick to them. I had gotten better and better at contorting my long, skinny body in ways that I knew worked comedically. I practiced making faces in front of a mirror till I cracked myself up. God hadn't made me handsome, but he'd given me something, I always felt: funny bones. ]]></paragraph>
+        <paragraph num="46"><![CDATA[And I never said a word on stage. ]]></paragraph>
+        <paragraph num="47"><![CDATA[The dumb act was a rapidly fading subspecialty in those rapidly fading days of baggy-pants comedy, and my own days doing it were numbered. There were a few of us lip-synchers out there, working the circuit, and while I liked (and still like) to think that I was the best of the bunch–nobody could move or pratfall or make faces like Jerry Lewis– I only had around three to eleven audience members per show who agreed with me. Those three or four or nine people would be wetting themselves while I performed, as the rest of the house (if anyone else was there) clapped slowly, or booed.... Bring on the strippers! ]]></paragraph>
+        <paragraph num="48"><![CDATA[And I never said a word. ]]></paragraph>
+        <paragraph num="49"><![CDATA[The truth is, funny sentences were always running through my brain: I thought funny. But I was ashamed of what would come out if I spoke–that nasal kid's voice. So I was funny on stage, but I was only part funny: I was still looking for the missing piece. ]]></paragraph>
+        <paragraph num="50"><![CDATA[Excerpted from Dean and Me by James Kaplan. Copyright 2005 by Jerry Lewis and James Kaplan. Excerpted by permission of Doubleday, a division of Random House, Inc. All rights reserved. No part of this excerpt may be reproduced or reprinted without permission in writing from the publisher.  [Copyright 2011 National Public Radio]]]></paragraph>
+      </text>
+    </story>
+  </list>
+</nprml>
+<?xml version="1.0" encoding="UTF-8"?>
+<nprml version="0.94">
+  <list>
+    <title><![CDATA[NPR: Stories from NPR]]></title>
+    <teaser><![CDATA[Assorted stories from NPR]]></teaser>
+    <miniTeaser><![CDATA[Custom NPR News Feed API.  Visit http://www.npr.org/templates/apidoc/index.php for more information.]]></miniTeaser>
+    <link type="api">http://api.npr.org/query?searchTerm=%22didn%27t%20smile%22&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+    <story id="132260323">
+      <link type="html">http://www.npr.org/2010/12/24/132260323/one-students-christmas-lesson?ft=3&amp;f=</link>
+      <link type="api">http://api.npr.org/query?id=132260323&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+      <link type="short">http://n.pr/fa63Cy</link>
+      <title><![CDATA[One Student's Christmas Lesson]]></title>
+      <transcript>
+        <link type="api">http://api.npr.org/transcript?id=132260323&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+      </transcript>
+      <audio id="132304294" type="primary">
+        <title/>
+        <duration>118</duration>
+        <description/>
+        <format>
+          <mp3 type="m3u">http://api.npr.org/m3u/1132304294-edeb99.m3u?orgId=1&amp;topicId=1022&amp;aggIds=4516989&amp;ft=3&amp;f=</mp3>
+          <wm>http://www.npr.org/templates/dmg/dmg_wmref_em.php?id=132304294&amp;type=1&amp;mtype=WM&amp;orgId=1&amp;topicId=1022&amp;aggIds=4516989&amp;ft=3&amp;f=</wm>
+          <rm>http://www.npr.org/templates/dmg/dmg_rpm.rpm?id=132304294&amp;type=1&amp;mtype=RM&amp;orgId=1&amp;topicId=1022&amp;aggIds=4516989&amp;ft=3&amp;f=</rm>
+        </format>
+        <rightsHolder/>
+        <permissions>
+          <download allow="true"/>
+          <stream allow="true"/>
+          <embed allow="true"/>
+        </permissions>
+      </audio>
+      <text>
+        <paragraph num="1"><![CDATA[Don Michaels really didn't like school for a while when he was growing up.]]></paragraph>
+        <paragraph num="2"><![CDATA["I had terrible migraine headaches when I was in fifth grade," he explained to his daughter Jennifer recently. "Whether that was because of the pressure, or because of the reputation that the teacher at the time had, and my having gotten reports from my three brothers who had her, I just, I just don't know."]]></paragraph>
+        <paragraph num="3"><![CDATA[Michaels remembers his teacher, Miss Leister, having very sharp features.]]></paragraph>
+        <paragraph num="4"><![CDATA["The most prominent thing was her nose -- it was very hawkish," the 72-year-old said. "She didn't smile a great deal. And she was a taskmaster -- she expected you to perform."]]></paragraph>
+        <paragraph num="5"><![CDATA[Miss Leister wasn't very warm, he said.]]></paragraph>
+        <paragraph num="6"><![CDATA["But we had a Christmas party -- all the classes had Christmas parties -- and we all exchanged names for gifts. And the Christmas party started, the gifts were being handed out, names were being called, and one by one all my classmates went up to get their gift. When the gifts were all gone, I had not been called and did not receive a gift, for some reason or other."]]></paragraph>
+        <paragraph num="7"><![CDATA[The day before Christmas, Miss Leister showed up at Michaels' house, unannounced.]]></paragraph>
+        <paragraph num="8"><![CDATA["And she had a small gift that she gave to me," he said. "That gift was a key chain. I kept that for years and years. And as odd as it may seem, my headaches went away about two days after she came."]]></paragraph>
+        <paragraph num="9"><![CDATA[Michaels' relationship with Miss Leister changed from that day on.]]></paragraph>
+        <paragraph num="10"><![CDATA[Produced for Morning Edition by Jasmyn Belcher. The senior producer for StoryCorps is Michael Garofalo. Recorded in partnership with WPSU.    [Copyright 2011 National Public Radio]]]></paragraph>
+      </text>
+    </story>
+    <story id="4973590">
+      <link type="html">http://www.npr.org/templates/story/story.php?storyId=4973590&amp;ft=3&amp;f=</link>
+      <link type="api">http://api.npr.org/query?id=4973590&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+      <title><![CDATA[Jerry Lewis on Dean Martin: 'A Love Story']]></title>
+      <audio id="4973591" type="primary">
+        <title>Listen</title>
+        <duration>0</duration>
+        <description/>
+        <format>
+          <mp3 type="m3u">http://api.npr.org/m3u/14973591-9ed229.m3u?orgId=1&amp;topicId=1022&amp;ft=3&amp;f=</mp3>
+          <wm>http://www.npr.org/templates/dmg/dmg_wmref_em.php?id=4973591&amp;type=1&amp;mtype=WM&amp;orgId=1&amp;topicId=1022&amp;ft=3&amp;f=</wm>
+          <rm>http://www.npr.org/templates/dmg/dmg_rpm.rpm?id=4973591&amp;type=1&amp;mtype=RM&amp;orgId=1&amp;topicId=1022&amp;ft=3&amp;f=</rm>
+        </format>
+        <rightsHolder/>
+        <permissions>
+          <download allow="true"/>
+          <stream allow="true"/>
+          <embed allow="true"/>
+        </permissions>
+      </audio>
+      <text>
+        <paragraph num="1"><![CDATA[From 1950 to 1956, the team of Martin and Lewis were the No. 1 box-office earners and America's favorite entertainers. A new memoir from Jerry Lewis details how a beloved 10-year partnership was destroyed.]]></paragraph>
+        <paragraph num="2"><![CDATA[Dean and Me: A Love Story details life behind the scenes of the 16 films and numerous television and club shows featuring Dean Martin and Jerry Lewis. The book, which Lewis wrote with James Kaplan, chronicles the tumultuous relationship between two giants of American entertainment.]]></paragraph>
+        <paragraph num="3"><![CDATA[Their success brought money, fame -- and a host of new troubles, from clashes brought on by big egos and diverging priorities. By the end of their run together, Martin and Lewis weren't speaking to each other.]]></paragraph>
+        <paragraph num="4"><![CDATA[Several attempts to patch things up failed; it wasn't until the late 1980s that the men who entertained post-war America with movies like Living It Up and The Caddy spoke at length. Dean Martin died in 1995.]]></paragraph>
+        <paragraph num="5"><![CDATA[Read an Excerpt from 'Dean and Me':]]></paragraph>
+        <paragraph num="6"><![CDATA[Chapter One]]></paragraph>
+        <paragraph num="7"><![CDATA[In the age of Truman, Eisenhower, and Joe McCarthy, we freed America. For ten years after World War II, Dean and I were not only the most successful show-business act in history -- we were history. ]]></paragraph>
+        <paragraph num="8"><![CDATA[You have to remember: Postwar America was a very buttoned-up nation. Radio shows were run by censors, Presidents wore hats, ladies wore girdles. We came straight out of the blue–nobody was expecting anything like Martin and Lewis. A sexy guy and a monkey is how some people saw us, but what we really were, in an age of Freudian self-realization, was the explosion of the show-business id.]]></paragraph>
+        <paragraph num="9"><![CDATA[Like Burns and Allen, Abbott and Costello, and Hope and Crosby, we were vaudevillians, stage performers who worked with an audience. But the difference between us and all the others is significant. They worked with a script. We exploded without one, the same way wiseguy kids do on a playground, or jazz musicians do when they're let loose. And the minute we started out in nightclubs, audiences went nuts for us. As Alan King told an interviewer a few years ago: "I have been in the business for fifty-five years, and I have never to this day seen an act get more laughs than Martin and Lewis. They didn't get laughs–it was pandemonium. People knocked over tables." ]]></paragraph>
+        <paragraph num="10"><![CDATA[Like so many entertainment explosions, we happened almost by accident. ]]></paragraph>
+        <paragraph num="11"><![CDATA[----------]]></paragraph>
+        <paragraph num="12"><![CDATA[It was a crisp March day in midtown Manhattan, March of 1945. I had just turned nineteen, and I was going to live forever. I could feel the bounce in my legs, the air in my lungs. World War II was rapidly drawing to a close, and New York was alive with excitement. Broadway was full of city smells–bus and taxi exhaust; roast peanuts and dirty-water hot dogs; and, most thrilling of all, the perfumes of beautiful women. Midtown was swarming with gorgeous gals! Secretaries, career girls, society broads with little pooches–they all paraded past, tick-tock, tick-tock, setting my heart racing every ten paces. I was a very young newlywed, with a very pregnant wife back in Newark, but I had eyes, and I looked. And looked. And looked. ]]></paragraph>
+        <paragraph num="13"><![CDATA[I was strolling south with my pal Sonny King, heading toward an appointment with an agent in Times Square. Sonny was an ex-prize-fighter from Brooklyn trying to make it as a singer, a knock-around guy, street-smart and quick with a joke–kind of like an early Tony Danza. He prided himself on his nice tenor voice and on knowing everybody who was anybody in show business. Not that his pride always matched up with reality. But that was Sonny, a bit of an operator. And me? I was a Jersey kid trying to make it as a comic. My act–are you ready for this?– was as follows: I would get up on stage and make funny faces while I lip-synched along to phonograph records. The professional term for what I did was dumb act, a phrase I didn't want to think about too much. In those days, it felt a little too much like a bad review. ]]></paragraph>
+        <paragraph num="14"><![CDATA[You know good-bad? Good was that I was young and full of beans and ready to take on the world. Bad was that I had no idea on earth how I was going to accomplish this feat. And bad was also that I was just eking out a living, pulling down $110 a week in a good week, and there weren't that many good weeks. On this princely sum I had to pay my manager, Abner J. Greshler, plus the rent on the Newark apartment, plus feed two, about to be three. Plus wardrobe, candy bars, milk shakes, and phonograph records for the act. Plus my hotel bill. While I was working in New York, I stayed in the city, to be close to my jobs–when I had them–and to stick to where the action was. I'd been rooming at the Belmont Plaza, on Lexington and Forty-ninth, where I'd also been performing in the Glass Hat, a nightclub in the hotel. I got $135 a week and a room. ]]></paragraph>
+        <paragraph num="15"><![CDATA[Suddenly, at Broadway and Fifty-fourth, Sonny spotted someone across the street: a tall, dark, and incredibly handsome man in a camel's-hair coat. His name, Sonny said, was Dean Martin. Just looking at him intimidated me: How does anybody get that handsome? ]]></paragraph>
+        <paragraph num="16"><![CDATA[I smiled at the sight of him in that camel's-hair coat. Harry Horses***, I thought. That was what we used to call a guy who thought he was smooth with the ladies. Anybody who wore a camel's-hair overcoat, with a camel's-hair belt and fake diamond cuff links, was automatically Harry Horses***. ]]></paragraph>
+        <paragraph num="17"><![CDATA[But this guy, I knew, was the real deal. He was standing with a shorter, older fellow, and when he saw Sonny, he waved us over. We crossed the street. I was amazed all over again when I saw how good-looking he was–long, rugged face; great profile; thick, dark brows and eyelashes. And a suntan in March! How'd he manage that? I could see he had kind of a twinkle as he talked to the older guy. Charisma is a word I would learn later. All I knew then was that I couldn't take my eyes off Sonny's pal. ]]></paragraph>
+        <paragraph num="18"><![CDATA["Hey, Dino!" Sonny said as we came up to them. "How ya doin', Lou?" he said to the older man. ]]></paragraph>
+        <paragraph num="19"><![CDATA[Lou, it turned out, was Lou Perry, Dean's manager. He looked like a manager: short, thin-lipped, cool-eyed. Sonny introduced me, and Perry glanced at me without much interest. But Sonny looked excited. He turned to his camel-coated friend. "Dino," Sonny said, "I want you to meet a very funny kid, Jerry Lewis." ]]></paragraph>
+        <paragraph num="20"><![CDATA[Camel-Coat smiled warmly and put out his hand. I took it. It was a big hand, strong, but he didn't go overboard with the grip. I liked that. I liked him, instantly. And he looked genuinely glad to meet me. ]]></paragraph>
+        <paragraph num="21"><![CDATA["Kid," Sonny said–Sonny called me Kid the first time he ever met me, and he would still call me Kid in Vegas fifty years later–"this is Dean Martin. Sings even better than me." ]]></paragraph>
+        <paragraph num="22"><![CDATA[That was Sonny, fun and games. Of course, he had zero idea that he was introducing me to one of the great comic talents of our time. I certainly had no idea of that, either–nor, for that matter, did Dean. At that moment, at the end of World War II, we were just two guys struggling to make it in show business, shaking hands on a busy Broadway street corner. ]]></paragraph>
+        <paragraph num="23"><![CDATA[We made a little chitchat. "You workin'?" I asked. ]]></paragraph>
+        <paragraph num="24"><![CDATA[He smiled that million-dollar smile. Now that I looked at him close up, I could see the faint outline of a healing surgical cut on the bridge of his nose. Some plastic surgeon had done great work. "Oh, this 'n' that, you know," Dean said. "I'm on WMCA radio, sustaining. No bucks, just room." He had a mellow, lazy voice, with a slightly Southern lilt to it. He sounded like he didn't have a care in the world, like he was knockin' 'em dead wherever he went. I believed it. Little did I know that he was hip-deep in debt to Perry and several other managers besides. ]]></paragraph>
+        <paragraph num="25"><![CDATA["How 'bout you?" Dean asked me. ]]></paragraph>
+        <paragraph num="26"><![CDATA[I nodded, quickly. I suddenly wanted, very badly, to impress this man. "I'm just now finishing my eighth week at the Glass Hat," I said. "In the Belmont Plaza." ]]></paragraph>
+        <paragraph num="27"><![CDATA["Really? I live there," Dean said. ]]></paragraph>
+        <paragraph num="28"><![CDATA["At the Glass Hat?" ]]></paragraph>
+        <paragraph num="29"><![CDATA["No, at the Belmont. It's part of my radio deal." ]]></paragraph>
+        <paragraph num="30"><![CDATA[Just at that moment, a beautiful brunette walked by, in a coat with a fur-trimmed collar. Dean lowered his eyelids slightly and flashed her that grin–and damned if she didn't smile right back! How come I never got that reaction? She gave him a lingering gaze over her shoulder as she passed, a clear invitation, and Dean shook his head, smiling his regrets. ]]></paragraph>
+        <paragraph num="31"><![CDATA["Look at this guy," Sonny said in his hoarse Brooklyn accent. "He's got p**** radar!" ]]></paragraph>
+        <paragraph num="32"><![CDATA[One look at Sonny's eyes was enough to tell me that he idolized Dean–whose attention, all at once, I felt anxious to get back. "You ever go to Leon and Eddie's?" I asked, my voice sounding even higher and squeakier than its usual high and squeaky. Leon and Eddie's was a restaurant and nightclub a couple of blocks away, on fabulous Fifty-second Street–which, in those days, was lined with restaurants and former speakeasies, like "21," and music clubs like the Five Spot and Birdland. Live entertainment still ruled America in those pretelevision days, Manhattan was the world capital of nightclubs, and Leon and Eddie's was a mecca for nightclub comics. Sunday night was Celebrity Night: The fun would start after hours, when anybody in the business might show up and get on to do a piece of their act. You'd see the likes of Milton Berle, Henny Youngman, Danny Kaye. It was magical. I used to go and gawk, like a kid in a candy store. Someday, I thought. . . . But for now, no chance. They'd never use a dumb act–one needing props, yet. ]]></paragraph>
+        <paragraph num="33"><![CDATA["Yeah, sometimes I stop by Sunday nights," Dean said. ]]></paragraph>
+        <paragraph num="34"><![CDATA["Me too!" I cried. ]]></paragraph>
+        <paragraph num="35"><![CDATA[He gave me that smile again–warm but ever so slightly cool around the edges. It bathed you in its glow, yet didn't let you in. Men don't like to admit it, but there's something about a truly handsome guy who also happens to be truly masculine–what they call a man's man–that's as magnetic to us as it is to women. That's what I want to be like, you think. Maybe if I hang around with him, some of that'll rub off on me. ]]></paragraph>
+        <paragraph num="36"><![CDATA["So–maybe I'll see you there sometime," Dean told me. ]]></paragraph>
+        <paragraph num="37"><![CDATA["Yeah, sure," I said. ]]></paragraph>
+        <paragraph num="38"><![CDATA["Go get your tux out of hock," he said. ]]></paragraph>
+        <paragraph num="39"><![CDATA[I laughed. He was funny. ]]></paragraph>
+        <paragraph num="40"><![CDATA[----------]]></paragraph>
+        <paragraph num="41"><![CDATA[Sonny King was a pal, but not a friend. I badly needed a friend. I was a lonely kid, the only child of two vaudevillians who were rarely around. My dad, Danny, was a singer and all-around entertainer: He did it all– patter, impressions, stand-up comedy. My mom, Rachel (Rae), was Danny's pianist and conductor. So I grew up shuttled from household to household, relative to relative. I cherished the precious times Mom and Dad would take me on the road with them. And for them, the highest form of togetherness was to put me right in the act: My first onstage appearance was at age five, in 1931, at the President Hotel, a summer resort in Swan Lake, New York. I wore a tux (naturally) and sang that Depression classic "Brother, Can You Spare a Dime?" From that moment on, showbiz was in my blood. So was loneliness. ]]></paragraph>
+        <paragraph num="42"><![CDATA[By the time I was sixteen, I was a high-school dropout and a show-business wannabe. A desperately-wanting-to-be wannabe. I worked the Catskill resorts as a busboy (for pay) and (for free) a tummler–the guy who cuts up, makes faces, gets the guests in a good mood for the real entertainment. That's what I wanted to be, the real entertainment. But what was I going to do? I was tall, skinny, gawky; cute but funny-looking. With the voice God had given me, I certainly wasn't going to be a singer like my dad, with his Al Jolson baritone. I always saw the humor in things, the joke possibilities. At the same time, I didn't have the confidence to stand on a stage and talk. ]]></paragraph>
+        <paragraph num="43"><![CDATA[Then I hit on a genius solution–or what seemed at the time like a genius solution. One night, at a New Jersey resort where my parents were doing their act, a friend of mine, an aspiring performer, Lonnie Brown–the daughter of Charlie and Lillian Brown, resort hotelkeepers who were destined to become very important in my life–was listening to a record by an English singer named Cyril Smith, trying to learn those classy English intonations. I had a little crush on Lonnie, and, attempting to impress her, I started to clown around, mouthing along to the music, rolling my eyes and playing the diva. Well, Lonnie broke up, and that was music to my ears. An act was born. ]]></paragraph>
+        <paragraph num="44"><![CDATA[After a couple of hard years on the road, playing burlesque houses where the guys with newspapers on their laps would boo me off the stage so they could see the strippers, I became a showbiz veteran (still in my teens) with an act called "Jerry Lewis–Satirical Impressions in Pantomimicry." ]]></paragraph>
+        <paragraph num="45"><![CDATA[I had perfected the act, and to tell the absolute truth, it was pretty godd*** funny. I would put on a fright wig and a frock coat and lip-synch to the great baritone Igor Gorin's "Largo Al Factotum" from The Barber of Seville. I'd come out in a Carmen Miranda dress, with fruit on my hat, and do Miranda. Then into a pin-striped jacket, suck in my cheeks, and I'd do Sinatra singing "All or Nothing at All." I knew where every scratch and skip was on every record, and when they came up, I'd do shtick to them. I had gotten better and better at contorting my long, skinny body in ways that I knew worked comedically. I practiced making faces in front of a mirror till I cracked myself up. God hadn't made me handsome, but he'd given me something, I always felt: funny bones. ]]></paragraph>
+        <paragraph num="46"><![CDATA[And I never said a word on stage. ]]></paragraph>
+        <paragraph num="47"><![CDATA[The dumb act was a rapidly fading subspecialty in those rapidly fading days of baggy-pants comedy, and my own days doing it were numbered. There were a few of us lip-synchers out there, working the circuit, and while I liked (and still like) to think that I was the best of the bunch–nobody could move or pratfall or make faces like Jerry Lewis– I only had around three to eleven audience members per show who agreed with me. Those three or four or nine people would be wetting themselves while I performed, as the rest of the house (if anyone else was there) clapped slowly, or booed.... Bring on the strippers! ]]></paragraph>
+        <paragraph num="48"><![CDATA[And I never said a word. ]]></paragraph>
+        <paragraph num="49"><![CDATA[The truth is, funny sentences were always running through my brain: I thought funny. But I was ashamed of what would come out if I spoke–that nasal kid's voice. So I was funny on stage, but I was only part funny: I was still looking for the missing piece. ]]></paragraph>
+        <paragraph num="50"><![CDATA[Excerpted from Dean and Me by James Kaplan. Copyright 2005 by Jerry Lewis and James Kaplan. Excerpted by permission of Doubleday, a division of Random House, Inc. All rights reserved. No part of this excerpt may be reproduced or reprinted without permission in writing from the publisher.  [Copyright 2011 National Public Radio]]]></paragraph>
+      </text>
+    </story>
+  </list>
+</nprml>
+<?xml version="1.0" encoding="UTF-8"?>
+<nprml version="0.94">
+  <list>
+    <title><![CDATA[NPR: Stories from NPR]]></title>
+    <teaser><![CDATA[Assorted stories from NPR]]></teaser>
+    <miniTeaser><![CDATA[Custom NPR News Feed API.  Visit http://www.npr.org/templates/apidoc/index.php for more information.]]></miniTeaser>
+    <link type="api">http://api.npr.org/query?searchTerm=%22didn%27t%20smile%22&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+    <story id="132260323">
+      <link type="html">http://www.npr.org/2010/12/24/132260323/one-students-christmas-lesson?ft=3&amp;f=</link>
+      <link type="api">http://api.npr.org/query?id=132260323&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+      <link type="short">http://n.pr/fa63Cy</link>
+      <title><![CDATA[One Student's Christmas Lesson]]></title>
+      <transcript>
+        <link type="api">http://api.npr.org/transcript?id=132260323&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+      </transcript>
+      <audio id="132304294" type="primary">
+        <title/>
+        <duration>118</duration>
+        <description/>
+        <format>
+          <mp3 type="m3u">http://api.npr.org/m3u/1132304294-edeb99.m3u?orgId=1&amp;topicId=1022&amp;aggIds=4516989&amp;ft=3&amp;f=</mp3>
+          <wm>http://www.npr.org/templates/dmg/dmg_wmref_em.php?id=132304294&amp;type=1&amp;mtype=WM&amp;orgId=1&amp;topicId=1022&amp;aggIds=4516989&amp;ft=3&amp;f=</wm>
+          <rm>http://www.npr.org/templates/dmg/dmg_rpm.rpm?id=132304294&amp;type=1&amp;mtype=RM&amp;orgId=1&amp;topicId=1022&amp;aggIds=4516989&amp;ft=3&amp;f=</rm>
+        </format>
+        <rightsHolder/>
+        <permissions>
+          <download allow="true"/>
+          <stream allow="true"/>
+          <embed allow="true"/>
+        </permissions>
+      </audio>
+      <text>
+        <paragraph num="1"><![CDATA[Don Michaels really didn't like school for a while when he was growing up.]]></paragraph>
+        <paragraph num="2"><![CDATA["I had terrible migraine headaches when I was in fifth grade," he explained to his daughter Jennifer recently. "Whether that was because of the pressure, or because of the reputation that the teacher at the time had, and my having gotten reports from my three brothers who had her, I just, I just don't know."]]></paragraph>
+        <paragraph num="3"><![CDATA[Michaels remembers his teacher, Miss Leister, having very sharp features.]]></paragraph>
+        <paragraph num="4"><![CDATA["The most prominent thing was her nose -- it was very hawkish," the 72-year-old said. "She didn't smile a great deal. And she was a taskmaster -- she expected you to perform."]]></paragraph>
+        <paragraph num="5"><![CDATA[Miss Leister wasn't very warm, he said.]]></paragraph>
+        <paragraph num="6"><![CDATA["But we had a Christmas party -- all the classes had Christmas parties -- and we all exchanged names for gifts. And the Christmas party started, the gifts were being handed out, names were being called, and one by one all my classmates went up to get their gift. When the gifts were all gone, I had not been called and did not receive a gift, for some reason or other."]]></paragraph>
+        <paragraph num="7"><![CDATA[The day before Christmas, Miss Leister showed up at Michaels' house, unannounced.]]></paragraph>
+        <paragraph num="8"><![CDATA["And she had a small gift that she gave to me," he said. "That gift was a key chain. I kept that for years and years. And as odd as it may seem, my headaches went away about two days after she came."]]></paragraph>
+        <paragraph num="9"><![CDATA[Michaels' relationship with Miss Leister changed from that day on.]]></paragraph>
+        <paragraph num="10"><![CDATA[Produced for Morning Edition by Jasmyn Belcher. The senior producer for StoryCorps is Michael Garofalo. Recorded in partnership with WPSU.    [Copyright 2011 National Public Radio]]]></paragraph>
+      </text>
+    </story>
+    <story id="4973590">
+      <link type="html">http://www.npr.org/templates/story/story.php?storyId=4973590&amp;ft=3&amp;f=</link>
+      <link type="api">http://api.npr.org/query?id=4973590&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+      <title><![CDATA[Jerry Lewis on Dean Martin: 'A Love Story']]></title>
+      <audio id="4973591" type="primary">
+        <title>Listen</title>
+        <duration>0</duration>
+        <description/>
+        <format>
+          <mp3 type="m3u">http://api.npr.org/m3u/14973591-9ed229.m3u?orgId=1&amp;topicId=1022&amp;ft=3&amp;f=</mp3>
+          <wm>http://www.npr.org/templates/dmg/dmg_wmref_em.php?id=4973591&amp;type=1&amp;mtype=WM&amp;orgId=1&amp;topicId=1022&amp;ft=3&amp;f=</wm>
+          <rm>http://www.npr.org/templates/dmg/dmg_rpm.rpm?id=4973591&amp;type=1&amp;mtype=RM&amp;orgId=1&amp;topicId=1022&amp;ft=3&amp;f=</rm>
+        </format>
+        <rightsHolder/>
+        <permissions>
+          <download allow="true"/>
+          <stream allow="true"/>
+          <embed allow="true"/>
+        </permissions>
+      </audio>
+      <text>
+        <paragraph num="1"><![CDATA[From 1950 to 1956, the team of Martin and Lewis were the No. 1 box-office earners and America's favorite entertainers. A new memoir from Jerry Lewis details how a beloved 10-year partnership was destroyed.]]></paragraph>
+        <paragraph num="2"><![CDATA[Dean and Me: A Love Story details life behind the scenes of the 16 films and numerous television and club shows featuring Dean Martin and Jerry Lewis. The book, which Lewis wrote with James Kaplan, chronicles the tumultuous relationship between two giants of American entertainment.]]></paragraph>
+        <paragraph num="3"><![CDATA[Their success brought money, fame -- and a host of new troubles, from clashes brought on by big egos and diverging priorities. By the end of their run together, Martin and Lewis weren't speaking to each other.]]></paragraph>
+        <paragraph num="4"><![CDATA[Several attempts to patch things up failed; it wasn't until the late 1980s that the men who entertained post-war America with movies like Living It Up and The Caddy spoke at length. Dean Martin died in 1995.]]></paragraph>
+        <paragraph num="5"><![CDATA[Read an Excerpt from 'Dean and Me':]]></paragraph>
+        <paragraph num="6"><![CDATA[Chapter One]]></paragraph>
+        <paragraph num="7"><![CDATA[In the age of Truman, Eisenhower, and Joe McCarthy, we freed America. For ten years after World War II, Dean and I were not only the most successful show-business act in history -- we were history. ]]></paragraph>
+        <paragraph num="8"><![CDATA[You have to remember: Postwar America was a very buttoned-up nation. Radio shows were run by censors, Presidents wore hats, ladies wore girdles. We came straight out of the blue–nobody was expecting anything like Martin and Lewis. A sexy guy and a monkey is how some people saw us, but what we really were, in an age of Freudian self-realization, was the explosion of the show-business id.]]></paragraph>
+        <paragraph num="9"><![CDATA[Like Burns and Allen, Abbott and Costello, and Hope and Crosby, we were vaudevillians, stage performers who worked with an audience. But the difference between us and all the others is significant. They worked with a script. We exploded without one, the same way wiseguy kids do on a playground, or jazz musicians do when they're let loose. And the minute we started out in nightclubs, audiences went nuts for us. As Alan King told an interviewer a few years ago: "I have been in the business for fifty-five years, and I have never to this day seen an act get more laughs than Martin and Lewis. They didn't get laughs–it was pandemonium. People knocked over tables." ]]></paragraph>
+        <paragraph num="10"><![CDATA[Like so many entertainment explosions, we happened almost by accident. ]]></paragraph>
+        <paragraph num="11"><![CDATA[----------]]></paragraph>
+        <paragraph num="12"><![CDATA[It was a crisp March day in midtown Manhattan, March of 1945. I had just turned nineteen, and I was going to live forever. I could feel the bounce in my legs, the air in my lungs. World War II was rapidly drawing to a close, and New York was alive with excitement. Broadway was full of city smells–bus and taxi exhaust; roast peanuts and dirty-water hot dogs; and, most thrilling of all, the perfumes of beautiful women. Midtown was swarming with gorgeous gals! Secretaries, career girls, society broads with little pooches–they all paraded past, tick-tock, tick-tock, setting my heart racing every ten paces. I was a very young newlywed, with a very pregnant wife back in Newark, but I had eyes, and I looked. And looked. And looked. ]]></paragraph>
+        <paragraph num="13"><![CDATA[I was strolling south with my pal Sonny King, heading toward an appointment with an agent in Times Square. Sonny was an ex-prize-fighter from Brooklyn trying to make it as a singer, a knock-around guy, street-smart and quick with a joke–kind of like an early Tony Danza. He prided himself on his nice tenor voice and on knowing everybody who was anybody in show business. Not that his pride always matched up with reality. But that was Sonny, a bit of an operator. And me? I was a Jersey kid trying to make it as a comic. My act–are you ready for this?– was as follows: I would get up on stage and make funny faces while I lip-synched along to phonograph records. The professional term for what I did was dumb act, a phrase I didn't want to think about too much. In those days, it felt a little too much like a bad review. ]]></paragraph>
+        <paragraph num="14"><![CDATA[You know good-bad? Good was that I was young and full of beans and ready to take on the world. Bad was that I had no idea on earth how I was going to accomplish this feat. And bad was also that I was just eking out a living, pulling down $110 a week in a good week, and there weren't that many good weeks. On this princely sum I had to pay my manager, Abner J. Greshler, plus the rent on the Newark apartment, plus feed two, about to be three. Plus wardrobe, candy bars, milk shakes, and phonograph records for the act. Plus my hotel bill. While I was working in New York, I stayed in the city, to be close to my jobs–when I had them–and to stick to where the action was. I'd been rooming at the Belmont Plaza, on Lexington and Forty-ninth, where I'd also been performing in the Glass Hat, a nightclub in the hotel. I got $135 a week and a room. ]]></paragraph>
+        <paragraph num="15"><![CDATA[Suddenly, at Broadway and Fifty-fourth, Sonny spotted someone across the street: a tall, dark, and incredibly handsome man in a camel's-hair coat. His name, Sonny said, was Dean Martin. Just looking at him intimidated me: How does anybody get that handsome? ]]></paragraph>
+        <paragraph num="16"><![CDATA[I smiled at the sight of him in that camel's-hair coat. Harry Horses***, I thought. That was what we used to call a guy who thought he was smooth with the ladies. Anybody who wore a camel's-hair overcoat, with a camel's-hair belt and fake diamond cuff links, was automatically Harry Horses***. ]]></paragraph>
+        <paragraph num="17"><![CDATA[But this guy, I knew, was the real deal. He was standing with a shorter, older fellow, and when he saw Sonny, he waved us over. We crossed the street. I was amazed all over again when I saw how good-looking he was–long, rugged face; great profile; thick, dark brows and eyelashes. And a suntan in March! How'd he manage that? I could see he had kind of a twinkle as he talked to the older guy. Charisma is a word I would learn later. All I knew then was that I couldn't take my eyes off Sonny's pal. ]]></paragraph>
+        <paragraph num="18"><![CDATA["Hey, Dino!" Sonny said as we came up to them. "How ya doin', Lou?" he said to the older man. ]]></paragraph>
+        <paragraph num="19"><![CDATA[Lou, it turned out, was Lou Perry, Dean's manager. He looked like a manager: short, thin-lipped, cool-eyed. Sonny introduced me, and Perry glanced at me without much interest. But Sonny looked excited. He turned to his camel-coated friend. "Dino," Sonny said, "I want you to meet a very funny kid, Jerry Lewis." ]]></paragraph>
+        <paragraph num="20"><![CDATA[Camel-Coat smiled warmly and put out his hand. I took it. It was a big hand, strong, but he didn't go overboard with the grip. I liked that. I liked him, instantly. And he looked genuinely glad to meet me. ]]></paragraph>
+        <paragraph num="21"><![CDATA["Kid," Sonny said–Sonny called me Kid the first time he ever met me, and he would still call me Kid in Vegas fifty years later–"this is Dean Martin. Sings even better than me." ]]></paragraph>
+        <paragraph num="22"><![CDATA[That was Sonny, fun and games. Of course, he had zero idea that he was introducing me to one of the great comic talents of our time. I certainly had no idea of that, either–nor, for that matter, did Dean. At that moment, at the end of World War II, we were just two guys struggling to make it in show business, shaking hands on a busy Broadway street corner. ]]></paragraph>
+        <paragraph num="23"><![CDATA[We made a little chitchat. "You workin'?" I asked. ]]></paragraph>
+        <paragraph num="24"><![CDATA[He smiled that million-dollar smile. Now that I looked at him close up, I could see the faint outline of a healing surgical cut on the bridge of his nose. Some plastic surgeon had done great work. "Oh, this 'n' that, you know," Dean said. "I'm on WMCA radio, sustaining. No bucks, just room." He had a mellow, lazy voice, with a slightly Southern lilt to it. He sounded like he didn't have a care in the world, like he was knockin' 'em dead wherever he went. I believed it. Little did I know that he was hip-deep in debt to Perry and several other managers besides. ]]></paragraph>
+        <paragraph num="25"><![CDATA["How 'bout you?" Dean asked me. ]]></paragraph>
+        <paragraph num="26"><![CDATA[I nodded, quickly. I suddenly wanted, very badly, to impress this man. "I'm just now finishing my eighth week at the Glass Hat," I said. "In the Belmont Plaza." ]]></paragraph>
+        <paragraph num="27"><![CDATA["Really? I live there," Dean said. ]]></paragraph>
+        <paragraph num="28"><![CDATA["At the Glass Hat?" ]]></paragraph>
+        <paragraph num="29"><![CDATA["No, at the Belmont. It's part of my radio deal." ]]></paragraph>
+        <paragraph num="30"><![CDATA[Just at that moment, a beautiful brunette walked by, in a coat with a fur-trimmed collar. Dean lowered his eyelids slightly and flashed her that grin–and damned if she didn't smile right back! How come I never got that reaction? She gave him a lingering gaze over her shoulder as she passed, a clear invitation, and Dean shook his head, smiling his regrets. ]]></paragraph>
+        <paragraph num="31"><![CDATA["Look at this guy," Sonny said in his hoarse Brooklyn accent. "He's got p**** radar!" ]]></paragraph>
+        <paragraph num="32"><![CDATA[One look at Sonny's eyes was enough to tell me that he idolized Dean–whose attention, all at once, I felt anxious to get back. "You ever go to Leon and Eddie's?" I asked, my voice sounding even higher and squeakier than its usual high and squeaky. Leon and Eddie's was a restaurant and nightclub a couple of blocks away, on fabulous Fifty-second Street–which, in those days, was lined with restaurants and former speakeasies, like "21," and music clubs like the Five Spot and Birdland. Live entertainment still ruled America in those pretelevision days, Manhattan was the world capital of nightclubs, and Leon and Eddie's was a mecca for nightclub comics. Sunday night was Celebrity Night: The fun would start after hours, when anybody in the business might show up and get on to do a piece of their act. You'd see the likes of Milton Berle, Henny Youngman, Danny Kaye. It was magical. I used to go and gawk, like a kid in a candy store. Someday, I thought. . . . But for now, no chance. They'd never use a dumb act–one needing props, yet. ]]></paragraph>
+        <paragraph num="33"><![CDATA["Yeah, sometimes I stop by Sunday nights," Dean said. ]]></paragraph>
+        <paragraph num="34"><![CDATA["Me too!" I cried. ]]></paragraph>
+        <paragraph num="35"><![CDATA[He gave me that smile again–warm but ever so slightly cool around the edges. It bathed you in its glow, yet didn't let you in. Men don't like to admit it, but there's something about a truly handsome guy who also happens to be truly masculine–what they call a man's man–that's as magnetic to us as it is to women. That's what I want to be like, you think. Maybe if I hang around with him, some of that'll rub off on me. ]]></paragraph>
+        <paragraph num="36"><![CDATA["So–maybe I'll see you there sometime," Dean told me. ]]></paragraph>
+        <paragraph num="37"><![CDATA["Yeah, sure," I said. ]]></paragraph>
+        <paragraph num="38"><![CDATA["Go get your tux out of hock," he said. ]]></paragraph>
+        <paragraph num="39"><![CDATA[I laughed. He was funny. ]]></paragraph>
+        <paragraph num="40"><![CDATA[----------]]></paragraph>
+        <paragraph num="41"><![CDATA[Sonny King was a pal, but not a friend. I badly needed a friend. I was a lonely kid, the only child of two vaudevillians who were rarely around. My dad, Danny, was a singer and all-around entertainer: He did it all– patter, impressions, stand-up comedy. My mom, Rachel (Rae), was Danny's pianist and conductor. So I grew up shuttled from household to household, relative to relative. I cherished the precious times Mom and Dad would take me on the road with them. And for them, the highest form of togetherness was to put me right in the act: My first onstage appearance was at age five, in 1931, at the President Hotel, a summer resort in Swan Lake, New York. I wore a tux (naturally) and sang that Depression classic "Brother, Can You Spare a Dime?" From that moment on, showbiz was in my blood. So was loneliness. ]]></paragraph>
+        <paragraph num="42"><![CDATA[By the time I was sixteen, I was a high-school dropout and a show-business wannabe. A desperately-wanting-to-be wannabe. I worked the Catskill resorts as a busboy (for pay) and (for free) a tummler–the guy who cuts up, makes faces, gets the guests in a good mood for the real entertainment. That's what I wanted to be, the real entertainment. But what was I going to do? I was tall, skinny, gawky; cute but funny-looking. With the voice God had given me, I certainly wasn't going to be a singer like my dad, with his Al Jolson baritone. I always saw the humor in things, the joke possibilities. At the same time, I didn't have the confidence to stand on a stage and talk. ]]></paragraph>
+        <paragraph num="43"><![CDATA[Then I hit on a genius solution–or what seemed at the time like a genius solution. One night, at a New Jersey resort where my parents were doing their act, a friend of mine, an aspiring performer, Lonnie Brown–the daughter of Charlie and Lillian Brown, resort hotelkeepers who were destined to become very important in my life–was listening to a record by an English singer named Cyril Smith, trying to learn those classy English intonations. I had a little crush on Lonnie, and, attempting to impress her, I started to clown around, mouthing along to the music, rolling my eyes and playing the diva. Well, Lonnie broke up, and that was music to my ears. An act was born. ]]></paragraph>
+        <paragraph num="44"><![CDATA[After a couple of hard years on the road, playing burlesque houses where the guys with newspapers on their laps would boo me off the stage so they could see the strippers, I became a showbiz veteran (still in my teens) with an act called "Jerry Lewis–Satirical Impressions in Pantomimicry." ]]></paragraph>
+        <paragraph num="45"><![CDATA[I had perfected the act, and to tell the absolute truth, it was pretty godd*** funny. I would put on a fright wig and a frock coat and lip-synch to the great baritone Igor Gorin's "Largo Al Factotum" from The Barber of Seville. I'd come out in a Carmen Miranda dress, with fruit on my hat, and do Miranda. Then into a pin-striped jacket, suck in my cheeks, and I'd do Sinatra singing "All or Nothing at All." I knew where every scratch and skip was on every record, and when they came up, I'd do shtick to them. I had gotten better and better at contorting my long, skinny body in ways that I knew worked comedically. I practiced making faces in front of a mirror till I cracked myself up. God hadn't made me handsome, but he'd given me something, I always felt: funny bones. ]]></paragraph>
+        <paragraph num="46"><![CDATA[And I never said a word on stage. ]]></paragraph>
+        <paragraph num="47"><![CDATA[The dumb act was a rapidly fading subspecialty in those rapidly fading days of baggy-pants comedy, and my own days doing it were numbered. There were a few of us lip-synchers out there, working the circuit, and while I liked (and still like) to think that I was the best of the bunch–nobody could move or pratfall or make faces like Jerry Lewis– I only had around three to eleven audience members per show who agreed with me. Those three or four or nine people would be wetting themselves while I performed, as the rest of the house (if anyone else was there) clapped slowly, or booed.... Bring on the strippers! ]]></paragraph>
+        <paragraph num="48"><![CDATA[And I never said a word. ]]></paragraph>
+        <paragraph num="49"><![CDATA[The truth is, funny sentences were always running through my brain: I thought funny. But I was ashamed of what would come out if I spoke–that nasal kid's voice. So I was funny on stage, but I was only part funny: I was still looking for the missing piece. ]]></paragraph>
+        <paragraph num="50"><![CDATA[Excerpted from Dean and Me by James Kaplan. Copyright 2005 by Jerry Lewis and James Kaplan. Excerpted by permission of Doubleday, a division of Random House, Inc. All rights reserved. No part of this excerpt may be reproduced or reprinted without permission in writing from the publisher.  [Copyright 2011 National Public Radio]]]></paragraph>
+      </text>
+    </story>
+  </list>
+</nprml>
+<?xml version="1.0" encoding="UTF-8"?>
+<nprml version="0.94">
+  <list>
+    <title><![CDATA[NPR: Stories from NPR]]></title>
+    <teaser><![CDATA[Assorted stories from NPR]]></teaser>
+    <miniTeaser><![CDATA[Custom NPR News Feed API.  Visit http://www.npr.org/templates/apidoc/index.php for more information.]]></miniTeaser>
+    <link type="api">http://api.npr.org/query?searchTerm=%22didn%27t%20smile%22&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+    <story id="132260323">
+      <link type="html">http://www.npr.org/2010/12/24/132260323/one-students-christmas-lesson?ft=3&amp;f=</link>
+      <link type="api">http://api.npr.org/query?id=132260323&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+      <link type="short">http://n.pr/fa63Cy</link>
+      <title><![CDATA[One Student's Christmas Lesson]]></title>
+      <transcript>
+        <link type="api">http://api.npr.org/transcript?id=132260323&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+      </transcript>
+      <audio id="132304294" type="primary">
+        <title/>
+        <duration>118</duration>
+        <description/>
+        <format>
+          <mp3 type="m3u">http://api.npr.org/m3u/1132304294-edeb99.m3u?orgId=1&amp;topicId=1022&amp;aggIds=4516989&amp;ft=3&amp;f=</mp3>
+          <wm>http://www.npr.org/templates/dmg/dmg_wmref_em.php?id=132304294&amp;type=1&amp;mtype=WM&amp;orgId=1&amp;topicId=1022&amp;aggIds=4516989&amp;ft=3&amp;f=</wm>
+          <rm>http://www.npr.org/templates/dmg/dmg_rpm.rpm?id=132304294&amp;type=1&amp;mtype=RM&amp;orgId=1&amp;topicId=1022&amp;aggIds=4516989&amp;ft=3&amp;f=</rm>
+        </format>
+        <rightsHolder/>
+        <permissions>
+          <download allow="true"/>
+          <stream allow="true"/>
+          <embed allow="true"/>
+        </permissions>
+      </audio>
+      <text>
+        <paragraph num="1"><![CDATA[Don Michaels really didn't like school for a while when he was growing up.]]></paragraph>
+        <paragraph num="2"><![CDATA["I had terrible migraine headaches when I was in fifth grade," he explained to his daughter Jennifer recently. "Whether that was because of the pressure, or because of the reputation that the teacher at the time had, and my having gotten reports from my three brothers who had her, I just, I just don't know."]]></paragraph>
+        <paragraph num="3"><![CDATA[Michaels remembers his teacher, Miss Leister, having very sharp features.]]></paragraph>
+        <paragraph num="4"><![CDATA["The most prominent thing was her nose -- it was very hawkish," the 72-year-old said. "She didn't smile a great deal. And she was a taskmaster -- she expected you to perform."]]></paragraph>
+        <paragraph num="5"><![CDATA[Miss Leister wasn't very warm, he said.]]></paragraph>
+        <paragraph num="6"><![CDATA["But we had a Christmas party -- all the classes had Christmas parties -- and we all exchanged names for gifts. And the Christmas party started, the gifts were being handed out, names were being called, and one by one all my classmates went up to get their gift. When the gifts were all gone, I had not been called and did not receive a gift, for some reason or other."]]></paragraph>
+        <paragraph num="7"><![CDATA[The day before Christmas, Miss Leister showed up at Michaels' house, unannounced.]]></paragraph>
+        <paragraph num="8"><![CDATA["And she had a small gift that she gave to me," he said. "That gift was a key chain. I kept that for years and years. And as odd as it may seem, my headaches went away about two days after she came."]]></paragraph>
+        <paragraph num="9"><![CDATA[Michaels' relationship with Miss Leister changed from that day on.]]></paragraph>
+        <paragraph num="10"><![CDATA[Produced for Morning Edition by Jasmyn Belcher. The senior producer for StoryCorps is Michael Garofalo. Recorded in partnership with WPSU.    [Copyright 2011 National Public Radio]]]></paragraph>
+      </text>
+    </story>
+    <story id="4973590">
+      <link type="html">http://www.npr.org/templates/story/story.php?storyId=4973590&amp;ft=3&amp;f=</link>
+      <link type="api">http://api.npr.org/query?id=4973590&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+      <title><![CDATA[Jerry Lewis on Dean Martin: 'A Love Story']]></title>
+      <audio id="4973591" type="primary">
+        <title>Listen</title>
+        <duration>0</duration>
+        <description/>
+        <format>
+          <mp3 type="m3u">http://api.npr.org/m3u/14973591-9ed229.m3u?orgId=1&amp;topicId=1022&amp;ft=3&amp;f=</mp3>
+          <wm>http://www.npr.org/templates/dmg/dmg_wmref_em.php?id=4973591&amp;type=1&amp;mtype=WM&amp;orgId=1&amp;topicId=1022&amp;ft=3&amp;f=</wm>
+          <rm>http://www.npr.org/templates/dmg/dmg_rpm.rpm?id=4973591&amp;type=1&amp;mtype=RM&amp;orgId=1&amp;topicId=1022&amp;ft=3&amp;f=</rm>
+        </format>
+        <rightsHolder/>
+        <permissions>
+          <download allow="true"/>
+          <stream allow="true"/>
+          <embed allow="true"/>
+        </permissions>
+      </audio>
+      <text>
+        <paragraph num="1"><![CDATA[From 1950 to 1956, the team of Martin and Lewis were the No. 1 box-office earners and America's favorite entertainers. A new memoir from Jerry Lewis details how a beloved 10-year partnership was destroyed.]]></paragraph>
+        <paragraph num="2"><![CDATA[Dean and Me: A Love Story details life behind the scenes of the 16 films and numerous television and club shows featuring Dean Martin and Jerry Lewis. The book, which Lewis wrote with James Kaplan, chronicles the tumultuous relationship between two giants of American entertainment.]]></paragraph>
+        <paragraph num="3"><![CDATA[Their success brought money, fame -- and a host of new troubles, from clashes brought on by big egos and diverging priorities. By the end of their run together, Martin and Lewis weren't speaking to each other.]]></paragraph>
+        <paragraph num="4"><![CDATA[Several attempts to patch things up failed; it wasn't until the late 1980s that the men who entertained post-war America with movies like Living It Up and The Caddy spoke at length. Dean Martin died in 1995.]]></paragraph>
+        <paragraph num="5"><![CDATA[Read an Excerpt from 'Dean and Me':]]></paragraph>
+        <paragraph num="6"><![CDATA[Chapter One]]></paragraph>
+        <paragraph num="7"><![CDATA[In the age of Truman, Eisenhower, and Joe McCarthy, we freed America. For ten years after World War II, Dean and I were not only the most successful show-business act in history -- we were history. ]]></paragraph>
+        <paragraph num="8"><![CDATA[You have to remember: Postwar America was a very buttoned-up nation. Radio shows were run by censors, Presidents wore hats, ladies wore girdles. We came straight out of the blue–nobody was expecting anything like Martin and Lewis. A sexy guy and a monkey is how some people saw us, but what we really were, in an age of Freudian self-realization, was the explosion of the show-business id.]]></paragraph>
+        <paragraph num="9"><![CDATA[Like Burns and Allen, Abbott and Costello, and Hope and Crosby, we were vaudevillians, stage performers who worked with an audience. But the difference between us and all the others is significant. They worked with a script. We exploded without one, the same way wiseguy kids do on a playground, or jazz musicians do when they're let loose. And the minute we started out in nightclubs, audiences went nuts for us. As Alan King told an interviewer a few years ago: "I have been in the business for fifty-five years, and I have never to this day seen an act get more laughs than Martin and Lewis. They didn't get laughs–it was pandemonium. People knocked over tables." ]]></paragraph>
+        <paragraph num="10"><![CDATA[Like so many entertainment explosions, we happened almost by accident. ]]></paragraph>
+        <paragraph num="11"><![CDATA[----------]]></paragraph>
+        <paragraph num="12"><![CDATA[It was a crisp March day in midtown Manhattan, March of 1945. I had just turned nineteen, and I was going to live forever. I could feel the bounce in my legs, the air in my lungs. World War II was rapidly drawing to a close, and New York was alive with excitement. Broadway was full of city smells–bus and taxi exhaust; roast peanuts and dirty-water hot dogs; and, most thrilling of all, the perfumes of beautiful women. Midtown was swarming with gorgeous gals! Secretaries, career girls, society broads with little pooches–they all paraded past, tick-tock, tick-tock, setting my heart racing every ten paces. I was a very young newlywed, with a very pregnant wife back in Newark, but I had eyes, and I looked. And looked. And looked. ]]></paragraph>
+        <paragraph num="13"><![CDATA[I was strolling south with my pal Sonny King, heading toward an appointment with an agent in Times Square. Sonny was an ex-prize-fighter from Brooklyn trying to make it as a singer, a knock-around guy, street-smart and quick with a joke–kind of like an early Tony Danza. He prided himself on his nice tenor voice and on knowing everybody who was anybody in show business. Not that his pride always matched up with reality. But that was Sonny, a bit of an operator. And me? I was a Jersey kid trying to make it as a comic. My act–are you ready for this?– was as follows: I would get up on stage and make funny faces while I lip-synched along to phonograph records. The professional term for what I did was dumb act, a phrase I didn't want to think about too much. In those days, it felt a little too much like a bad review. ]]></paragraph>
+        <paragraph num="14"><![CDATA[You know good-bad? Good was that I was young and full of beans and ready to take on the world. Bad was that I had no idea on earth how I was going to accomplish this feat. And bad was also that I was just eking out a living, pulling down $110 a week in a good week, and there weren't that many good weeks. On this princely sum I had to pay my manager, Abner J. Greshler, plus the rent on the Newark apartment, plus feed two, about to be three. Plus wardrobe, candy bars, milk shakes, and phonograph records for the act. Plus my hotel bill. While I was working in New York, I stayed in the city, to be close to my jobs–when I had them–and to stick to where the action was. I'd been rooming at the Belmont Plaza, on Lexington and Forty-ninth, where I'd also been performing in the Glass Hat, a nightclub in the hotel. I got $135 a week and a room. ]]></paragraph>
+        <paragraph num="15"><![CDATA[Suddenly, at Broadway and Fifty-fourth, Sonny spotted someone across the street: a tall, dark, and incredibly handsome man in a camel's-hair coat. His name, Sonny said, was Dean Martin. Just looking at him intimidated me: How does anybody get that handsome? ]]></paragraph>
+        <paragraph num="16"><![CDATA[I smiled at the sight of him in that camel's-hair coat. Harry Horses***, I thought. That was what we used to call a guy who thought he was smooth with the ladies. Anybody who wore a camel's-hair overcoat, with a camel's-hair belt and fake diamond cuff links, was automatically Harry Horses***. ]]></paragraph>
+        <paragraph num="17"><![CDATA[But this guy, I knew, was the real deal. He was standing with a shorter, older fellow, and when he saw Sonny, he waved us over. We crossed the street. I was amazed all over again when I saw how good-looking he was–long, rugged face; great profile; thick, dark brows and eyelashes. And a suntan in March! How'd he manage that? I could see he had kind of a twinkle as he talked to the older guy. Charisma is a word I would learn later. All I knew then was that I couldn't take my eyes off Sonny's pal. ]]></paragraph>
+        <paragraph num="18"><![CDATA["Hey, Dino!" Sonny said as we came up to them. "How ya doin', Lou?" he said to the older man. ]]></paragraph>
+        <paragraph num="19"><![CDATA[Lou, it turned out, was Lou Perry, Dean's manager. He looked like a manager: short, thin-lipped, cool-eyed. Sonny introduced me, and Perry glanced at me without much interest. But Sonny looked excited. He turned to his camel-coated friend. "Dino," Sonny said, "I want you to meet a very funny kid, Jerry Lewis." ]]></paragraph>
+        <paragraph num="20"><![CDATA[Camel-Coat smiled warmly and put out his hand. I took it. It was a big hand, strong, but he didn't go overboard with the grip. I liked that. I liked him, instantly. And he looked genuinely glad to meet me. ]]></paragraph>
+        <paragraph num="21"><![CDATA["Kid," Sonny said–Sonny called me Kid the first time he ever met me, and he would still call me Kid in Vegas fifty years later–"this is Dean Martin. Sings even better than me." ]]></paragraph>
+        <paragraph num="22"><![CDATA[That was Sonny, fun and games. Of course, he had zero idea that he was introducing me to one of the great comic talents of our time. I certainly had no idea of that, either–nor, for that matter, did Dean. At that moment, at the end of World War II, we were just two guys struggling to make it in show business, shaking hands on a busy Broadway street corner. ]]></paragraph>
+        <paragraph num="23"><![CDATA[We made a little chitchat. "You workin'?" I asked. ]]></paragraph>
+        <paragraph num="24"><![CDATA[He smiled that million-dollar smile. Now that I looked at him close up, I could see the faint outline of a healing surgical cut on the bridge of his nose. Some plastic surgeon had done great work. "Oh, this 'n' that, you know," Dean said. "I'm on WMCA radio, sustaining. No bucks, just room." He had a mellow, lazy voice, with a slightly Southern lilt to it. He sounded like he didn't have a care in the world, like he was knockin' 'em dead wherever he went. I believed it. Little did I know that he was hip-deep in debt to Perry and several other managers besides. ]]></paragraph>
+        <paragraph num="25"><![CDATA["How 'bout you?" Dean asked me. ]]></paragraph>
+        <paragraph num="26"><![CDATA[I nodded, quickly. I suddenly wanted, very badly, to impress this man. "I'm just now finishing my eighth week at the Glass Hat," I said. "In the Belmont Plaza." ]]></paragraph>
+        <paragraph num="27"><![CDATA["Really? I live there," Dean said. ]]></paragraph>
+        <paragraph num="28"><![CDATA["At the Glass Hat?" ]]></paragraph>
+        <paragraph num="29"><![CDATA["No, at the Belmont. It's part of my radio deal." ]]></paragraph>
+        <paragraph num="30"><![CDATA[Just at that moment, a beautiful brunette walked by, in a coat with a fur-trimmed collar. Dean lowered his eyelids slightly and flashed her that grin–and damned if she didn't smile right back! How come I never got that reaction? She gave him a lingering gaze over her shoulder as she passed, a clear invitation, and Dean shook his head, smiling his regrets. ]]></paragraph>
+        <paragraph num="31"><![CDATA["Look at this guy," Sonny said in his hoarse Brooklyn accent. "He's got p**** radar!" ]]></paragraph>
+        <paragraph num="32"><![CDATA[One look at Sonny's eyes was enough to tell me that he idolized Dean–whose attention, all at once, I felt anxious to get back. "You ever go to Leon and Eddie's?" I asked, my voice sounding even higher and squeakier than its usual high and squeaky. Leon and Eddie's was a restaurant and nightclub a couple of blocks away, on fabulous Fifty-second Street–which, in those days, was lined with restaurants and former speakeasies, like "21," and music clubs like the Five Spot and Birdland. Live entertainment still ruled America in those pretelevision days, Manhattan was the world capital of nightclubs, and Leon and Eddie's was a mecca for nightclub comics. Sunday night was Celebrity Night: The fun would start after hours, when anybody in the business might show up and get on to do a piece of their act. You'd see the likes of Milton Berle, Henny Youngman, Danny Kaye. It was magical. I used to go and gawk, like a kid in a candy store. Someday, I thought. . . . But for now, no chance. They'd never use a dumb act–one needing props, yet. ]]></paragraph>
+        <paragraph num="33"><![CDATA["Yeah, sometimes I stop by Sunday nights," Dean said. ]]></paragraph>
+        <paragraph num="34"><![CDATA["Me too!" I cried. ]]></paragraph>
+        <paragraph num="35"><![CDATA[He gave me that smile again–warm but ever so slightly cool around the edges. It bathed you in its glow, yet didn't let you in. Men don't like to admit it, but there's something about a truly handsome guy who also happens to be truly masculine–what they call a man's man–that's as magnetic to us as it is to women. That's what I want to be like, you think. Maybe if I hang around with him, some of that'll rub off on me. ]]></paragraph>
+        <paragraph num="36"><![CDATA["So–maybe I'll see you there sometime," Dean told me. ]]></paragraph>
+        <paragraph num="37"><![CDATA["Yeah, sure," I said. ]]></paragraph>
+        <paragraph num="38"><![CDATA["Go get your tux out of hock," he said. ]]></paragraph>
+        <paragraph num="39"><![CDATA[I laughed. He was funny. ]]></paragraph>
+        <paragraph num="40"><![CDATA[----------]]></paragraph>
+        <paragraph num="41"><![CDATA[Sonny King was a pal, but not a friend. I badly needed a friend. I was a lonely kid, the only child of two vaudevillians who were rarely around. My dad, Danny, was a singer and all-around entertainer: He did it all– patter, impressions, stand-up comedy. My mom, Rachel (Rae), was Danny's pianist and conductor. So I grew up shuttled from household to household, relative to relative. I cherished the precious times Mom and Dad would take me on the road with them. And for them, the highest form of togetherness was to put me right in the act: My first onstage appearance was at age five, in 1931, at the President Hotel, a summer resort in Swan Lake, New York. I wore a tux (naturally) and sang that Depression classic "Brother, Can You Spare a Dime?" From that moment on, showbiz was in my blood. So was loneliness. ]]></paragraph>
+        <paragraph num="42"><![CDATA[By the time I was sixteen, I was a high-school dropout and a show-business wannabe. A desperately-wanting-to-be wannabe. I worked the Catskill resorts as a busboy (for pay) and (for free) a tummler–the guy who cuts up, makes faces, gets the guests in a good mood for the real entertainment. That's what I wanted to be, the real entertainment. But what was I going to do? I was tall, skinny, gawky; cute but funny-looking. With the voice God had given me, I certainly wasn't going to be a singer like my dad, with his Al Jolson baritone. I always saw the humor in things, the joke possibilities. At the same time, I didn't have the confidence to stand on a stage and talk. ]]></paragraph>
+        <paragraph num="43"><![CDATA[Then I hit on a genius solution–or what seemed at the time like a genius solution. One night, at a New Jersey resort where my parents were doing their act, a friend of mine, an aspiring performer, Lonnie Brown–the daughter of Charlie and Lillian Brown, resort hotelkeepers who were destined to become very important in my life–was listening to a record by an English singer named Cyril Smith, trying to learn those classy English intonations. I had a little crush on Lonnie, and, attempting to impress her, I started to clown around, mouthing along to the music, rolling my eyes and playing the diva. Well, Lonnie broke up, and that was music to my ears. An act was born. ]]></paragraph>
+        <paragraph num="44"><![CDATA[After a couple of hard years on the road, playing burlesque houses where the guys with newspapers on their laps would boo me off the stage so they could see the strippers, I became a showbiz veteran (still in my teens) with an act called "Jerry Lewis–Satirical Impressions in Pantomimicry." ]]></paragraph>
+        <paragraph num="45"><![CDATA[I had perfected the act, and to tell the absolute truth, it was pretty godd*** funny. I would put on a fright wig and a frock coat and lip-synch to the great baritone Igor Gorin's "Largo Al Factotum" from The Barber of Seville. I'd come out in a Carmen Miranda dress, with fruit on my hat, and do Miranda. Then into a pin-striped jacket, suck in my cheeks, and I'd do Sinatra singing "All or Nothing at All." I knew where every scratch and skip was on every record, and when they came up, I'd do shtick to them. I had gotten better and better at contorting my long, skinny body in ways that I knew worked comedically. I practiced making faces in front of a mirror till I cracked myself up. God hadn't made me handsome, but he'd given me something, I always felt: funny bones. ]]></paragraph>
+        <paragraph num="46"><![CDATA[And I never said a word on stage. ]]></paragraph>
+        <paragraph num="47"><![CDATA[The dumb act was a rapidly fading subspecialty in those rapidly fading days of baggy-pants comedy, and my own days doing it were numbered. There were a few of us lip-synchers out there, working the circuit, and while I liked (and still like) to think that I was the best of the bunch–nobody could move or pratfall or make faces like Jerry Lewis– I only had around three to eleven audience members per show who agreed with me. Those three or four or nine people would be wetting themselves while I performed, as the rest of the house (if anyone else was there) clapped slowly, or booed.... Bring on the strippers! ]]></paragraph>
+        <paragraph num="48"><![CDATA[And I never said a word. ]]></paragraph>
+        <paragraph num="49"><![CDATA[The truth is, funny sentences were always running through my brain: I thought funny. But I was ashamed of what would come out if I spoke–that nasal kid's voice. So I was funny on stage, but I was only part funny: I was still looking for the missing piece. ]]></paragraph>
+        <paragraph num="50"><![CDATA[Excerpted from Dean and Me by James Kaplan. Copyright 2005 by Jerry Lewis and James Kaplan. Excerpted by permission of Doubleday, a division of Random House, Inc. All rights reserved. No part of this excerpt may be reproduced or reprinted without permission in writing from the publisher.  [Copyright 2011 National Public Radio]]]></paragraph>
+      </text>
+    </story>
+  </list>
+</nprml>
+<?xml version="1.0" encoding="UTF-8"?>
+<nprml version="0.94">
+  <list>
+    <title><![CDATA[NPR: Stories from NPR]]></title>
+    <teaser><![CDATA[Assorted stories from NPR]]></teaser>
+    <miniTeaser><![CDATA[Custom NPR News Feed API.  Visit http://www.npr.org/templates/apidoc/index.php for more information.]]></miniTeaser>
+    <link type="api">http://api.npr.org/query?searchTerm=%22didn%27t%20smile%22&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+    <story id="132260323">
+      <link type="html">http://www.npr.org/2010/12/24/132260323/one-students-christmas-lesson?ft=3&amp;f=</link>
+      <link type="api">http://api.npr.org/query?id=132260323&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+      <link type="short">http://n.pr/fa63Cy</link>
+      <title><![CDATA[One Student's Christmas Lesson]]></title>
+      <transcript>
+        <link type="api">http://api.npr.org/transcript?id=132260323&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+      </transcript>
+      <audio id="132304294" type="primary">
+        <title/>
+        <duration>118</duration>
+        <description/>
+        <format>
+          <mp3 type="m3u">http://api.npr.org/m3u/1132304294-edeb99.m3u?orgId=1&amp;topicId=1022&amp;aggIds=4516989&amp;ft=3&amp;f=</mp3>
+          <wm>http://www.npr.org/templates/dmg/dmg_wmref_em.php?id=132304294&amp;type=1&amp;mtype=WM&amp;orgId=1&amp;topicId=1022&amp;aggIds=4516989&amp;ft=3&amp;f=</wm>
+          <rm>http://www.npr.org/templates/dmg/dmg_rpm.rpm?id=132304294&amp;type=1&amp;mtype=RM&amp;orgId=1&amp;topicId=1022&amp;aggIds=4516989&amp;ft=3&amp;f=</rm>
+        </format>
+        <rightsHolder/>
+        <permissions>
+          <download allow="true"/>
+          <stream allow="true"/>
+          <embed allow="true"/>
+        </permissions>
+      </audio>
+      <text>
+        <paragraph num="1"><![CDATA[Don Michaels really didn't like school for a while when he was growing up.]]></paragraph>
+        <paragraph num="2"><![CDATA["I had terrible migraine headaches when I was in fifth grade," he explained to his daughter Jennifer recently. "Whether that was because of the pressure, or because of the reputation that the teacher at the time had, and my having gotten reports from my three brothers who had her, I just, I just don't know."]]></paragraph>
+        <paragraph num="3"><![CDATA[Michaels remembers his teacher, Miss Leister, having very sharp features.]]></paragraph>
+        <paragraph num="4"><![CDATA["The most prominent thing was her nose -- it was very hawkish," the 72-year-old said. "She didn't smile a great deal. And she was a taskmaster -- she expected you to perform."]]></paragraph>
+        <paragraph num="5"><![CDATA[Miss Leister wasn't very warm, he said.]]></paragraph>
+        <paragraph num="6"><![CDATA["But we had a Christmas party -- all the classes had Christmas parties -- and we all exchanged names for gifts. And the Christmas party started, the gifts were being handed out, names were being called, and one by one all my classmates went up to get their gift. When the gifts were all gone, I had not been called and did not receive a gift, for some reason or other."]]></paragraph>
+        <paragraph num="7"><![CDATA[The day before Christmas, Miss Leister showed up at Michaels' house, unannounced.]]></paragraph>
+        <paragraph num="8"><![CDATA["And she had a small gift that she gave to me," he said. "That gift was a key chain. I kept that for years and years. And as odd as it may seem, my headaches went away about two days after she came."]]></paragraph>
+        <paragraph num="9"><![CDATA[Michaels' relationship with Miss Leister changed from that day on.]]></paragraph>
+        <paragraph num="10"><![CDATA[Produced for Morning Edition by Jasmyn Belcher. The senior producer for StoryCorps is Michael Garofalo. Recorded in partnership with WPSU.    [Copyright 2011 National Public Radio]]]></paragraph>
+      </text>
+    </story>
+    <story id="4973590">
+      <link type="html">http://www.npr.org/templates/story/story.php?storyId=4973590&amp;ft=3&amp;f=</link>
+      <link type="api">http://api.npr.org/query?id=4973590&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+      <title><![CDATA[Jerry Lewis on Dean Martin: 'A Love Story']]></title>
+      <audio id="4973591" type="primary">
+        <title>Listen</title>
+        <duration>0</duration>
+        <description/>
+        <format>
+          <mp3 type="m3u">http://api.npr.org/m3u/14973591-9ed229.m3u?orgId=1&amp;topicId=1022&amp;ft=3&amp;f=</mp3>
+          <wm>http://www.npr.org/templates/dmg/dmg_wmref_em.php?id=4973591&amp;type=1&amp;mtype=WM&amp;orgId=1&amp;topicId=1022&amp;ft=3&amp;f=</wm>
+          <rm>http://www.npr.org/templates/dmg/dmg_rpm.rpm?id=4973591&amp;type=1&amp;mtype=RM&amp;orgId=1&amp;topicId=1022&amp;ft=3&amp;f=</rm>
+        </format>
+        <rightsHolder/>
+        <permissions>
+          <download allow="true"/>
+          <stream allow="true"/>
+          <embed allow="true"/>
+        </permissions>
+      </audio>
+      <text>
+        <paragraph num="1"><![CDATA[From 1950 to 1956, the team of Martin and Lewis were the No. 1 box-office earners and America's favorite entertainers. A new memoir from Jerry Lewis details how a beloved 10-year partnership was destroyed.]]></paragraph>
+        <paragraph num="2"><![CDATA[Dean and Me: A Love Story details life behind the scenes of the 16 films and numerous television and club shows featuring Dean Martin and Jerry Lewis. The book, which Lewis wrote with James Kaplan, chronicles the tumultuous relationship between two giants of American entertainment.]]></paragraph>
+        <paragraph num="3"><![CDATA[Their success brought money, fame -- and a host of new troubles, from clashes brought on by big egos and diverging priorities. By the end of their run together, Martin and Lewis weren't speaking to each other.]]></paragraph>
+        <paragraph num="4"><![CDATA[Several attempts to patch things up failed; it wasn't until the late 1980s that the men who entertained post-war America with movies like Living It Up and The Caddy spoke at length. Dean Martin died in 1995.]]></paragraph>
+        <paragraph num="5"><![CDATA[Read an Excerpt from 'Dean and Me':]]></paragraph>
+        <paragraph num="6"><![CDATA[Chapter One]]></paragraph>
+        <paragraph num="7"><![CDATA[In the age of Truman, Eisenhower, and Joe McCarthy, we freed America. For ten years after World War II, Dean and I were not only the most successful show-business act in history -- we were history. ]]></paragraph>
+        <paragraph num="8"><![CDATA[You have to remember: Postwar America was a very buttoned-up nation. Radio shows were run by censors, Presidents wore hats, ladies wore girdles. We came straight out of the blue–nobody was expecting anything like Martin and Lewis. A sexy guy and a monkey is how some people saw us, but what we really were, in an age of Freudian self-realization, was the explosion of the show-business id.]]></paragraph>
+        <paragraph num="9"><![CDATA[Like Burns and Allen, Abbott and Costello, and Hope and Crosby, we were vaudevillians, stage performers who worked with an audience. But the difference between us and all the others is significant. They worked with a script. We exploded without one, the same way wiseguy kids do on a playground, or jazz musicians do when they're let loose. And the minute we started out in nightclubs, audiences went nuts for us. As Alan King told an interviewer a few years ago: "I have been in the business for fifty-five years, and I have never to this day seen an act get more laughs than Martin and Lewis. They didn't get laughs–it was pandemonium. People knocked over tables." ]]></paragraph>
+        <paragraph num="10"><![CDATA[Like so many entertainment explosions, we happened almost by accident. ]]></paragraph>
+        <paragraph num="11"><![CDATA[----------]]></paragraph>
+        <paragraph num="12"><![CDATA[It was a crisp March day in midtown Manhattan, March of 1945. I had just turned nineteen, and I was going to live forever. I could feel the bounce in my legs, the air in my lungs. World War II was rapidly drawing to a close, and New York was alive with excitement. Broadway was full of city smells–bus and taxi exhaust; roast peanuts and dirty-water hot dogs; and, most thrilling of all, the perfumes of beautiful women. Midtown was swarming with gorgeous gals! Secretaries, career girls, society broads with little pooches–they all paraded past, tick-tock, tick-tock, setting my heart racing every ten paces. I was a very young newlywed, with a very pregnant wife back in Newark, but I had eyes, and I looked. And looked. And looked. ]]></paragraph>
+        <paragraph num="13"><![CDATA[I was strolling south with my pal Sonny King, heading toward an appointment with an agent in Times Square. Sonny was an ex-prize-fighter from Brooklyn trying to make it as a singer, a knock-around guy, street-smart and quick with a joke–kind of like an early Tony Danza. He prided himself on his nice tenor voice and on knowing everybody who was anybody in show business. Not that his pride always matched up with reality. But that was Sonny, a bit of an operator. And me? I was a Jersey kid trying to make it as a comic. My act–are you ready for this?– was as follows: I would get up on stage and make funny faces while I lip-synched along to phonograph records. The professional term for what I did was dumb act, a phrase I didn't want to think about too much. In those days, it felt a little too much like a bad review. ]]></paragraph>
+        <paragraph num="14"><![CDATA[You know good-bad? Good was that I was young and full of beans and ready to take on the world. Bad was that I had no idea on earth how I was going to accomplish this feat. And bad was also that I was just eking out a living, pulling down $110 a week in a good week, and there weren't that many good weeks. On this princely sum I had to pay my manager, Abner J. Greshler, plus the rent on the Newark apartment, plus feed two, about to be three. Plus wardrobe, candy bars, milk shakes, and phonograph records for the act. Plus my hotel bill. While I was working in New York, I stayed in the city, to be close to my jobs–when I had them–and to stick to where the action was. I'd been rooming at the Belmont Plaza, on Lexington and Forty-ninth, where I'd also been performing in the Glass Hat, a nightclub in the hotel. I got $135 a week and a room. ]]></paragraph>
+        <paragraph num="15"><![CDATA[Suddenly, at Broadway and Fifty-fourth, Sonny spotted someone across the street: a tall, dark, and incredibly handsome man in a camel's-hair coat. His name, Sonny said, was Dean Martin. Just looking at him intimidated me: How does anybody get that handsome? ]]></paragraph>
+        <paragraph num="16"><![CDATA[I smiled at the sight of him in that camel's-hair coat. Harry Horses***, I thought. That was what we used to call a guy who thought he was smooth with the ladies. Anybody who wore a camel's-hair overcoat, with a camel's-hair belt and fake diamond cuff links, was automatically Harry Horses***. ]]></paragraph>
+        <paragraph num="17"><![CDATA[But this guy, I knew, was the real deal. He was standing with a shorter, older fellow, and when he saw Sonny, he waved us over. We crossed the street. I was amazed all over again when I saw how good-looking he was–long, rugged face; great profile; thick, dark brows and eyelashes. And a suntan in March! How'd he manage that? I could see he had kind of a twinkle as he talked to the older guy. Charisma is a word I would learn later. All I knew then was that I couldn't take my eyes off Sonny's pal. ]]></paragraph>
+        <paragraph num="18"><![CDATA["Hey, Dino!" Sonny said as we came up to them. "How ya doin', Lou?" he said to the older man. ]]></paragraph>
+        <paragraph num="19"><![CDATA[Lou, it turned out, was Lou Perry, Dean's manager. He looked like a manager: short, thin-lipped, cool-eyed. Sonny introduced me, and Perry glanced at me without much interest. But Sonny looked excited. He turned to his camel-coated friend. "Dino," Sonny said, "I want you to meet a very funny kid, Jerry Lewis." ]]></paragraph>
+        <paragraph num="20"><![CDATA[Camel-Coat smiled warmly and put out his hand. I took it. It was a big hand, strong, but he didn't go overboard with the grip. I liked that. I liked him, instantly. And he looked genuinely glad to meet me. ]]></paragraph>
+        <paragraph num="21"><![CDATA["Kid," Sonny said–Sonny called me Kid the first time he ever met me, and he would still call me Kid in Vegas fifty years later–"this is Dean Martin. Sings even better than me." ]]></paragraph>
+        <paragraph num="22"><![CDATA[That was Sonny, fun and games. Of course, he had zero idea that he was introducing me to one of the great comic talents of our time. I certainly had no idea of that, either–nor, for that matter, did Dean. At that moment, at the end of World War II, we were just two guys struggling to make it in show business, shaking hands on a busy Broadway street corner. ]]></paragraph>
+        <paragraph num="23"><![CDATA[We made a little chitchat. "You workin'?" I asked. ]]></paragraph>
+        <paragraph num="24"><![CDATA[He smiled that million-dollar smile. Now that I looked at him close up, I could see the faint outline of a healing surgical cut on the bridge of his nose. Some plastic surgeon had done great work. "Oh, this 'n' that, you know," Dean said. "I'm on WMCA radio, sustaining. No bucks, just room." He had a mellow, lazy voice, with a slightly Southern lilt to it. He sounded like he didn't have a care in the world, like he was knockin' 'em dead wherever he went. I believed it. Little did I know that he was hip-deep in debt to Perry and several other managers besides. ]]></paragraph>
+        <paragraph num="25"><![CDATA["How 'bout you?" Dean asked me. ]]></paragraph>
+        <paragraph num="26"><![CDATA[I nodded, quickly. I suddenly wanted, very badly, to impress this man. "I'm just now finishing my eighth week at the Glass Hat," I said. "In the Belmont Plaza." ]]></paragraph>
+        <paragraph num="27"><![CDATA["Really? I live there," Dean said. ]]></paragraph>
+        <paragraph num="28"><![CDATA["At the Glass Hat?" ]]></paragraph>
+        <paragraph num="29"><![CDATA["No, at the Belmont. It's part of my radio deal." ]]></paragraph>
+        <paragraph num="30"><![CDATA[Just at that moment, a beautiful brunette walked by, in a coat with a fur-trimmed collar. Dean lowered his eyelids slightly and flashed her that grin–and damned if she didn't smile right back! How come I never got that reaction? She gave him a lingering gaze over her shoulder as she passed, a clear invitation, and Dean shook his head, smiling his regrets. ]]></paragraph>
+        <paragraph num="31"><![CDATA["Look at this guy," Sonny said in his hoarse Brooklyn accent. "He's got p**** radar!" ]]></paragraph>
+        <paragraph num="32"><![CDATA[One look at Sonny's eyes was enough to tell me that he idolized Dean–whose attention, all at once, I felt anxious to get back. "You ever go to Leon and Eddie's?" I asked, my voice sounding even higher and squeakier than its usual high and squeaky. Leon and Eddie's was a restaurant and nightclub a couple of blocks away, on fabulous Fifty-second Street–which, in those days, was lined with restaurants and former speakeasies, like "21," and music clubs like the Five Spot and Birdland. Live entertainment still ruled America in those pretelevision days, Manhattan was the world capital of nightclubs, and Leon and Eddie's was a mecca for nightclub comics. Sunday night was Celebrity Night: The fun would start after hours, when anybody in the business might show up and get on to do a piece of their act. You'd see the likes of Milton Berle, Henny Youngman, Danny Kaye. It was magical. I used to go and gawk, like a kid in a candy store. Someday, I thought. . . . But for now, no chance. They'd never use a dumb act–one needing props, yet. ]]></paragraph>
+        <paragraph num="33"><![CDATA["Yeah, sometimes I stop by Sunday nights," Dean said. ]]></paragraph>
+        <paragraph num="34"><![CDATA["Me too!" I cried. ]]></paragraph>
+        <paragraph num="35"><![CDATA[He gave me that smile again–warm but ever so slightly cool around the edges. It bathed you in its glow, yet didn't let you in. Men don't like to admit it, but there's something about a truly handsome guy who also happens to be truly masculine–what they call a man's man–that's as magnetic to us as it is to women. That's what I want to be like, you think. Maybe if I hang around with him, some of that'll rub off on me. ]]></paragraph>
+        <paragraph num="36"><![CDATA["So–maybe I'll see you there sometime," Dean told me. ]]></paragraph>
+        <paragraph num="37"><![CDATA["Yeah, sure," I said. ]]></paragraph>
+        <paragraph num="38"><![CDATA["Go get your tux out of hock," he said. ]]></paragraph>
+        <paragraph num="39"><![CDATA[I laughed. He was funny. ]]></paragraph>
+        <paragraph num="40"><![CDATA[----------]]></paragraph>
+        <paragraph num="41"><![CDATA[Sonny King was a pal, but not a friend. I badly needed a friend. I was a lonely kid, the only child of two vaudevillians who were rarely around. My dad, Danny, was a singer and all-around entertainer: He did it all– patter, impressions, stand-up comedy. My mom, Rachel (Rae), was Danny's pianist and conductor. So I grew up shuttled from household to household, relative to relative. I cherished the precious times Mom and Dad would take me on the road with them. And for them, the highest form of togetherness was to put me right in the act: My first onstage appearance was at age five, in 1931, at the President Hotel, a summer resort in Swan Lake, New York. I wore a tux (naturally) and sang that Depression classic "Brother, Can You Spare a Dime?" From that moment on, showbiz was in my blood. So was loneliness. ]]></paragraph>
+        <paragraph num="42"><![CDATA[By the time I was sixteen, I was a high-school dropout and a show-business wannabe. A desperately-wanting-to-be wannabe. I worked the Catskill resorts as a busboy (for pay) and (for free) a tummler–the guy who cuts up, makes faces, gets the guests in a good mood for the real entertainment. That's what I wanted to be, the real entertainment. But what was I going to do? I was tall, skinny, gawky; cute but funny-looking. With the voice God had given me, I certainly wasn't going to be a singer like my dad, with his Al Jolson baritone. I always saw the humor in things, the joke possibilities. At the same time, I didn't have the confidence to stand on a stage and talk. ]]></paragraph>
+        <paragraph num="43"><![CDATA[Then I hit on a genius solution–or what seemed at the time like a genius solution. One night, at a New Jersey resort where my parents were doing their act, a friend of mine, an aspiring performer, Lonnie Brown–the daughter of Charlie and Lillian Brown, resort hotelkeepers who were destined to become very important in my life–was listening to a record by an English singer named Cyril Smith, trying to learn those classy English intonations. I had a little crush on Lonnie, and, attempting to impress her, I started to clown around, mouthing along to the music, rolling my eyes and playing the diva. Well, Lonnie broke up, and that was music to my ears. An act was born. ]]></paragraph>
+        <paragraph num="44"><![CDATA[After a couple of hard years on the road, playing burlesque houses where the guys with newspapers on their laps would boo me off the stage so they could see the strippers, I became a showbiz veteran (still in my teens) with an act called "Jerry Lewis–Satirical Impressions in Pantomimicry." ]]></paragraph>
+        <paragraph num="45"><![CDATA[I had perfected the act, and to tell the absolute truth, it was pretty godd*** funny. I would put on a fright wig and a frock coat and lip-synch to the great baritone Igor Gorin's "Largo Al Factotum" from The Barber of Seville. I'd come out in a Carmen Miranda dress, with fruit on my hat, and do Miranda. Then into a pin-striped jacket, suck in my cheeks, and I'd do Sinatra singing "All or Nothing at All." I knew where every scratch and skip was on every record, and when they came up, I'd do shtick to them. I had gotten better and better at contorting my long, skinny body in ways that I knew worked comedically. I practiced making faces in front of a mirror till I cracked myself up. God hadn't made me handsome, but he'd given me something, I always felt: funny bones. ]]></paragraph>
+        <paragraph num="46"><![CDATA[And I never said a word on stage. ]]></paragraph>
+        <paragraph num="47"><![CDATA[The dumb act was a rapidly fading subspecialty in those rapidly fading days of baggy-pants comedy, and my own days doing it were numbered. There were a few of us lip-synchers out there, working the circuit, and while I liked (and still like) to think that I was the best of the bunch–nobody could move or pratfall or make faces like Jerry Lewis– I only had around three to eleven audience members per show who agreed with me. Those three or four or nine people would be wetting themselves while I performed, as the rest of the house (if anyone else was there) clapped slowly, or booed.... Bring on the strippers! ]]></paragraph>
+        <paragraph num="48"><![CDATA[And I never said a word. ]]></paragraph>
+        <paragraph num="49"><![CDATA[The truth is, funny sentences were always running through my brain: I thought funny. But I was ashamed of what would come out if I spoke–that nasal kid's voice. So I was funny on stage, but I was only part funny: I was still looking for the missing piece. ]]></paragraph>
+        <paragraph num="50"><![CDATA[Excerpted from Dean and Me by James Kaplan. Copyright 2005 by Jerry Lewis and James Kaplan. Excerpted by permission of Doubleday, a division of Random House, Inc. All rights reserved. No part of this excerpt may be reproduced or reprinted without permission in writing from the publisher.  [Copyright 2011 National Public Radio]]]></paragraph>
+      </text>
+    </story>
+  </list>
+</nprml>
+<?xml version="1.0" encoding="UTF-8"?>
+<nprml version="0.94">
+  <list>
+    <title><![CDATA[NPR: Stories from NPR]]></title>
+    <teaser><![CDATA[Assorted stories from NPR]]></teaser>
+    <miniTeaser><![CDATA[Custom NPR News Feed API.  Visit http://www.npr.org/templates/apidoc/index.php for more information.]]></miniTeaser>
+    <link type="api">http://api.npr.org/query?searchTerm=%22didn%27t%20smile%22&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+    <story id="132260323">
+      <link type="html">http://www.npr.org/2010/12/24/132260323/one-students-christmas-lesson?ft=3&amp;f=</link>
+      <link type="api">http://api.npr.org/query?id=132260323&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+      <link type="short">http://n.pr/fa63Cy</link>
+      <title><![CDATA[One Student's Christmas Lesson]]></title>
+      <transcript>
+        <link type="api">http://api.npr.org/transcript?id=132260323&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+      </transcript>
+      <audio id="132304294" type="primary">
+        <title/>
+        <duration>118</duration>
+        <description/>
+        <format>
+          <mp3 type="m3u">http://api.npr.org/m3u/1132304294-edeb99.m3u?orgId=1&amp;topicId=1022&amp;aggIds=4516989&amp;ft=3&amp;f=</mp3>
+          <wm>http://www.npr.org/templates/dmg/dmg_wmref_em.php?id=132304294&amp;type=1&amp;mtype=WM&amp;orgId=1&amp;topicId=1022&amp;aggIds=4516989&amp;ft=3&amp;f=</wm>
+          <rm>http://www.npr.org/templates/dmg/dmg_rpm.rpm?id=132304294&amp;type=1&amp;mtype=RM&amp;orgId=1&amp;topicId=1022&amp;aggIds=4516989&amp;ft=3&amp;f=</rm>
+        </format>
+        <rightsHolder/>
+        <permissions>
+          <download allow="true"/>
+          <stream allow="true"/>
+          <embed allow="true"/>
+        </permissions>
+      </audio>
+      <text>
+        <paragraph num="1"><![CDATA[Don Michaels really didn't like school for a while when he was growing up.]]></paragraph>
+        <paragraph num="2"><![CDATA["I had terrible migraine headaches when I was in fifth grade," he explained to his daughter Jennifer recently. "Whether that was because of the pressure, or because of the reputation that the teacher at the time had, and my having gotten reports from my three brothers who had her, I just, I just don't know."]]></paragraph>
+        <paragraph num="3"><![CDATA[Michaels remembers his teacher, Miss Leister, having very sharp features.]]></paragraph>
+        <paragraph num="4"><![CDATA["The most prominent thing was her nose -- it was very hawkish," the 72-year-old said. "She didn't smile a great deal. And she was a taskmaster -- she expected you to perform."]]></paragraph>
+        <paragraph num="5"><![CDATA[Miss Leister wasn't very warm, he said.]]></paragraph>
+        <paragraph num="6"><![CDATA["But we had a Christmas party -- all the classes had Christmas parties -- and we all exchanged names for gifts. And the Christmas party started, the gifts were being handed out, names were being called, and one by one all my classmates went up to get their gift. When the gifts were all gone, I had not been called and did not receive a gift, for some reason or other."]]></paragraph>
+        <paragraph num="7"><![CDATA[The day before Christmas, Miss Leister showed up at Michaels' house, unannounced.]]></paragraph>
+        <paragraph num="8"><![CDATA["And she had a small gift that she gave to me," he said. "That gift was a key chain. I kept that for years and years. And as odd as it may seem, my headaches went away about two days after she came."]]></paragraph>
+        <paragraph num="9"><![CDATA[Michaels' relationship with Miss Leister changed from that day on.]]></paragraph>
+        <paragraph num="10"><![CDATA[Produced for Morning Edition by Jasmyn Belcher. The senior producer for StoryCorps is Michael Garofalo. Recorded in partnership with WPSU.    [Copyright 2011 National Public Radio]]]></paragraph>
+      </text>
+    </story>
+    <story id="4973590">
+      <link type="html">http://www.npr.org/templates/story/story.php?storyId=4973590&amp;ft=3&amp;f=</link>
+      <link type="api">http://api.npr.org/query?id=4973590&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+      <title><![CDATA[Jerry Lewis on Dean Martin: 'A Love Story']]></title>
+      <audio id="4973591" type="primary">
+        <title>Listen</title>
+        <duration>0</duration>
+        <description/>
+        <format>
+          <mp3 type="m3u">http://api.npr.org/m3u/14973591-9ed229.m3u?orgId=1&amp;topicId=1022&amp;ft=3&amp;f=</mp3>
+          <wm>http://www.npr.org/templates/dmg/dmg_wmref_em.php?id=4973591&amp;type=1&amp;mtype=WM&amp;orgId=1&amp;topicId=1022&amp;ft=3&amp;f=</wm>
+          <rm>http://www.npr.org/templates/dmg/dmg_rpm.rpm?id=4973591&amp;type=1&amp;mtype=RM&amp;orgId=1&amp;topicId=1022&amp;ft=3&amp;f=</rm>
+        </format>
+        <rightsHolder/>
+        <permissions>
+          <download allow="true"/>
+          <stream allow="true"/>
+          <embed allow="true"/>
+        </permissions>
+      </audio>
+      <text>
+        <paragraph num="1"><![CDATA[From 1950 to 1956, the team of Martin and Lewis were the No. 1 box-office earners and America's favorite entertainers. A new memoir from Jerry Lewis details how a beloved 10-year partnership was destroyed.]]></paragraph>
+        <paragraph num="2"><![CDATA[Dean and Me: A Love Story details life behind the scenes of the 16 films and numerous television and club shows featuring Dean Martin and Jerry Lewis. The book, which Lewis wrote with James Kaplan, chronicles the tumultuous relationship between two giants of American entertainment.]]></paragraph>
+        <paragraph num="3"><![CDATA[Their success brought money, fame -- and a host of new troubles, from clashes brought on by big egos and diverging priorities. By the end of their run together, Martin and Lewis weren't speaking to each other.]]></paragraph>
+        <paragraph num="4"><![CDATA[Several attempts to patch things up failed; it wasn't until the late 1980s that the men who entertained post-war America with movies like Living It Up and The Caddy spoke at length. Dean Martin died in 1995.]]></paragraph>
+        <paragraph num="5"><![CDATA[Read an Excerpt from 'Dean and Me':]]></paragraph>
+        <paragraph num="6"><![CDATA[Chapter One]]></paragraph>
+        <paragraph num="7"><![CDATA[In the age of Truman, Eisenhower, and Joe McCarthy, we freed America. For ten years after World War II, Dean and I were not only the most successful show-business act in history -- we were history. ]]></paragraph>
+        <paragraph num="8"><![CDATA[You have to remember: Postwar America was a very buttoned-up nation. Radio shows were run by censors, Presidents wore hats, ladies wore girdles. We came straight out of the blue–nobody was expecting anything like Martin and Lewis. A sexy guy and a monkey is how some people saw us, but what we really were, in an age of Freudian self-realization, was the explosion of the show-business id.]]></paragraph>
+        <paragraph num="9"><![CDATA[Like Burns and Allen, Abbott and Costello, and Hope and Crosby, we were vaudevillians, stage performers who worked with an audience. But the difference between us and all the others is significant. They worked with a script. We exploded without one, the same way wiseguy kids do on a playground, or jazz musicians do when they're let loose. And the minute we started out in nightclubs, audiences went nuts for us. As Alan King told an interviewer a few years ago: "I have been in the business for fifty-five years, and I have never to this day seen an act get more laughs than Martin and Lewis. They didn't get laughs–it was pandemonium. People knocked over tables." ]]></paragraph>
+        <paragraph num="10"><![CDATA[Like so many entertainment explosions, we happened almost by accident. ]]></paragraph>
+        <paragraph num="11"><![CDATA[----------]]></paragraph>
+        <paragraph num="12"><![CDATA[It was a crisp March day in midtown Manhattan, March of 1945. I had just turned nineteen, and I was going to live forever. I could feel the bounce in my legs, the air in my lungs. World War II was rapidly drawing to a close, and New York was alive with excitement. Broadway was full of city smells–bus and taxi exhaust; roast peanuts and dirty-water hot dogs; and, most thrilling of all, the perfumes of beautiful women. Midtown was swarming with gorgeous gals! Secretaries, career girls, society broads with little pooches–they all paraded past, tick-tock, tick-tock, setting my heart racing every ten paces. I was a very young newlywed, with a very pregnant wife back in Newark, but I had eyes, and I looked. And looked. And looked. ]]></paragraph>
+        <paragraph num="13"><![CDATA[I was strolling south with my pal Sonny King, heading toward an appointment with an agent in Times Square. Sonny was an ex-prize-fighter from Brooklyn trying to make it as a singer, a knock-around guy, street-smart and quick with a joke–kind of like an early Tony Danza. He prided himself on his nice tenor voice and on knowing everybody who was anybody in show business. Not that his pride always matched up with reality. But that was Sonny, a bit of an operator. And me? I was a Jersey kid trying to make it as a comic. My act–are you ready for this?– was as follows: I would get up on stage and make funny faces while I lip-synched along to phonograph records. The professional term for what I did was dumb act, a phrase I didn't want to think about too much. In those days, it felt a little too much like a bad review. ]]></paragraph>
+        <paragraph num="14"><![CDATA[You know good-bad? Good was that I was young and full of beans and ready to take on the world. Bad was that I had no idea on earth how I was going to accomplish this feat. And bad was also that I was just eking out a living, pulling down $110 a week in a good week, and there weren't that many good weeks. On this princely sum I had to pay my manager, Abner J. Greshler, plus the rent on the Newark apartment, plus feed two, about to be three. Plus wardrobe, candy bars, milk shakes, and phonograph records for the act. Plus my hotel bill. While I was working in New York, I stayed in the city, to be close to my jobs–when I had them–and to stick to where the action was. I'd been rooming at the Belmont Plaza, on Lexington and Forty-ninth, where I'd also been performing in the Glass Hat, a nightclub in the hotel. I got $135 a week and a room. ]]></paragraph>
+        <paragraph num="15"><![CDATA[Suddenly, at Broadway and Fifty-fourth, Sonny spotted someone across the street: a tall, dark, and incredibly handsome man in a camel's-hair coat. His name, Sonny said, was Dean Martin. Just looking at him intimidated me: How does anybody get that handsome? ]]></paragraph>
+        <paragraph num="16"><![CDATA[I smiled at the sight of him in that camel's-hair coat. Harry Horses***, I thought. That was what we used to call a guy who thought he was smooth with the ladies. Anybody who wore a camel's-hair overcoat, with a camel's-hair belt and fake diamond cuff links, was automatically Harry Horses***. ]]></paragraph>
+        <paragraph num="17"><![CDATA[But this guy, I knew, was the real deal. He was standing with a shorter, older fellow, and when he saw Sonny, he waved us over. We crossed the street. I was amazed all over again when I saw how good-looking he was–long, rugged face; great profile; thick, dark brows and eyelashes. And a suntan in March! How'd he manage that? I could see he had kind of a twinkle as he talked to the older guy. Charisma is a word I would learn later. All I knew then was that I couldn't take my eyes off Sonny's pal. ]]></paragraph>
+        <paragraph num="18"><![CDATA["Hey, Dino!" Sonny said as we came up to them. "How ya doin', Lou?" he said to the older man. ]]></paragraph>
+        <paragraph num="19"><![CDATA[Lou, it turned out, was Lou Perry, Dean's manager. He looked like a manager: short, thin-lipped, cool-eyed. Sonny introduced me, and Perry glanced at me without much interest. But Sonny looked excited. He turned to his camel-coated friend. "Dino," Sonny said, "I want you to meet a very funny kid, Jerry Lewis." ]]></paragraph>
+        <paragraph num="20"><![CDATA[Camel-Coat smiled warmly and put out his hand. I took it. It was a big hand, strong, but he didn't go overboard with the grip. I liked that. I liked him, instantly. And he looked genuinely glad to meet me. ]]></paragraph>
+        <paragraph num="21"><![CDATA["Kid," Sonny said–Sonny called me Kid the first time he ever met me, and he would still call me Kid in Vegas fifty years later–"this is Dean Martin. Sings even better than me." ]]></paragraph>
+        <paragraph num="22"><![CDATA[That was Sonny, fun and games. Of course, he had zero idea that he was introducing me to one of the great comic talents of our time. I certainly had no idea of that, either–nor, for that matter, did Dean. At that moment, at the end of World War II, we were just two guys struggling to make it in show business, shaking hands on a busy Broadway street corner. ]]></paragraph>
+        <paragraph num="23"><![CDATA[We made a little chitchat. "You workin'?" I asked. ]]></paragraph>
+        <paragraph num="24"><![CDATA[He smiled that million-dollar smile. Now that I looked at him close up, I could see the faint outline of a healing surgical cut on the bridge of his nose. Some plastic surgeon had done great work. "Oh, this 'n' that, you know," Dean said. "I'm on WMCA radio, sustaining. No bucks, just room." He had a mellow, lazy voice, with a slightly Southern lilt to it. He sounded like he didn't have a care in the world, like he was knockin' 'em dead wherever he went. I believed it. Little did I know that he was hip-deep in debt to Perry and several other managers besides. ]]></paragraph>
+        <paragraph num="25"><![CDATA["How 'bout you?" Dean asked me. ]]></paragraph>
+        <paragraph num="26"><![CDATA[I nodded, quickly. I suddenly wanted, very badly, to impress this man. "I'm just now finishing my eighth week at the Glass Hat," I said. "In the Belmont Plaza." ]]></paragraph>
+        <paragraph num="27"><![CDATA["Really? I live there," Dean said. ]]></paragraph>
+        <paragraph num="28"><![CDATA["At the Glass Hat?" ]]></paragraph>
+        <paragraph num="29"><![CDATA["No, at the Belmont. It's part of my radio deal." ]]></paragraph>
+        <paragraph num="30"><![CDATA[Just at that moment, a beautiful brunette walked by, in a coat with a fur-trimmed collar. Dean lowered his eyelids slightly and flashed her that grin–and damned if she didn't smile right back! How come I never got that reaction? She gave him a lingering gaze over her shoulder as she passed, a clear invitation, and Dean shook his head, smiling his regrets. ]]></paragraph>
+        <paragraph num="31"><![CDATA["Look at this guy," Sonny said in his hoarse Brooklyn accent. "He's got p**** radar!" ]]></paragraph>
+        <paragraph num="32"><![CDATA[One look at Sonny's eyes was enough to tell me that he idolized Dean–whose attention, all at once, I felt anxious to get back. "You ever go to Leon and Eddie's?" I asked, my voice sounding even higher and squeakier than its usual high and squeaky. Leon and Eddie's was a restaurant and nightclub a couple of blocks away, on fabulous Fifty-second Street–which, in those days, was lined with restaurants and former speakeasies, like "21," and music clubs like the Five Spot and Birdland. Live entertainment still ruled America in those pretelevision days, Manhattan was the world capital of nightclubs, and Leon and Eddie's was a mecca for nightclub comics. Sunday night was Celebrity Night: The fun would start after hours, when anybody in the business might show up and get on to do a piece of their act. You'd see the likes of Milton Berle, Henny Youngman, Danny Kaye. It was magical. I used to go and gawk, like a kid in a candy store. Someday, I thought. . . . But for now, no chance. They'd never use a dumb act–one needing props, yet. ]]></paragraph>
+        <paragraph num="33"><![CDATA["Yeah, sometimes I stop by Sunday nights," Dean said. ]]></paragraph>
+        <paragraph num="34"><![CDATA["Me too!" I cried. ]]></paragraph>
+        <paragraph num="35"><![CDATA[He gave me that smile again–warm but ever so slightly cool around the edges. It bathed you in its glow, yet didn't let you in. Men don't like to admit it, but there's something about a truly handsome guy who also happens to be truly masculine–what they call a man's man–that's as magnetic to us as it is to women. That's what I want to be like, you think. Maybe if I hang around with him, some of that'll rub off on me. ]]></paragraph>
+        <paragraph num="36"><![CDATA["So–maybe I'll see you there sometime," Dean told me. ]]></paragraph>
+        <paragraph num="37"><![CDATA["Yeah, sure," I said. ]]></paragraph>
+        <paragraph num="38"><![CDATA["Go get your tux out of hock," he said. ]]></paragraph>
+        <paragraph num="39"><![CDATA[I laughed. He was funny. ]]></paragraph>
+        <paragraph num="40"><![CDATA[----------]]></paragraph>
+        <paragraph num="41"><![CDATA[Sonny King was a pal, but not a friend. I badly needed a friend. I was a lonely kid, the only child of two vaudevillians who were rarely around. My dad, Danny, was a singer and all-around entertainer: He did it all– patter, impressions, stand-up comedy. My mom, Rachel (Rae), was Danny's pianist and conductor. So I grew up shuttled from household to household, relative to relative. I cherished the precious times Mom and Dad would take me on the road with them. And for them, the highest form of togetherness was to put me right in the act: My first onstage appearance was at age five, in 1931, at the President Hotel, a summer resort in Swan Lake, New York. I wore a tux (naturally) and sang that Depression classic "Brother, Can You Spare a Dime?" From that moment on, showbiz was in my blood. So was loneliness. ]]></paragraph>
+        <paragraph num="42"><![CDATA[By the time I was sixteen, I was a high-school dropout and a show-business wannabe. A desperately-wanting-to-be wannabe. I worked the Catskill resorts as a busboy (for pay) and (for free) a tummler–the guy who cuts up, makes faces, gets the guests in a good mood for the real entertainment. That's what I wanted to be, the real entertainment. But what was I going to do? I was tall, skinny, gawky; cute but funny-looking. With the voice God had given me, I certainly wasn't going to be a singer like my dad, with his Al Jolson baritone. I always saw the humor in things, the joke possibilities. At the same time, I didn't have the confidence to stand on a stage and talk. ]]></paragraph>
+        <paragraph num="43"><![CDATA[Then I hit on a genius solution–or what seemed at the time like a genius solution. One night, at a New Jersey resort where my parents were doing their act, a friend of mine, an aspiring performer, Lonnie Brown–the daughter of Charlie and Lillian Brown, resort hotelkeepers who were destined to become very important in my life–was listening to a record by an English singer named Cyril Smith, trying to learn those classy English intonations. I had a little crush on Lonnie, and, attempting to impress her, I started to clown around, mouthing along to the music, rolling my eyes and playing the diva. Well, Lonnie broke up, and that was music to my ears. An act was born. ]]></paragraph>
+        <paragraph num="44"><![CDATA[After a couple of hard years on the road, playing burlesque houses where the guys with newspapers on their laps would boo me off the stage so they could see the strippers, I became a showbiz veteran (still in my teens) with an act called "Jerry Lewis–Satirical Impressions in Pantomimicry." ]]></paragraph>
+        <paragraph num="45"><![CDATA[I had perfected the act, and to tell the absolute truth, it was pretty godd*** funny. I would put on a fright wig and a frock coat and lip-synch to the great baritone Igor Gorin's "Largo Al Factotum" from The Barber of Seville. I'd come out in a Carmen Miranda dress, with fruit on my hat, and do Miranda. Then into a pin-striped jacket, suck in my cheeks, and I'd do Sinatra singing "All or Nothing at All." I knew where every scratch and skip was on every record, and when they came up, I'd do shtick to them. I had gotten better and better at contorting my long, skinny body in ways that I knew worked comedically. I practiced making faces in front of a mirror till I cracked myself up. God hadn't made me handsome, but he'd given me something, I always felt: funny bones. ]]></paragraph>
+        <paragraph num="46"><![CDATA[And I never said a word on stage. ]]></paragraph>
+        <paragraph num="47"><![CDATA[The dumb act was a rapidly fading subspecialty in those rapidly fading days of baggy-pants comedy, and my own days doing it were numbered. There were a few of us lip-synchers out there, working the circuit, and while I liked (and still like) to think that I was the best of the bunch–nobody could move or pratfall or make faces like Jerry Lewis– I only had around three to eleven audience members per show who agreed with me. Those three or four or nine people would be wetting themselves while I performed, as the rest of the house (if anyone else was there) clapped slowly, or booed.... Bring on the strippers! ]]></paragraph>
+        <paragraph num="48"><![CDATA[And I never said a word. ]]></paragraph>
+        <paragraph num="49"><![CDATA[The truth is, funny sentences were always running through my brain: I thought funny. But I was ashamed of what would come out if I spoke–that nasal kid's voice. So I was funny on stage, but I was only part funny: I was still looking for the missing piece. ]]></paragraph>
+        <paragraph num="50"><![CDATA[Excerpted from Dean and Me by James Kaplan. Copyright 2005 by Jerry Lewis and James Kaplan. Excerpted by permission of Doubleday, a division of Random House, Inc. All rights reserved. No part of this excerpt may be reproduced or reprinted without permission in writing from the publisher.  [Copyright 2011 National Public Radio]]]></paragraph>
+      </text>
+    </story>
+  </list>
+</nprml>
+<?xml version="1.0" encoding="UTF-8"?>
+<nprml version="0.94">
+  <list>
+    <title><![CDATA[NPR: Stories from NPR]]></title>
+    <teaser><![CDATA[Assorted stories from NPR]]></teaser>
+    <miniTeaser><![CDATA[Custom NPR News Feed API.  Visit http://www.npr.org/templates/apidoc/index.php for more information.]]></miniTeaser>
+    <link type="api">http://api.npr.org/query?searchTerm=%22didn%27t%20smile%22&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+    <story id="132260323">
+      <link type="html">http://www.npr.org/2010/12/24/132260323/one-students-christmas-lesson?ft=3&amp;f=</link>
+      <link type="api">http://api.npr.org/query?id=132260323&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+      <link type="short">http://n.pr/fa63Cy</link>
+      <title><![CDATA[One Student's Christmas Lesson]]></title>
+      <transcript>
+        <link type="api">http://api.npr.org/transcript?id=132260323&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+      </transcript>
+      <audio id="132304294" type="primary">
+        <title/>
+        <duration>118</duration>
+        <description/>
+        <format>
+          <mp3 type="m3u">http://api.npr.org/m3u/1132304294-edeb99.m3u?orgId=1&amp;topicId=1022&amp;aggIds=4516989&amp;ft=3&amp;f=</mp3>
+          <wm>http://www.npr.org/templates/dmg/dmg_wmref_em.php?id=132304294&amp;type=1&amp;mtype=WM&amp;orgId=1&amp;topicId=1022&amp;aggIds=4516989&amp;ft=3&amp;f=</wm>
+          <rm>http://www.npr.org/templates/dmg/dmg_rpm.rpm?id=132304294&amp;type=1&amp;mtype=RM&amp;orgId=1&amp;topicId=1022&amp;aggIds=4516989&amp;ft=3&amp;f=</rm>
+        </format>
+        <rightsHolder/>
+        <permissions>
+          <download allow="true"/>
+          <stream allow="true"/>
+          <embed allow="true"/>
+        </permissions>
+      </audio>
+      <text>
+        <paragraph num="1"><![CDATA[Don Michaels really didn't like school for a while when he was growing up.]]></paragraph>
+        <paragraph num="2"><![CDATA["I had terrible migraine headaches when I was in fifth grade," he explained to his daughter Jennifer recently. "Whether that was because of the pressure, or because of the reputation that the teacher at the time had, and my having gotten reports from my three brothers who had her, I just, I just don't know."]]></paragraph>
+        <paragraph num="3"><![CDATA[Michaels remembers his teacher, Miss Leister, having very sharp features.]]></paragraph>
+        <paragraph num="4"><![CDATA["The most prominent thing was her nose -- it was very hawkish," the 72-year-old said. "She didn't smile a great deal. And she was a taskmaster -- she expected you to perform."]]></paragraph>
+        <paragraph num="5"><![CDATA[Miss Leister wasn't very warm, he said.]]></paragraph>
+        <paragraph num="6"><![CDATA["But we had a Christmas party -- all the classes had Christmas parties -- and we all exchanged names for gifts. And the Christmas party started, the gifts were being handed out, names were being called, and one by one all my classmates went up to get their gift. When the gifts were all gone, I had not been called and did not receive a gift, for some reason or other."]]></paragraph>
+        <paragraph num="7"><![CDATA[The day before Christmas, Miss Leister showed up at Michaels' house, unannounced.]]></paragraph>
+        <paragraph num="8"><![CDATA["And she had a small gift that she gave to me," he said. "That gift was a key chain. I kept that for years and years. And as odd as it may seem, my headaches went away about two days after she came."]]></paragraph>
+        <paragraph num="9"><![CDATA[Michaels' relationship with Miss Leister changed from that day on.]]></paragraph>
+        <paragraph num="10"><![CDATA[Produced for Morning Edition by Jasmyn Belcher. The senior producer for StoryCorps is Michael Garofalo. Recorded in partnership with WPSU.    [Copyright 2011 National Public Radio]]]></paragraph>
+      </text>
+    </story>
+  </list>
+</nprml>

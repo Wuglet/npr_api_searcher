@@ -1,0 +1,1200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<nprml version="0.94">
+  <list>
+    <title><![CDATA[NPR: Stories from NPR]]></title>
+    <teaser><![CDATA[Assorted stories from NPR]]></teaser>
+    <miniTeaser><![CDATA[Custom NPR News Feed API.  Visit http://www.npr.org/templates/apidoc/index.php for more information.]]></miniTeaser>
+    <link type="api">http://api.npr.org/query?searchTerm=%22doesn%27t%20smile%22&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+    <story id="120092101">
+      <link type="html">http://www.npr.org/templates/story/story.php?storyId=120092101&amp;ft=3&amp;f=</link>
+      <link type="api">http://api.npr.org/query?id=120092101&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+      <title><![CDATA[Are We Eavesdropping On Rihanna And Chris Brown?]]></title>
+      <transcript>
+        <link type="api">http://api.npr.org/transcript?id=120092101&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+      </transcript>
+      <audio id="120098823" type="primary">
+        <title/>
+        <duration>234</duration>
+        <description/>
+        <format>
+          <mp3 type="m3u">http://api.npr.org/m3u/1120098823-84c26b.m3u?orgId=1&amp;topicId=1105&amp;ft=3&amp;f=</mp3>
+          <wm>http://www.npr.org/templates/dmg/dmg_wmref_em.php?id=120098823&amp;type=1&amp;mtype=WM&amp;orgId=1&amp;topicId=1105&amp;ft=3&amp;f=</wm>
+          <rm>http://www.npr.org/templates/dmg/dmg_rpm.rpm?id=120098823&amp;type=1&amp;mtype=RM&amp;orgId=1&amp;topicId=1105&amp;ft=3&amp;f=</rm>
+        </format>
+        <rightsHolder/>
+        <permissions>
+          <download allow="true"/>
+          <stream allow="true"/>
+          <embed allow="true"/>
+        </permissions>
+      </audio>
+      <text>
+        <paragraph num="1"><![CDATA[Over the past several months, TV shows have been clamoring to interview the pop singer Rihanna, but to no avail. Back in February, Rihanna's boyfriend, Chris Brown, beat her up as they were heading to perform at the Grammy Awards. In late August, he was sentenced to five years' probation for felony assault. Rihanna will finally talk on TV during Good Morning America Thursday, but it might be possible to pick up on how Brown and Rihanna are doing via their music.   ]]></paragraph>
+        <paragraph num="2"/>
+        <paragraph num="3"/>
+        <paragraph num="4"><![CDATA[They had been like the prince and princess of pop R&B. So last winter's ugly violence was unbelievable.   The picture that circulated on the internet of Rihanna's face all busted up was almost irreconcilable with her perfect popstar image.  And the idea that sweet-faced Chris Brown could have done that to her?  In the stunned silence that followed, we waited for them to explain themselves.  For months, neither one released any new music.  Now, both of them are back on the radio.  I'm scrutinizing every song and video like a mixtape my crush gave me in tenth grade. Listening for a hidden message in every word.  ]]></paragraph>
+        <paragraph num="5"/>
+        <paragraph num="6"><![CDATA[ Run This Town]]></paragraph>
+        <paragraph num="7"/>
+        <paragraph num="8"><![CDATA[Rihanna came back to the charts late this summer. She headlines Jay Z's single "Run This Town," and she owns the track. In the video, she looks hard, and you can't mess with her.  Rihanna's back, and she's badder than ever. ]]></paragraph>
+        <paragraph num="9"/>
+        <paragraph num="10"><![CDATA[But Chris Brown is back, too. In late September, he released the tight, unapologetic pop song "I Can Transform Ya."]]></paragraph>
+        <paragraph num="11"/>
+        <paragraph num="12"><![CDATA[In the "I Can Transform Ya" video, Brown is dancing, surrounded by his trademark Lamborghinis.  He doesn't smile once as he hammers out the track.  It made me think, "I guess he's forcing himself to move on."  But Rihanna doesn't sound done.]]></paragraph>
+        <paragraph num="13"/>
+        <paragraph num="14"/>
+        <paragraph num="15"><![CDATA[Rihanna's next single was "Russian Roulette."  It is not a love song. It's about surviving an impossible situation.]]></paragraph>
+        <paragraph num="16"/>
+        <paragraph num="17"><![CDATA["You can see my heart beating," Rihanna sings. "You can see it through my chest / that I'm terrified, but I'm not leaving / I know I must pass this test." Then, a gunshot is heard on the track.]]></paragraph>
+        <paragraph num="18"><![CDATA[After that gunshot, the very next day, Brown introduced a love ballad called "Crawl."]]></paragraph>
+        <paragraph num="19"/>
+        <paragraph num="20"/>
+        <paragraph num="21"><![CDATA["Everybody says we're through," he sings, adding, "I hope you haven't said it, too."  OK, so he's not over it.   But I don't know if Brown can do sweet longing anymore.  The pain here isn't sexy; it just sounds like pain.]]></paragraph>
+        <paragraph num="22"><![CDATA[Rihanna and Brown are probably not creating a dialectical mixtape writ large for us all to hear.  But what I do hear in their music is Rihanna saying, "I will not be humiliated by the events of the past year," and Brown replying, "Despite the awful violence you've seen, I want you to think I'm still lovable."]]></paragraph>
+        <paragraph num="23"><![CDATA[That's a complex conversation for the pop charts.]]></paragraph>
+        <paragraph num="24"><![CDATA[  [Copyright 2011 National Public Radio]]]></paragraph>
+      </text>
+    </story>
+    <story id="94778772">
+      <link type="html">http://www.npr.org/templates/story/story.php?storyId=94778772&amp;ft=3&amp;f=</link>
+      <link type="api">http://api.npr.org/query?id=94778772&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+      <title><![CDATA[Super-Smart Noir With A Feminist Jolt]]></title>
+      <audio id="94927892" type="primary">
+        <title/>
+        <duration>427</duration>
+        <description/>
+        <format>
+          <mp3 type="m3u">http://api.npr.org/m3u/194927892-e3d219.m3u?orgId=1&amp;topicId=1032&amp;aggIds=91752774&amp;ft=3&amp;f=</mp3>
+          <wm>http://www.npr.org/templates/dmg/dmg_wmref_em.php?id=94927892&amp;type=1&amp;mtype=WM&amp;orgId=1&amp;topicId=1032&amp;aggIds=91752774&amp;ft=3&amp;f=</wm>
+          <rm>http://www.npr.org/templates/dmg/dmg_rpm.rpm?id=94927892&amp;type=1&amp;mtype=RM&amp;orgId=1&amp;topicId=1032&amp;aggIds=91752774&amp;ft=3&amp;f=</rm>
+        </format>
+        <rightsHolder/>
+        <permissions>
+          <download allow="true"/>
+          <stream allow="true"/>
+          <embed allow="true"/>
+        </permissions>
+      </audio>
+      <text>
+        <paragraph num="1"><![CDATA[The hard-boiled mystery is as American as apple pie ... poisoned apple pie, that is, with a steel file baked into the filling. It's a literary genre that was born on the mean streets of early 20th century Los Angeles and San Francisco, sunlit places where, as the sour saying goes, a person could "rot without feeling it."  ]]></paragraph>
+        <paragraph num="2"><![CDATA[But one of the most intriguing aspects of hard-boiled history is how the form has been enthusiastically embraced by writers outside of the United States as a literary tool to explore the skeletons buried deep in their own particular patches of the world. In fact, for the past decade or so, Sweden has been a popular pick for crime capital of the literary world, thanks to Henning Mankell and his fellow practitioners of noir on ice. ]]></paragraph>
+        <paragraph num="3"><![CDATA[The newest name in mystery to emerge out of the frozen north is that of the late Stieg Larsson. His debut novel, The Girl With the Dragon Tattoo, was a blockbuster when it was published in Europe, selling an estimated 2 million copies. Now, an English language version, translated by Reg Keeland, has just been published here. ]]></paragraph>
+        <paragraph num="4"><![CDATA[A veteran mystery reader could spot the clues to this novel's runaway popularity as easily as Poe's detective, Auguste Dupin, spotted that purloined letter. The Girl With the Dragon Tattoo is a super-smart amalgam of the corporate corruption tale, legal thriller and dysfunctional-family psychological suspense story. It's witty, wrenchingly violent in a few isolated passages and unflinching in its commonsense feminist social commentary. ]]></paragraph>
+        <paragraph num="5"><![CDATA[The social vulnerability of women is the underlying Mystery with a capital "M" here; specifically the abuse — psychological and sexual — that's perpetrated against young and dependent women. Very late in the novel, one of our main characters, a reporter named Mikael Blomkvist, asks a serial murderer whose victims are often female emigrants to Sweden the simple question: "Why?" The monster calmly answers, "Because it's so easy."]]></paragraph>
+        <paragraph num="6"><![CDATA[Clearly, The Girl With the Dragon Tattoo isn't geared toward those readers who favor gentle Agatha Christie cozies, but its plot does consciously bow to Christie and her locked room/isolated island brand of puzzle. Here's the bare-bones summary: Blomkvist is a man down on his luck. He's just been convicted of libeling a corporate mogul and he's been sentenced to a jail term plus hefty fines. ]]></paragraph>
+        <paragraph num="7"><![CDATA[Out of the blue, Blomkvist receives an offer he can't refuse from a rival industrialist. Henrik Vanger is in his 80s and has been tormented for the past 40 years by the mysterious disappearance of his grand-niece Harriet. On the day of Harriet's disappearance, the island where the Vangers lived was blocked off from the mainland by a truck fire on the connecting bridge. How, then, did Harriet, or her corpse, vanish? ]]></paragraph>
+        <paragraph num="8"><![CDATA[What also torments Vanger is the fact that for the next four decades, he's received a disturbing birthday gift in the mail each year — a framed pressed flower — the same gift Harriet would give him when she was young. Vanger tells Blomkvist that if he moves to the island and works for a year re-investigating Harriet's disappearance, he'll receive not only a huge salary, but also inside information that will clear him of the libel charges. ]]></paragraph>
+        <paragraph num="9"><![CDATA[Blomkvist bites. Fortunately, through a turn of events too deliciously complicated to go into here, he's aided in his investigation by a 24-year-old brilliant computer hacker named Lisbeth Salander. Salander is a pierced, tattooed, painfully thin Goth with major attitude problems. She's also the gal pal you want on your side when the creeps slither out from under their rocks. ]]></paragraph>
+        <paragraph num="10"><![CDATA[Larsson's multi-pieced plot snaps together as neatly as an Ikea bookcase, but even more satisfying is the anti-social character of Salander, whose movements are described as "quick and spidery." Certainly the utopian allure of traditional detective fiction had something to do with the omnipotent Sam Spades and Phillip Marlowes who made criminals quake and femme fatales swoon. The liberating fantasy of Salander, at least for this female reader, has something to do with watching a woman operate who doesn't give a darn whether she pleases people or not. ]]></paragraph>
+        <paragraph num="11"><![CDATA[Salander doesn't smile, knock back boilermakers or eat moose burgers. She's not out to win friends or votes. But I'm betting that this offbeat bad girl will win a lot of readers' affections.  [Copyright 2011 National Public Radio]]]></paragraph>
+      </text>
+    </story>
+    <story id="4053100">
+      <link type="html">http://www.npr.org/templates/story/story.php?storyId=4053100&amp;ft=3&amp;f=</link>
+      <link type="api">http://api.npr.org/query?id=4053100&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+      <title><![CDATA[Drawing Conclusions About the Presidential Race]]></title>
+      <audio id="4054263" type="primary">
+        <title>Listen</title>
+        <duration>0</duration>
+        <description/>
+        <format>
+          <mp3 type="m3u">http://api.npr.org/m3u/14054263-3df470.m3u?orgId=1&amp;topicId=1014&amp;ft=3&amp;f=</mp3>
+          <wm>http://www.npr.org/templates/dmg/dmg_wmref_em.php?id=4054263&amp;type=1&amp;mtype=WM&amp;orgId=1&amp;topicId=1014&amp;ft=3&amp;f=</wm>
+          <rm>http://www.npr.org/templates/dmg/dmg_rpm.rpm?id=4054263&amp;type=1&amp;mtype=RM&amp;orgId=1&amp;topicId=1014&amp;ft=3&amp;f=</rm>
+        </format>
+        <rightsHolder/>
+        <permissions>
+          <download allow="true"/>
+          <stream allow="true"/>
+          <embed allow="true"/>
+        </permissions>
+      </audio>
+      <text>
+        <paragraph num="1"><![CDATA[Sen. John Kerry is darned if he does, and darned if he doesn't -- smile, that is. Take it from two people who should know -- political cartoonists Mike Luckovich and Mike Peters. They bring their thoughts, and drawings, to a discussion with NPR's Renee Montagne about the 2004 presidential campaign.]]></paragraph>
+        <paragraph num="2"><![CDATA["As much as I try to draw John Kerry looking happy, he looks like Abe Lincoln right before he went to the theater that night -- it's kind of sad," says Peters of the Dayton Daily News.]]></paragraph>
+        <paragraph num="3"><![CDATA["When he does smile, if he smiles big it looks sort of phoney," says Luckovich of the Atlanta Journal-Constitution. "I kind of feel for the guy because he's sort of stuck. He's probably got all these advisers saying, 'That smile is too big. It looks fake. Just a little less... He's in advanced smile lessons right now."]]></paragraph>
+        <paragraph num="4"><![CDATA[The Pulitzer Prize-winning cartoonists also let their pencils do the talking about unscripted moments by Vice President Dick Cheney and Teresa Heinz Kerry, the Bush-Cheney campaign's fearful rhetoric and Sen. John Edwards' background as a trial lawyer.  [Copyright 2011 National Public Radio]]]></paragraph>
+      </text>
+    </story>
+  </list>
+</nprml>
+<?xml version="1.0" encoding="UTF-8"?>
+<nprml version="0.94">
+  <list>
+    <title><![CDATA[NPR: Stories from NPR]]></title>
+    <teaser><![CDATA[Assorted stories from NPR]]></teaser>
+    <miniTeaser><![CDATA[Custom NPR News Feed API.  Visit http://www.npr.org/templates/apidoc/index.php for more information.]]></miniTeaser>
+    <link type="api">http://api.npr.org/query?searchTerm=%22doesn%27t%20smile%22&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+    <story id="120092101">
+      <link type="html">http://www.npr.org/templates/story/story.php?storyId=120092101&amp;ft=3&amp;f=</link>
+      <link type="api">http://api.npr.org/query?id=120092101&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+      <title><![CDATA[Are We Eavesdropping On Rihanna And Chris Brown?]]></title>
+      <transcript>
+        <link type="api">http://api.npr.org/transcript?id=120092101&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+      </transcript>
+      <audio id="120098823" type="primary">
+        <title/>
+        <duration>234</duration>
+        <description/>
+        <format>
+          <mp3 type="m3u">http://api.npr.org/m3u/1120098823-84c26b.m3u?orgId=1&amp;topicId=1105&amp;ft=3&amp;f=</mp3>
+          <wm>http://www.npr.org/templates/dmg/dmg_wmref_em.php?id=120098823&amp;type=1&amp;mtype=WM&amp;orgId=1&amp;topicId=1105&amp;ft=3&amp;f=</wm>
+          <rm>http://www.npr.org/templates/dmg/dmg_rpm.rpm?id=120098823&amp;type=1&amp;mtype=RM&amp;orgId=1&amp;topicId=1105&amp;ft=3&amp;f=</rm>
+        </format>
+        <rightsHolder/>
+        <permissions>
+          <download allow="true"/>
+          <stream allow="true"/>
+          <embed allow="true"/>
+        </permissions>
+      </audio>
+      <text>
+        <paragraph num="1"><![CDATA[Over the past several months, TV shows have been clamoring to interview the pop singer Rihanna, but to no avail. Back in February, Rihanna's boyfriend, Chris Brown, beat her up as they were heading to perform at the Grammy Awards. In late August, he was sentenced to five years' probation for felony assault. Rihanna will finally talk on TV during Good Morning America Thursday, but it might be possible to pick up on how Brown and Rihanna are doing via their music.   ]]></paragraph>
+        <paragraph num="2"/>
+        <paragraph num="3"/>
+        <paragraph num="4"><![CDATA[They had been like the prince and princess of pop R&B. So last winter's ugly violence was unbelievable.   The picture that circulated on the internet of Rihanna's face all busted up was almost irreconcilable with her perfect popstar image.  And the idea that sweet-faced Chris Brown could have done that to her?  In the stunned silence that followed, we waited for them to explain themselves.  For months, neither one released any new music.  Now, both of them are back on the radio.  I'm scrutinizing every song and video like a mixtape my crush gave me in tenth grade. Listening for a hidden message in every word.  ]]></paragraph>
+        <paragraph num="5"/>
+        <paragraph num="6"><![CDATA[ Run This Town]]></paragraph>
+        <paragraph num="7"/>
+        <paragraph num="8"><![CDATA[Rihanna came back to the charts late this summer. She headlines Jay Z's single "Run This Town," and she owns the track. In the video, she looks hard, and you can't mess with her.  Rihanna's back, and she's badder than ever. ]]></paragraph>
+        <paragraph num="9"/>
+        <paragraph num="10"><![CDATA[But Chris Brown is back, too. In late September, he released the tight, unapologetic pop song "I Can Transform Ya."]]></paragraph>
+        <paragraph num="11"/>
+        <paragraph num="12"><![CDATA[In the "I Can Transform Ya" video, Brown is dancing, surrounded by his trademark Lamborghinis.  He doesn't smile once as he hammers out the track.  It made me think, "I guess he's forcing himself to move on."  But Rihanna doesn't sound done.]]></paragraph>
+        <paragraph num="13"/>
+        <paragraph num="14"/>
+        <paragraph num="15"><![CDATA[Rihanna's next single was "Russian Roulette."  It is not a love song. It's about surviving an impossible situation.]]></paragraph>
+        <paragraph num="16"/>
+        <paragraph num="17"><![CDATA["You can see my heart beating," Rihanna sings. "You can see it through my chest / that I'm terrified, but I'm not leaving / I know I must pass this test." Then, a gunshot is heard on the track.]]></paragraph>
+        <paragraph num="18"><![CDATA[After that gunshot, the very next day, Brown introduced a love ballad called "Crawl."]]></paragraph>
+        <paragraph num="19"/>
+        <paragraph num="20"/>
+        <paragraph num="21"><![CDATA["Everybody says we're through," he sings, adding, "I hope you haven't said it, too."  OK, so he's not over it.   But I don't know if Brown can do sweet longing anymore.  The pain here isn't sexy; it just sounds like pain.]]></paragraph>
+        <paragraph num="22"><![CDATA[Rihanna and Brown are probably not creating a dialectical mixtape writ large for us all to hear.  But what I do hear in their music is Rihanna saying, "I will not be humiliated by the events of the past year," and Brown replying, "Despite the awful violence you've seen, I want you to think I'm still lovable."]]></paragraph>
+        <paragraph num="23"><![CDATA[That's a complex conversation for the pop charts.]]></paragraph>
+        <paragraph num="24"><![CDATA[  [Copyright 2011 National Public Radio]]]></paragraph>
+      </text>
+    </story>
+    <story id="94778772">
+      <link type="html">http://www.npr.org/templates/story/story.php?storyId=94778772&amp;ft=3&amp;f=</link>
+      <link type="api">http://api.npr.org/query?id=94778772&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+      <title><![CDATA[Super-Smart Noir With A Feminist Jolt]]></title>
+      <audio id="94927892" type="primary">
+        <title/>
+        <duration>427</duration>
+        <description/>
+        <format>
+          <mp3 type="m3u">http://api.npr.org/m3u/194927892-e3d219.m3u?orgId=1&amp;topicId=1032&amp;aggIds=91752774&amp;ft=3&amp;f=</mp3>
+          <wm>http://www.npr.org/templates/dmg/dmg_wmref_em.php?id=94927892&amp;type=1&amp;mtype=WM&amp;orgId=1&amp;topicId=1032&amp;aggIds=91752774&amp;ft=3&amp;f=</wm>
+          <rm>http://www.npr.org/templates/dmg/dmg_rpm.rpm?id=94927892&amp;type=1&amp;mtype=RM&amp;orgId=1&amp;topicId=1032&amp;aggIds=91752774&amp;ft=3&amp;f=</rm>
+        </format>
+        <rightsHolder/>
+        <permissions>
+          <download allow="true"/>
+          <stream allow="true"/>
+          <embed allow="true"/>
+        </permissions>
+      </audio>
+      <text>
+        <paragraph num="1"><![CDATA[The hard-boiled mystery is as American as apple pie ... poisoned apple pie, that is, with a steel file baked into the filling. It's a literary genre that was born on the mean streets of early 20th century Los Angeles and San Francisco, sunlit places where, as the sour saying goes, a person could "rot without feeling it."  ]]></paragraph>
+        <paragraph num="2"><![CDATA[But one of the most intriguing aspects of hard-boiled history is how the form has been enthusiastically embraced by writers outside of the United States as a literary tool to explore the skeletons buried deep in their own particular patches of the world. In fact, for the past decade or so, Sweden has been a popular pick for crime capital of the literary world, thanks to Henning Mankell and his fellow practitioners of noir on ice. ]]></paragraph>
+        <paragraph num="3"><![CDATA[The newest name in mystery to emerge out of the frozen north is that of the late Stieg Larsson. His debut novel, The Girl With the Dragon Tattoo, was a blockbuster when it was published in Europe, selling an estimated 2 million copies. Now, an English language version, translated by Reg Keeland, has just been published here. ]]></paragraph>
+        <paragraph num="4"><![CDATA[A veteran mystery reader could spot the clues to this novel's runaway popularity as easily as Poe's detective, Auguste Dupin, spotted that purloined letter. The Girl With the Dragon Tattoo is a super-smart amalgam of the corporate corruption tale, legal thriller and dysfunctional-family psychological suspense story. It's witty, wrenchingly violent in a few isolated passages and unflinching in its commonsense feminist social commentary. ]]></paragraph>
+        <paragraph num="5"><![CDATA[The social vulnerability of women is the underlying Mystery with a capital "M" here; specifically the abuse — psychological and sexual — that's perpetrated against young and dependent women. Very late in the novel, one of our main characters, a reporter named Mikael Blomkvist, asks a serial murderer whose victims are often female emigrants to Sweden the simple question: "Why?" The monster calmly answers, "Because it's so easy."]]></paragraph>
+        <paragraph num="6"><![CDATA[Clearly, The Girl With the Dragon Tattoo isn't geared toward those readers who favor gentle Agatha Christie cozies, but its plot does consciously bow to Christie and her locked room/isolated island brand of puzzle. Here's the bare-bones summary: Blomkvist is a man down on his luck. He's just been convicted of libeling a corporate mogul and he's been sentenced to a jail term plus hefty fines. ]]></paragraph>
+        <paragraph num="7"><![CDATA[Out of the blue, Blomkvist receives an offer he can't refuse from a rival industrialist. Henrik Vanger is in his 80s and has been tormented for the past 40 years by the mysterious disappearance of his grand-niece Harriet. On the day of Harriet's disappearance, the island where the Vangers lived was blocked off from the mainland by a truck fire on the connecting bridge. How, then, did Harriet, or her corpse, vanish? ]]></paragraph>
+        <paragraph num="8"><![CDATA[What also torments Vanger is the fact that for the next four decades, he's received a disturbing birthday gift in the mail each year — a framed pressed flower — the same gift Harriet would give him when she was young. Vanger tells Blomkvist that if he moves to the island and works for a year re-investigating Harriet's disappearance, he'll receive not only a huge salary, but also inside information that will clear him of the libel charges. ]]></paragraph>
+        <paragraph num="9"><![CDATA[Blomkvist bites. Fortunately, through a turn of events too deliciously complicated to go into here, he's aided in his investigation by a 24-year-old brilliant computer hacker named Lisbeth Salander. Salander is a pierced, tattooed, painfully thin Goth with major attitude problems. She's also the gal pal you want on your side when the creeps slither out from under their rocks. ]]></paragraph>
+        <paragraph num="10"><![CDATA[Larsson's multi-pieced plot snaps together as neatly as an Ikea bookcase, but even more satisfying is the anti-social character of Salander, whose movements are described as "quick and spidery." Certainly the utopian allure of traditional detective fiction had something to do with the omnipotent Sam Spades and Phillip Marlowes who made criminals quake and femme fatales swoon. The liberating fantasy of Salander, at least for this female reader, has something to do with watching a woman operate who doesn't give a darn whether she pleases people or not. ]]></paragraph>
+        <paragraph num="11"><![CDATA[Salander doesn't smile, knock back boilermakers or eat moose burgers. She's not out to win friends or votes. But I'm betting that this offbeat bad girl will win a lot of readers' affections.  [Copyright 2011 National Public Radio]]]></paragraph>
+      </text>
+    </story>
+    <story id="4053100">
+      <link type="html">http://www.npr.org/templates/story/story.php?storyId=4053100&amp;ft=3&amp;f=</link>
+      <link type="api">http://api.npr.org/query?id=4053100&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+      <title><![CDATA[Drawing Conclusions About the Presidential Race]]></title>
+      <audio id="4054263" type="primary">
+        <title>Listen</title>
+        <duration>0</duration>
+        <description/>
+        <format>
+          <mp3 type="m3u">http://api.npr.org/m3u/14054263-3df470.m3u?orgId=1&amp;topicId=1014&amp;ft=3&amp;f=</mp3>
+          <wm>http://www.npr.org/templates/dmg/dmg_wmref_em.php?id=4054263&amp;type=1&amp;mtype=WM&amp;orgId=1&amp;topicId=1014&amp;ft=3&amp;f=</wm>
+          <rm>http://www.npr.org/templates/dmg/dmg_rpm.rpm?id=4054263&amp;type=1&amp;mtype=RM&amp;orgId=1&amp;topicId=1014&amp;ft=3&amp;f=</rm>
+        </format>
+        <rightsHolder/>
+        <permissions>
+          <download allow="true"/>
+          <stream allow="true"/>
+          <embed allow="true"/>
+        </permissions>
+      </audio>
+      <text>
+        <paragraph num="1"><![CDATA[Sen. John Kerry is darned if he does, and darned if he doesn't -- smile, that is. Take it from two people who should know -- political cartoonists Mike Luckovich and Mike Peters. They bring their thoughts, and drawings, to a discussion with NPR's Renee Montagne about the 2004 presidential campaign.]]></paragraph>
+        <paragraph num="2"><![CDATA["As much as I try to draw John Kerry looking happy, he looks like Abe Lincoln right before he went to the theater that night -- it's kind of sad," says Peters of the Dayton Daily News.]]></paragraph>
+        <paragraph num="3"><![CDATA["When he does smile, if he smiles big it looks sort of phoney," says Luckovich of the Atlanta Journal-Constitution. "I kind of feel for the guy because he's sort of stuck. He's probably got all these advisers saying, 'That smile is too big. It looks fake. Just a little less... He's in advanced smile lessons right now."]]></paragraph>
+        <paragraph num="4"><![CDATA[The Pulitzer Prize-winning cartoonists also let their pencils do the talking about unscripted moments by Vice President Dick Cheney and Teresa Heinz Kerry, the Bush-Cheney campaign's fearful rhetoric and Sen. John Edwards' background as a trial lawyer.  [Copyright 2011 National Public Radio]]]></paragraph>
+      </text>
+    </story>
+  </list>
+</nprml>
+<?xml version="1.0" encoding="UTF-8"?>
+<nprml version="0.94">
+  <list>
+    <title><![CDATA[NPR: Stories from NPR]]></title>
+    <teaser><![CDATA[Assorted stories from NPR]]></teaser>
+    <miniTeaser><![CDATA[Custom NPR News Feed API.  Visit http://www.npr.org/templates/apidoc/index.php for more information.]]></miniTeaser>
+    <link type="api">http://api.npr.org/query?searchTerm=%22doesn%27t%20smile%22&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+    <story id="120092101">
+      <link type="html">http://www.npr.org/templates/story/story.php?storyId=120092101&amp;ft=3&amp;f=</link>
+      <link type="api">http://api.npr.org/query?id=120092101&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+      <title><![CDATA[Are We Eavesdropping On Rihanna And Chris Brown?]]></title>
+      <transcript>
+        <link type="api">http://api.npr.org/transcript?id=120092101&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+      </transcript>
+      <audio id="120098823" type="primary">
+        <title/>
+        <duration>234</duration>
+        <description/>
+        <format>
+          <mp3 type="m3u">http://api.npr.org/m3u/1120098823-84c26b.m3u?orgId=1&amp;topicId=1105&amp;ft=3&amp;f=</mp3>
+          <wm>http://www.npr.org/templates/dmg/dmg_wmref_em.php?id=120098823&amp;type=1&amp;mtype=WM&amp;orgId=1&amp;topicId=1105&amp;ft=3&amp;f=</wm>
+          <rm>http://www.npr.org/templates/dmg/dmg_rpm.rpm?id=120098823&amp;type=1&amp;mtype=RM&amp;orgId=1&amp;topicId=1105&amp;ft=3&amp;f=</rm>
+        </format>
+        <rightsHolder/>
+        <permissions>
+          <download allow="true"/>
+          <stream allow="true"/>
+          <embed allow="true"/>
+        </permissions>
+      </audio>
+      <text>
+        <paragraph num="1"><![CDATA[Over the past several months, TV shows have been clamoring to interview the pop singer Rihanna, but to no avail. Back in February, Rihanna's boyfriend, Chris Brown, beat her up as they were heading to perform at the Grammy Awards. In late August, he was sentenced to five years' probation for felony assault. Rihanna will finally talk on TV during Good Morning America Thursday, but it might be possible to pick up on how Brown and Rihanna are doing via their music.   ]]></paragraph>
+        <paragraph num="2"/>
+        <paragraph num="3"/>
+        <paragraph num="4"><![CDATA[They had been like the prince and princess of pop R&B. So last winter's ugly violence was unbelievable.   The picture that circulated on the internet of Rihanna's face all busted up was almost irreconcilable with her perfect popstar image.  And the idea that sweet-faced Chris Brown could have done that to her?  In the stunned silence that followed, we waited for them to explain themselves.  For months, neither one released any new music.  Now, both of them are back on the radio.  I'm scrutinizing every song and video like a mixtape my crush gave me in tenth grade. Listening for a hidden message in every word.  ]]></paragraph>
+        <paragraph num="5"/>
+        <paragraph num="6"><![CDATA[ Run This Town]]></paragraph>
+        <paragraph num="7"/>
+        <paragraph num="8"><![CDATA[Rihanna came back to the charts late this summer. She headlines Jay Z's single "Run This Town," and she owns the track. In the video, she looks hard, and you can't mess with her.  Rihanna's back, and she's badder than ever. ]]></paragraph>
+        <paragraph num="9"/>
+        <paragraph num="10"><![CDATA[But Chris Brown is back, too. In late September, he released the tight, unapologetic pop song "I Can Transform Ya."]]></paragraph>
+        <paragraph num="11"/>
+        <paragraph num="12"><![CDATA[In the "I Can Transform Ya" video, Brown is dancing, surrounded by his trademark Lamborghinis.  He doesn't smile once as he hammers out the track.  It made me think, "I guess he's forcing himself to move on."  But Rihanna doesn't sound done.]]></paragraph>
+        <paragraph num="13"/>
+        <paragraph num="14"/>
+        <paragraph num="15"><![CDATA[Rihanna's next single was "Russian Roulette."  It is not a love song. It's about surviving an impossible situation.]]></paragraph>
+        <paragraph num="16"/>
+        <paragraph num="17"><![CDATA["You can see my heart beating," Rihanna sings. "You can see it through my chest / that I'm terrified, but I'm not leaving / I know I must pass this test." Then, a gunshot is heard on the track.]]></paragraph>
+        <paragraph num="18"><![CDATA[After that gunshot, the very next day, Brown introduced a love ballad called "Crawl."]]></paragraph>
+        <paragraph num="19"/>
+        <paragraph num="20"/>
+        <paragraph num="21"><![CDATA["Everybody says we're through," he sings, adding, "I hope you haven't said it, too."  OK, so he's not over it.   But I don't know if Brown can do sweet longing anymore.  The pain here isn't sexy; it just sounds like pain.]]></paragraph>
+        <paragraph num="22"><![CDATA[Rihanna and Brown are probably not creating a dialectical mixtape writ large for us all to hear.  But what I do hear in their music is Rihanna saying, "I will not be humiliated by the events of the past year," and Brown replying, "Despite the awful violence you've seen, I want you to think I'm still lovable."]]></paragraph>
+        <paragraph num="23"><![CDATA[That's a complex conversation for the pop charts.]]></paragraph>
+        <paragraph num="24"><![CDATA[  [Copyright 2011 National Public Radio]]]></paragraph>
+      </text>
+    </story>
+    <story id="94778772">
+      <link type="html">http://www.npr.org/templates/story/story.php?storyId=94778772&amp;ft=3&amp;f=</link>
+      <link type="api">http://api.npr.org/query?id=94778772&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+      <title><![CDATA[Super-Smart Noir With A Feminist Jolt]]></title>
+      <audio id="94927892" type="primary">
+        <title/>
+        <duration>427</duration>
+        <description/>
+        <format>
+          <mp3 type="m3u">http://api.npr.org/m3u/194927892-e3d219.m3u?orgId=1&amp;topicId=1032&amp;aggIds=91752774&amp;ft=3&amp;f=</mp3>
+          <wm>http://www.npr.org/templates/dmg/dmg_wmref_em.php?id=94927892&amp;type=1&amp;mtype=WM&amp;orgId=1&amp;topicId=1032&amp;aggIds=91752774&amp;ft=3&amp;f=</wm>
+          <rm>http://www.npr.org/templates/dmg/dmg_rpm.rpm?id=94927892&amp;type=1&amp;mtype=RM&amp;orgId=1&amp;topicId=1032&amp;aggIds=91752774&amp;ft=3&amp;f=</rm>
+        </format>
+        <rightsHolder/>
+        <permissions>
+          <download allow="true"/>
+          <stream allow="true"/>
+          <embed allow="true"/>
+        </permissions>
+      </audio>
+      <text>
+        <paragraph num="1"><![CDATA[The hard-boiled mystery is as American as apple pie ... poisoned apple pie, that is, with a steel file baked into the filling. It's a literary genre that was born on the mean streets of early 20th century Los Angeles and San Francisco, sunlit places where, as the sour saying goes, a person could "rot without feeling it."  ]]></paragraph>
+        <paragraph num="2"><![CDATA[But one of the most intriguing aspects of hard-boiled history is how the form has been enthusiastically embraced by writers outside of the United States as a literary tool to explore the skeletons buried deep in their own particular patches of the world. In fact, for the past decade or so, Sweden has been a popular pick for crime capital of the literary world, thanks to Henning Mankell and his fellow practitioners of noir on ice. ]]></paragraph>
+        <paragraph num="3"><![CDATA[The newest name in mystery to emerge out of the frozen north is that of the late Stieg Larsson. His debut novel, The Girl With the Dragon Tattoo, was a blockbuster when it was published in Europe, selling an estimated 2 million copies. Now, an English language version, translated by Reg Keeland, has just been published here. ]]></paragraph>
+        <paragraph num="4"><![CDATA[A veteran mystery reader could spot the clues to this novel's runaway popularity as easily as Poe's detective, Auguste Dupin, spotted that purloined letter. The Girl With the Dragon Tattoo is a super-smart amalgam of the corporate corruption tale, legal thriller and dysfunctional-family psychological suspense story. It's witty, wrenchingly violent in a few isolated passages and unflinching in its commonsense feminist social commentary. ]]></paragraph>
+        <paragraph num="5"><![CDATA[The social vulnerability of women is the underlying Mystery with a capital "M" here; specifically the abuse — psychological and sexual — that's perpetrated against young and dependent women. Very late in the novel, one of our main characters, a reporter named Mikael Blomkvist, asks a serial murderer whose victims are often female emigrants to Sweden the simple question: "Why?" The monster calmly answers, "Because it's so easy."]]></paragraph>
+        <paragraph num="6"><![CDATA[Clearly, The Girl With the Dragon Tattoo isn't geared toward those readers who favor gentle Agatha Christie cozies, but its plot does consciously bow to Christie and her locked room/isolated island brand of puzzle. Here's the bare-bones summary: Blomkvist is a man down on his luck. He's just been convicted of libeling a corporate mogul and he's been sentenced to a jail term plus hefty fines. ]]></paragraph>
+        <paragraph num="7"><![CDATA[Out of the blue, Blomkvist receives an offer he can't refuse from a rival industrialist. Henrik Vanger is in his 80s and has been tormented for the past 40 years by the mysterious disappearance of his grand-niece Harriet. On the day of Harriet's disappearance, the island where the Vangers lived was blocked off from the mainland by a truck fire on the connecting bridge. How, then, did Harriet, or her corpse, vanish? ]]></paragraph>
+        <paragraph num="8"><![CDATA[What also torments Vanger is the fact that for the next four decades, he's received a disturbing birthday gift in the mail each year — a framed pressed flower — the same gift Harriet would give him when she was young. Vanger tells Blomkvist that if he moves to the island and works for a year re-investigating Harriet's disappearance, he'll receive not only a huge salary, but also inside information that will clear him of the libel charges. ]]></paragraph>
+        <paragraph num="9"><![CDATA[Blomkvist bites. Fortunately, through a turn of events too deliciously complicated to go into here, he's aided in his investigation by a 24-year-old brilliant computer hacker named Lisbeth Salander. Salander is a pierced, tattooed, painfully thin Goth with major attitude problems. She's also the gal pal you want on your side when the creeps slither out from under their rocks. ]]></paragraph>
+        <paragraph num="10"><![CDATA[Larsson's multi-pieced plot snaps together as neatly as an Ikea bookcase, but even more satisfying is the anti-social character of Salander, whose movements are described as "quick and spidery." Certainly the utopian allure of traditional detective fiction had something to do with the omnipotent Sam Spades and Phillip Marlowes who made criminals quake and femme fatales swoon. The liberating fantasy of Salander, at least for this female reader, has something to do with watching a woman operate who doesn't give a darn whether she pleases people or not. ]]></paragraph>
+        <paragraph num="11"><![CDATA[Salander doesn't smile, knock back boilermakers or eat moose burgers. She's not out to win friends or votes. But I'm betting that this offbeat bad girl will win a lot of readers' affections.  [Copyright 2011 National Public Radio]]]></paragraph>
+      </text>
+    </story>
+    <story id="4053100">
+      <link type="html">http://www.npr.org/templates/story/story.php?storyId=4053100&amp;ft=3&amp;f=</link>
+      <link type="api">http://api.npr.org/query?id=4053100&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+      <title><![CDATA[Drawing Conclusions About the Presidential Race]]></title>
+      <audio id="4054263" type="primary">
+        <title>Listen</title>
+        <duration>0</duration>
+        <description/>
+        <format>
+          <mp3 type="m3u">http://api.npr.org/m3u/14054263-3df470.m3u?orgId=1&amp;topicId=1014&amp;ft=3&amp;f=</mp3>
+          <wm>http://www.npr.org/templates/dmg/dmg_wmref_em.php?id=4054263&amp;type=1&amp;mtype=WM&amp;orgId=1&amp;topicId=1014&amp;ft=3&amp;f=</wm>
+          <rm>http://www.npr.org/templates/dmg/dmg_rpm.rpm?id=4054263&amp;type=1&amp;mtype=RM&amp;orgId=1&amp;topicId=1014&amp;ft=3&amp;f=</rm>
+        </format>
+        <rightsHolder/>
+        <permissions>
+          <download allow="true"/>
+          <stream allow="true"/>
+          <embed allow="true"/>
+        </permissions>
+      </audio>
+      <text>
+        <paragraph num="1"><![CDATA[Sen. John Kerry is darned if he does, and darned if he doesn't -- smile, that is. Take it from two people who should know -- political cartoonists Mike Luckovich and Mike Peters. They bring their thoughts, and drawings, to a discussion with NPR's Renee Montagne about the 2004 presidential campaign.]]></paragraph>
+        <paragraph num="2"><![CDATA["As much as I try to draw John Kerry looking happy, he looks like Abe Lincoln right before he went to the theater that night -- it's kind of sad," says Peters of the Dayton Daily News.]]></paragraph>
+        <paragraph num="3"><![CDATA["When he does smile, if he smiles big it looks sort of phoney," says Luckovich of the Atlanta Journal-Constitution. "I kind of feel for the guy because he's sort of stuck. He's probably got all these advisers saying, 'That smile is too big. It looks fake. Just a little less... He's in advanced smile lessons right now."]]></paragraph>
+        <paragraph num="4"><![CDATA[The Pulitzer Prize-winning cartoonists also let their pencils do the talking about unscripted moments by Vice President Dick Cheney and Teresa Heinz Kerry, the Bush-Cheney campaign's fearful rhetoric and Sen. John Edwards' background as a trial lawyer.  [Copyright 2011 National Public Radio]]]></paragraph>
+      </text>
+    </story>
+  </list>
+</nprml>
+<?xml version="1.0" encoding="UTF-8"?>
+<nprml version="0.94">
+  <list>
+    <title><![CDATA[NPR: Stories from NPR]]></title>
+    <teaser><![CDATA[Assorted stories from NPR]]></teaser>
+    <miniTeaser><![CDATA[Custom NPR News Feed API.  Visit http://www.npr.org/templates/apidoc/index.php for more information.]]></miniTeaser>
+    <link type="api">http://api.npr.org/query?searchTerm=%22doesn%27t%20smile%22&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+    <story id="120092101">
+      <link type="html">http://www.npr.org/templates/story/story.php?storyId=120092101&amp;ft=3&amp;f=</link>
+      <link type="api">http://api.npr.org/query?id=120092101&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+      <title><![CDATA[Are We Eavesdropping On Rihanna And Chris Brown?]]></title>
+      <transcript>
+        <link type="api">http://api.npr.org/transcript?id=120092101&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+      </transcript>
+      <audio id="120098823" type="primary">
+        <title/>
+        <duration>234</duration>
+        <description/>
+        <format>
+          <mp3 type="m3u">http://api.npr.org/m3u/1120098823-84c26b.m3u?orgId=1&amp;topicId=1105&amp;ft=3&amp;f=</mp3>
+          <wm>http://www.npr.org/templates/dmg/dmg_wmref_em.php?id=120098823&amp;type=1&amp;mtype=WM&amp;orgId=1&amp;topicId=1105&amp;ft=3&amp;f=</wm>
+          <rm>http://www.npr.org/templates/dmg/dmg_rpm.rpm?id=120098823&amp;type=1&amp;mtype=RM&amp;orgId=1&amp;topicId=1105&amp;ft=3&amp;f=</rm>
+        </format>
+        <rightsHolder/>
+        <permissions>
+          <download allow="true"/>
+          <stream allow="true"/>
+          <embed allow="true"/>
+        </permissions>
+      </audio>
+      <text>
+        <paragraph num="1"><![CDATA[Over the past several months, TV shows have been clamoring to interview the pop singer Rihanna, but to no avail. Back in February, Rihanna's boyfriend, Chris Brown, beat her up as they were heading to perform at the Grammy Awards. In late August, he was sentenced to five years' probation for felony assault. Rihanna will finally talk on TV during Good Morning America Thursday, but it might be possible to pick up on how Brown and Rihanna are doing via their music.   ]]></paragraph>
+        <paragraph num="2"/>
+        <paragraph num="3"/>
+        <paragraph num="4"><![CDATA[They had been like the prince and princess of pop R&B. So last winter's ugly violence was unbelievable.   The picture that circulated on the internet of Rihanna's face all busted up was almost irreconcilable with her perfect popstar image.  And the idea that sweet-faced Chris Brown could have done that to her?  In the stunned silence that followed, we waited for them to explain themselves.  For months, neither one released any new music.  Now, both of them are back on the radio.  I'm scrutinizing every song and video like a mixtape my crush gave me in tenth grade. Listening for a hidden message in every word.  ]]></paragraph>
+        <paragraph num="5"/>
+        <paragraph num="6"><![CDATA[ Run This Town]]></paragraph>
+        <paragraph num="7"/>
+        <paragraph num="8"><![CDATA[Rihanna came back to the charts late this summer. She headlines Jay Z's single "Run This Town," and she owns the track. In the video, she looks hard, and you can't mess with her.  Rihanna's back, and she's badder than ever. ]]></paragraph>
+        <paragraph num="9"/>
+        <paragraph num="10"><![CDATA[But Chris Brown is back, too. In late September, he released the tight, unapologetic pop song "I Can Transform Ya."]]></paragraph>
+        <paragraph num="11"/>
+        <paragraph num="12"><![CDATA[In the "I Can Transform Ya" video, Brown is dancing, surrounded by his trademark Lamborghinis.  He doesn't smile once as he hammers out the track.  It made me think, "I guess he's forcing himself to move on."  But Rihanna doesn't sound done.]]></paragraph>
+        <paragraph num="13"/>
+        <paragraph num="14"/>
+        <paragraph num="15"><![CDATA[Rihanna's next single was "Russian Roulette."  It is not a love song. It's about surviving an impossible situation.]]></paragraph>
+        <paragraph num="16"/>
+        <paragraph num="17"><![CDATA["You can see my heart beating," Rihanna sings. "You can see it through my chest / that I'm terrified, but I'm not leaving / I know I must pass this test." Then, a gunshot is heard on the track.]]></paragraph>
+        <paragraph num="18"><![CDATA[After that gunshot, the very next day, Brown introduced a love ballad called "Crawl."]]></paragraph>
+        <paragraph num="19"/>
+        <paragraph num="20"/>
+        <paragraph num="21"><![CDATA["Everybody says we're through," he sings, adding, "I hope you haven't said it, too."  OK, so he's not over it.   But I don't know if Brown can do sweet longing anymore.  The pain here isn't sexy; it just sounds like pain.]]></paragraph>
+        <paragraph num="22"><![CDATA[Rihanna and Brown are probably not creating a dialectical mixtape writ large for us all to hear.  But what I do hear in their music is Rihanna saying, "I will not be humiliated by the events of the past year," and Brown replying, "Despite the awful violence you've seen, I want you to think I'm still lovable."]]></paragraph>
+        <paragraph num="23"><![CDATA[That's a complex conversation for the pop charts.]]></paragraph>
+        <paragraph num="24"><![CDATA[  [Copyright 2011 National Public Radio]]]></paragraph>
+      </text>
+    </story>
+    <story id="94778772">
+      <link type="html">http://www.npr.org/templates/story/story.php?storyId=94778772&amp;ft=3&amp;f=</link>
+      <link type="api">http://api.npr.org/query?id=94778772&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+      <title><![CDATA[Super-Smart Noir With A Feminist Jolt]]></title>
+      <audio id="94927892" type="primary">
+        <title/>
+        <duration>427</duration>
+        <description/>
+        <format>
+          <mp3 type="m3u">http://api.npr.org/m3u/194927892-e3d219.m3u?orgId=1&amp;topicId=1032&amp;aggIds=91752774&amp;ft=3&amp;f=</mp3>
+          <wm>http://www.npr.org/templates/dmg/dmg_wmref_em.php?id=94927892&amp;type=1&amp;mtype=WM&amp;orgId=1&amp;topicId=1032&amp;aggIds=91752774&amp;ft=3&amp;f=</wm>
+          <rm>http://www.npr.org/templates/dmg/dmg_rpm.rpm?id=94927892&amp;type=1&amp;mtype=RM&amp;orgId=1&amp;topicId=1032&amp;aggIds=91752774&amp;ft=3&amp;f=</rm>
+        </format>
+        <rightsHolder/>
+        <permissions>
+          <download allow="true"/>
+          <stream allow="true"/>
+          <embed allow="true"/>
+        </permissions>
+      </audio>
+      <text>
+        <paragraph num="1"><![CDATA[The hard-boiled mystery is as American as apple pie ... poisoned apple pie, that is, with a steel file baked into the filling. It's a literary genre that was born on the mean streets of early 20th century Los Angeles and San Francisco, sunlit places where, as the sour saying goes, a person could "rot without feeling it."  ]]></paragraph>
+        <paragraph num="2"><![CDATA[But one of the most intriguing aspects of hard-boiled history is how the form has been enthusiastically embraced by writers outside of the United States as a literary tool to explore the skeletons buried deep in their own particular patches of the world. In fact, for the past decade or so, Sweden has been a popular pick for crime capital of the literary world, thanks to Henning Mankell and his fellow practitioners of noir on ice. ]]></paragraph>
+        <paragraph num="3"><![CDATA[The newest name in mystery to emerge out of the frozen north is that of the late Stieg Larsson. His debut novel, The Girl With the Dragon Tattoo, was a blockbuster when it was published in Europe, selling an estimated 2 million copies. Now, an English language version, translated by Reg Keeland, has just been published here. ]]></paragraph>
+        <paragraph num="4"><![CDATA[A veteran mystery reader could spot the clues to this novel's runaway popularity as easily as Poe's detective, Auguste Dupin, spotted that purloined letter. The Girl With the Dragon Tattoo is a super-smart amalgam of the corporate corruption tale, legal thriller and dysfunctional-family psychological suspense story. It's witty, wrenchingly violent in a few isolated passages and unflinching in its commonsense feminist social commentary. ]]></paragraph>
+        <paragraph num="5"><![CDATA[The social vulnerability of women is the underlying Mystery with a capital "M" here; specifically the abuse — psychological and sexual — that's perpetrated against young and dependent women. Very late in the novel, one of our main characters, a reporter named Mikael Blomkvist, asks a serial murderer whose victims are often female emigrants to Sweden the simple question: "Why?" The monster calmly answers, "Because it's so easy."]]></paragraph>
+        <paragraph num="6"><![CDATA[Clearly, The Girl With the Dragon Tattoo isn't geared toward those readers who favor gentle Agatha Christie cozies, but its plot does consciously bow to Christie and her locked room/isolated island brand of puzzle. Here's the bare-bones summary: Blomkvist is a man down on his luck. He's just been convicted of libeling a corporate mogul and he's been sentenced to a jail term plus hefty fines. ]]></paragraph>
+        <paragraph num="7"><![CDATA[Out of the blue, Blomkvist receives an offer he can't refuse from a rival industrialist. Henrik Vanger is in his 80s and has been tormented for the past 40 years by the mysterious disappearance of his grand-niece Harriet. On the day of Harriet's disappearance, the island where the Vangers lived was blocked off from the mainland by a truck fire on the connecting bridge. How, then, did Harriet, or her corpse, vanish? ]]></paragraph>
+        <paragraph num="8"><![CDATA[What also torments Vanger is the fact that for the next four decades, he's received a disturbing birthday gift in the mail each year — a framed pressed flower — the same gift Harriet would give him when she was young. Vanger tells Blomkvist that if he moves to the island and works for a year re-investigating Harriet's disappearance, he'll receive not only a huge salary, but also inside information that will clear him of the libel charges. ]]></paragraph>
+        <paragraph num="9"><![CDATA[Blomkvist bites. Fortunately, through a turn of events too deliciously complicated to go into here, he's aided in his investigation by a 24-year-old brilliant computer hacker named Lisbeth Salander. Salander is a pierced, tattooed, painfully thin Goth with major attitude problems. She's also the gal pal you want on your side when the creeps slither out from under their rocks. ]]></paragraph>
+        <paragraph num="10"><![CDATA[Larsson's multi-pieced plot snaps together as neatly as an Ikea bookcase, but even more satisfying is the anti-social character of Salander, whose movements are described as "quick and spidery." Certainly the utopian allure of traditional detective fiction had something to do with the omnipotent Sam Spades and Phillip Marlowes who made criminals quake and femme fatales swoon. The liberating fantasy of Salander, at least for this female reader, has something to do with watching a woman operate who doesn't give a darn whether she pleases people or not. ]]></paragraph>
+        <paragraph num="11"><![CDATA[Salander doesn't smile, knock back boilermakers or eat moose burgers. She's not out to win friends or votes. But I'm betting that this offbeat bad girl will win a lot of readers' affections.  [Copyright 2011 National Public Radio]]]></paragraph>
+      </text>
+    </story>
+    <story id="4053100">
+      <link type="html">http://www.npr.org/templates/story/story.php?storyId=4053100&amp;ft=3&amp;f=</link>
+      <link type="api">http://api.npr.org/query?id=4053100&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+      <title><![CDATA[Drawing Conclusions About the Presidential Race]]></title>
+      <audio id="4054263" type="primary">
+        <title>Listen</title>
+        <duration>0</duration>
+        <description/>
+        <format>
+          <mp3 type="m3u">http://api.npr.org/m3u/14054263-3df470.m3u?orgId=1&amp;topicId=1014&amp;ft=3&amp;f=</mp3>
+          <wm>http://www.npr.org/templates/dmg/dmg_wmref_em.php?id=4054263&amp;type=1&amp;mtype=WM&amp;orgId=1&amp;topicId=1014&amp;ft=3&amp;f=</wm>
+          <rm>http://www.npr.org/templates/dmg/dmg_rpm.rpm?id=4054263&amp;type=1&amp;mtype=RM&amp;orgId=1&amp;topicId=1014&amp;ft=3&amp;f=</rm>
+        </format>
+        <rightsHolder/>
+        <permissions>
+          <download allow="true"/>
+          <stream allow="true"/>
+          <embed allow="true"/>
+        </permissions>
+      </audio>
+      <text>
+        <paragraph num="1"><![CDATA[Sen. John Kerry is darned if he does, and darned if he doesn't -- smile, that is. Take it from two people who should know -- political cartoonists Mike Luckovich and Mike Peters. They bring their thoughts, and drawings, to a discussion with NPR's Renee Montagne about the 2004 presidential campaign.]]></paragraph>
+        <paragraph num="2"><![CDATA["As much as I try to draw John Kerry looking happy, he looks like Abe Lincoln right before he went to the theater that night -- it's kind of sad," says Peters of the Dayton Daily News.]]></paragraph>
+        <paragraph num="3"><![CDATA["When he does smile, if he smiles big it looks sort of phoney," says Luckovich of the Atlanta Journal-Constitution. "I kind of feel for the guy because he's sort of stuck. He's probably got all these advisers saying, 'That smile is too big. It looks fake. Just a little less... He's in advanced smile lessons right now."]]></paragraph>
+        <paragraph num="4"><![CDATA[The Pulitzer Prize-winning cartoonists also let their pencils do the talking about unscripted moments by Vice President Dick Cheney and Teresa Heinz Kerry, the Bush-Cheney campaign's fearful rhetoric and Sen. John Edwards' background as a trial lawyer.  [Copyright 2011 National Public Radio]]]></paragraph>
+      </text>
+    </story>
+  </list>
+</nprml>
+<?xml version="1.0" encoding="UTF-8"?>
+<nprml version="0.94">
+  <list>
+    <title><![CDATA[NPR: Stories from NPR]]></title>
+    <teaser><![CDATA[Assorted stories from NPR]]></teaser>
+    <miniTeaser><![CDATA[Custom NPR News Feed API.  Visit http://www.npr.org/templates/apidoc/index.php for more information.]]></miniTeaser>
+    <link type="api">http://api.npr.org/query?searchTerm=%22doesn%27t%20smile%22&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+    <story id="120092101">
+      <link type="html">http://www.npr.org/templates/story/story.php?storyId=120092101&amp;ft=3&amp;f=</link>
+      <link type="api">http://api.npr.org/query?id=120092101&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+      <title><![CDATA[Are We Eavesdropping On Rihanna And Chris Brown?]]></title>
+      <transcript>
+        <link type="api">http://api.npr.org/transcript?id=120092101&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+      </transcript>
+      <audio id="120098823" type="primary">
+        <title/>
+        <duration>234</duration>
+        <description/>
+        <format>
+          <mp3 type="m3u">http://api.npr.org/m3u/1120098823-84c26b.m3u?orgId=1&amp;topicId=1105&amp;ft=3&amp;f=</mp3>
+          <wm>http://www.npr.org/templates/dmg/dmg_wmref_em.php?id=120098823&amp;type=1&amp;mtype=WM&amp;orgId=1&amp;topicId=1105&amp;ft=3&amp;f=</wm>
+          <rm>http://www.npr.org/templates/dmg/dmg_rpm.rpm?id=120098823&amp;type=1&amp;mtype=RM&amp;orgId=1&amp;topicId=1105&amp;ft=3&amp;f=</rm>
+        </format>
+        <rightsHolder/>
+        <permissions>
+          <download allow="true"/>
+          <stream allow="true"/>
+          <embed allow="true"/>
+        </permissions>
+      </audio>
+      <text>
+        <paragraph num="1"><![CDATA[Over the past several months, TV shows have been clamoring to interview the pop singer Rihanna, but to no avail. Back in February, Rihanna's boyfriend, Chris Brown, beat her up as they were heading to perform at the Grammy Awards. In late August, he was sentenced to five years' probation for felony assault. Rihanna will finally talk on TV during Good Morning America Thursday, but it might be possible to pick up on how Brown and Rihanna are doing via their music.   ]]></paragraph>
+        <paragraph num="2"/>
+        <paragraph num="3"/>
+        <paragraph num="4"><![CDATA[They had been like the prince and princess of pop R&B. So last winter's ugly violence was unbelievable.   The picture that circulated on the internet of Rihanna's face all busted up was almost irreconcilable with her perfect popstar image.  And the idea that sweet-faced Chris Brown could have done that to her?  In the stunned silence that followed, we waited for them to explain themselves.  For months, neither one released any new music.  Now, both of them are back on the radio.  I'm scrutinizing every song and video like a mixtape my crush gave me in tenth grade. Listening for a hidden message in every word.  ]]></paragraph>
+        <paragraph num="5"/>
+        <paragraph num="6"><![CDATA[ Run This Town]]></paragraph>
+        <paragraph num="7"/>
+        <paragraph num="8"><![CDATA[Rihanna came back to the charts late this summer. She headlines Jay Z's single "Run This Town," and she owns the track. In the video, she looks hard, and you can't mess with her.  Rihanna's back, and she's badder than ever. ]]></paragraph>
+        <paragraph num="9"/>
+        <paragraph num="10"><![CDATA[But Chris Brown is back, too. In late September, he released the tight, unapologetic pop song "I Can Transform Ya."]]></paragraph>
+        <paragraph num="11"/>
+        <paragraph num="12"><![CDATA[In the "I Can Transform Ya" video, Brown is dancing, surrounded by his trademark Lamborghinis.  He doesn't smile once as he hammers out the track.  It made me think, "I guess he's forcing himself to move on."  But Rihanna doesn't sound done.]]></paragraph>
+        <paragraph num="13"/>
+        <paragraph num="14"/>
+        <paragraph num="15"><![CDATA[Rihanna's next single was "Russian Roulette."  It is not a love song. It's about surviving an impossible situation.]]></paragraph>
+        <paragraph num="16"/>
+        <paragraph num="17"><![CDATA["You can see my heart beating," Rihanna sings. "You can see it through my chest / that I'm terrified, but I'm not leaving / I know I must pass this test." Then, a gunshot is heard on the track.]]></paragraph>
+        <paragraph num="18"><![CDATA[After that gunshot, the very next day, Brown introduced a love ballad called "Crawl."]]></paragraph>
+        <paragraph num="19"/>
+        <paragraph num="20"/>
+        <paragraph num="21"><![CDATA["Everybody says we're through," he sings, adding, "I hope you haven't said it, too."  OK, so he's not over it.   But I don't know if Brown can do sweet longing anymore.  The pain here isn't sexy; it just sounds like pain.]]></paragraph>
+        <paragraph num="22"><![CDATA[Rihanna and Brown are probably not creating a dialectical mixtape writ large for us all to hear.  But what I do hear in their music is Rihanna saying, "I will not be humiliated by the events of the past year," and Brown replying, "Despite the awful violence you've seen, I want you to think I'm still lovable."]]></paragraph>
+        <paragraph num="23"><![CDATA[That's a complex conversation for the pop charts.]]></paragraph>
+        <paragraph num="24"><![CDATA[  [Copyright 2011 National Public Radio]]]></paragraph>
+      </text>
+    </story>
+    <story id="94778772">
+      <link type="html">http://www.npr.org/templates/story/story.php?storyId=94778772&amp;ft=3&amp;f=</link>
+      <link type="api">http://api.npr.org/query?id=94778772&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+      <title><![CDATA[Super-Smart Noir With A Feminist Jolt]]></title>
+      <audio id="94927892" type="primary">
+        <title/>
+        <duration>427</duration>
+        <description/>
+        <format>
+          <mp3 type="m3u">http://api.npr.org/m3u/194927892-e3d219.m3u?orgId=1&amp;topicId=1032&amp;aggIds=91752774&amp;ft=3&amp;f=</mp3>
+          <wm>http://www.npr.org/templates/dmg/dmg_wmref_em.php?id=94927892&amp;type=1&amp;mtype=WM&amp;orgId=1&amp;topicId=1032&amp;aggIds=91752774&amp;ft=3&amp;f=</wm>
+          <rm>http://www.npr.org/templates/dmg/dmg_rpm.rpm?id=94927892&amp;type=1&amp;mtype=RM&amp;orgId=1&amp;topicId=1032&amp;aggIds=91752774&amp;ft=3&amp;f=</rm>
+        </format>
+        <rightsHolder/>
+        <permissions>
+          <download allow="true"/>
+          <stream allow="true"/>
+          <embed allow="true"/>
+        </permissions>
+      </audio>
+      <text>
+        <paragraph num="1"><![CDATA[The hard-boiled mystery is as American as apple pie ... poisoned apple pie, that is, with a steel file baked into the filling. It's a literary genre that was born on the mean streets of early 20th century Los Angeles and San Francisco, sunlit places where, as the sour saying goes, a person could "rot without feeling it."  ]]></paragraph>
+        <paragraph num="2"><![CDATA[But one of the most intriguing aspects of hard-boiled history is how the form has been enthusiastically embraced by writers outside of the United States as a literary tool to explore the skeletons buried deep in their own particular patches of the world. In fact, for the past decade or so, Sweden has been a popular pick for crime capital of the literary world, thanks to Henning Mankell and his fellow practitioners of noir on ice. ]]></paragraph>
+        <paragraph num="3"><![CDATA[The newest name in mystery to emerge out of the frozen north is that of the late Stieg Larsson. His debut novel, The Girl With the Dragon Tattoo, was a blockbuster when it was published in Europe, selling an estimated 2 million copies. Now, an English language version, translated by Reg Keeland, has just been published here. ]]></paragraph>
+        <paragraph num="4"><![CDATA[A veteran mystery reader could spot the clues to this novel's runaway popularity as easily as Poe's detective, Auguste Dupin, spotted that purloined letter. The Girl With the Dragon Tattoo is a super-smart amalgam of the corporate corruption tale, legal thriller and dysfunctional-family psychological suspense story. It's witty, wrenchingly violent in a few isolated passages and unflinching in its commonsense feminist social commentary. ]]></paragraph>
+        <paragraph num="5"><![CDATA[The social vulnerability of women is the underlying Mystery with a capital "M" here; specifically the abuse — psychological and sexual — that's perpetrated against young and dependent women. Very late in the novel, one of our main characters, a reporter named Mikael Blomkvist, asks a serial murderer whose victims are often female emigrants to Sweden the simple question: "Why?" The monster calmly answers, "Because it's so easy."]]></paragraph>
+        <paragraph num="6"><![CDATA[Clearly, The Girl With the Dragon Tattoo isn't geared toward those readers who favor gentle Agatha Christie cozies, but its plot does consciously bow to Christie and her locked room/isolated island brand of puzzle. Here's the bare-bones summary: Blomkvist is a man down on his luck. He's just been convicted of libeling a corporate mogul and he's been sentenced to a jail term plus hefty fines. ]]></paragraph>
+        <paragraph num="7"><![CDATA[Out of the blue, Blomkvist receives an offer he can't refuse from a rival industrialist. Henrik Vanger is in his 80s and has been tormented for the past 40 years by the mysterious disappearance of his grand-niece Harriet. On the day of Harriet's disappearance, the island where the Vangers lived was blocked off from the mainland by a truck fire on the connecting bridge. How, then, did Harriet, or her corpse, vanish? ]]></paragraph>
+        <paragraph num="8"><![CDATA[What also torments Vanger is the fact that for the next four decades, he's received a disturbing birthday gift in the mail each year — a framed pressed flower — the same gift Harriet would give him when she was young. Vanger tells Blomkvist that if he moves to the island and works for a year re-investigating Harriet's disappearance, he'll receive not only a huge salary, but also inside information that will clear him of the libel charges. ]]></paragraph>
+        <paragraph num="9"><![CDATA[Blomkvist bites. Fortunately, through a turn of events too deliciously complicated to go into here, he's aided in his investigation by a 24-year-old brilliant computer hacker named Lisbeth Salander. Salander is a pierced, tattooed, painfully thin Goth with major attitude problems. She's also the gal pal you want on your side when the creeps slither out from under their rocks. ]]></paragraph>
+        <paragraph num="10"><![CDATA[Larsson's multi-pieced plot snaps together as neatly as an Ikea bookcase, but even more satisfying is the anti-social character of Salander, whose movements are described as "quick and spidery." Certainly the utopian allure of traditional detective fiction had something to do with the omnipotent Sam Spades and Phillip Marlowes who made criminals quake and femme fatales swoon. The liberating fantasy of Salander, at least for this female reader, has something to do with watching a woman operate who doesn't give a darn whether she pleases people or not. ]]></paragraph>
+        <paragraph num="11"><![CDATA[Salander doesn't smile, knock back boilermakers or eat moose burgers. She's not out to win friends or votes. But I'm betting that this offbeat bad girl will win a lot of readers' affections.  [Copyright 2011 National Public Radio]]]></paragraph>
+      </text>
+    </story>
+    <story id="4053100">
+      <link type="html">http://www.npr.org/templates/story/story.php?storyId=4053100&amp;ft=3&amp;f=</link>
+      <link type="api">http://api.npr.org/query?id=4053100&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+      <title><![CDATA[Drawing Conclusions About the Presidential Race]]></title>
+      <audio id="4054263" type="primary">
+        <title>Listen</title>
+        <duration>0</duration>
+        <description/>
+        <format>
+          <mp3 type="m3u">http://api.npr.org/m3u/14054263-3df470.m3u?orgId=1&amp;topicId=1014&amp;ft=3&amp;f=</mp3>
+          <wm>http://www.npr.org/templates/dmg/dmg_wmref_em.php?id=4054263&amp;type=1&amp;mtype=WM&amp;orgId=1&amp;topicId=1014&amp;ft=3&amp;f=</wm>
+          <rm>http://www.npr.org/templates/dmg/dmg_rpm.rpm?id=4054263&amp;type=1&amp;mtype=RM&amp;orgId=1&amp;topicId=1014&amp;ft=3&amp;f=</rm>
+        </format>
+        <rightsHolder/>
+        <permissions>
+          <download allow="true"/>
+          <stream allow="true"/>
+          <embed allow="true"/>
+        </permissions>
+      </audio>
+      <text>
+        <paragraph num="1"><![CDATA[Sen. John Kerry is darned if he does, and darned if he doesn't -- smile, that is. Take it from two people who should know -- political cartoonists Mike Luckovich and Mike Peters. They bring their thoughts, and drawings, to a discussion with NPR's Renee Montagne about the 2004 presidential campaign.]]></paragraph>
+        <paragraph num="2"><![CDATA["As much as I try to draw John Kerry looking happy, he looks like Abe Lincoln right before he went to the theater that night -- it's kind of sad," says Peters of the Dayton Daily News.]]></paragraph>
+        <paragraph num="3"><![CDATA["When he does smile, if he smiles big it looks sort of phoney," says Luckovich of the Atlanta Journal-Constitution. "I kind of feel for the guy because he's sort of stuck. He's probably got all these advisers saying, 'That smile is too big. It looks fake. Just a little less... He's in advanced smile lessons right now."]]></paragraph>
+        <paragraph num="4"><![CDATA[The Pulitzer Prize-winning cartoonists also let their pencils do the talking about unscripted moments by Vice President Dick Cheney and Teresa Heinz Kerry, the Bush-Cheney campaign's fearful rhetoric and Sen. John Edwards' background as a trial lawyer.  [Copyright 2011 National Public Radio]]]></paragraph>
+      </text>
+    </story>
+  </list>
+</nprml>
+<?xml version="1.0" encoding="UTF-8"?>
+<nprml version="0.94">
+  <list>
+    <title><![CDATA[NPR: Stories from NPR]]></title>
+    <teaser><![CDATA[Assorted stories from NPR]]></teaser>
+    <miniTeaser><![CDATA[Custom NPR News Feed API.  Visit http://www.npr.org/templates/apidoc/index.php for more information.]]></miniTeaser>
+    <link type="api">http://api.npr.org/query?searchTerm=%22doesn%27t%20smile%22&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+    <story id="120092101">
+      <link type="html">http://www.npr.org/templates/story/story.php?storyId=120092101&amp;ft=3&amp;f=</link>
+      <link type="api">http://api.npr.org/query?id=120092101&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+      <title><![CDATA[Are We Eavesdropping On Rihanna And Chris Brown?]]></title>
+      <transcript>
+        <link type="api">http://api.npr.org/transcript?id=120092101&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+      </transcript>
+      <audio id="120098823" type="primary">
+        <title/>
+        <duration>234</duration>
+        <description/>
+        <format>
+          <mp3 type="m3u">http://api.npr.org/m3u/1120098823-84c26b.m3u?orgId=1&amp;topicId=1105&amp;ft=3&amp;f=</mp3>
+          <wm>http://www.npr.org/templates/dmg/dmg_wmref_em.php?id=120098823&amp;type=1&amp;mtype=WM&amp;orgId=1&amp;topicId=1105&amp;ft=3&amp;f=</wm>
+          <rm>http://www.npr.org/templates/dmg/dmg_rpm.rpm?id=120098823&amp;type=1&amp;mtype=RM&amp;orgId=1&amp;topicId=1105&amp;ft=3&amp;f=</rm>
+        </format>
+        <rightsHolder/>
+        <permissions>
+          <download allow="true"/>
+          <stream allow="true"/>
+          <embed allow="true"/>
+        </permissions>
+      </audio>
+      <text>
+        <paragraph num="1"><![CDATA[Over the past several months, TV shows have been clamoring to interview the pop singer Rihanna, but to no avail. Back in February, Rihanna's boyfriend, Chris Brown, beat her up as they were heading to perform at the Grammy Awards. In late August, he was sentenced to five years' probation for felony assault. Rihanna will finally talk on TV during Good Morning America Thursday, but it might be possible to pick up on how Brown and Rihanna are doing via their music.   ]]></paragraph>
+        <paragraph num="2"/>
+        <paragraph num="3"/>
+        <paragraph num="4"><![CDATA[They had been like the prince and princess of pop R&B. So last winter's ugly violence was unbelievable.   The picture that circulated on the internet of Rihanna's face all busted up was almost irreconcilable with her perfect popstar image.  And the idea that sweet-faced Chris Brown could have done that to her?  In the stunned silence that followed, we waited for them to explain themselves.  For months, neither one released any new music.  Now, both of them are back on the radio.  I'm scrutinizing every song and video like a mixtape my crush gave me in tenth grade. Listening for a hidden message in every word.  ]]></paragraph>
+        <paragraph num="5"/>
+        <paragraph num="6"><![CDATA[ Run This Town]]></paragraph>
+        <paragraph num="7"/>
+        <paragraph num="8"><![CDATA[Rihanna came back to the charts late this summer. She headlines Jay Z's single "Run This Town," and she owns the track. In the video, she looks hard, and you can't mess with her.  Rihanna's back, and she's badder than ever. ]]></paragraph>
+        <paragraph num="9"/>
+        <paragraph num="10"><![CDATA[But Chris Brown is back, too. In late September, he released the tight, unapologetic pop song "I Can Transform Ya."]]></paragraph>
+        <paragraph num="11"/>
+        <paragraph num="12"><![CDATA[In the "I Can Transform Ya" video, Brown is dancing, surrounded by his trademark Lamborghinis.  He doesn't smile once as he hammers out the track.  It made me think, "I guess he's forcing himself to move on."  But Rihanna doesn't sound done.]]></paragraph>
+        <paragraph num="13"/>
+        <paragraph num="14"/>
+        <paragraph num="15"><![CDATA[Rihanna's next single was "Russian Roulette."  It is not a love song. It's about surviving an impossible situation.]]></paragraph>
+        <paragraph num="16"/>
+        <paragraph num="17"><![CDATA["You can see my heart beating," Rihanna sings. "You can see it through my chest / that I'm terrified, but I'm not leaving / I know I must pass this test." Then, a gunshot is heard on the track.]]></paragraph>
+        <paragraph num="18"><![CDATA[After that gunshot, the very next day, Brown introduced a love ballad called "Crawl."]]></paragraph>
+        <paragraph num="19"/>
+        <paragraph num="20"/>
+        <paragraph num="21"><![CDATA["Everybody says we're through," he sings, adding, "I hope you haven't said it, too."  OK, so he's not over it.   But I don't know if Brown can do sweet longing anymore.  The pain here isn't sexy; it just sounds like pain.]]></paragraph>
+        <paragraph num="22"><![CDATA[Rihanna and Brown are probably not creating a dialectical mixtape writ large for us all to hear.  But what I do hear in their music is Rihanna saying, "I will not be humiliated by the events of the past year," and Brown replying, "Despite the awful violence you've seen, I want you to think I'm still lovable."]]></paragraph>
+        <paragraph num="23"><![CDATA[That's a complex conversation for the pop charts.]]></paragraph>
+        <paragraph num="24"><![CDATA[  [Copyright 2011 National Public Radio]]]></paragraph>
+      </text>
+    </story>
+    <story id="94778772">
+      <link type="html">http://www.npr.org/templates/story/story.php?storyId=94778772&amp;ft=3&amp;f=</link>
+      <link type="api">http://api.npr.org/query?id=94778772&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+      <title><![CDATA[Super-Smart Noir With A Feminist Jolt]]></title>
+      <audio id="94927892" type="primary">
+        <title/>
+        <duration>427</duration>
+        <description/>
+        <format>
+          <mp3 type="m3u">http://api.npr.org/m3u/194927892-e3d219.m3u?orgId=1&amp;topicId=1032&amp;aggIds=91752774&amp;ft=3&amp;f=</mp3>
+          <wm>http://www.npr.org/templates/dmg/dmg_wmref_em.php?id=94927892&amp;type=1&amp;mtype=WM&amp;orgId=1&amp;topicId=1032&amp;aggIds=91752774&amp;ft=3&amp;f=</wm>
+          <rm>http://www.npr.org/templates/dmg/dmg_rpm.rpm?id=94927892&amp;type=1&amp;mtype=RM&amp;orgId=1&amp;topicId=1032&amp;aggIds=91752774&amp;ft=3&amp;f=</rm>
+        </format>
+        <rightsHolder/>
+        <permissions>
+          <download allow="true"/>
+          <stream allow="true"/>
+          <embed allow="true"/>
+        </permissions>
+      </audio>
+      <text>
+        <paragraph num="1"><![CDATA[The hard-boiled mystery is as American as apple pie ... poisoned apple pie, that is, with a steel file baked into the filling. It's a literary genre that was born on the mean streets of early 20th century Los Angeles and San Francisco, sunlit places where, as the sour saying goes, a person could "rot without feeling it."  ]]></paragraph>
+        <paragraph num="2"><![CDATA[But one of the most intriguing aspects of hard-boiled history is how the form has been enthusiastically embraced by writers outside of the United States as a literary tool to explore the skeletons buried deep in their own particular patches of the world. In fact, for the past decade or so, Sweden has been a popular pick for crime capital of the literary world, thanks to Henning Mankell and his fellow practitioners of noir on ice. ]]></paragraph>
+        <paragraph num="3"><![CDATA[The newest name in mystery to emerge out of the frozen north is that of the late Stieg Larsson. His debut novel, The Girl With the Dragon Tattoo, was a blockbuster when it was published in Europe, selling an estimated 2 million copies. Now, an English language version, translated by Reg Keeland, has just been published here. ]]></paragraph>
+        <paragraph num="4"><![CDATA[A veteran mystery reader could spot the clues to this novel's runaway popularity as easily as Poe's detective, Auguste Dupin, spotted that purloined letter. The Girl With the Dragon Tattoo is a super-smart amalgam of the corporate corruption tale, legal thriller and dysfunctional-family psychological suspense story. It's witty, wrenchingly violent in a few isolated passages and unflinching in its commonsense feminist social commentary. ]]></paragraph>
+        <paragraph num="5"><![CDATA[The social vulnerability of women is the underlying Mystery with a capital "M" here; specifically the abuse — psychological and sexual — that's perpetrated against young and dependent women. Very late in the novel, one of our main characters, a reporter named Mikael Blomkvist, asks a serial murderer whose victims are often female emigrants to Sweden the simple question: "Why?" The monster calmly answers, "Because it's so easy."]]></paragraph>
+        <paragraph num="6"><![CDATA[Clearly, The Girl With the Dragon Tattoo isn't geared toward those readers who favor gentle Agatha Christie cozies, but its plot does consciously bow to Christie and her locked room/isolated island brand of puzzle. Here's the bare-bones summary: Blomkvist is a man down on his luck. He's just been convicted of libeling a corporate mogul and he's been sentenced to a jail term plus hefty fines. ]]></paragraph>
+        <paragraph num="7"><![CDATA[Out of the blue, Blomkvist receives an offer he can't refuse from a rival industrialist. Henrik Vanger is in his 80s and has been tormented for the past 40 years by the mysterious disappearance of his grand-niece Harriet. On the day of Harriet's disappearance, the island where the Vangers lived was blocked off from the mainland by a truck fire on the connecting bridge. How, then, did Harriet, or her corpse, vanish? ]]></paragraph>
+        <paragraph num="8"><![CDATA[What also torments Vanger is the fact that for the next four decades, he's received a disturbing birthday gift in the mail each year — a framed pressed flower — the same gift Harriet would give him when she was young. Vanger tells Blomkvist that if he moves to the island and works for a year re-investigating Harriet's disappearance, he'll receive not only a huge salary, but also inside information that will clear him of the libel charges. ]]></paragraph>
+        <paragraph num="9"><![CDATA[Blomkvist bites. Fortunately, through a turn of events too deliciously complicated to go into here, he's aided in his investigation by a 24-year-old brilliant computer hacker named Lisbeth Salander. Salander is a pierced, tattooed, painfully thin Goth with major attitude problems. She's also the gal pal you want on your side when the creeps slither out from under their rocks. ]]></paragraph>
+        <paragraph num="10"><![CDATA[Larsson's multi-pieced plot snaps together as neatly as an Ikea bookcase, but even more satisfying is the anti-social character of Salander, whose movements are described as "quick and spidery." Certainly the utopian allure of traditional detective fiction had something to do with the omnipotent Sam Spades and Phillip Marlowes who made criminals quake and femme fatales swoon. The liberating fantasy of Salander, at least for this female reader, has something to do with watching a woman operate who doesn't give a darn whether she pleases people or not. ]]></paragraph>
+        <paragraph num="11"><![CDATA[Salander doesn't smile, knock back boilermakers or eat moose burgers. She's not out to win friends or votes. But I'm betting that this offbeat bad girl will win a lot of readers' affections.  [Copyright 2011 National Public Radio]]]></paragraph>
+      </text>
+    </story>
+    <story id="4053100">
+      <link type="html">http://www.npr.org/templates/story/story.php?storyId=4053100&amp;ft=3&amp;f=</link>
+      <link type="api">http://api.npr.org/query?id=4053100&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+      <title><![CDATA[Drawing Conclusions About the Presidential Race]]></title>
+      <audio id="4054263" type="primary">
+        <title>Listen</title>
+        <duration>0</duration>
+        <description/>
+        <format>
+          <mp3 type="m3u">http://api.npr.org/m3u/14054263-3df470.m3u?orgId=1&amp;topicId=1014&amp;ft=3&amp;f=</mp3>
+          <wm>http://www.npr.org/templates/dmg/dmg_wmref_em.php?id=4054263&amp;type=1&amp;mtype=WM&amp;orgId=1&amp;topicId=1014&amp;ft=3&amp;f=</wm>
+          <rm>http://www.npr.org/templates/dmg/dmg_rpm.rpm?id=4054263&amp;type=1&amp;mtype=RM&amp;orgId=1&amp;topicId=1014&amp;ft=3&amp;f=</rm>
+        </format>
+        <rightsHolder/>
+        <permissions>
+          <download allow="true"/>
+          <stream allow="true"/>
+          <embed allow="true"/>
+        </permissions>
+      </audio>
+      <text>
+        <paragraph num="1"><![CDATA[Sen. John Kerry is darned if he does, and darned if he doesn't -- smile, that is. Take it from two people who should know -- political cartoonists Mike Luckovich and Mike Peters. They bring their thoughts, and drawings, to a discussion with NPR's Renee Montagne about the 2004 presidential campaign.]]></paragraph>
+        <paragraph num="2"><![CDATA["As much as I try to draw John Kerry looking happy, he looks like Abe Lincoln right before he went to the theater that night -- it's kind of sad," says Peters of the Dayton Daily News.]]></paragraph>
+        <paragraph num="3"><![CDATA["When he does smile, if he smiles big it looks sort of phoney," says Luckovich of the Atlanta Journal-Constitution. "I kind of feel for the guy because he's sort of stuck. He's probably got all these advisers saying, 'That smile is too big. It looks fake. Just a little less... He's in advanced smile lessons right now."]]></paragraph>
+        <paragraph num="4"><![CDATA[The Pulitzer Prize-winning cartoonists also let their pencils do the talking about unscripted moments by Vice President Dick Cheney and Teresa Heinz Kerry, the Bush-Cheney campaign's fearful rhetoric and Sen. John Edwards' background as a trial lawyer.  [Copyright 2011 National Public Radio]]]></paragraph>
+      </text>
+    </story>
+  </list>
+</nprml>
+<?xml version="1.0" encoding="UTF-8"?>
+<nprml version="0.94">
+  <list>
+    <title><![CDATA[NPR: Stories from NPR]]></title>
+    <teaser><![CDATA[Assorted stories from NPR]]></teaser>
+    <miniTeaser><![CDATA[Custom NPR News Feed API.  Visit http://www.npr.org/templates/apidoc/index.php for more information.]]></miniTeaser>
+    <link type="api">http://api.npr.org/query?searchTerm=%22doesn%27t%20smile%22&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+    <story id="120092101">
+      <link type="html">http://www.npr.org/templates/story/story.php?storyId=120092101&amp;ft=3&amp;f=</link>
+      <link type="api">http://api.npr.org/query?id=120092101&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+      <title><![CDATA[Are We Eavesdropping On Rihanna And Chris Brown?]]></title>
+      <transcript>
+        <link type="api">http://api.npr.org/transcript?id=120092101&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+      </transcript>
+      <audio id="120098823" type="primary">
+        <title/>
+        <duration>234</duration>
+        <description/>
+        <format>
+          <mp3 type="m3u">http://api.npr.org/m3u/1120098823-84c26b.m3u?orgId=1&amp;topicId=1105&amp;ft=3&amp;f=</mp3>
+          <wm>http://www.npr.org/templates/dmg/dmg_wmref_em.php?id=120098823&amp;type=1&amp;mtype=WM&amp;orgId=1&amp;topicId=1105&amp;ft=3&amp;f=</wm>
+          <rm>http://www.npr.org/templates/dmg/dmg_rpm.rpm?id=120098823&amp;type=1&amp;mtype=RM&amp;orgId=1&amp;topicId=1105&amp;ft=3&amp;f=</rm>
+        </format>
+        <rightsHolder/>
+        <permissions>
+          <download allow="true"/>
+          <stream allow="true"/>
+          <embed allow="true"/>
+        </permissions>
+      </audio>
+      <text>
+        <paragraph num="1"><![CDATA[Over the past several months, TV shows have been clamoring to interview the pop singer Rihanna, but to no avail. Back in February, Rihanna's boyfriend, Chris Brown, beat her up as they were heading to perform at the Grammy Awards. In late August, he was sentenced to five years' probation for felony assault. Rihanna will finally talk on TV during Good Morning America Thursday, but it might be possible to pick up on how Brown and Rihanna are doing via their music.   ]]></paragraph>
+        <paragraph num="2"/>
+        <paragraph num="3"/>
+        <paragraph num="4"><![CDATA[They had been like the prince and princess of pop R&B. So last winter's ugly violence was unbelievable.   The picture that circulated on the internet of Rihanna's face all busted up was almost irreconcilable with her perfect popstar image.  And the idea that sweet-faced Chris Brown could have done that to her?  In the stunned silence that followed, we waited for them to explain themselves.  For months, neither one released any new music.  Now, both of them are back on the radio.  I'm scrutinizing every song and video like a mixtape my crush gave me in tenth grade. Listening for a hidden message in every word.  ]]></paragraph>
+        <paragraph num="5"/>
+        <paragraph num="6"><![CDATA[ Run This Town]]></paragraph>
+        <paragraph num="7"/>
+        <paragraph num="8"><![CDATA[Rihanna came back to the charts late this summer. She headlines Jay Z's single "Run This Town," and she owns the track. In the video, she looks hard, and you can't mess with her.  Rihanna's back, and she's badder than ever. ]]></paragraph>
+        <paragraph num="9"/>
+        <paragraph num="10"><![CDATA[But Chris Brown is back, too. In late September, he released the tight, unapologetic pop song "I Can Transform Ya."]]></paragraph>
+        <paragraph num="11"/>
+        <paragraph num="12"><![CDATA[In the "I Can Transform Ya" video, Brown is dancing, surrounded by his trademark Lamborghinis.  He doesn't smile once as he hammers out the track.  It made me think, "I guess he's forcing himself to move on."  But Rihanna doesn't sound done.]]></paragraph>
+        <paragraph num="13"/>
+        <paragraph num="14"/>
+        <paragraph num="15"><![CDATA[Rihanna's next single was "Russian Roulette."  It is not a love song. It's about surviving an impossible situation.]]></paragraph>
+        <paragraph num="16"/>
+        <paragraph num="17"><![CDATA["You can see my heart beating," Rihanna sings. "You can see it through my chest / that I'm terrified, but I'm not leaving / I know I must pass this test." Then, a gunshot is heard on the track.]]></paragraph>
+        <paragraph num="18"><![CDATA[After that gunshot, the very next day, Brown introduced a love ballad called "Crawl."]]></paragraph>
+        <paragraph num="19"/>
+        <paragraph num="20"/>
+        <paragraph num="21"><![CDATA["Everybody says we're through," he sings, adding, "I hope you haven't said it, too."  OK, so he's not over it.   But I don't know if Brown can do sweet longing anymore.  The pain here isn't sexy; it just sounds like pain.]]></paragraph>
+        <paragraph num="22"><![CDATA[Rihanna and Brown are probably not creating a dialectical mixtape writ large for us all to hear.  But what I do hear in their music is Rihanna saying, "I will not be humiliated by the events of the past year," and Brown replying, "Despite the awful violence you've seen, I want you to think I'm still lovable."]]></paragraph>
+        <paragraph num="23"><![CDATA[That's a complex conversation for the pop charts.]]></paragraph>
+        <paragraph num="24"><![CDATA[  [Copyright 2011 National Public Radio]]]></paragraph>
+      </text>
+    </story>
+    <story id="94778772">
+      <link type="html">http://www.npr.org/templates/story/story.php?storyId=94778772&amp;ft=3&amp;f=</link>
+      <link type="api">http://api.npr.org/query?id=94778772&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+      <title><![CDATA[Super-Smart Noir With A Feminist Jolt]]></title>
+      <audio id="94927892" type="primary">
+        <title/>
+        <duration>427</duration>
+        <description/>
+        <format>
+          <mp3 type="m3u">http://api.npr.org/m3u/194927892-e3d219.m3u?orgId=1&amp;topicId=1032&amp;aggIds=91752774&amp;ft=3&amp;f=</mp3>
+          <wm>http://www.npr.org/templates/dmg/dmg_wmref_em.php?id=94927892&amp;type=1&amp;mtype=WM&amp;orgId=1&amp;topicId=1032&amp;aggIds=91752774&amp;ft=3&amp;f=</wm>
+          <rm>http://www.npr.org/templates/dmg/dmg_rpm.rpm?id=94927892&amp;type=1&amp;mtype=RM&amp;orgId=1&amp;topicId=1032&amp;aggIds=91752774&amp;ft=3&amp;f=</rm>
+        </format>
+        <rightsHolder/>
+        <permissions>
+          <download allow="true"/>
+          <stream allow="true"/>
+          <embed allow="true"/>
+        </permissions>
+      </audio>
+      <text>
+        <paragraph num="1"><![CDATA[The hard-boiled mystery is as American as apple pie ... poisoned apple pie, that is, with a steel file baked into the filling. It's a literary genre that was born on the mean streets of early 20th century Los Angeles and San Francisco, sunlit places where, as the sour saying goes, a person could "rot without feeling it."  ]]></paragraph>
+        <paragraph num="2"><![CDATA[But one of the most intriguing aspects of hard-boiled history is how the form has been enthusiastically embraced by writers outside of the United States as a literary tool to explore the skeletons buried deep in their own particular patches of the world. In fact, for the past decade or so, Sweden has been a popular pick for crime capital of the literary world, thanks to Henning Mankell and his fellow practitioners of noir on ice. ]]></paragraph>
+        <paragraph num="3"><![CDATA[The newest name in mystery to emerge out of the frozen north is that of the late Stieg Larsson. His debut novel, The Girl With the Dragon Tattoo, was a blockbuster when it was published in Europe, selling an estimated 2 million copies. Now, an English language version, translated by Reg Keeland, has just been published here. ]]></paragraph>
+        <paragraph num="4"><![CDATA[A veteran mystery reader could spot the clues to this novel's runaway popularity as easily as Poe's detective, Auguste Dupin, spotted that purloined letter. The Girl With the Dragon Tattoo is a super-smart amalgam of the corporate corruption tale, legal thriller and dysfunctional-family psychological suspense story. It's witty, wrenchingly violent in a few isolated passages and unflinching in its commonsense feminist social commentary. ]]></paragraph>
+        <paragraph num="5"><![CDATA[The social vulnerability of women is the underlying Mystery with a capital "M" here; specifically the abuse — psychological and sexual — that's perpetrated against young and dependent women. Very late in the novel, one of our main characters, a reporter named Mikael Blomkvist, asks a serial murderer whose victims are often female emigrants to Sweden the simple question: "Why?" The monster calmly answers, "Because it's so easy."]]></paragraph>
+        <paragraph num="6"><![CDATA[Clearly, The Girl With the Dragon Tattoo isn't geared toward those readers who favor gentle Agatha Christie cozies, but its plot does consciously bow to Christie and her locked room/isolated island brand of puzzle. Here's the bare-bones summary: Blomkvist is a man down on his luck. He's just been convicted of libeling a corporate mogul and he's been sentenced to a jail term plus hefty fines. ]]></paragraph>
+        <paragraph num="7"><![CDATA[Out of the blue, Blomkvist receives an offer he can't refuse from a rival industrialist. Henrik Vanger is in his 80s and has been tormented for the past 40 years by the mysterious disappearance of his grand-niece Harriet. On the day of Harriet's disappearance, the island where the Vangers lived was blocked off from the mainland by a truck fire on the connecting bridge. How, then, did Harriet, or her corpse, vanish? ]]></paragraph>
+        <paragraph num="8"><![CDATA[What also torments Vanger is the fact that for the next four decades, he's received a disturbing birthday gift in the mail each year — a framed pressed flower — the same gift Harriet would give him when she was young. Vanger tells Blomkvist that if he moves to the island and works for a year re-investigating Harriet's disappearance, he'll receive not only a huge salary, but also inside information that will clear him of the libel charges. ]]></paragraph>
+        <paragraph num="9"><![CDATA[Blomkvist bites. Fortunately, through a turn of events too deliciously complicated to go into here, he's aided in his investigation by a 24-year-old brilliant computer hacker named Lisbeth Salander. Salander is a pierced, tattooed, painfully thin Goth with major attitude problems. She's also the gal pal you want on your side when the creeps slither out from under their rocks. ]]></paragraph>
+        <paragraph num="10"><![CDATA[Larsson's multi-pieced plot snaps together as neatly as an Ikea bookcase, but even more satisfying is the anti-social character of Salander, whose movements are described as "quick and spidery." Certainly the utopian allure of traditional detective fiction had something to do with the omnipotent Sam Spades and Phillip Marlowes who made criminals quake and femme fatales swoon. The liberating fantasy of Salander, at least for this female reader, has something to do with watching a woman operate who doesn't give a darn whether she pleases people or not. ]]></paragraph>
+        <paragraph num="11"><![CDATA[Salander doesn't smile, knock back boilermakers or eat moose burgers. She's not out to win friends or votes. But I'm betting that this offbeat bad girl will win a lot of readers' affections.  [Copyright 2011 National Public Radio]]]></paragraph>
+      </text>
+    </story>
+    <story id="4053100">
+      <link type="html">http://www.npr.org/templates/story/story.php?storyId=4053100&amp;ft=3&amp;f=</link>
+      <link type="api">http://api.npr.org/query?id=4053100&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+      <title><![CDATA[Drawing Conclusions About the Presidential Race]]></title>
+      <audio id="4054263" type="primary">
+        <title>Listen</title>
+        <duration>0</duration>
+        <description/>
+        <format>
+          <mp3 type="m3u">http://api.npr.org/m3u/14054263-3df470.m3u?orgId=1&amp;topicId=1014&amp;ft=3&amp;f=</mp3>
+          <wm>http://www.npr.org/templates/dmg/dmg_wmref_em.php?id=4054263&amp;type=1&amp;mtype=WM&amp;orgId=1&amp;topicId=1014&amp;ft=3&amp;f=</wm>
+          <rm>http://www.npr.org/templates/dmg/dmg_rpm.rpm?id=4054263&amp;type=1&amp;mtype=RM&amp;orgId=1&amp;topicId=1014&amp;ft=3&amp;f=</rm>
+        </format>
+        <rightsHolder/>
+        <permissions>
+          <download allow="true"/>
+          <stream allow="true"/>
+          <embed allow="true"/>
+        </permissions>
+      </audio>
+      <text>
+        <paragraph num="1"><![CDATA[Sen. John Kerry is darned if he does, and darned if he doesn't -- smile, that is. Take it from two people who should know -- political cartoonists Mike Luckovich and Mike Peters. They bring their thoughts, and drawings, to a discussion with NPR's Renee Montagne about the 2004 presidential campaign.]]></paragraph>
+        <paragraph num="2"><![CDATA["As much as I try to draw John Kerry looking happy, he looks like Abe Lincoln right before he went to the theater that night -- it's kind of sad," says Peters of the Dayton Daily News.]]></paragraph>
+        <paragraph num="3"><![CDATA["When he does smile, if he smiles big it looks sort of phoney," says Luckovich of the Atlanta Journal-Constitution. "I kind of feel for the guy because he's sort of stuck. He's probably got all these advisers saying, 'That smile is too big. It looks fake. Just a little less... He's in advanced smile lessons right now."]]></paragraph>
+        <paragraph num="4"><![CDATA[The Pulitzer Prize-winning cartoonists also let their pencils do the talking about unscripted moments by Vice President Dick Cheney and Teresa Heinz Kerry, the Bush-Cheney campaign's fearful rhetoric and Sen. John Edwards' background as a trial lawyer.  [Copyright 2011 National Public Radio]]]></paragraph>
+      </text>
+    </story>
+  </list>
+</nprml>
+<?xml version="1.0" encoding="UTF-8"?>
+<nprml version="0.94">
+  <list>
+    <title><![CDATA[NPR: Stories from NPR]]></title>
+    <teaser><![CDATA[Assorted stories from NPR]]></teaser>
+    <miniTeaser><![CDATA[Custom NPR News Feed API.  Visit http://www.npr.org/templates/apidoc/index.php for more information.]]></miniTeaser>
+    <link type="api">http://api.npr.org/query?searchTerm=%22doesn%27t%20smile%22&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+    <story id="120092101">
+      <link type="html">http://www.npr.org/templates/story/story.php?storyId=120092101&amp;ft=3&amp;f=</link>
+      <link type="api">http://api.npr.org/query?id=120092101&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+      <title><![CDATA[Are We Eavesdropping On Rihanna And Chris Brown?]]></title>
+      <transcript>
+        <link type="api">http://api.npr.org/transcript?id=120092101&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+      </transcript>
+      <audio id="120098823" type="primary">
+        <title/>
+        <duration>234</duration>
+        <description/>
+        <format>
+          <mp3 type="m3u">http://api.npr.org/m3u/1120098823-84c26b.m3u?orgId=1&amp;topicId=1105&amp;ft=3&amp;f=</mp3>
+          <wm>http://www.npr.org/templates/dmg/dmg_wmref_em.php?id=120098823&amp;type=1&amp;mtype=WM&amp;orgId=1&amp;topicId=1105&amp;ft=3&amp;f=</wm>
+          <rm>http://www.npr.org/templates/dmg/dmg_rpm.rpm?id=120098823&amp;type=1&amp;mtype=RM&amp;orgId=1&amp;topicId=1105&amp;ft=3&amp;f=</rm>
+        </format>
+        <rightsHolder/>
+        <permissions>
+          <download allow="true"/>
+          <stream allow="true"/>
+          <embed allow="true"/>
+        </permissions>
+      </audio>
+      <text>
+        <paragraph num="1"><![CDATA[Over the past several months, TV shows have been clamoring to interview the pop singer Rihanna, but to no avail. Back in February, Rihanna's boyfriend, Chris Brown, beat her up as they were heading to perform at the Grammy Awards. In late August, he was sentenced to five years' probation for felony assault. Rihanna will finally talk on TV during Good Morning America Thursday, but it might be possible to pick up on how Brown and Rihanna are doing via their music.   ]]></paragraph>
+        <paragraph num="2"/>
+        <paragraph num="3"/>
+        <paragraph num="4"><![CDATA[They had been like the prince and princess of pop R&B. So last winter's ugly violence was unbelievable.   The picture that circulated on the internet of Rihanna's face all busted up was almost irreconcilable with her perfect popstar image.  And the idea that sweet-faced Chris Brown could have done that to her?  In the stunned silence that followed, we waited for them to explain themselves.  For months, neither one released any new music.  Now, both of them are back on the radio.  I'm scrutinizing every song and video like a mixtape my crush gave me in tenth grade. Listening for a hidden message in every word.  ]]></paragraph>
+        <paragraph num="5"/>
+        <paragraph num="6"><![CDATA[ Run This Town]]></paragraph>
+        <paragraph num="7"/>
+        <paragraph num="8"><![CDATA[Rihanna came back to the charts late this summer. She headlines Jay Z's single "Run This Town," and she owns the track. In the video, she looks hard, and you can't mess with her.  Rihanna's back, and she's badder than ever. ]]></paragraph>
+        <paragraph num="9"/>
+        <paragraph num="10"><![CDATA[But Chris Brown is back, too. In late September, he released the tight, unapologetic pop song "I Can Transform Ya."]]></paragraph>
+        <paragraph num="11"/>
+        <paragraph num="12"><![CDATA[In the "I Can Transform Ya" video, Brown is dancing, surrounded by his trademark Lamborghinis.  He doesn't smile once as he hammers out the track.  It made me think, "I guess he's forcing himself to move on."  But Rihanna doesn't sound done.]]></paragraph>
+        <paragraph num="13"/>
+        <paragraph num="14"/>
+        <paragraph num="15"><![CDATA[Rihanna's next single was "Russian Roulette."  It is not a love song. It's about surviving an impossible situation.]]></paragraph>
+        <paragraph num="16"/>
+        <paragraph num="17"><![CDATA["You can see my heart beating," Rihanna sings. "You can see it through my chest / that I'm terrified, but I'm not leaving / I know I must pass this test." Then, a gunshot is heard on the track.]]></paragraph>
+        <paragraph num="18"><![CDATA[After that gunshot, the very next day, Brown introduced a love ballad called "Crawl."]]></paragraph>
+        <paragraph num="19"/>
+        <paragraph num="20"/>
+        <paragraph num="21"><![CDATA["Everybody says we're through," he sings, adding, "I hope you haven't said it, too."  OK, so he's not over it.   But I don't know if Brown can do sweet longing anymore.  The pain here isn't sexy; it just sounds like pain.]]></paragraph>
+        <paragraph num="22"><![CDATA[Rihanna and Brown are probably not creating a dialectical mixtape writ large for us all to hear.  But what I do hear in their music is Rihanna saying, "I will not be humiliated by the events of the past year," and Brown replying, "Despite the awful violence you've seen, I want you to think I'm still lovable."]]></paragraph>
+        <paragraph num="23"><![CDATA[That's a complex conversation for the pop charts.]]></paragraph>
+        <paragraph num="24"><![CDATA[  [Copyright 2011 National Public Radio]]]></paragraph>
+      </text>
+    </story>
+    <story id="94778772">
+      <link type="html">http://www.npr.org/templates/story/story.php?storyId=94778772&amp;ft=3&amp;f=</link>
+      <link type="api">http://api.npr.org/query?id=94778772&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+      <title><![CDATA[Super-Smart Noir With A Feminist Jolt]]></title>
+      <audio id="94927892" type="primary">
+        <title/>
+        <duration>427</duration>
+        <description/>
+        <format>
+          <mp3 type="m3u">http://api.npr.org/m3u/194927892-e3d219.m3u?orgId=1&amp;topicId=1032&amp;aggIds=91752774&amp;ft=3&amp;f=</mp3>
+          <wm>http://www.npr.org/templates/dmg/dmg_wmref_em.php?id=94927892&amp;type=1&amp;mtype=WM&amp;orgId=1&amp;topicId=1032&amp;aggIds=91752774&amp;ft=3&amp;f=</wm>
+          <rm>http://www.npr.org/templates/dmg/dmg_rpm.rpm?id=94927892&amp;type=1&amp;mtype=RM&amp;orgId=1&amp;topicId=1032&amp;aggIds=91752774&amp;ft=3&amp;f=</rm>
+        </format>
+        <rightsHolder/>
+        <permissions>
+          <download allow="true"/>
+          <stream allow="true"/>
+          <embed allow="true"/>
+        </permissions>
+      </audio>
+      <text>
+        <paragraph num="1"><![CDATA[The hard-boiled mystery is as American as apple pie ... poisoned apple pie, that is, with a steel file baked into the filling. It's a literary genre that was born on the mean streets of early 20th century Los Angeles and San Francisco, sunlit places where, as the sour saying goes, a person could "rot without feeling it."  ]]></paragraph>
+        <paragraph num="2"><![CDATA[But one of the most intriguing aspects of hard-boiled history is how the form has been enthusiastically embraced by writers outside of the United States as a literary tool to explore the skeletons buried deep in their own particular patches of the world. In fact, for the past decade or so, Sweden has been a popular pick for crime capital of the literary world, thanks to Henning Mankell and his fellow practitioners of noir on ice. ]]></paragraph>
+        <paragraph num="3"><![CDATA[The newest name in mystery to emerge out of the frozen north is that of the late Stieg Larsson. His debut novel, The Girl With the Dragon Tattoo, was a blockbuster when it was published in Europe, selling an estimated 2 million copies. Now, an English language version, translated by Reg Keeland, has just been published here. ]]></paragraph>
+        <paragraph num="4"><![CDATA[A veteran mystery reader could spot the clues to this novel's runaway popularity as easily as Poe's detective, Auguste Dupin, spotted that purloined letter. The Girl With the Dragon Tattoo is a super-smart amalgam of the corporate corruption tale, legal thriller and dysfunctional-family psychological suspense story. It's witty, wrenchingly violent in a few isolated passages and unflinching in its commonsense feminist social commentary. ]]></paragraph>
+        <paragraph num="5"><![CDATA[The social vulnerability of women is the underlying Mystery with a capital "M" here; specifically the abuse — psychological and sexual — that's perpetrated against young and dependent women. Very late in the novel, one of our main characters, a reporter named Mikael Blomkvist, asks a serial murderer whose victims are often female emigrants to Sweden the simple question: "Why?" The monster calmly answers, "Because it's so easy."]]></paragraph>
+        <paragraph num="6"><![CDATA[Clearly, The Girl With the Dragon Tattoo isn't geared toward those readers who favor gentle Agatha Christie cozies, but its plot does consciously bow to Christie and her locked room/isolated island brand of puzzle. Here's the bare-bones summary: Blomkvist is a man down on his luck. He's just been convicted of libeling a corporate mogul and he's been sentenced to a jail term plus hefty fines. ]]></paragraph>
+        <paragraph num="7"><![CDATA[Out of the blue, Blomkvist receives an offer he can't refuse from a rival industrialist. Henrik Vanger is in his 80s and has been tormented for the past 40 years by the mysterious disappearance of his grand-niece Harriet. On the day of Harriet's disappearance, the island where the Vangers lived was blocked off from the mainland by a truck fire on the connecting bridge. How, then, did Harriet, or her corpse, vanish? ]]></paragraph>
+        <paragraph num="8"><![CDATA[What also torments Vanger is the fact that for the next four decades, he's received a disturbing birthday gift in the mail each year — a framed pressed flower — the same gift Harriet would give him when she was young. Vanger tells Blomkvist that if he moves to the island and works for a year re-investigating Harriet's disappearance, he'll receive not only a huge salary, but also inside information that will clear him of the libel charges. ]]></paragraph>
+        <paragraph num="9"><![CDATA[Blomkvist bites. Fortunately, through a turn of events too deliciously complicated to go into here, he's aided in his investigation by a 24-year-old brilliant computer hacker named Lisbeth Salander. Salander is a pierced, tattooed, painfully thin Goth with major attitude problems. She's also the gal pal you want on your side when the creeps slither out from under their rocks. ]]></paragraph>
+        <paragraph num="10"><![CDATA[Larsson's multi-pieced plot snaps together as neatly as an Ikea bookcase, but even more satisfying is the anti-social character of Salander, whose movements are described as "quick and spidery." Certainly the utopian allure of traditional detective fiction had something to do with the omnipotent Sam Spades and Phillip Marlowes who made criminals quake and femme fatales swoon. The liberating fantasy of Salander, at least for this female reader, has something to do with watching a woman operate who doesn't give a darn whether she pleases people or not. ]]></paragraph>
+        <paragraph num="11"><![CDATA[Salander doesn't smile, knock back boilermakers or eat moose burgers. She's not out to win friends or votes. But I'm betting that this offbeat bad girl will win a lot of readers' affections.  [Copyright 2011 National Public Radio]]]></paragraph>
+      </text>
+    </story>
+    <story id="4053100">
+      <link type="html">http://www.npr.org/templates/story/story.php?storyId=4053100&amp;ft=3&amp;f=</link>
+      <link type="api">http://api.npr.org/query?id=4053100&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+      <title><![CDATA[Drawing Conclusions About the Presidential Race]]></title>
+      <audio id="4054263" type="primary">
+        <title>Listen</title>
+        <duration>0</duration>
+        <description/>
+        <format>
+          <mp3 type="m3u">http://api.npr.org/m3u/14054263-3df470.m3u?orgId=1&amp;topicId=1014&amp;ft=3&amp;f=</mp3>
+          <wm>http://www.npr.org/templates/dmg/dmg_wmref_em.php?id=4054263&amp;type=1&amp;mtype=WM&amp;orgId=1&amp;topicId=1014&amp;ft=3&amp;f=</wm>
+          <rm>http://www.npr.org/templates/dmg/dmg_rpm.rpm?id=4054263&amp;type=1&amp;mtype=RM&amp;orgId=1&amp;topicId=1014&amp;ft=3&amp;f=</rm>
+        </format>
+        <rightsHolder/>
+        <permissions>
+          <download allow="true"/>
+          <stream allow="true"/>
+          <embed allow="true"/>
+        </permissions>
+      </audio>
+      <text>
+        <paragraph num="1"><![CDATA[Sen. John Kerry is darned if he does, and darned if he doesn't -- smile, that is. Take it from two people who should know -- political cartoonists Mike Luckovich and Mike Peters. They bring their thoughts, and drawings, to a discussion with NPR's Renee Montagne about the 2004 presidential campaign.]]></paragraph>
+        <paragraph num="2"><![CDATA["As much as I try to draw John Kerry looking happy, he looks like Abe Lincoln right before he went to the theater that night -- it's kind of sad," says Peters of the Dayton Daily News.]]></paragraph>
+        <paragraph num="3"><![CDATA["When he does smile, if he smiles big it looks sort of phoney," says Luckovich of the Atlanta Journal-Constitution. "I kind of feel for the guy because he's sort of stuck. He's probably got all these advisers saying, 'That smile is too big. It looks fake. Just a little less... He's in advanced smile lessons right now."]]></paragraph>
+        <paragraph num="4"><![CDATA[The Pulitzer Prize-winning cartoonists also let their pencils do the talking about unscripted moments by Vice President Dick Cheney and Teresa Heinz Kerry, the Bush-Cheney campaign's fearful rhetoric and Sen. John Edwards' background as a trial lawyer.  [Copyright 2011 National Public Radio]]]></paragraph>
+      </text>
+    </story>
+  </list>
+</nprml>
+<?xml version="1.0" encoding="UTF-8"?>
+<nprml version="0.94">
+  <list>
+    <title><![CDATA[NPR: Stories from NPR]]></title>
+    <teaser><![CDATA[Assorted stories from NPR]]></teaser>
+    <miniTeaser><![CDATA[Custom NPR News Feed API.  Visit http://www.npr.org/templates/apidoc/index.php for more information.]]></miniTeaser>
+    <link type="api">http://api.npr.org/query?searchTerm=%22doesn%27t%20smile%22&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+    <story id="120092101">
+      <link type="html">http://www.npr.org/templates/story/story.php?storyId=120092101&amp;ft=3&amp;f=</link>
+      <link type="api">http://api.npr.org/query?id=120092101&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+      <title><![CDATA[Are We Eavesdropping On Rihanna And Chris Brown?]]></title>
+      <transcript>
+        <link type="api">http://api.npr.org/transcript?id=120092101&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+      </transcript>
+      <audio id="120098823" type="primary">
+        <title/>
+        <duration>234</duration>
+        <description/>
+        <format>
+          <mp3 type="m3u">http://api.npr.org/m3u/1120098823-84c26b.m3u?orgId=1&amp;topicId=1105&amp;ft=3&amp;f=</mp3>
+          <wm>http://www.npr.org/templates/dmg/dmg_wmref_em.php?id=120098823&amp;type=1&amp;mtype=WM&amp;orgId=1&amp;topicId=1105&amp;ft=3&amp;f=</wm>
+          <rm>http://www.npr.org/templates/dmg/dmg_rpm.rpm?id=120098823&amp;type=1&amp;mtype=RM&amp;orgId=1&amp;topicId=1105&amp;ft=3&amp;f=</rm>
+        </format>
+        <rightsHolder/>
+        <permissions>
+          <download allow="true"/>
+          <stream allow="true"/>
+          <embed allow="true"/>
+        </permissions>
+      </audio>
+      <text>
+        <paragraph num="1"><![CDATA[Over the past several months, TV shows have been clamoring to interview the pop singer Rihanna, but to no avail. Back in February, Rihanna's boyfriend, Chris Brown, beat her up as they were heading to perform at the Grammy Awards. In late August, he was sentenced to five years' probation for felony assault. Rihanna will finally talk on TV during Good Morning America Thursday, but it might be possible to pick up on how Brown and Rihanna are doing via their music.   ]]></paragraph>
+        <paragraph num="2"/>
+        <paragraph num="3"/>
+        <paragraph num="4"><![CDATA[They had been like the prince and princess of pop R&B. So last winter's ugly violence was unbelievable.   The picture that circulated on the internet of Rihanna's face all busted up was almost irreconcilable with her perfect popstar image.  And the idea that sweet-faced Chris Brown could have done that to her?  In the stunned silence that followed, we waited for them to explain themselves.  For months, neither one released any new music.  Now, both of them are back on the radio.  I'm scrutinizing every song and video like a mixtape my crush gave me in tenth grade. Listening for a hidden message in every word.  ]]></paragraph>
+        <paragraph num="5"/>
+        <paragraph num="6"><![CDATA[ Run This Town]]></paragraph>
+        <paragraph num="7"/>
+        <paragraph num="8"><![CDATA[Rihanna came back to the charts late this summer. She headlines Jay Z's single "Run This Town," and she owns the track. In the video, she looks hard, and you can't mess with her.  Rihanna's back, and she's badder than ever. ]]></paragraph>
+        <paragraph num="9"/>
+        <paragraph num="10"><![CDATA[But Chris Brown is back, too. In late September, he released the tight, unapologetic pop song "I Can Transform Ya."]]></paragraph>
+        <paragraph num="11"/>
+        <paragraph num="12"><![CDATA[In the "I Can Transform Ya" video, Brown is dancing, surrounded by his trademark Lamborghinis.  He doesn't smile once as he hammers out the track.  It made me think, "I guess he's forcing himself to move on."  But Rihanna doesn't sound done.]]></paragraph>
+        <paragraph num="13"/>
+        <paragraph num="14"/>
+        <paragraph num="15"><![CDATA[Rihanna's next single was "Russian Roulette."  It is not a love song. It's about surviving an impossible situation.]]></paragraph>
+        <paragraph num="16"/>
+        <paragraph num="17"><![CDATA["You can see my heart beating," Rihanna sings. "You can see it through my chest / that I'm terrified, but I'm not leaving / I know I must pass this test." Then, a gunshot is heard on the track.]]></paragraph>
+        <paragraph num="18"><![CDATA[After that gunshot, the very next day, Brown introduced a love ballad called "Crawl."]]></paragraph>
+        <paragraph num="19"/>
+        <paragraph num="20"/>
+        <paragraph num="21"><![CDATA["Everybody says we're through," he sings, adding, "I hope you haven't said it, too."  OK, so he's not over it.   But I don't know if Brown can do sweet longing anymore.  The pain here isn't sexy; it just sounds like pain.]]></paragraph>
+        <paragraph num="22"><![CDATA[Rihanna and Brown are probably not creating a dialectical mixtape writ large for us all to hear.  But what I do hear in their music is Rihanna saying, "I will not be humiliated by the events of the past year," and Brown replying, "Despite the awful violence you've seen, I want you to think I'm still lovable."]]></paragraph>
+        <paragraph num="23"><![CDATA[That's a complex conversation for the pop charts.]]></paragraph>
+        <paragraph num="24"><![CDATA[  [Copyright 2011 National Public Radio]]]></paragraph>
+      </text>
+    </story>
+    <story id="94778772">
+      <link type="html">http://www.npr.org/templates/story/story.php?storyId=94778772&amp;ft=3&amp;f=</link>
+      <link type="api">http://api.npr.org/query?id=94778772&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+      <title><![CDATA[Super-Smart Noir With A Feminist Jolt]]></title>
+      <audio id="94927892" type="primary">
+        <title/>
+        <duration>427</duration>
+        <description/>
+        <format>
+          <mp3 type="m3u">http://api.npr.org/m3u/194927892-e3d219.m3u?orgId=1&amp;topicId=1032&amp;aggIds=91752774&amp;ft=3&amp;f=</mp3>
+          <wm>http://www.npr.org/templates/dmg/dmg_wmref_em.php?id=94927892&amp;type=1&amp;mtype=WM&amp;orgId=1&amp;topicId=1032&amp;aggIds=91752774&amp;ft=3&amp;f=</wm>
+          <rm>http://www.npr.org/templates/dmg/dmg_rpm.rpm?id=94927892&amp;type=1&amp;mtype=RM&amp;orgId=1&amp;topicId=1032&amp;aggIds=91752774&amp;ft=3&amp;f=</rm>
+        </format>
+        <rightsHolder/>
+        <permissions>
+          <download allow="true"/>
+          <stream allow="true"/>
+          <embed allow="true"/>
+        </permissions>
+      </audio>
+      <text>
+        <paragraph num="1"><![CDATA[The hard-boiled mystery is as American as apple pie ... poisoned apple pie, that is, with a steel file baked into the filling. It's a literary genre that was born on the mean streets of early 20th century Los Angeles and San Francisco, sunlit places where, as the sour saying goes, a person could "rot without feeling it."  ]]></paragraph>
+        <paragraph num="2"><![CDATA[But one of the most intriguing aspects of hard-boiled history is how the form has been enthusiastically embraced by writers outside of the United States as a literary tool to explore the skeletons buried deep in their own particular patches of the world. In fact, for the past decade or so, Sweden has been a popular pick for crime capital of the literary world, thanks to Henning Mankell and his fellow practitioners of noir on ice. ]]></paragraph>
+        <paragraph num="3"><![CDATA[The newest name in mystery to emerge out of the frozen north is that of the late Stieg Larsson. His debut novel, The Girl With the Dragon Tattoo, was a blockbuster when it was published in Europe, selling an estimated 2 million copies. Now, an English language version, translated by Reg Keeland, has just been published here. ]]></paragraph>
+        <paragraph num="4"><![CDATA[A veteran mystery reader could spot the clues to this novel's runaway popularity as easily as Poe's detective, Auguste Dupin, spotted that purloined letter. The Girl With the Dragon Tattoo is a super-smart amalgam of the corporate corruption tale, legal thriller and dysfunctional-family psychological suspense story. It's witty, wrenchingly violent in a few isolated passages and unflinching in its commonsense feminist social commentary. ]]></paragraph>
+        <paragraph num="5"><![CDATA[The social vulnerability of women is the underlying Mystery with a capital "M" here; specifically the abuse — psychological and sexual — that's perpetrated against young and dependent women. Very late in the novel, one of our main characters, a reporter named Mikael Blomkvist, asks a serial murderer whose victims are often female emigrants to Sweden the simple question: "Why?" The monster calmly answers, "Because it's so easy."]]></paragraph>
+        <paragraph num="6"><![CDATA[Clearly, The Girl With the Dragon Tattoo isn't geared toward those readers who favor gentle Agatha Christie cozies, but its plot does consciously bow to Christie and her locked room/isolated island brand of puzzle. Here's the bare-bones summary: Blomkvist is a man down on his luck. He's just been convicted of libeling a corporate mogul and he's been sentenced to a jail term plus hefty fines. ]]></paragraph>
+        <paragraph num="7"><![CDATA[Out of the blue, Blomkvist receives an offer he can't refuse from a rival industrialist. Henrik Vanger is in his 80s and has been tormented for the past 40 years by the mysterious disappearance of his grand-niece Harriet. On the day of Harriet's disappearance, the island where the Vangers lived was blocked off from the mainland by a truck fire on the connecting bridge. How, then, did Harriet, or her corpse, vanish? ]]></paragraph>
+        <paragraph num="8"><![CDATA[What also torments Vanger is the fact that for the next four decades, he's received a disturbing birthday gift in the mail each year — a framed pressed flower — the same gift Harriet would give him when she was young. Vanger tells Blomkvist that if he moves to the island and works for a year re-investigating Harriet's disappearance, he'll receive not only a huge salary, but also inside information that will clear him of the libel charges. ]]></paragraph>
+        <paragraph num="9"><![CDATA[Blomkvist bites. Fortunately, through a turn of events too deliciously complicated to go into here, he's aided in his investigation by a 24-year-old brilliant computer hacker named Lisbeth Salander. Salander is a pierced, tattooed, painfully thin Goth with major attitude problems. She's also the gal pal you want on your side when the creeps slither out from under their rocks. ]]></paragraph>
+        <paragraph num="10"><![CDATA[Larsson's multi-pieced plot snaps together as neatly as an Ikea bookcase, but even more satisfying is the anti-social character of Salander, whose movements are described as "quick and spidery." Certainly the utopian allure of traditional detective fiction had something to do with the omnipotent Sam Spades and Phillip Marlowes who made criminals quake and femme fatales swoon. The liberating fantasy of Salander, at least for this female reader, has something to do with watching a woman operate who doesn't give a darn whether she pleases people or not. ]]></paragraph>
+        <paragraph num="11"><![CDATA[Salander doesn't smile, knock back boilermakers or eat moose burgers. She's not out to win friends or votes. But I'm betting that this offbeat bad girl will win a lot of readers' affections.  [Copyright 2011 National Public Radio]]]></paragraph>
+      </text>
+    </story>
+    <story id="4053100">
+      <link type="html">http://www.npr.org/templates/story/story.php?storyId=4053100&amp;ft=3&amp;f=</link>
+      <link type="api">http://api.npr.org/query?id=4053100&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+      <title><![CDATA[Drawing Conclusions About the Presidential Race]]></title>
+      <audio id="4054263" type="primary">
+        <title>Listen</title>
+        <duration>0</duration>
+        <description/>
+        <format>
+          <mp3 type="m3u">http://api.npr.org/m3u/14054263-3df470.m3u?orgId=1&amp;topicId=1014&amp;ft=3&amp;f=</mp3>
+          <wm>http://www.npr.org/templates/dmg/dmg_wmref_em.php?id=4054263&amp;type=1&amp;mtype=WM&amp;orgId=1&amp;topicId=1014&amp;ft=3&amp;f=</wm>
+          <rm>http://www.npr.org/templates/dmg/dmg_rpm.rpm?id=4054263&amp;type=1&amp;mtype=RM&amp;orgId=1&amp;topicId=1014&amp;ft=3&amp;f=</rm>
+        </format>
+        <rightsHolder/>
+        <permissions>
+          <download allow="true"/>
+          <stream allow="true"/>
+          <embed allow="true"/>
+        </permissions>
+      </audio>
+      <text>
+        <paragraph num="1"><![CDATA[Sen. John Kerry is darned if he does, and darned if he doesn't -- smile, that is. Take it from two people who should know -- political cartoonists Mike Luckovich and Mike Peters. They bring their thoughts, and drawings, to a discussion with NPR's Renee Montagne about the 2004 presidential campaign.]]></paragraph>
+        <paragraph num="2"><![CDATA["As much as I try to draw John Kerry looking happy, he looks like Abe Lincoln right before he went to the theater that night -- it's kind of sad," says Peters of the Dayton Daily News.]]></paragraph>
+        <paragraph num="3"><![CDATA["When he does smile, if he smiles big it looks sort of phoney," says Luckovich of the Atlanta Journal-Constitution. "I kind of feel for the guy because he's sort of stuck. He's probably got all these advisers saying, 'That smile is too big. It looks fake. Just a little less... He's in advanced smile lessons right now."]]></paragraph>
+        <paragraph num="4"><![CDATA[The Pulitzer Prize-winning cartoonists also let their pencils do the talking about unscripted moments by Vice President Dick Cheney and Teresa Heinz Kerry, the Bush-Cheney campaign's fearful rhetoric and Sen. John Edwards' background as a trial lawyer.  [Copyright 2011 National Public Radio]]]></paragraph>
+      </text>
+    </story>
+  </list>
+</nprml>
+<?xml version="1.0" encoding="UTF-8"?>
+<nprml version="0.94">
+  <list>
+    <title><![CDATA[NPR: Stories from NPR]]></title>
+    <teaser><![CDATA[Assorted stories from NPR]]></teaser>
+    <miniTeaser><![CDATA[Custom NPR News Feed API.  Visit http://www.npr.org/templates/apidoc/index.php for more information.]]></miniTeaser>
+    <link type="api">http://api.npr.org/query?searchTerm=%22doesn%27t%20smile%22&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+    <story id="120092101">
+      <link type="html">http://www.npr.org/templates/story/story.php?storyId=120092101&amp;ft=3&amp;f=</link>
+      <link type="api">http://api.npr.org/query?id=120092101&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+      <title><![CDATA[Are We Eavesdropping On Rihanna And Chris Brown?]]></title>
+      <transcript>
+        <link type="api">http://api.npr.org/transcript?id=120092101&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+      </transcript>
+      <audio id="120098823" type="primary">
+        <title/>
+        <duration>234</duration>
+        <description/>
+        <format>
+          <mp3 type="m3u">http://api.npr.org/m3u/1120098823-84c26b.m3u?orgId=1&amp;topicId=1105&amp;ft=3&amp;f=</mp3>
+          <wm>http://www.npr.org/templates/dmg/dmg_wmref_em.php?id=120098823&amp;type=1&amp;mtype=WM&amp;orgId=1&amp;topicId=1105&amp;ft=3&amp;f=</wm>
+          <rm>http://www.npr.org/templates/dmg/dmg_rpm.rpm?id=120098823&amp;type=1&amp;mtype=RM&amp;orgId=1&amp;topicId=1105&amp;ft=3&amp;f=</rm>
+        </format>
+        <rightsHolder/>
+        <permissions>
+          <download allow="true"/>
+          <stream allow="true"/>
+          <embed allow="true"/>
+        </permissions>
+      </audio>
+      <text>
+        <paragraph num="1"><![CDATA[Over the past several months, TV shows have been clamoring to interview the pop singer Rihanna, but to no avail. Back in February, Rihanna's boyfriend, Chris Brown, beat her up as they were heading to perform at the Grammy Awards. In late August, he was sentenced to five years' probation for felony assault. Rihanna will finally talk on TV during Good Morning America Thursday, but it might be possible to pick up on how Brown and Rihanna are doing via their music.   ]]></paragraph>
+        <paragraph num="2"/>
+        <paragraph num="3"/>
+        <paragraph num="4"><![CDATA[They had been like the prince and princess of pop R&B. So last winter's ugly violence was unbelievable.   The picture that circulated on the internet of Rihanna's face all busted up was almost irreconcilable with her perfect popstar image.  And the idea that sweet-faced Chris Brown could have done that to her?  In the stunned silence that followed, we waited for them to explain themselves.  For months, neither one released any new music.  Now, both of them are back on the radio.  I'm scrutinizing every song and video like a mixtape my crush gave me in tenth grade. Listening for a hidden message in every word.  ]]></paragraph>
+        <paragraph num="5"/>
+        <paragraph num="6"><![CDATA[ Run This Town]]></paragraph>
+        <paragraph num="7"/>
+        <paragraph num="8"><![CDATA[Rihanna came back to the charts late this summer. She headlines Jay Z's single "Run This Town," and she owns the track. In the video, she looks hard, and you can't mess with her.  Rihanna's back, and she's badder than ever. ]]></paragraph>
+        <paragraph num="9"/>
+        <paragraph num="10"><![CDATA[But Chris Brown is back, too. In late September, he released the tight, unapologetic pop song "I Can Transform Ya."]]></paragraph>
+        <paragraph num="11"/>
+        <paragraph num="12"><![CDATA[In the "I Can Transform Ya" video, Brown is dancing, surrounded by his trademark Lamborghinis.  He doesn't smile once as he hammers out the track.  It made me think, "I guess he's forcing himself to move on."  But Rihanna doesn't sound done.]]></paragraph>
+        <paragraph num="13"/>
+        <paragraph num="14"/>
+        <paragraph num="15"><![CDATA[Rihanna's next single was "Russian Roulette."  It is not a love song. It's about surviving an impossible situation.]]></paragraph>
+        <paragraph num="16"/>
+        <paragraph num="17"><![CDATA["You can see my heart beating," Rihanna sings. "You can see it through my chest / that I'm terrified, but I'm not leaving / I know I must pass this test." Then, a gunshot is heard on the track.]]></paragraph>
+        <paragraph num="18"><![CDATA[After that gunshot, the very next day, Brown introduced a love ballad called "Crawl."]]></paragraph>
+        <paragraph num="19"/>
+        <paragraph num="20"/>
+        <paragraph num="21"><![CDATA["Everybody says we're through," he sings, adding, "I hope you haven't said it, too."  OK, so he's not over it.   But I don't know if Brown can do sweet longing anymore.  The pain here isn't sexy; it just sounds like pain.]]></paragraph>
+        <paragraph num="22"><![CDATA[Rihanna and Brown are probably not creating a dialectical mixtape writ large for us all to hear.  But what I do hear in their music is Rihanna saying, "I will not be humiliated by the events of the past year," and Brown replying, "Despite the awful violence you've seen, I want you to think I'm still lovable."]]></paragraph>
+        <paragraph num="23"><![CDATA[That's a complex conversation for the pop charts.]]></paragraph>
+        <paragraph num="24"><![CDATA[  [Copyright 2011 National Public Radio]]]></paragraph>
+      </text>
+    </story>
+    <story id="94778772">
+      <link type="html">http://www.npr.org/templates/story/story.php?storyId=94778772&amp;ft=3&amp;f=</link>
+      <link type="api">http://api.npr.org/query?id=94778772&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+      <title><![CDATA[Super-Smart Noir With A Feminist Jolt]]></title>
+      <audio id="94927892" type="primary">
+        <title/>
+        <duration>427</duration>
+        <description/>
+        <format>
+          <mp3 type="m3u">http://api.npr.org/m3u/194927892-e3d219.m3u?orgId=1&amp;topicId=1032&amp;aggIds=91752774&amp;ft=3&amp;f=</mp3>
+          <wm>http://www.npr.org/templates/dmg/dmg_wmref_em.php?id=94927892&amp;type=1&amp;mtype=WM&amp;orgId=1&amp;topicId=1032&amp;aggIds=91752774&amp;ft=3&amp;f=</wm>
+          <rm>http://www.npr.org/templates/dmg/dmg_rpm.rpm?id=94927892&amp;type=1&amp;mtype=RM&amp;orgId=1&amp;topicId=1032&amp;aggIds=91752774&amp;ft=3&amp;f=</rm>
+        </format>
+        <rightsHolder/>
+        <permissions>
+          <download allow="true"/>
+          <stream allow="true"/>
+          <embed allow="true"/>
+        </permissions>
+      </audio>
+      <text>
+        <paragraph num="1"><![CDATA[The hard-boiled mystery is as American as apple pie ... poisoned apple pie, that is, with a steel file baked into the filling. It's a literary genre that was born on the mean streets of early 20th century Los Angeles and San Francisco, sunlit places where, as the sour saying goes, a person could "rot without feeling it."  ]]></paragraph>
+        <paragraph num="2"><![CDATA[But one of the most intriguing aspects of hard-boiled history is how the form has been enthusiastically embraced by writers outside of the United States as a literary tool to explore the skeletons buried deep in their own particular patches of the world. In fact, for the past decade or so, Sweden has been a popular pick for crime capital of the literary world, thanks to Henning Mankell and his fellow practitioners of noir on ice. ]]></paragraph>
+        <paragraph num="3"><![CDATA[The newest name in mystery to emerge out of the frozen north is that of the late Stieg Larsson. His debut novel, The Girl With the Dragon Tattoo, was a blockbuster when it was published in Europe, selling an estimated 2 million copies. Now, an English language version, translated by Reg Keeland, has just been published here. ]]></paragraph>
+        <paragraph num="4"><![CDATA[A veteran mystery reader could spot the clues to this novel's runaway popularity as easily as Poe's detective, Auguste Dupin, spotted that purloined letter. The Girl With the Dragon Tattoo is a super-smart amalgam of the corporate corruption tale, legal thriller and dysfunctional-family psychological suspense story. It's witty, wrenchingly violent in a few isolated passages and unflinching in its commonsense feminist social commentary. ]]></paragraph>
+        <paragraph num="5"><![CDATA[The social vulnerability of women is the underlying Mystery with a capital "M" here; specifically the abuse — psychological and sexual — that's perpetrated against young and dependent women. Very late in the novel, one of our main characters, a reporter named Mikael Blomkvist, asks a serial murderer whose victims are often female emigrants to Sweden the simple question: "Why?" The monster calmly answers, "Because it's so easy."]]></paragraph>
+        <paragraph num="6"><![CDATA[Clearly, The Girl With the Dragon Tattoo isn't geared toward those readers who favor gentle Agatha Christie cozies, but its plot does consciously bow to Christie and her locked room/isolated island brand of puzzle. Here's the bare-bones summary: Blomkvist is a man down on his luck. He's just been convicted of libeling a corporate mogul and he's been sentenced to a jail term plus hefty fines. ]]></paragraph>
+        <paragraph num="7"><![CDATA[Out of the blue, Blomkvist receives an offer he can't refuse from a rival industrialist. Henrik Vanger is in his 80s and has been tormented for the past 40 years by the mysterious disappearance of his grand-niece Harriet. On the day of Harriet's disappearance, the island where the Vangers lived was blocked off from the mainland by a truck fire on the connecting bridge. How, then, did Harriet, or her corpse, vanish? ]]></paragraph>
+        <paragraph num="8"><![CDATA[What also torments Vanger is the fact that for the next four decades, he's received a disturbing birthday gift in the mail each year — a framed pressed flower — the same gift Harriet would give him when she was young. Vanger tells Blomkvist that if he moves to the island and works for a year re-investigating Harriet's disappearance, he'll receive not only a huge salary, but also inside information that will clear him of the libel charges. ]]></paragraph>
+        <paragraph num="9"><![CDATA[Blomkvist bites. Fortunately, through a turn of events too deliciously complicated to go into here, he's aided in his investigation by a 24-year-old brilliant computer hacker named Lisbeth Salander. Salander is a pierced, tattooed, painfully thin Goth with major attitude problems. She's also the gal pal you want on your side when the creeps slither out from under their rocks. ]]></paragraph>
+        <paragraph num="10"><![CDATA[Larsson's multi-pieced plot snaps together as neatly as an Ikea bookcase, but even more satisfying is the anti-social character of Salander, whose movements are described as "quick and spidery." Certainly the utopian allure of traditional detective fiction had something to do with the omnipotent Sam Spades and Phillip Marlowes who made criminals quake and femme fatales swoon. The liberating fantasy of Salander, at least for this female reader, has something to do with watching a woman operate who doesn't give a darn whether she pleases people or not. ]]></paragraph>
+        <paragraph num="11"><![CDATA[Salander doesn't smile, knock back boilermakers or eat moose burgers. She's not out to win friends or votes. But I'm betting that this offbeat bad girl will win a lot of readers' affections.  [Copyright 2011 National Public Radio]]]></paragraph>
+      </text>
+    </story>
+    <story id="4053100">
+      <link type="html">http://www.npr.org/templates/story/story.php?storyId=4053100&amp;ft=3&amp;f=</link>
+      <link type="api">http://api.npr.org/query?id=4053100&amp;apiKey=MDA3MjY5MjE5MDEzMDE5MjY1NTczMzYzMA001</link>
+      <title><![CDATA[Drawing Conclusions About the Presidential Race]]></title>
+      <audio id="4054263" type="primary">
+        <title>Listen</title>
+        <duration>0</duration>
+        <description/>
+        <format>
+          <mp3 type="m3u">http://api.npr.org/m3u/14054263-3df470.m3u?orgId=1&amp;topicId=1014&amp;ft=3&amp;f=</mp3>
+          <wm>http://www.npr.org/templates/dmg/dmg_wmref_em.php?id=4054263&amp;type=1&amp;mtype=WM&amp;orgId=1&amp;topicId=1014&amp;ft=3&amp;f=</wm>
+          <rm>http://www.npr.org/templates/dmg/dmg_rpm.rpm?id=4054263&amp;type=1&amp;mtype=RM&amp;orgId=1&amp;topicId=1014&amp;ft=3&amp;f=</rm>
+        </format>
+        <rightsHolder/>
+        <permissions>
+          <download allow="true"/>
+          <stream allow="true"/>
+          <embed allow="true"/>
+        </permissions>
+      </audio>
+      <text>
+        <paragraph num="1"><![CDATA[Sen. John Kerry is darned if he does, and darned if he doesn't -- smile, that is. Take it from two people who should know -- political cartoonists Mike Luckovich and Mike Peters. They bring their thoughts, and drawings, to a discussion with NPR's Renee Montagne about the 2004 presidential campaign.]]></paragraph>
+        <paragraph num="2"><![CDATA["As much as I try to draw John Kerry looking happy, he looks like Abe Lincoln right before he went to the theater that night -- it's kind of sad," says Peters of the Dayton Daily News.]]></paragraph>
+        <paragraph num="3"><![CDATA["When he does smile, if he smiles big it looks sort of phoney," says Luckovich of the Atlanta Journal-Constitution. "I kind of feel for the guy because he's sort of stuck. He's probably got all these advisers saying, 'That smile is too big. It looks fake. Just a little less... He's in advanced smile lessons right now."]]></paragraph>
+        <paragraph num="4"><![CDATA[The Pulitzer Prize-winning cartoonists also let their pencils do the talking about unscripted moments by Vice President Dick Cheney and Teresa Heinz Kerry, the Bush-Cheney campaign's fearful rhetoric and Sen. John Edwards' background as a trial lawyer.  [Copyright 2011 National Public Radio]]]></paragraph>
+      </text>
+    </story>
+  </list>
+</nprml>
